@@ -1,9 +1,8 @@
 +++
 date = 2025-07-11
 draft = false
-title = 'Désengorger l'accès au permis de conduire pour les jeunes dans les départements
-en tension - N° 1752'
-auteurs = ['Mme Mélanie THOMIN, députée']
+title = "Désengorger l'accès au permis de conduire pour les jeunes dans les départements en tension - N° 1752"
+auteurs = ["Mme Mélanie THOMIN, députée"]
 +++
 
 ## Présentateurs

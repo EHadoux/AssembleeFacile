@@ -1,8 +1,8 @@
 +++
 date = 2025-07-18
 draft = false
-title = 'Réforme de l’audiovisuel public et souveraineté audiovisuelle - N° 1754'
-auteurs = ['M. LE PRÉSIDENT DU SÉNAT']
+title = "Réforme de l’audiovisuel public et souveraineté audiovisuelle - N° 1754"
+auteurs = ["M. LE PRÉSIDENT DU SÉNAT"]
 +++
 
 ## Présentateurs
