@@ -1,0 +1,39 @@
+baseURL: 'https://ehadoux.github.io/AssembleeFacile/'
+defaultContentLanguage: 'fr'
+title: 'Assemblee Facile'
+theme: 'PaperMod'
+dateFormat: 2 January 2006
+hideSummary: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+taxonomies:
+  auteur: auteurs
+  tag: tags
+menu:
+  main:
+    - identifier: auteurs
+      name: auteurs
+      url: /auteurs/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+params:
+  ShowPostNavLinks: true
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys:
+      - title
+      - permalink
+      - summary
+      - content
