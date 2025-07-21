@@ -1,0 +1,850 @@
+/* French Government inspired colors and styling */
+:root {
+  --french-blue: #000091;
+  --french-red: #e1000f;
+  --french-light-blue: #6a8caf;
+  --french-gray: #929292;
+  --french-dark-gray: #3a3a3a;
+  --french-light-gray: #f5f5fe;
+  --french-accent: #1212ff;
+  --french-success: #18753c;
+  --french-warning: #b34000;
+  --footer-height: 68px;
+  --header-height: 70px;
+}
+
+/* Home page intro section */
+.home-intro {
+  text-align: center;
+  padding: 3rem 1rem;
+  background: linear-gradient(135deg, var(--french-light-gray) 0%, rgba(106, 140, 175, 0.1) 100%);
+  border-radius: 12px;
+  margin-bottom: 3rem;
+  border: 1px solid rgba(0, 0, 145, 0.1);
+}
+
+.home-title {
+  font-size: 2.5rem;
+  color: var(--french-blue);
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+}
+
+.home-subtitle {
+  font-size: 1.3rem;
+  color: var(--french-dark-gray);
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+
+.home-description {
+  font-size: 1.1rem;
+  color: var(--french-gray);
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+/* Main header styling - inspired by French government sites */
+.header {
+  border-bottom: 3px solid var(--french-blue);
+  background: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+  font-weight: 700;
+  color: var(--french-blue) !important;
+  font-size: 1.5rem;
+}
+
+/* Navigation links with French government styling */
+nav a {
+  color: var(--french-dark-gray) !important;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  letter-spacing: 0.5px;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  transition: all 0.2s ease;
+}
+
+nav a:hover {
+  background-color: var(--french-light-gray);
+  color: var(--french-blue) !important;
+}
+
+/* Post cards styling - more structured layout */
+.post-entry {
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  transition: all 0.2s ease;
+  background: white;
+}
+
+.post-entry:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 145, 0.1);
+  border-color: var(--french-light-blue);
+  transform: translateY(-2px);
+}
+
+.entry-header h2 {
+  color: var(--french-blue);
+  font-size: 1.3rem;
+  line-height: 1.4;
+  margin-bottom: 0.8rem;
+}
+
+.entry-content {
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.entry-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid #f0f0f0;
+  background: transparent !important;
+}
+
+.entry-footer time {
+  color: var(--french-gray);
+  font-size: 0.9rem;
+  font-weight: 500;
+  background: transparent !important;
+}
+
+/* Post meta styling - remove any blue backgrounds */
+.post-meta {
+  color: var(--french-gray);
+  font-size: 0.95rem;
+  margin-bottom: 2rem;
+  padding: 0.8rem 0;
+  border-bottom: 1px solid #f0f0f0;
+  background: transparent !important;
+}
+
+.post-meta span {
+  background: transparent !important;
+  color: var(--french-gray) !important;
+}
+
+.entry-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid #f0f0f0;
+  background: transparent !important;
+}
+
+.entry-footer time {
+  color: var(--french-gray);
+  font-size: 0.9rem;
+  font-weight: 500;
+  background: transparent !important;
+}
+
+/* Remove any blue backgrounds from date elements */
+time,
+.post-meta time,
+.entry-footer time {
+  background: transparent !important;
+  color: var(--french-gray) !important;
+}
+
+/* Content styling for articles */
+.post-content h2 {
+  color: var(--french-blue);
+  font-size: 1.4rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid var(--french-light-blue);
+}
+
+.post-content h3 {
+  color: var(--french-dark-gray);
+  font-size: 1.2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.8rem;
+}
+
+.post-content p {
+  line-height: 1.7;
+  margin-bottom: 1.2rem;
+  text-align: justify;
+}
+
+.post-content strong {
+  color: var(--french-blue);
+  font-weight: 600;
+}
+
+/* Post footer sections styling */
+.post-footer {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 3px solid var(--french-blue);
+}
+
+.post-tags-section,
+.post-authors-section {
+  margin-top: 1.5rem;
+  padding: 1.5rem;
+  background: var(--french-light-gray);
+  border-radius: 8px;
+  /* Remove the left border since we now have a clean top border on the footer */
+}
+
+.post-tags-section h3,
+.post-authors-section h3 {
+  color: var(--french-blue);
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.post-tags,
+.post-authors {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.post-tags li a,
+.post-authors li a {
+  background: white;
+  color: var(--french-blue);
+  border: 1px solid var(--french-light-blue);
+  border-radius: 20px;
+  padding: 0.4rem 1rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.2s ease;
+}
+
+.post-tags li a:hover,
+.post-authors li a:hover {
+  background: var(--french-blue);
+  color: white;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 145, 0.2);
+}
+
+/* General tags styling with French colors */
+.term-count::before {
+  background: var(--french-blue);
+}
+
+.terms-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.terms-tags li {
+  margin: 0 !important;
+}
+
+.terms-tags a {
+  background: var(--french-light-gray);
+  color: var(--french-blue);
+  border: 1px solid var(--french-light-blue);
+  border-radius: 16px;
+  padding: 0.25rem 0.7rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.2s ease;
+  line-height: 1.3;
+}
+
+.terms-tags a:hover {
+  background: var(--french-blue);
+  color: white;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 145, 0.2);
+}
+
+/* Search page styling - French government inspired */
+.search-page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  min-height: calc(100vh - var(--header-height) - var(--footer-height) - 4rem - 6px);
+}
+
+.search-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.search-title {
+  font-size: 2.5rem;
+  color: var(--french-blue);
+  margin-bottom: 1rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.search-title svg {
+  color: var(--french-light-blue);
+}
+
+.search-description {
+  font-size: 1.2rem;
+  color: var(--french-gray);
+  margin-bottom: 1rem;
+}
+
+.search-subtitle {
+  font-size: 1.1rem;
+  color: var(--french-dark-gray);
+  margin-bottom: 0;
+  font-weight: 500;
+}
+
+.search-container {
+  background: var(--french-light-gray);
+  border-radius: 12px;
+  padding: 2rem;
+  border: 1px solid rgba(0, 0, 145, 0.1);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.search-input-wrapper {
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+#searchInput {
+  width: 100%;
+  padding: 1rem 1rem 1rem 3.5rem;
+  border: 2px solid var(--french-light-blue);
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-weight: 500;
+  background: white;
+  color: var(--french-dark-gray);
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 145, 0.1);
+}
+
+#searchInput:focus {
+  border-color: var(--french-blue);
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0, 0, 145, 0.1), 0 4px 8px rgba(0, 0, 145, 0.15);
+}
+
+#searchInput::placeholder {
+  color: var(--french-gray);
+  font-weight: 400;
+}
+
+.search-icon {
+  position: absolute;
+  left: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--french-light-blue);
+  pointer-events: none;
+  font-size: 1.2rem;
+  z-index: 2;
+}
+
+.search-results-container {
+  position: relative;
+}
+
+#searchResults {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#searchResults li {
+  background: white;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  position: relative;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+#searchResults li:hover {
+  border-color: var(--french-light-blue);
+  box-shadow: 0 4px 12px rgba(0, 0, 145, 0.1);
+  transform: translateY(-2px);
+}
+
+#searchResults li.focus {
+  border-color: var(--french-blue);
+  box-shadow: 0 4px 12px rgba(0, 0, 145, 0.2);
+  transform: translateY(-2px);
+}
+
+#searchResults a {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  outline: none;
+  border-radius: 8px;
+}
+
+#searchResults h3 {
+  color: var(--french-blue);
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+#searchResults p {
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 0.5rem;
+}
+
+#searchResults .search-result-meta {
+  color: var(--french-gray);
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.search-help {
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px dashed var(--french-light-blue);
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.search-help h3 {
+  color: var(--french-blue);
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.search-help ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.search-help li {
+  color: var(--french-dark-gray);
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+  background: none;
+  border: none;
+  padding: 0;
+  box-shadow: none;
+  transform: none;
+  transition: none;
+  position: static;
+}
+
+.search-help li:hover {
+  background: none;
+  border: none;
+  box-shadow: none;
+  transform: none;
+}
+
+/* Search page responsive design */
+@media (max-width: 768px) {
+  .search-page {
+    padding: 1rem;
+  }
+
+  .search-title {
+    font-size: 2rem;
+  }
+
+  .search-subtitle {
+    font-size: 1rem;
+  }
+
+  .search-container {
+    padding: 1.5rem;
+  }
+
+  .search-input-wrapper {
+    margin-bottom: 0.8rem;
+  }
+
+  .search-help {
+    margin-top: 0.8rem;
+    padding: 1.2rem;
+  }
+
+  #searchInput {
+    padding: 0.8rem 0.8rem 0.8rem 3rem;
+    font-size: 1rem;
+  }
+
+  .search-icon {
+    left: 0.8rem;
+    font-size: 1.1rem;
+  }
+
+  #searchResults li {
+    padding: 1rem;
+  }
+
+  #searchResults h3 {
+    font-size: 1.1rem;
+  }
+}
+
+/* Site footer styling (different from post footer) */
+.site-footer,
+footer:not(.post-footer) {
+  border-top: 3px solid var(--french-blue);
+  background: var(--french-light-gray);
+  margin-top: 3rem;
+}
+
+footer a {
+  color: var(--french-blue);
+}
+
+/* Accessibility improvements */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Responsive improvements */
+@media (max-width: 768px) {
+  .home-intro {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+  }
+
+  .home-title {
+    font-size: 2rem;
+  }
+
+  .home-subtitle {
+    font-size: 1.1rem;
+  }
+
+  .home-description {
+    font-size: 1rem;
+  }
+
+  .post-entry {
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .entry-header h2 {
+    font-size: 1.1rem;
+  }
+
+  nav a {
+    font-size: 0.8rem;
+    padding: 0.4rem 0.8rem;
+  }
+
+  .post-tags-section,
+  .post-authors-section {
+    padding: 1rem;
+    margin-top: 1.5rem;
+  }
+
+  .post-tags,
+  .post-authors {
+    gap: 0.3rem;
+  }
+
+  .post-tags li a,
+  .post-authors li a {
+    padding: 0.3rem 0.8rem;
+    font-size: 0.8rem;
+  }
+}
+
+/* Dark mode adjustments */
+.dark .home-intro {
+  background: linear-gradient(135deg, rgba(46, 46, 51, 0.8) 0%, rgba(65, 66, 68, 0.6) 100%);
+  border: 1px solid rgba(106, 140, 175, 0.3);
+  color: var(--primary);
+}
+
+.dark .home-title {
+  color: var(--french-light-blue);
+}
+
+.dark .home-subtitle {
+  color: var(--secondary);
+}
+
+.dark .home-description {
+  color: var(--content);
+}
+
+.dark .header {
+  border-bottom: 3px solid var(--french-light-blue);
+  background: var(--theme);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.dark .logo {
+  color: var(--french-light-blue) !important;
+}
+
+.dark nav a {
+  color: var(--secondary) !important;
+}
+
+.dark nav a:hover {
+  background-color: rgba(106, 140, 175, 0.2);
+  color: var(--french-light-blue) !important;
+}
+
+.dark .post-entry {
+  background: var(--entry);
+  border-color: var(--border);
+  color: var(--content);
+}
+
+.dark .post-entry:hover {
+  border-color: var(--french-light-blue);
+  box-shadow: 0 4px 12px rgba(106, 140, 175, 0.3);
+}
+
+.dark .entry-header h2 {
+  color: var(--french-light-blue);
+}
+
+.dark .entry-content {
+  color: var(--content);
+}
+
+.dark .entry-footer {
+  border-top-color: var(--border);
+  background: transparent !important;
+}
+
+.dark .entry-footer time {
+  color: var(--secondary);
+}
+
+.dark .post-meta {
+  border-bottom-color: var(--border);
+  color: var(--secondary);
+  background: transparent !important;
+}
+
+.dark .post-meta span {
+  background: transparent !important;
+  color: var(--secondary) !important;
+}
+
+.dark .post-title {
+  color: var(--french-light-blue);
+  border-bottom-color: var(--french-light-blue);
+}
+
+.dark .post-content h2 {
+  color: var(--french-light-blue);
+  border-bottom-color: rgba(106, 140, 175, 0.5);
+}
+
+.dark .post-content h3 {
+  color: var(--primary);
+}
+
+.dark .post-content strong {
+  color: var(--french-light-blue);
+}
+
+.dark .post-footer {
+  border-top-color: var(--french-light-blue);
+}
+
+.dark .post-tags-section,
+.dark .post-authors-section {
+  background: rgba(46, 46, 51, 0.8);
+  /* Remove the left border reference since we removed it */
+}
+
+.dark .post-tags-section h3,
+.dark .post-authors-section h3 {
+  color: var(--french-light-blue);
+}
+
+.dark .post-tags li a,
+.dark .post-authors li a {
+  background: var(--theme);
+  color: var(--french-light-blue);
+  border-color: var(--border);
+}
+
+.dark .post-tags li a:hover,
+.dark .post-authors li a:hover {
+  background: var(--french-light-blue);
+  color: var(--theme);
+}
+
+.dark .terms-tags a {
+  background: var(--entry);
+  border-color: var(--border);
+  color: var(--french-light-blue);
+}
+
+.dark .terms-tags a:hover {
+  background: var(--french-light-blue);
+  color: var(--theme);
+  box-shadow: 0 2px 4px rgba(106, 140, 175, 0.3);
+}
+
+.dark .search-wrapper input {
+  background: var(--entry);
+  border-color: var(--border);
+  color: var(--primary);
+}
+
+.dark .search-wrapper input:focus {
+  border-color: var(--french-light-blue);
+  box-shadow: 0 0 0 3px rgba(106, 140, 175, 0.2);
+}
+
+/* Dark mode for search page */
+.dark .search-title {
+  color: var(--french-light-blue);
+}
+
+.dark .search-title svg {
+  color: var(--french-light-blue);
+}
+
+.dark .search-description {
+  color: var(--secondary);
+}
+
+.dark .search-subtitle {
+  color: var(--content);
+}
+
+.dark .search-container {
+  background: rgba(46, 46, 51, 0.8);
+  border-color: var(--border);
+}
+
+.dark #searchInput {
+  background: var(--entry);
+  border-color: var(--border);
+  color: var(--primary);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.dark #searchInput:focus {
+  border-color: var(--french-light-blue);
+  box-shadow: 0 0 0 3px rgba(106, 140, 175, 0.2), 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.dark #searchInput::placeholder {
+  color: var(--secondary);
+}
+
+.dark .search-icon {
+  color: var(--french-light-blue);
+}
+
+.dark #searchResults li {
+  background: var(--entry);
+  border-color: var(--border);
+  color: var(--content);
+}
+
+.dark #searchResults li:hover {
+  border-color: var(--french-light-blue);
+  box-shadow: 0 4px 12px rgba(106, 140, 175, 0.3);
+}
+
+.dark #searchResults li.focus {
+  border-color: var(--french-light-blue);
+  box-shadow: 0 4px 12px rgba(106, 140, 175, 0.4);
+}
+
+.dark #searchResults h3 {
+  color: var(--french-light-blue);
+}
+
+.dark #searchResults p {
+  color: var(--content);
+}
+
+.dark #searchResults .search-result-meta {
+  color: var(--secondary);
+}
+
+.dark .search-help {
+  background: rgba(46, 46, 51, 0.6);
+  border-color: var(--french-light-blue);
+}
+
+.dark .search-help h3 {
+  color: var(--french-light-blue);
+}
+
+.dark .search-help li {
+  color: var(--content);
+}
+
+.dark .site-footer,
+.dark footer:not(.post-footer) {
+  border-top-color: var(--french-light-blue);
+  background: var(--entry);
+}
+
+.dark footer a {
+  color: var(--french-light-blue);
+}
+
+/* Force remove any blue backgrounds from all meta elements */
+.post-meta,
+.post-meta *,
+.entry-footer,
+.entry-footer *,
+time,
+time *,
+[datetime],
+[datetime] * {
+  background: transparent !important;
+  background-color: transparent !important;
+}
