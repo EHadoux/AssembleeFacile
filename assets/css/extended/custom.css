@@ -10,7 +10,7 @@
   --french-success: #18753c;
   --french-warning: #b34000;
   --footer-height: 68px;
-  --header-height: 70px;
+  --header-height: 50px;
 }
 
 /* Home page intro section */
@@ -73,6 +73,18 @@ nav a {
 nav a:hover {
   background-color: var(--french-light-gray);
   color: var(--french-blue) !important;
+}
+
+/* GitHub icon styling */
+nav a svg,
+nav a i.fab {
+  transition: all 0.2s ease;
+  font-size: 1.1rem;
+}
+
+nav a:hover svg,
+nav a:hover i.fab {
+  color: var(--french-blue);
 }
 
 /* Post cards styling - more structured layout */
@@ -633,6 +645,11 @@ footer a {
 .dark nav a:hover {
   background-color: rgba(106, 140, 175, 0.2);
   color: var(--french-light-blue) !important;
+}
+
+.dark nav a:hover svg,
+.dark nav a:hover i.fab {
+  color: var(--french-light-blue);
 }
 
 .dark .post-entry {
