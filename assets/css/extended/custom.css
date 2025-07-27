@@ -853,6 +853,49 @@ footer a {
   color: var(--french-light-blue);
 }
 
+/* Fix pagination button styling - correct colors for both light and dark mode */
+.pagination a,
+.pagination .prev,
+.pagination .next {
+  color: var(--primary) !important;
+  background: var(--theme) !important;
+  border: 1px solid var(--border);
+  font-size: 13px;
+  line-height: 36px;
+  border-radius: calc(36px / 2);
+  padding: 0 16px;
+  transition: all 0.2s ease;
+  text-decoration: none;
+}
+
+.pagination a:hover,
+.pagination .prev:hover,
+.pagination .next:hover {
+  background: var(--french-blue) !important;
+  color: white !important;
+  border-color: var(--french-blue);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 145, 0.2);
+}
+
+/* Dark mode pagination styling */
+.dark .pagination a,
+.dark .pagination .prev,
+.dark .pagination .next {
+  color: var(--primary) !important;
+  background: var(--theme) !important;
+  border-color: var(--border);
+}
+
+.dark .pagination a:hover,
+.dark .pagination .prev:hover,
+.dark .pagination .next:hover {
+  background: var(--french-light-blue) !important;
+  color: var(--theme) !important;
+  border-color: var(--french-light-blue);
+  box-shadow: 0 2px 4px rgba(106, 140, 175, 0.3);
+}
+
 /* Force remove any blue backgrounds from all meta elements */
 .post-meta,
 .post-meta *,
