@@ -297,6 +297,40 @@ time,
   box-shadow: 0 2px 4px rgba(0, 0, 145, 0.2);
 }
 
+/* Political groups styling for authors page */
+.political-group {
+  margin-bottom: 3rem;
+  padding: 2rem;
+  background: var(--french-light-gray);
+  border-radius: 12px;
+  border-left: 4px solid var(--french-blue);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.political-group h2 {
+  color: var(--french-blue);
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--french-light-blue);
+}
+
+.political-group .terms-tags {
+  margin-top: 1rem;
+}
+
+/* Dark mode for political groups */
+.dark .political-group {
+  background: rgba(46, 46, 51, 0.8);
+  border-left-color: var(--french-light-blue);
+}
+
+.dark .political-group h2 {
+  color: var(--french-light-blue);
+  border-bottom-color: rgba(106, 140, 175, 0.5);
+}
+
 /* Search page styling - French government inspired */
 .search-page {
   max-width: 800px;

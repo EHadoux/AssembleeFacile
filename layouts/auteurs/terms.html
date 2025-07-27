@@ -1,0 +1,103 @@
+{{- define "main" }} 
+{{- if .Title }}
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <div class="post-description">{{ .Description }}</div>
+  {{- end }}
+</header>
+{{- end }} 
+
+{{/* Load and parse CSV data using new Hugo syntax */}}
+{{ $csvResource := resources.Get "deputes-active.csv" }}
+{{ $csvData := $csvResource | transform.Unmarshal (dict "delimiter" ",") }}
+
+{{/* Create a map for député lookup by full name */}}
+{{ $deputesLookup := dict }}
+{{ range $csvData }}
+  {{ if and (index . 3) (index . 4) }}
+    {{/* CSV columns: nom is index 3, prenom is index 4 */}}
+    {{ $nom := index . 3 }}
+    {{ $prenom := index . 4 }}
+    {{ $groupe := index . 8 }}
+    {{ $groupeAbrev := index . 9 }}
+    {{ $fullNameCSV := printf "%s %s" (lower $prenom) (lower $nom) }}
+    {{ $deputeData := dict "nom" $nom "prenom" $prenom "groupe" $groupe "groupeAbrev" $groupeAbrev }}
+    {{ $deputesLookup = merge $deputesLookup (dict $fullNameCSV $deputeData) }}
+  {{ end }}
+{{ end }}
+
+{{/* Create a slice to hold authors with group information */}}
+{{ $authorsWithGroups := slice }}
+
+{{/* Process each author term */}}
+{{ range .Data.Terms.Alphabetical }}
+  {{ $fullName := .Name }}
+  {{ $fullNameLower := lower $fullName }}
+  {{ $nameParts := split $fullName " " }}
+  {{ $lastName := index $nameParts (sub (len $nameParts) 1) }}
+  
+  {{/* Try to find deputy info in CSV */}}
+  {{ $deputeInfo := index $deputesLookup $fullNameLower }}
+  {{ $groupe := "Non identifié" }}
+  {{ $groupeAbrev := "NI" }}
+  
+  {{ if $deputeInfo }}
+    {{ $groupe = $deputeInfo.groupe }}
+    {{ $groupeAbrev = $deputeInfo.groupeAbrev }}
+  {{ end }}
+  
+  {{ $authorData := dict "fullName" $fullName "lastName" $lastName "page" .Page "count" .Count "groupe" $groupe "groupeAbrev" $groupeAbrev }}
+  {{ $authorsWithGroups = $authorsWithGroups | append $authorData }}
+{{ end }}
+
+{{/* Group authors by political group */}}
+{{ $groupedAuthors := dict }}
+{{ range $authorsWithGroups }}
+  {{ $groupKey := .groupeAbrev }}
+  {{ $existingGroup := index $groupedAuthors $groupKey }}
+  {{ if not $existingGroup }}
+    {{ $existingGroup = slice }}
+  {{ end }}
+  {{ $existingGroup = $existingGroup | append . }}
+  {{ $groupedAuthors = merge $groupedAuthors (dict $groupKey $existingGroup) }}
+{{ end }}
+
+{{/* Define group order and display names */}}
+{{ $groupOrder := slice 
+  (dict "abrev" "DEM" "name" "Les Démocrates")
+  (dict "abrev" "DR" "name" "Droite Républicaine")
+  (dict "abrev" "ECOS" "name" "Écologiste et Social")
+  (dict "abrev" "EPR" "name" "Ensemble pour la République")
+  (dict "abrev" "GDR" "name" "Gauche Démocrate et Républicaine")
+  (dict "abrev" "HOR" "name" "Horizons & Indépendants")
+  (dict "abrev" "LFI-NFP" "name" "La France insoumise - Nouveau Front Populaire")
+  (dict "abrev" "LIOT" "name" "Libertés, Indépendants, Outre-mer et Territoires")
+  (dict "abrev" "RN" "name" "Rassemblement National")
+  (dict "abrev" "SOC" "name" "Socialistes et apparentés") 
+  (dict "abrev" "NI" "name" "Non inscrits")
+}}
+
+{{/* Display authors grouped by political groups */}}
+{{ range $groupOrder }}
+  {{ $groupAuthors := index $groupedAuthors .abrev }}
+  {{ if $groupAuthors }}
+    <section class="political-group">
+      <h2>{{ .name }}</h2>
+      <ul class="terms-tags">
+        {{ range sort $groupAuthors "lastName" }}
+        <li>
+          <a href="{{ .page.Permalink }}"
+            >{{ .fullName | title }}
+            <sup
+              ><strong><sup>{{ .count }}</sup></strong></sup
+            ></a
+          >
+        </li>
+        {{ end }}
+      </ul>
+    </section>
+  {{ end }}
+{{ end }}
+
+{{- end }}{{/* end main */ -}}
