@@ -12,7 +12,11 @@
 {{ $csvResource := resources.Get "deputes-active.csv" }}
 {{ $csvData := $csvResource | transform.Unmarshal (dict "delimiter" ",") }}
 
-{{/* Create a map for député lookup by full name */}}
+{{/* Load and parse CSV data using new Hugo syntax */}}
+{{ $csvResource := resources.Get "deputes-active.csv" }}
+{{ $csvData := $csvResource | transform.Unmarshal (dict "delimiter" ",") }}
+
+{{/* Create a map for député lookup by normalized full name */}}
 {{ $deputesLookup := dict }}
 {{ range $csvData }}
   {{ if and (index . 3) (index . 4) }}
@@ -21,9 +25,38 @@
     {{ $prenom := index . 4 }}
     {{ $groupe := index . 8 }}
     {{ $groupeAbrev := index . 9 }}
-    {{ $fullNameCSV := printf "%s %s" (lower $prenom) (lower $nom) }}
+    {{ $fullNameCSV := printf "%s %s" $prenom $nom }}
+    
+    {{/* Normalize CSV name: remove accents and non-letters */}}
+    {{ $normalizedCSV := lower $fullNameCSV }}
+    {{ $normalizedCSV = replace $normalizedCSV "á" "a" }}
+    {{ $normalizedCSV = replace $normalizedCSV "à" "a" }}
+    {{ $normalizedCSV = replace $normalizedCSV "â" "a" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ä" "a" }}
+    {{ $normalizedCSV = replace $normalizedCSV "é" "e" }}
+    {{ $normalizedCSV = replace $normalizedCSV "è" "e" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ê" "e" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ë" "e" }}
+    {{ $normalizedCSV = replace $normalizedCSV "í" "i" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ì" "i" }}
+    {{ $normalizedCSV = replace $normalizedCSV "î" "i" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ï" "i" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ó" "o" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ò" "o" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ô" "o" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ö" "o" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ú" "u" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ù" "u" }}
+    {{ $normalizedCSV = replace $normalizedCSV "û" "u" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ü" "u" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ç" "c" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ñ" "n" }}
+    {{ $normalizedCSV = replaceRE "[^a-z ]" "" $normalizedCSV }}
+    {{ $normalizedCSV = replaceRE "\\s+" " " $normalizedCSV }}
+    {{ $normalizedCSV = trim $normalizedCSV " " }}
+    
     {{ $deputeData := dict "nom" $nom "prenom" $prenom "groupe" $groupe "groupeAbrev" $groupeAbrev }}
-    {{ $deputesLookup = merge $deputesLookup (dict $fullNameCSV $deputeData) }}
+    {{ $deputesLookup = merge $deputesLookup (dict $normalizedCSV $deputeData) }}
   {{ end }}
 {{ end }}
 
@@ -33,12 +66,39 @@
 {{/* Process each author term */}}
 {{ range .Data.Terms.Alphabetical }}
   {{ $fullName := .Name }}
-  {{ $fullNameLower := lower $fullName }}
   {{ $nameParts := split $fullName " " }}
   {{ $lastName := index $nameParts (sub (len $nameParts) 1) }}
   
-  {{/* Try to find deputy info in CSV */}}
-  {{ $deputeInfo := index $deputesLookup $fullNameLower }}
+  {{/* Normalize author name: remove accents and non-letters */}}
+  {{ $normalizedName := lower $fullName }}
+  {{ $normalizedName = replace $normalizedName "á" "a" }}
+  {{ $normalizedName = replace $normalizedName "à" "a" }}
+  {{ $normalizedName = replace $normalizedName "â" "a" }}
+  {{ $normalizedName = replace $normalizedName "ä" "a" }}
+  {{ $normalizedName = replace $normalizedName "é" "e" }}
+  {{ $normalizedName = replace $normalizedName "è" "e" }}
+  {{ $normalizedName = replace $normalizedName "ê" "e" }}
+  {{ $normalizedName = replace $normalizedName "ë" "e" }}
+  {{ $normalizedName = replace $normalizedName "í" "i" }}
+  {{ $normalizedName = replace $normalizedName "ì" "i" }}
+  {{ $normalizedName = replace $normalizedName "î" "i" }}
+  {{ $normalizedName = replace $normalizedName "ï" "i" }}
+  {{ $normalizedName = replace $normalizedName "ó" "o" }}
+  {{ $normalizedName = replace $normalizedName "ò" "o" }}
+  {{ $normalizedName = replace $normalizedName "ô" "o" }}
+  {{ $normalizedName = replace $normalizedName "ö" "o" }}
+  {{ $normalizedName = replace $normalizedName "ú" "u" }}
+  {{ $normalizedName = replace $normalizedName "ù" "u" }}
+  {{ $normalizedName = replace $normalizedName "û" "u" }}
+  {{ $normalizedName = replace $normalizedName "ü" "u" }}
+  {{ $normalizedName = replace $normalizedName "ç" "c" }}
+  {{ $normalizedName = replace $normalizedName "ñ" "n" }}
+  {{ $normalizedName = replaceRE "[^a-z ]" "" $normalizedName }}
+  {{ $normalizedName = replaceRE "\\s+" " " $normalizedName }}
+  {{ $normalizedName = trim $normalizedName " " }}
+  
+  {{/* Try to find deputy info in CSV using normalized names */}}
+  {{ $deputeInfo := index $deputesLookup $normalizedName }}
   {{ $groupe := "Non identifié" }}
   {{ $groupeAbrev := "NI" }}
   
