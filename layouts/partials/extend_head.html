@@ -10,4 +10,167 @@ overwritten by partial with the same name in the global layouts. */ -}}
   crossorigin="anonymous"
   referrerpolicy="no-referrer" />
 
+<!-- Custom styles for deputy profiles -->
+<style>
+  /* Deputy profile styles that integrate with PaperMod theme */
+  .deputy-profile {
+    background: var(--entry);
+    border-radius: var(--radius);
+    padding: 24px;
+    margin-bottom: 32px;
+    border: 1px solid var(--border);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .deputy-header {
+    display: flex;
+    gap: 24px;
+    align-items: flex-start;
+  }
+
+  .deputy-photo {
+    flex-shrink: 0;
+  }
+
+  .deputy-photo img {
+    border-radius: var(--radius);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transition: transform 0.2s ease;
+  }
+
+  .deputy-photo img:hover {
+    transform: scale(1.02);
+  }
+
+  .deputy-info {
+    flex: 1;
+  }
+
+  .deputy-info h2 {
+    margin: 0 0 16px 0;
+    color: var(--primary);
+    font-size: 1.6em;
+    font-weight: 600;
+  }
+
+  .deputy-group {
+    margin-bottom: 12px;
+    font-size: 1.1em;
+    color: var(--content);
+  }
+
+  .group-abbrev {
+    color: var(--secondary);
+    font-weight: normal;
+  }
+
+  .deputy-profile-link a {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 12px;
+    padding: 12px 20px;
+    background: var(--theme);
+    color: var(--primary);
+    text-decoration: none;
+    border-radius: var(--radius);
+    font-size: 14px;
+    font-weight: 600;
+    transition: all 0.2s ease;
+    border: 2px solid var(--primary);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .deputy-profile-link a:hover {
+    background: var(--primary);
+    color: var(--theme);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  }
+
+  .link-icon {
+    font-size: 16px;
+    font-weight: bold;
+    margin-right: 4px;
+  }
+
+  .link-text {
+    font-weight: 600;
+  }
+
+  /* Articles section styling */
+  .articles-section h3 {
+    color: var(--primary);
+    border-bottom: 2px solid var(--border);
+    padding-bottom: 12px;
+    margin-bottom: 24px;
+    font-size: 1.4em;
+  }
+
+  .post-entry {
+    background: var(--entry);
+    border-radius: var(--radius);
+    padding: 20px;
+    border: 1px solid var(--border);
+    transition: all 0.2s ease;
+  }
+
+  .post-entry:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+    transform: translateY(-2px);
+  }
+
+  .entry-header h4 a {
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .entry-header h4 a:hover {
+    color: var(--tertiary);
+  }
+
+  .entry-header time {
+    color: var(--secondary);
+    font-size: 0.9em;
+  }
+
+  .entry-content p {
+    color: var(--content);
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  /* Dark mode adjustments */
+  [data-theme='dark'] .deputy-profile {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  }
+
+  [data-theme='dark'] .deputy-photo img {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+  }
+
+  [data-theme='dark'] .post-entry:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+  }
+
+  /* Responsive design */
+  @media (max-width: 768px) {
+    .deputy-header {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+
+    .deputy-photo img {
+      width: 120px;
+      height: 160px;
+    }
+
+    .deputy-profile {
+      padding: 20px;
+    }
+  }
+</style>
+
 {{- /* Head custom content area end */ -}}

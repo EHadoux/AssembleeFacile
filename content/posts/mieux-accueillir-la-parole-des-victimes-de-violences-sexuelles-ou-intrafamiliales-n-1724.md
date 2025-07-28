@@ -2,7 +2,7 @@
 date = 2025-07-11
 draft = false
 title = "Mieux accueillir la parole des victimes de violences sexuelles ou intrafamiliales - N° 1724"
-auteurs = ["Alexandra Martin","Josiane Corneloup","Vincent Jeanbrun","Éric Pauget","Christelle Petex","Laurent Mazaury","Eric Liégeon","Thierry Liger","Sébastien Huyghe","Stéphane Viry","Virginie Duby-Muller","Sylvie Dezarnaud"]
+auteurs = ["Alexandra Martin","Josiane Corneloup","Vincent Jeanbrun","Éric Pauget","Christelle Petex","Laurent Mazaury","Éric Liégeon","Thierry Liger","Sébastien Huyghe","Stéphane Viry","Virginie Duby-Muller","Sylvie Dezarnaud"]
 +++
 
 ## Résumé

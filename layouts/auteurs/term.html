@@ -1,0 +1,165 @@
+{{- define "main" }}
+{{- if .Title }}
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <div class="post-description">{{ .Description }}</div>
+  {{- end }}
+</header>
+{{- end }}
+
+{{/* Load and parse CSV data to get deputy information */}}
+{{ $csvResource := resources.Get "deputes-active.csv" }}
+{{ $csvData := $csvResource | transform.Unmarshal (dict "delimiter" ",") }}
+
+{{/* Find deputy info for current author */}}
+{{ $authorName := .Title }}
+{{ $deputeInfo := dict }}
+
+{{/* Search for deputy in CSV */}}
+{{ range $csvData }}
+  {{ if and (index . 3) (index . 4) }}
+    {{/* CSV columns: nom is index 3, prenom is index 4 */}}
+    {{ $nom := index . 3 }}
+    {{ $prenom := index . 4 }}
+    {{ $fullNameCSV := printf "%s %s" $prenom $nom }}
+
+    {{/* Normalize both names for comparison */}}
+    {{ $normalizedCSV := lower $fullNameCSV }}
+    {{ $normalizedAuthor := lower $authorName }}
+
+    {{/* Remove accents and special characters */}}
+    {{ $normalizedCSV = replace $normalizedCSV "á" "a" }}
+    {{ $normalizedCSV = replace $normalizedCSV "à" "a" }}
+    {{ $normalizedCSV = replace $normalizedCSV "â" "a" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ä" "a" }}
+    {{ $normalizedCSV = replace $normalizedCSV "é" "e" }}
+    {{ $normalizedCSV = replace $normalizedCSV "è" "e" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ê" "e" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ë" "e" }}
+    {{ $normalizedCSV = replace $normalizedCSV "í" "i" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ì" "i" }}
+    {{ $normalizedCSV = replace $normalizedCSV "î" "i" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ï" "i" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ó" "o" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ò" "o" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ô" "o" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ö" "o" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ú" "u" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ù" "u" }}
+    {{ $normalizedCSV = replace $normalizedCSV "û" "u" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ü" "u" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ç" "c" }}
+    {{ $normalizedCSV = replace $normalizedCSV "ñ" "n" }}
+    {{ $normalizedCSV = replaceRE "[^a-z ]" "" $normalizedCSV }}
+    {{ $normalizedCSV = replaceRE "\\s+" " " $normalizedCSV }}
+    {{ $normalizedCSV = trim $normalizedCSV " " }}
+
+    {{ $normalizedAuthor = replace $normalizedAuthor "á" "a" }}
+    {{ $normalizedAuthor = replace $normalizedAuthor "à" "a" }}
+    {{ $normalizedAuthor = replace $normalizedAuthor "â" "a" }}
+    {{ $normalizedAuthor = replace $normalizedAuthor "ä" "a" }}
+    {{ $normalizedAuthor = replace $normalizedAuthor "é" "e" }}
+    {{ $normalizedAuthor = replace $normalizedAuthor "è" "e" }}
+    {{ $normalizedAuthor = replace $normalizedAuthor "ê" "e" }}
+    {{ $normalizedAuthor = replace $normalizedAuthor "ë" "e" }}
+    {{ $normalizedAuthor = replace $normalizedAuthor "í" "i" }}
+    {{ $normalizedAuthor = replace $normalizedAuthor "ì" "i" }}
+    {{ $normalizedAuthor = replace $normalizedAuthor "î" "i" }}
+    {{ $normalizedAuthor = replace $normalizedAuthor "ï" "i" }}
+    {{ $normalizedAuthor = replace $normalizedAuthor "ó" "o" }}
+    {{ $normalizedAuthor = replace $normalizedAuthor "ò" "o" }}
+    {{ $normalizedAuthor = replace $normalizedAuthor "ô" "o" }}
+    {{ $normalizedAuthor = replace $normalizedAuthor "ö" "o" }}
+    {{ $normalizedAuthor = replace $normalizedAuthor "ú" "u" }}
+    {{ $normalizedAuthor = replace $normalizedAuthor "ù" "u" }}
+    {{ $normalizedAuthor = replace $normalizedAuthor "û" "u" }}
+    {{ $normalizedAuthor = replace $normalizedAuthor "ü" "u" }}
+    {{ $normalizedAuthor = replace $normalizedAuthor "ç" "c" }}
+    {{ $normalizedAuthor = replace $normalizedAuthor "ñ" "n" }}
+    {{ $normalizedAuthor = replaceRE "[^a-z ]" "" $normalizedAuthor }}
+    {{ $normalizedAuthor = replaceRE "\\s+" " " $normalizedAuthor }}
+    {{ $normalizedAuthor = trim $normalizedAuthor " " }}
+
+    {{ if eq $normalizedCSV $normalizedAuthor }}
+      {{ $deputeInfo = dict
+        "id" (index . 0)
+        "nom" $nom
+        "prenom" $prenom
+        "groupe" (index . 8)
+        "groupeAbrev" (index . 9)
+        "photo" (index . 26) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{/* Display deputy information if found */}}
+{{ if $deputeInfo }}
+<div class="deputy-profile">
+  <div class="deputy-header">
+    {{ with $deputeInfo.photo }}
+    <div class="deputy-photo">
+      <img src="https://www2.assemblee-nationale.fr/static/tribun/17/photos/{{ . }}"
+           alt="Photo de {{ $deputeInfo.prenom }} {{ $deputeInfo.nom }}"
+           width="150"
+           height="200">
+    </div>
+    {{ end }}
+
+    <div class="deputy-info">
+      {{ with $deputeInfo.groupe }}
+      <div class="deputy-group">
+        <strong>Groupe parlementaire :</strong> {{ . }}
+        {{ with $deputeInfo.groupeAbrev }}
+        <span class="group-abbrev">({{ . }})</span>
+        {{ end }}
+      </div>
+      {{ end }}
+
+      {{ with $deputeInfo.id }}
+      <div class="deputy-profile-link">
+        <a href="https://www.assemblee-nationale.fr/dyn/deputes/{{ . }}"
+           target="_blank"
+           rel="noopener noreferrer">
+          <span class="link-icon">→</span>
+          <span class="link-text">Voir son profil officiel</span>
+        </a>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}
+
+{{/* Display articles */}}
+<div class="articles-section">
+  <h3>Articles de {{ .Title }}</h3>
+
+  {{ if .Pages }}
+  <div class="post-list">
+    {{ range .Pages.ByDate.Reverse }}
+    <article class="post-entry">
+      <header class="entry-header">
+        <h4>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h4>
+        {{ if .Date }}
+        <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+          {{ .Date.Format "2 January 2006" }}
+        </time>
+        {{ end }}
+      </header>
+      {{ if .Summary }}
+      <div class="entry-content">
+        <p>{{ .Summary | plainify | truncate 200 }}</p>
+      </div>
+      {{ end }}
+    </article>
+    {{ end }}
+  </div>
+  {{ else }}
+  <p>Aucun article trouvé pour cet auteur.</p>
+  {{ end }}
+</div>
+
+{{- end }}{{/* end main */}}
