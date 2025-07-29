@@ -1,4 +1,8 @@
 +++
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/autoriser_titre_experimental_utilisation_surplus_electriques_minages_cryptoactifs_17e"
+stepsName = ["Dépôt à l'Assemblée nationale"]
+stepsDate = ["Vendredi 11 juillet 2025"]
+stepsStatus = [""]
 date = 2025-07-11
 draft = false
 title = "Autoriser à titre expérimental l’utilisation des surplus électriques pour le minage de cryptoactifs - N° 1750"
