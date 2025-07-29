@@ -1,4 +1,8 @@
 +++
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_reglementer_composition_chimique_cosmetiques_pour_animaux_17e"
+stepsName = ["Dépôt à l'Assemblée nationale"]
+stepsDate = ["Vendredi 11 juillet 2025"]
+stepsStatus = [""]
 date = 2025-07-11
 draft = false
 title = "Réglementer la composition chimique des produits cosmétiques pour animaux - N° 1711"
