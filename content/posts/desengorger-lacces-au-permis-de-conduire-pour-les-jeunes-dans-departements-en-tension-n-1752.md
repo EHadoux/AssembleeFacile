@@ -1,4 +1,8 @@
 +++
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/desengorger_acces_permis_de_conduire_jeunes_departements_en_tension_17e"
+stepsName = ["Dépôt à l'Assemblée nationale"]
+stepsDate = ["Vendredi 11 juillet 2025"]
+stepsStatus = [""]
 date = 2025-07-11
 draft = false
 title = "Désengorger l'accès au permis de conduire pour les jeunes dans les départements en tension - N° 1752"
