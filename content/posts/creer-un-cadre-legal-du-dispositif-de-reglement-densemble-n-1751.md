@@ -1,4 +1,8 @@
 +++
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/creation_cadre_legal_dispositif_reglement_ensemble_XVIIe"
+stepsName = ["Dépôt à l'Assemblée nationale"]
+stepsDate = ["Vendredi 11 juillet 2025"]
+stepsStatus = [""]
 date = 2025-07-11
 draft = false
 title = "Créer un cadre légal du dispositif de règlement d’ensemble - N° 1751"
