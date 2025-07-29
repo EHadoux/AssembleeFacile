@@ -1,4 +1,8 @@
 +++
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_prevention_risques_accidents_lies_batteries_lithium_cartouches_protoxyde_azote_installations_traitement_dechet_17e"
+stepsName = ["Dépôt à l'Assemblée nationale"]
+stepsDate = ["Vendredi 11 juillet 2025"]
+stepsStatus = [""]
 date = 2025-07-11
 draft = false
 title = "Renforcer la prévention des risques d’accidents liés aux batteries au lithium et aux cartouches de protoxyde d’azote dans les installations de traitement de déchets - N° 1717"
