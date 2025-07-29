@@ -1,4 +1,8 @@
 +++
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_instaurer_normes_temperatures_dans_etablissements_scolaires_et_universitaires_17e"
+stepsName = ["Dépôt à l'Assemblée nationale"]
+stepsDate = ["Vendredi 11 juillet 2025"]
+stepsStatus = [""]
 date = 2025-07-11
 draft = false
 title = "Instaurer des normes de températures dans les établissements scolaires et universitaires - N° 1727"
