@@ -1,4 +1,8 @@
 +++
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/abroger_parcoursup_restaurer_droit_acces_enseignement_superieur_titulaires_baccalaureat_diplome_equivalent_17e"
+stepsName = ["Dépôt à l'Assemblée nationale"]
+stepsDate = ["Vendredi 11 juillet 2025"]
+stepsStatus = [""]
 date = 2025-07-11
 draft = false
 title = "Abroger Parcoursup et restaurer un droit d’accès à l’enseignement supérieur pour tous les titulaires d’un baccalauréat ou diplôme équivalent - N° 1740"
