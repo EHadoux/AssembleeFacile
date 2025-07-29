@@ -87,110 +87,156 @@ nav a:hover i.fab {
   color: var(--french-blue);
 }
 
-/* Post cards styling - more structured layout */
+/* Post cards styling - clean and consistent */
 .post-entry {
-  border: 1px solid #e5e5e5;
-  border-radius: 8px;
-  padding: 1.5rem;
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px;
   margin-bottom: 1.5rem;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
   transition: all 0.2s ease;
-  background: white;
+  position: relative;
+  overflow: visible;
 }
 
 .post-entry:hover {
-  box-shadow: 0 4px 12px rgba(0, 0, 145, 0.1);
-  border-color: var(--french-light-blue);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
   transform: translateY(-2px);
+}
+
+/* Post entry header - simplified */
+.entry-header {
+  margin-bottom: 1rem;
 }
 
 .entry-header h2 {
   color: var(--french-blue);
-  font-size: 1.3rem;
+  font-size: 1.25rem;
   line-height: 1.4;
-  margin-bottom: 0.8rem;
+  margin: 0.5rem 0 1rem 0;
+  font-weight: 600;
+  word-wrap: break-word;
+  hyphens: auto;
 }
 
+/* Entry content and footer - clean layout */
 .entry-content {
-  color: #555;
+  color: var(--content);
   line-height: 1.6;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
+  font-size: 0.95rem;
 }
 
 .entry-footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 1rem;
   padding-top: 1rem;
-  border-top: 1px solid #f0f0f0;
+  border-top: 1px solid var(--border);
+  font-size: 0.85rem;
+  margin: 0;
   background: transparent !important;
 }
 
 .entry-footer time {
-  color: var(--french-gray);
-  font-size: 0.9rem;
+  color: var(--secondary);
   font-weight: 500;
-  background: transparent !important;
 }
 
-/* Post meta styling - remove any blue backgrounds */
+.entry-authors {
+  color: var(--content);
+  font-weight: 500;
+}
+
+/* Post meta styling - clean without backgrounds */
 .post-meta {
-  color: var(--french-gray);
+  color: var(--secondary);
   font-size: 0.95rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
   padding: 0.8rem 0;
-  border-bottom: 1px solid #f0f0f0;
-  background: transparent !important;
+  border-bottom: 1px solid var(--border);
 }
 
 .post-meta span {
-  background: transparent !important;
-  color: var(--french-gray) !important;
+  color: var(--secondary);
 }
 
-.entry-footer {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-top: 1rem;
-  padding-top: 1rem;
-  border-top: 1px solid #f0f0f0;
-  background: transparent !important;
+/* Single post page styling */
+.post-single {
+  max-width: 900px;
+  margin: 0 auto;
 }
 
-.entry-footer time {
-  color: var(--french-gray);
-  font-size: 0.9rem;
-  font-weight: 500;
-  background: transparent !important;
+/* Post header with better structure */
+.post-header {
+  padding: 2rem 0;
+  border-bottom: 2px solid var(--french-light-gray);
+  margin-bottom: 2rem;
 }
 
-/* Remove any blue backgrounds from date elements */
-time,
-.post-meta time,
-.entry-footer time {
-  background: transparent !important;
-  color: var(--french-gray) !important;
+.post-title {
+  color: var(--french-blue);
+  font-size: 1.8rem;
+  line-height: 1.4;
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+  word-wrap: break-word;
+  hyphens: auto;
 }
 
-/* Content styling for articles */
+/* Proposal number badge for single page */
+.post-proposal-badge {
+  display: inline-block;
+  background: linear-gradient(135deg, var(--french-blue), var(--french-light-blue));
+  color: white;
+  padding: 0.6rem 1.2rem;
+  border-radius: 25px;
+  font-size: 1rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  box-shadow: 0 3px 6px rgba(0, 0, 145, 0.25);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Content sections styling - clean and consistent */
 .post-content h2 {
   color: var(--french-blue);
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   margin-top: 2rem;
   margin-bottom: 1rem;
-  padding-bottom: 0.3rem;
-  border-bottom: 2px solid var(--french-light-blue);
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1rem;
+  background: var(--entry);
+  border-radius: 8px;
+  border-left: 4px solid var(--french-blue);
+  border: 1px solid var(--border);
 }
 
-.post-content h3 {
-  color: var(--french-dark-gray);
-  font-size: 1.2rem;
-  margin-top: 1.5rem;
-  margin-bottom: 0.8rem;
+.post-content h2:first-of-type {
+  margin-top: 0;
 }
 
+.post-content h2::before {
+  content: '📋';
+  font-size: 1.1rem;
+}
+
+.post-content h2:contains('Résumé')::before,
+.post-content h2[data-content*='Résumé']::before {
+  content: '📄';
+}
+
+.post-content h2:contains('Liste des modifications')::before,
+.post-content h2[data-content*='modifications']::before {
+  content: '⚖️';
+}
+
+/* Content after h2 sections - simple styling */
 .post-content p {
   line-height: 1.7;
   margin-bottom: 1.2rem;
@@ -202,20 +248,45 @@ time,
   font-weight: 600;
 }
 
-/* Post footer sections styling */
+/* Modifications list styling - clean */
+.post-content h3 {
+  color: var(--content);
+  font-size: 1.2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.8rem;
+}
+
+.post-content ul li {
+  background: var(--entry);
+  border-radius: 6px;
+  padding: 1rem;
+  margin-bottom: 0.8rem;
+  border-left: 3px solid var(--french-blue);
+  border: 1px solid var(--border);
+  list-style: none;
+}
+
+.post-content ul li strong {
+  color: var(--french-blue);
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+/* Post footer sections styling - clean */
 .post-footer {
   margin-top: 3rem;
   padding-top: 2rem;
-  border-top: 3px solid var(--french-blue);
+  border-top: 2px solid var(--border);
 }
 
 .post-tags-section,
 .post-authors-section {
   margin-top: 1.5rem;
   padding: 1.5rem;
-  background: var(--french-light-gray);
+  background: var(--entry);
   border-radius: 8px;
-  /* Remove the left border since we now have a clean top border on the footer */
+  border: 1px solid var(--border);
 }
 
 .post-tags-section h3,
@@ -592,100 +663,105 @@ footer a {
   }
 }
 
-/* Responsive improvements */
+/* Navigation improvements */
+.breadcrumbs {
+  background: var(--french-light-gray);
+  padding: 0.8rem 1.2rem;
+  border-radius: 6px;
+  margin-bottom: 1.5rem;
+  font-size: 0.9rem;
+}
+
+.breadcrumbs a {
+  color: var(--french-blue);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.breadcrumbs a:hover {
+  text-decoration: underline;
+}
+
+/* Post navigation links */
+.post-nav-links {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--french-light-gray);
+}
+
+.post-nav-prev,
+.post-nav-next {
+  flex: 1;
+  padding: 1rem;
+  background: var(--french-light-gray);
+  border-radius: 8px;
+  text-decoration: none;
+  color: var(--french-blue);
+  transition: all 0.2s ease;
+  border: 1px solid transparent;
+}
+
+.post-nav-prev:hover,
+.post-nav-next:hover {
+  background: white;
+  border-color: var(--french-blue);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 145, 0.1);
+}
+
+.post-nav-prev {
+  text-align: left;
+}
+
+.post-nav-next {
+  text-align: right;
+}
+
+.post-nav-prev::before {
+  content: '← ';
+  font-weight: bold;
+}
+
+.post-nav-next::after {
+  content: ' →';
+  font-weight: bold;
+}
+
+/* Responsive adjustments for new design */
 @media (max-width: 768px) {
-  .home-intro {
-    padding: 2rem 1rem;
-    margin-bottom: 2rem;
-  }
-
-  .home-title {
-    font-size: 2rem;
-  }
-
-  .home-subtitle {
-    font-size: 1.1rem;
-  }
-
-  .home-description {
-    font-size: 1rem;
-  }
-
   .post-entry {
+    margin-bottom: 1.2rem;
     padding: 1rem;
-    margin-bottom: 1rem;
   }
 
   .entry-header h2 {
     font-size: 1.1rem;
   }
 
-  nav a {
-    font-size: 0.8rem;
-    padding: 0.4rem 0.8rem;
+  .entry-footer {
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: flex-start;
   }
 
-  .post-tags-section,
-  .post-authors-section {
-    padding: 1rem;
-    margin-top: 1.5rem;
+  .post-title {
+    font-size: 1.4rem;
   }
 
-  .post-tags,
-  .post-authors {
-    gap: 0.3rem;
+  .post-nav-links {
+    flex-direction: column;
   }
 
-  .post-tags li a,
-  .post-authors li a {
-    padding: 0.3rem 0.8rem;
-    font-size: 0.8rem;
+  .post-nav-prev,
+  .post-nav-next {
+    text-align: center;
   }
 }
 
-/* Dark mode adjustments */
-.dark .home-intro {
-  background: linear-gradient(135deg, rgba(46, 46, 51, 0.8) 0%, rgba(65, 66, 68, 0.6) 100%);
-  border: 1px solid rgba(106, 140, 175, 0.3);
-  color: var(--primary);
-}
-
-.dark .home-title {
-  color: var(--french-light-blue);
-}
-
-.dark .home-subtitle {
-  color: var(--secondary);
-}
-
-.dark .home-description {
-  color: var(--content);
-}
-
-.dark .header {
-  border-bottom: 3px solid var(--french-light-blue);
-  background: var(--theme);
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
-}
-
-.dark .logo {
-  color: var(--french-light-blue) !important;
-}
-
-.dark nav a {
-  color: var(--secondary) !important;
-}
-
-.dark nav a:hover {
-  background-color: rgba(106, 140, 175, 0.2);
-  color: var(--french-light-blue) !important;
-}
-
-.dark nav a:hover svg,
-.dark nav a:hover i.fab {
-  color: var(--french-light-blue);
-}
-
+/* Dark mode adjustments - cleaner */
 .dark .post-entry {
   background: var(--entry);
   border-color: var(--border);
@@ -707,7 +783,6 @@ footer a {
 
 .dark .entry-footer {
   border-top-color: var(--border);
-  background: transparent !important;
 }
 
 .dark .entry-footer time {
@@ -717,22 +792,21 @@ footer a {
 .dark .post-meta {
   border-bottom-color: var(--border);
   color: var(--secondary);
-  background: transparent !important;
 }
 
 .dark .post-meta span {
-  background: transparent !important;
-  color: var(--secondary) !important;
+  color: var(--secondary);
 }
 
 .dark .post-title {
   color: var(--french-light-blue);
-  border-bottom-color: var(--french-light-blue);
 }
 
 .dark .post-content h2 {
   color: var(--french-light-blue);
-  border-bottom-color: rgba(106, 140, 175, 0.5);
+  background: var(--entry);
+  border-color: var(--border);
+  border-left-color: var(--french-light-blue);
 }
 
 .dark .post-content h3 {
@@ -743,55 +817,20 @@ footer a {
   color: var(--french-light-blue);
 }
 
+.dark .post-content ul li {
+  background: var(--entry);
+  border-color: var(--border);
+  border-left-color: var(--french-light-blue);
+}
+
 .dark .post-footer {
-  border-top-color: var(--french-light-blue);
+  border-top-color: var(--border);
 }
 
 .dark .post-tags-section,
 .dark .post-authors-section {
-  background: rgba(46, 46, 51, 0.8);
-  /* Remove the left border reference since we removed it */
-}
-
-.dark .post-tags-section h3,
-.dark .post-authors-section h3 {
-  color: var(--french-light-blue);
-}
-
-.dark .post-tags li a,
-.dark .post-authors li a {
-  background: var(--theme);
-  color: var(--french-light-blue);
-  border-color: var(--border);
-}
-
-.dark .post-tags li a:hover,
-.dark .post-authors li a:hover {
-  background: var(--french-light-blue);
-  color: var(--theme);
-}
-
-.dark .terms-tags a {
   background: var(--entry);
   border-color: var(--border);
-  color: var(--french-light-blue);
-}
-
-.dark .terms-tags a:hover {
-  background: var(--french-light-blue);
-  color: var(--theme);
-  box-shadow: 0 2px 4px rgba(106, 140, 175, 0.3);
-}
-
-.dark .search-wrapper input {
-  background: var(--entry);
-  border-color: var(--border);
-  color: var(--primary);
-}
-
-.dark .search-wrapper input:focus {
-  border-color: var(--french-light-blue);
-  box-shadow: 0 0 0 3px rgba(106, 140, 175, 0.2);
 }
 
 /* Dark mode for search page */
@@ -930,15 +969,9 @@ footer a {
   box-shadow: 0 2px 4px rgba(106, 140, 175, 0.3);
 }
 
-/* Force remove any blue backgrounds from all meta elements */
+/* Clean meta elements - no forced backgrounds */
 .post-meta,
-.post-meta *,
 .entry-footer,
-.entry-footer *,
-time,
-time *,
-[datetime],
-[datetime] * {
-  background: transparent !important;
-  background-color: transparent !important;
+time {
+  background: transparent;
 }
