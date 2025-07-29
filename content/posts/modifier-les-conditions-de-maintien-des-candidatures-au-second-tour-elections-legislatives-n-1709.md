@@ -6,7 +6,7 @@ stepsStatus = [""]
 date = 2025-07-11
 draft = false
 title = "Modifier les conditions de maintien des candidatures au second tour des élections législatives - N° 1709"
-auteurs = ["Sylvain Berrios","Xavier Albertini","Henri Alfandari","Béatrice Bellamy","Thierry Benoit","Bertrand Bouyx","Jean-Michel Brard","Paul Christophe","Nathalie Colin-Oesterlé","Philippe Fait","Agnès Firmin Le Bodo","Félicie Gérard","François Gernigon","Pierre Henriet","François Jolivet","Xavier Lacombe","Thomas Lam","Didier Lemaire","Lise Magnier","Jean Moulliere","Naïma Moutchou","Jérémie Patrier-Leitus","Béatrice Piron","Christophe Plassard","Jean-François Portarrieu","Marie-Agnès Poussier-Winsback","Isabelle Rauch","Xavier Roseren","Laetitia Saint-Paul","Frédéric Valletoux","Anne-Cécile Viollan"]
+auteurs = ["Sylvain Berrios","Xavier Albertini","Henri Alfandari","Béatrice Bellamy","Thierry Benoit","Bertrand Bouyx","Jean-Michel Brard","Paul Christophe","Nathalie Colin-Oesterlé","Philippe Fait","Agnès Firmin Le Bodo","Félicie Gérard","François Gernigon","Pierre Henriet","François Jolivet","Xavier Lacombe","Thomas Lam","Didier Lemaire","Lise Magnier","Jean Moulliere","Naïma Moutchou","Jérémie Patrier-Leitus","Béatrice Piron","Christophe Plassard","Jean-François Portarrieu","Marie-Agnès Poussier-Winsback","Isabelle Rauch","Xavier Roseren","Laetitia Saint-Paul","Frédéric Valletoux","Anne-Cécile Violland"]
 +++
 
 ## Résumé
