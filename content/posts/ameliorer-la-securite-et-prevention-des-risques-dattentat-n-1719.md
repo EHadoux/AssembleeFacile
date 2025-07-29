@@ -1,4 +1,8 @@
 +++
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_ameliorer_securite_et_prevention_risque_attentat_17e"
+stepsName = ["Dépôt à l'Assemblée nationale"]
+stepsDate = ["Vendredi 11 juillet 2025"]
+stepsStatus = [""]
 date = 2025-07-11
 draft = false
 title = "Améliorer la sécurité et la prévention des risques d’attentat - N° 1719"
