@@ -124,21 +124,39 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
     <div class="entry-meta-left">
       <div class="entry-date-new">
         {{ .Date.Format "2 janvier 2006" }}
+        {{- $link := .Param "link" }}
+        {{- if $link }}
+        <a href="{{ $link }}" target="_blank" rel="noopener" class="entry-link-assemblee" title="Voir sur assemblee-nationale.fr" onclick="event.stopPropagation();" style="position: relative; z-index: 10; margin-left: 8px;">
+          <i class="fas fa-external-link-alt"></i>
+        </a>
+        {{- end }}
       </div>
     </div>
     <div class="entry-meta-right">
       {{- $authors := .Param "auteurs" }}
       {{- if $authors }}
       <div class="entry-authors-enhanced">
-        <span>
-          {{- if eq (len $authors) 1 }}
-          {{ index $authors 0 }}
-          {{- else }}
-          {{ index $authors 0 }}
-          <span class="co-authors-count">+{{ sub (len $authors) 1 }}</span>
-          {{- end }}
-        </span>
+        {{- if eq (len $authors) 1 }}
+        <span>{{ index $authors 0 }}</span>
+        {{- else }}
+        <span>{{ index $authors 0 }} <span class="co-authors-count">+{{ sub (len $authors) 1 }}</span></span>
+        {{- end }}
       </div>
+      {{- end }}
+      {{- $stepsName := .Param "stepsName" }}
+      {{- $stepsStatus := .Param "stepsStatus" }}
+      {{- if and $stepsName $stepsStatus }}
+        {{- $lastIndex := sub (len $stepsName) 1 }}
+        {{- $lastStepName := index $stepsName $lastIndex }}
+        {{- $lastStepStatus := index $stepsStatus $lastIndex }}
+        <div class="entry-status">
+          <span class="step-name">{{ $lastStepName }}</span>
+          {{- if strings.Contains $lastStepStatus "adopté" }}
+          <span class="status-adopted">✅</span>
+          {{- else if strings.Contains $lastStepStatus "rejeté" }}
+          <span class="status-rejected">❌</span>
+          {{- end }}
+        </div>
       {{- end }}
     </div>
   </footer>

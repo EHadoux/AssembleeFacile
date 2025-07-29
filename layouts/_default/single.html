@@ -1,5 +1,91 @@
 {{- define "main" }}
 
+<style>
+/* Status Section Styles */
+.status-current-section {
+    margin-bottom: 20px;
+}
+
+.status-current-content {
+    padding: 10px 15px; /* Reduced padding */
+    border-radius: 8px;
+    border-left: 5px solid;
+}
+
+.status-adopted {
+    background-color: rgba(40, 167, 69, 0.1);
+    border-color: #28a745;
+}
+
+.status-rejected {
+    background-color: rgba(220, 53, 69, 0.1);
+    border-color: #dc3545;
+}
+
+.status-pending {
+    background-color: rgba(255, 193, 7, 0.1);
+    border-color: #ffc107;
+}
+
+.status-current-main {
+    font-size: 1.1em; /* Reduced font size */
+    font-weight: bold;
+}
+
+.status-current-details {
+    margin-top: 2px; /* Reduced margin */
+    font-size: 0.9em;
+    color: var(--secondary);
+}
+
+/* History Table Styles */
+.status-history-section {
+    margin-top: 20px;
+    margin-bottom: 20px; /* Added margin-bottom */
+}
+
+.status-history-toggle {
+    cursor: pointer;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+
+.status-history-toggle .toggle-arrow {
+    margin-left: 8px;
+}
+
+.history-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    font-size: 0.8em; /* Further reduced font size */
+}
+
+.history-table td {
+    padding: 2px 4px; /* Further reduced padding */
+    border: none !important; /* Removed all borders */
+}
+
+.status-text-success {
+    color: #28a745;
+    font-weight: bold;
+}
+
+.status-text-danger {
+    color: #dc3545;
+    font-weight: bold;
+}
+
+.status-text-pending {
+    color: #6c757d;
+}
+
+.status-icon-fa {
+    margin-right: 5px;
+}
+</style>
+
 <article class="post-single">
   <header class="post-header">
     {{ partial "breadcrumbs.html" . }} {{- /* Extract proposal number from title */ -}} {{- $title
@@ -26,13 +112,96 @@
 
     {{- if .Description }}
     <div class="post-description">{{ .Description }}</div>
-    {{- end }} {{- if not (.Param "hideMeta") }}
-    <div class="post-meta">
-      {{- partial "post_meta.html" . -}} {{- partial "translation_list.html" . -}} {{- partial
-      "edit_post.html" . -}} {{- partial "post_canonical.html" . -}}
+    {{- end }}
+    
+    <div class="post-header-meta">
+      <time class="post-date">{{ .Date.Format "2 janvier 2006" }}</time>
+      {{- $link := .Param "link" }}
+      {{- if $link }}
+      <a href="{{ $link }}" target="_blank" rel="noopener" class="post-assemblee-link-compact" title="Voir le document officiel sur assemblee-nationale.fr" style="margin-left: 8px;">
+        <i class="fas fa-external-link-alt"></i>
+      </a>
+      {{- end }}
+    </div>
+  </header>
+  
+  {{- $stepsName := .Param "stepsName" }}
+  {{- $stepsDate := .Param "stepsDate" }}
+  {{- $stepsStatus := .Param "stepsStatus" }}
+  {{- if and $stepsName $stepsDate $stepsStatus }}
+  <div class="post-content">
+    {{- $lastIndex := sub (len $stepsName) 1 }}
+    {{- $lastStepName := index $stepsName $lastIndex }}
+    {{- $lastStepDate := index $stepsDate $lastIndex }}
+    {{- $lastStepStatus := index $stepsStatus $lastIndex }}
+    
+    <h2>Statut du texte</h2>
+    
+    <div class="status-current-section">
+      {{- $statusClass := "" }}
+      {{- $statusText := $lastStepStatus | default "En cours" }}
+      {{- if strings.Contains $statusText "adopté" }}
+        {{- $statusClass = "status-adopted" }}
+      {{- else if strings.Contains $statusText "rejeté" }}
+        {{- $statusClass = "status-rejected" }}
+      {{- else }}
+        {{- $statusClass = "status-pending" }}
+      {{- end }}
+      
+      <div class="status-current-content {{ $statusClass }}">
+        <div class="status-current-main">
+          <span class="status-text">{{ $statusText }}</span>
+        </div>
+        <div class="status-current-details">
+          {{ $lastStepName }} - {{ $lastStepDate }}
+        </div>
+      </div>
+    </div>
+    
+    {{- if gt (len $stepsName) 1 }}
+    <div class="status-history-section">
+      <details class="status-history">
+        <summary class="status-history-toggle">
+          <span class="toggle-text">Historique complet</span>
+          <span class="toggle-arrow">▼</span>
+        </summary>
+        <div class="status-history-content">
+          <table class="history-table">
+            {{- range $index, $stepName := $stepsName }}
+              {{- if lt $index $lastIndex }}
+              {{- $stepDate := index $stepsDate $index }}
+              {{- $stepStatus := index $stepsStatus $index }}
+              <tr class="history-row">
+                <td>{{ $stepName }}</td>
+                <td>{{ $stepDate }}</td>
+                <td>
+                  {{- $statusText := $stepStatus | default "" }}
+                  {{- $statusClass := "" }}
+                  {{- $statusIcon := "" }}
+                  {{- $displayText := $statusText }}
+                  {{- if strings.Contains $statusText "adopté" }}
+                    {{- $statusClass = "status-text-success" }}
+                    {{- $statusIcon = "<i class='fas fa-check-circle status-icon-fa'></i>" }}
+                    {{- $displayText = strings.Replace $displayText "✔️" "" }}
+                  {{- else if strings.Contains $statusText "rejeté" }}
+                    {{- $statusClass = "status-text-danger" }}
+                    {{- $statusIcon = "<i class='fas fa-times-circle status-icon-fa'></i>" }}
+                    {{- $displayText = strings.Replace $displayText "❌" "" }}
+                  {{- else }}
+                    {{- $statusClass = "status-text-pending" }}
+                  {{- end }}
+                  <span class="{{ $statusClass }}">{{- if $statusIcon }}{{ $statusIcon | safeHTML }}{{- end }}{{ trim $displayText " " }}</span>
+                </td>
+              </tr>
+              {{- end }}
+            {{- end }}
+          </table>
+        </div>
+      </details>
     </div>
     {{- end }}
-  </header>
+  </div>
+  {{- end }}
   {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false
   }} {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }} {{- if (.Param
   "ShowToc") }} {{- partial "toc.html" . }} {{- end }} {{- if .Content }}
