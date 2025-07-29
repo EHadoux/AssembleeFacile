@@ -1,4 +1,5 @@
-{{- define "main" }} {{- if (and site.Params.profileMode.enabled .IsHome) }} {{- partial
+{{- define "main" }}
+{{- if (and site.Params.profileMode .IsHome) }} {{- partial
 "index_profile.html" . }} {{- else }} {{/* if not profileMode */}} {{- if not .IsHome | and .Title
 }}
 <header class="page-header">
@@ -28,13 +29,15 @@
   {{- end }}
 </header>
 {{- end }} {{- if .IsHome }}
-<div class="home-intro">
-  <h1 class="home-title">Assemblée Facile</h1>
-  <p class="home-subtitle">Comprendre l'Assemblée Nationale en français simple</p>
-  <p class="home-description">
-    Découvrez les propositions de loi et débats parlementaires expliqués dans un langage accessible
-    à tous les citoyens.
-  </p>
+<div class="hero-section">
+  <div class="hero-content">
+    <h1>Assemblée Facile</h1>
+    <p class="subtitle">Comprendre l'Assemblée Nationale en français simple</p>
+    <p class="description">
+      Découvrez les propositions de loi et débats parlementaires expliqués dans un langage accessible
+      à tous les citoyens.
+    </p>
+  </div>
 </div>
 {{- end }} {{- if .Content }}
 <div class="post-content">
@@ -43,7 +46,31 @@
 </div>
 {{- end }} {{- $pages := union .RegularPages .Sections }} {{- if .IsHome }} {{- $pages = where
 site.RegularPages "Type" "in" site.Params.mainSections }} {{- $pages = where $pages
-"Params.hiddenInHomeList" "!=" "true" }} {{- end }} {{- $paginator := .Paginate $pages }} {{- if and
+"Params.hiddenInHomeList" "!=" "true" }} 
+
+{{- /* Custom sort by proposal number extracted from file name (descending) */ -}}
+{{- $sortedPages := slice }}
+{{- range $pages }}
+  {{- $proposalNum := 0 }}
+  {{- $matches := findRE "n-(\\d+)" .File.BaseFileName }}
+  {{- if $matches }}
+    {{- $firstMatch := index $matches 0 }}
+    {{- $numStr := replaceRE "n-" "" $firstMatch }}
+    {{- $proposalNum = int $numStr }}
+  {{- end }}
+  {{- /* Create a 4-digit padded string for proper sorting, then invert for descending */ -}}
+  {{- $sortKey := printf "%04d" (sub 10000 $proposalNum) }}
+  {{- $sortedPages = $sortedPages | append (dict "page" . "sortKey" $sortKey) }}
+{{- end }}
+{{- $sortedPages = sort $sortedPages "sortKey" "asc" }}
+
+{{- /* Convert back to pages slice */ -}}
+{{- $pages = slice }}
+{{- range $sortedPages }}
+  {{- $pages = $pages | append .page }}
+{{- end }}
+
+{{- end }} {{- $paginator := .Paginate $pages }} {{- if and
 .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }} {{- partial "home_info.html" . }}
 {{- end }} {{- $term := .Data.Term }} {{- range $index, $page := $paginator.Pages }} {{- $class :=
 "post-entry" }} {{- $user_preferred := or site.Params.disableSpecial1stPost
@@ -53,6 +80,12 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
 <article class="{{ $class }}">
   {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false
   }} {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
+
+  {{- /* Recent post indicator - if posted within last 7 days */ -}}
+  {{- $daysSince := div (sub now.Unix .Date.Unix) 86400 }}
+  {{- if le $daysSince 7 }}
+  <div class="recent-indicator">Nouveau</div>
+  {{- end }}
 
   <header class="entry-header">
     {{- /* Extract proposal number from title */ -}} {{- $title := .Title }} {{- $proposalNum := ""
@@ -89,18 +122,23 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
   {{- if not (.Param "hideMeta") }}
   <footer class="entry-footer">
     <div class="entry-meta-left">
-      <time>{{ .Date.Format "2 janvier 2006" }}</time>
+      <div class="entry-date-new">
+        {{ .Date.Format "2 janvier 2006" }}
+      </div>
     </div>
     <div class="entry-meta-right">
       {{- $authors := .Param "auteurs" }}
       {{- if $authors }}
-      <span class="entry-authors">
-        {{- if eq (len $authors) 1 }}
-        {{ index $authors 0 }}
-        {{- else }}
-        {{ index $authors 0 }} et {{ sub (len $authors) 1 }} autre(s)
-        {{- end }}
-      </span>
+      <div class="entry-authors-enhanced">
+        <span>
+          {{- if eq (len $authors) 1 }}
+          {{ index $authors 0 }}
+          {{- else }}
+          {{ index $authors 0 }}
+          <span class="co-authors-count">+{{ sub (len $authors) 1 }}</span>
+          {{- end }}
+        </span>
+      </div>
       {{- end }}
     </div>
   </footer>

@@ -85,49 +85,70 @@ found */}} {{ if $deputeInfo }}
   <h3>Articles de {{ .Title }}</h3>
 
   {{ if .Pages }}
+  {{- /* Custom sort by proposal number extracted from file name (descending) */ -}}
+  {{- $sortedPages := slice }}
+  {{- range .Pages }}
+    {{- $proposalNum := 0 }}
+    {{- $matches := findRE "n-(\\d+)" .File.BaseFileName }}
+    {{- if $matches }}
+      {{- $firstMatch := index $matches 0 }}
+      {{- $numStr := replaceRE "n-" "" $firstMatch }}
+      {{- $proposalNum = int $numStr }}
+    {{- end }}
+    {{- /* Create a 4-digit padded string for proper sorting, then invert for descending */ -}}
+    {{- $sortKey := printf "%04d" (sub 10000 $proposalNum) }}
+    {{- $sortedPages = $sortedPages | append (dict "page" . "sortKey" $sortKey) }}
+  {{- end }}
+  {{- $sortedPages = sort $sortedPages "sortKey" "asc" }}
+
   <div class="post-list">
-    {{ range .Pages.ByDate.Reverse }}
+    {{ range $sortedPages }}
+    {{- $page := .page }}
     <article class="post-entry">
-      {{- /* Extract proposal number from title */ -}} {{- $title := .Title }} {{- $proposalNum :=
-      "" }} {{- if strings.Contains $title " - N° " }} {{- $parts := split $title " - N° " }} {{- if
-      eq (len $parts) 2 }} {{- $proposalNum = printf "N° %s" (index $parts 1) }} {{- $title = index
-      $parts 0 }} {{- end }} {{- end }}
+      {{- /* Recent post indicator - if posted within last 7 days */ -}} {{- $daysSince := div (sub
+      now.Unix $page.Date.Unix) 86400 }} {{- if le $daysSince 7 }}
+      <div class="recent-indicator">Nouveau</div>
+      {{- end }} {{- /* Extract proposal number from title */ -}} {{- $title := $page.Title }} {{-
+      $proposalNum := "" }} {{- if strings.Contains $title " - N° " }} {{- $parts := split $title "- N° " }} {{- if eq (len $parts) 2 }} {{- $proposalNum = printf "N° %s" (index $parts 1) }}
+      {{- $title = index $parts 0 }} {{- end }} {{- end }}
 
       <header class="entry-header">
         {{- if $proposalNum }}
         <div class="proposal-badge">{{ $proposalNum }}</div>
         {{- end }}
-        <h2 class="entry-hint-parent">
-          <a href="{{ .RelPermalink }}">{{ $title }}</a>
-        </h2>
+        <h2 class="entry-hint-parent">{{- $title }}</h2>
       </header>
 
       <div class="entry-content-wrapper">
-        {{- if .Summary }}
+        {{- if $page.Summary }}
         <div class="entry-content">
-          <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+          <p>{{ $page.Summary | plainify | htmlUnescape }}{{ if $page.Truncated }}...{{ end }}</p>
         </div>
         {{- end }}
       </div>
 
       <footer class="entry-footer">
         <div class="entry-meta-left">
-          <time>{{ .Date.Format "2 janvier 2006" }}</time>
+          <div class="entry-date-new">{{ $page.Date.Format "2 janvier 2006" }}</div>
         </div>
         <div class="entry-meta-right">
-          {{- $authors := .Param "auteurs" }} {{- if $authors }}
-          <span class="entry-authors">
-            {{- if eq (len $authors) 1 }} {{ index $authors 0 }} {{- else }} {{ index $authors 0 }}
-            et {{ sub (len $authors) 1 }} autre(s) {{- end }}
-          </span>
+          {{- $authors := $page.Param "auteurs" }} {{- if $authors }}
+          <div class="entry-authors-enhanced">
+            <span>
+              {{- if eq (len $authors) 1 }} {{ index $authors 0 }} {{- else }} {{ index $authors 0
+              }}
+              <span class="co-authors-count">+{{ sub (len $authors) 1 }}</span>
+              {{- end }}
+            </span>
+          </div>
           {{- end }}
         </div>
       </footer>
 
       <a
         class="entry-link"
-        aria-label="post link to {{ .Title | plainify }}"
-        href="{{ .Permalink }}"></a>
+        aria-label="post link to {{ $page.Title | plainify }}"
+        href="{{ $page.Permalink }}"></a>
     </article>
     {{ end }}
   </div>
