@@ -1,4 +1,8 @@
 +++
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_simplifier_echelle_peines_et_creation_peine_probation_et_inclusion_17e"
+stepsName = ["Dépôt à l'Assemblée nationale"]
+stepsDate = ["Vendredi 11 juillet 2025"]
+stepsStatus = [""]
 date = 2025-07-11
 draft = false
 title = "Simplifier l’échelle des peines et à la création d’une peine de probation et d’inclusion - N° 1746"
