@@ -1,4 +1,8 @@
 +++
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/obligation_vaccination_grippe_professionnels_sante_remborusement_17e"
+stepsName = ["Dépôt à l'Assemblée nationale"]
+stepsDate = ["Vendredi 11 juillet 2025"]
+stepsStatus = [""]
 date = 2025-07-11
 draft = false
 title = "Rétablir l’obligation de vaccination contre la grippe pour les professionnels de santé et permettre son remboursement pour tous - N° 1722"
