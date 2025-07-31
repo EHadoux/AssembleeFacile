@@ -1,4 +1,5 @@
 +++
+tags = ["Santé", "Discriminations", "Droits des femmes"]
 date = 2025-07-11
 draft = false
 title = "Intégrer la santé sexuelle dans le champ de compétences du Conseil national du syndrome immunodéficitaire acquis et des hépatites virales chroniques - N° 1704"
