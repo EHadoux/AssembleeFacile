@@ -1,4 +1,5 @@
 +++
+tags = ["Emploi", "Solidarité", "Économie"]
 date = 2025-06-24
 draft = false
 title = "Décaler progressivement l’âge de départ à la retraite à soixante-cinq ans à l’horizon 2042 - N° 1625"
