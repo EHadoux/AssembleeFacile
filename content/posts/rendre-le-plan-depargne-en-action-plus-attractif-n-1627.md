@@ -1,4 +1,5 @@
 +++
+tags = ["Économie", "Finances", "Industrie"]
 date = 2025-06-24
 draft = false
 title = "Rendre le plan d’épargne en action plus attractif - N° 1627"
