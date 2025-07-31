@@ -1,4 +1,5 @@
 +++
+tags = ["Famille", "Solidarité", "Budget"]
 date = 2025-06-24
 draft = false
 title = "Garantir le bénéfice des prestations familiales et des pensions alimentaires aux enfants confiés à un tiers - N° 1629"
