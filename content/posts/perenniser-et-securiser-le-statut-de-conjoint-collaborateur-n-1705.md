@@ -1,4 +1,5 @@
 +++
+tags = ["Économie", "Travail", "Famille"]
 date = 2025-07-11
 draft = false
 title = "Pérenniser et sécuriser le statut de conjoint collaborateur - N° 1705"
