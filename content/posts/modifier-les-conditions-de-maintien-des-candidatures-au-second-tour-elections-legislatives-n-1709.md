@@ -1,4 +1,5 @@
 +++
+tags = ["Relations parlementaires", "Justice", "Défense"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/modifier_conditions-maintien_candidatures_second_tour_elections_legislatives_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Vendredi 11 juillet 2025"]
