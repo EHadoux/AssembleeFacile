@@ -1,4 +1,5 @@
 +++
+tags = ["Logement", "Économie", "Urbanisme"]
 date = 2025-06-24
 draft = false
 title = "Pérennisation du dispositif d’encadrement des loyers mis en place par la loi n° 2018-1021 du 23 novembre 2018 portant évolution du logement, de l'aménagement et du numérique - N° 1624"
