@@ -1,4 +1,5 @@
 +++
+tags = ["Logement", "Écologie", "Santé"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/adapter_logement_fortes_chaleurs_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Vendredi 11 juillet 2025"]
