@@ -1,4 +1,5 @@
 +++
+tags = ["Santé", "Handicap", "Vie associative"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/valoriser_bienfaits_liens_animaux_humains_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Vendredi 11 juillet 2025"]
