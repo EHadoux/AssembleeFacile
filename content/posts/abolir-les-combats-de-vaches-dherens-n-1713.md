@@ -1,4 +1,5 @@
 +++
+tags = ["Agriculture", "Solidarité", "Justice"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/abolir_combats_vaches_herens_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Vendredi 11 juillet 2025"]
