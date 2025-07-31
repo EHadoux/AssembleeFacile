@@ -1,4 +1,5 @@
 +++
+tags = ["Biodiversité", "Santé", "Vie associative"]
 date = 2025-07-11
 draft = false
 title = "Interdire la vente de chiens et de chats dans les foires et salons - N° 1707"
