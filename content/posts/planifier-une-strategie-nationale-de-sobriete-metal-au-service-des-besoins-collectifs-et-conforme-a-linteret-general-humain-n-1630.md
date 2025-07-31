@@ -1,4 +1,5 @@
 +++
+tags = ["Écologie", "Industrie", "Économie"]
 date = 2025-06-24
 draft = false
 title = "Planifier une stratégie nationale de sobriété métal au service des besoins collectifs et conforme à l'intérêt général humain - N° 1630"
