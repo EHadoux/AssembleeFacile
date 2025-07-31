@@ -1,4 +1,5 @@
 +++
+tags = ["Travail", "Économie", "Vie associative"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ecoute_professionnelle_presentee_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Vendredi 11 juillet 2025"]
