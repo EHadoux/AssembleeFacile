@@ -1,4 +1,5 @@
 +++
+tags = ["Éducation", "Enseignement supérieur", "Autonomie"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reformer_college_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Vendredi 11 juillet 2025"]
