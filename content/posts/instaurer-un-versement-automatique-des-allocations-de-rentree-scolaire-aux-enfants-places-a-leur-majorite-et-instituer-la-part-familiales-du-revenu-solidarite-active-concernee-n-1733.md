@@ -1,4 +1,5 @@
 +++
+tags = ["Jeunesse", "Solidarité", "Famille"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/versement_allocations_rentree_scolaires_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Vendredi 11 juillet 2025"]
