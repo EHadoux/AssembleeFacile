@@ -1,4 +1,5 @@
 +++
+tags = ["Écologie", "Industrie", "Environnement"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_prevention_risques_accidents_lies_batteries_lithium_cartouches_protoxyde_azote_installations_traitement_dechet_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Vendredi 11 juillet 2025"]
