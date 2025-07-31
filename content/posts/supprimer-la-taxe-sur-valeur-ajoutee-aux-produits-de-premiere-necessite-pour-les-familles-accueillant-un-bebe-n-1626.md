@@ -1,4 +1,5 @@
 +++
+tags = ["Famille", "Économie", "Solidarité"]
 date = 2025-06-24
 draft = false
 title = "Supprimer la taxe sur la valeur ajoutée aux produits de première nécessité pour les familles accueillant un bébé - N° 1626"
