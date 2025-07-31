@@ -42,6 +42,7 @@ params:
     threshold: 0.8
     keys:
       - auteurs
+      - tags
       - title
       - content
       - summary

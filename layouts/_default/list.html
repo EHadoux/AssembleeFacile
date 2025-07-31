@@ -78,7 +78,7 @@ site.RegularPages "Type" "in" site.Params.mainSections }} {{- $pages = where $pa
 site.Params.homeInfoParams }} {{- if (and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) (not
 $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $class = "post-entry tag-entry" }} {{- end }}
 
-<article class="{{ $class }}">
+<article class="{{ $class }}" style="position: relative;">
   {{- $isHidden := ($page.Param "cover.hiddenInList") | default ($page.Param "cover.hidden") | default false
   }} {{- partial "cover.html" (dict "cxt" $page "IsSingle" false "isHidden" $isHidden) }}
 
@@ -124,14 +124,26 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
   <footer class="entry-footer">
     <div class="entry-meta-left">
       <div class="entry-date-new">
-        {{ $page.Date | time.Format ":date_long" }}
-        {{- $link := $page.Param "link" }}
-        {{- if $link }}
-        <a href="{{ $link }}" target="_blank" rel="noopener" class="entry-link-assemblee" title="Voir sur assemblee-nationale.fr" onclick="event.stopPropagation();" style="position: relative; z-index: 10; margin-left: 8px;">
-          <i class="fas fa-external-link-alt"></i>
-        </a>
+        <span style="background: #e5e7f6; color: #222; border-radius: 14px; padding: 6px 16px 6px 16px; font-size: 1em; display: inline-flex; align-items: center; gap: 8px; font-weight: 600;">
+          {{ $page.Date | time.Format ":date_long" }}
+          {{- $link := $page.Param "link" }}
+          {{- if $link }}
+            <a href="{{ $link }}" target="_blank" rel="noopener" class="entry-link-assemblee" title="Voir sur assemblee-nationale.fr" onclick="event.stopPropagation();" style="color: #1e40af; margin-left: 0; display: inline-flex; align-items: center; position: relative; z-index: 2; pointer-events: auto;">
+              <i class="fas fa-external-link-alt"></i>
+            </a>
+          {{- end }}
+        </span>
+      </div>
+      {{- $tags := $page.Params.tags }}
+      {{- if $tags }}
+      <div class="entry-tags-pills" style="padding: 8px 0 4px 0; display: flex; flex-wrap: wrap; gap: 8px;">
+        {{- range $tags }}
+          <a href="{{ "tags/" | relURL }}{{ . | urlize }}" class="tag-pill" style="background: #e0edff; color: #1e40af; border-radius: 999px; padding: 2px 12px; font-size: 0.95em; text-decoration: none; font-weight: 600; display: inline-block; position: relative; z-index: 2; pointer-events: auto;">
+            {{ . }}
+          </a>
         {{- end }}
       </div>
+      {{- end }}
     </div>
     <div class="entry-meta-right">
       {{- $authors := $page.Param "auteurs" }}
@@ -166,7 +178,8 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
   <a
     class="entry-link"
     aria-label="post link to {{ $page.Title | plainify }}"
-    href="{{ $page.Permalink }}"></a>
+    href="{{ $page.Permalink }}"
+    style="position: absolute; inset: 0; z-index: 1;"></a>
 </article>
 {{- end }} {{- if gt $paginator.TotalPages 1 }}
 <footer class="page-footer">
