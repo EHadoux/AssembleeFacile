@@ -1,4 +1,5 @@
 +++
+tags = ["Santé", "Écologie", "Économie"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/obligation_climatisation_espaces_publics_prioriaires_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Vendredi 11 juillet 2025"]
