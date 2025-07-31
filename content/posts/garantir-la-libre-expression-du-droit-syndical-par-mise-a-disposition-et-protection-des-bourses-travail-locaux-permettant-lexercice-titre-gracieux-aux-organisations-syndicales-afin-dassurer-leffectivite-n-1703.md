@@ -1,4 +1,5 @@
 +++
+tags = ["Travail", "Vie associative", "Droits des femmes"]
 date = 2025-07-11
 draft = false
 title = "Garantir la libre expression du droit syndical par la mise à disposition et la protection des bourses du travail et des locaux permettant l’exercice du droit syndical à titre gracieux aux organisations syndicales afin d’assurer l'effectivité du droit - N° 1703"
