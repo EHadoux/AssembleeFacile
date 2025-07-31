@@ -1,4 +1,5 @@
 +++
+tags = ["Éducation", "Décentralisation", "Finances"]
 date = 2025-06-24
 draft = false
 title = "Clarification des critères d’attribution du forfait d’externat et de la gouvernance du service public de l’éducation - N° 1628"
