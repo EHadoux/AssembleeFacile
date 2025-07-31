@@ -1,4 +1,5 @@
 +++
+tags = ["Agriculture", "Biodiversité", "Ruralité"]
 date = 2025-06-24
 draft = false
 title = "Créer un statut pour les lieutenants de louveterie - N° 1634"
