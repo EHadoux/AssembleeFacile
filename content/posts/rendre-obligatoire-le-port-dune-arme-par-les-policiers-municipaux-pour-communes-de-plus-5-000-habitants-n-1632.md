@@ -1,4 +1,5 @@
 +++
+tags = ["Sécurité", "Intérieur", "Action publique"]
 date = 2025-06-24
 draft = false
 title = "Rendre obligatoire le port d’une arme par les policiers municipaux pour les communes de plus de 5 000 habitants - N° 1632"
