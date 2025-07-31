@@ -115,7 +115,7 @@
     {{- end }}
     
     <div class="post-header-meta">
-      <time class="post-date">{{ .Date.Format "2 janvier 2006" }}</time>
+      <time class="post-date">{{ .Date | time.Format ":date_long" }}</time>
       {{- $link := .Param "link" }}
       {{- if $link }}
       <a href="{{ $link }}" target="_blank" rel="noopener" class="post-assemblee-link-compact" title="Voir le document officiel sur assemblee-nationale.fr" style="margin-left: 8px;">

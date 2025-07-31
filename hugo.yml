@@ -27,6 +27,7 @@ menu:
       url: /tags/
       weight: 20
 params:
+  mainSections: ['posts']
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true

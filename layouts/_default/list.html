@@ -46,23 +46,22 @@
 </div>
 {{- end }} {{- $pages := union .RegularPages .Sections }} {{- if .IsHome }} {{- $pages = where
 site.RegularPages "Type" "in" site.Params.mainSections }} {{- $pages = where $pages
-"Params.hiddenInHomeList" "!=" "true" }} 
+"Params.hiddenInHomeList" "!=" "true" }} {{- end }}
 
-{{- /* Custom sort by proposal number extracted from file name (descending) */ -}}
+{{- /* Sort by proposal number extracted from filename (descending) */ -}}
 {{- $sortedPages := slice }}
 {{- range $pages }}
   {{- $proposalNum := 0 }}
-  {{- $matches := findRE "n-(\\d+)" .File.BaseFileName }}
+  {{- $basename := .File.BaseFileName }}
+  {{- $matches := findRE "n-(\\d+)$" $basename }}
   {{- if $matches }}
-    {{- $firstMatch := index $matches 0 }}
-    {{- $numStr := replaceRE "n-" "" $firstMatch }}
+    {{- $match := index $matches 0 }}
+    {{- $numStr := replaceRE "n-" "" $match }}
     {{- $proposalNum = int $numStr }}
   {{- end }}
-  {{- /* Create a 4-digit padded string for proper sorting, then invert for descending */ -}}
-  {{- $sortKey := printf "%04d" (sub 10000 $proposalNum) }}
-  {{- $sortedPages = $sortedPages | append (dict "page" . "sortKey" $sortKey) }}
+  {{- $sortedPages = $sortedPages | append (dict "page" . "proposalNum" $proposalNum) }}
 {{- end }}
-{{- $sortedPages = sort $sortedPages "sortKey" "asc" }}
+{{- $sortedPages = sort $sortedPages "proposalNum" "desc" }}
 
 {{- /* Convert back to pages slice */ -}}
 {{- $pages = slice }}
@@ -70,25 +69,27 @@ site.RegularPages "Type" "in" site.Params.mainSections }} {{- $pages = where $pa
   {{- $pages = $pages | append .page }}
 {{- end }}
 
-{{- end }} {{- $paginator := .Paginate $pages }} {{- if and
+{{- $paginator := .Paginate $pages }} {{- if and
 .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }} {{- partial "home_info.html" . }}
-{{- end }} {{- $term := .Data.Term }} {{- range $index, $page := $paginator.Pages }} {{- $class :=
+{{- end }} 
+
+{{- $term := .Data.Term }} {{- range $index, $page := $paginator.Pages }} {{- $class :=
 "post-entry" }} {{- $user_preferred := or site.Params.disableSpecial1stPost
 site.Params.homeInfoParams }} {{- if (and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) (not
 $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $class = "post-entry tag-entry" }} {{- end }}
 
 <article class="{{ $class }}">
-  {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false
-  }} {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
+  {{- $isHidden := ($page.Param "cover.hiddenInList") | default ($page.Param "cover.hidden") | default false
+  }} {{- partial "cover.html" (dict "cxt" $page "IsSingle" false "isHidden" $isHidden) }}
 
   {{- /* Recent post indicator - if posted within last 7 days */ -}}
-  {{- $daysSince := div (sub now.Unix .Date.Unix) 86400 }}
+  {{- $daysSince := div (sub now.Unix $page.Date.Unix) 86400 }}
   {{- if le $daysSince 7 }}
   <div class="recent-indicator">Nouveau</div>
   {{- end }}
 
   <header class="entry-header">
-    {{- /* Extract proposal number from title */ -}} {{- $title := .Title }} {{- $proposalNum := ""
+    {{- /* Extract proposal number from title */ -}} {{- $title := $page.Title }} {{- $proposalNum := ""
     }} {{- if strings.Contains $title " - N° " }} {{- $parts := split $title " - N° " }} {{- if eq
     (len $parts) 2 }} {{- $proposalNum = printf "N° %s" (index $parts 1) }} {{- $title = index
     $parts 0 }} {{- end }} {{- end }} {{- if $proposalNum }}
@@ -96,7 +97,7 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
     {{- end }}
 
     <h2 class="entry-hint-parent">
-      {{- $title }} {{- if .Draft }}
+      {{- $title }} {{- if $page.Draft }}
       <span class="entry-hint" title="Draft">
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -112,19 +113,19 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
   </header>
 
   <div class="entry-content-wrapper">
-    {{- if (ne (.Param "hideSummary") true) }}
+    {{- if (ne ($page.Param "hideSummary") true) }}
     <div class="entry-content">
-      <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+      <p>{{ $page.Summary | plainify | htmlUnescape }}{{ if $page.Truncated }}...{{ end }}</p>
     </div>
     {{- end }}
   </div>
 
-  {{- if not (.Param "hideMeta") }}
+  {{- if not ($page.Param "hideMeta") }}
   <footer class="entry-footer">
     <div class="entry-meta-left">
       <div class="entry-date-new">
-        {{ .Date.Format "2 janvier 2006" }}
-        {{- $link := .Param "link" }}
+        {{ $page.Date | time.Format ":date_long" }}
+        {{- $link := $page.Param "link" }}
         {{- if $link }}
         <a href="{{ $link }}" target="_blank" rel="noopener" class="entry-link-assemblee" title="Voir sur assemblee-nationale.fr" onclick="event.stopPropagation();" style="position: relative; z-index: 10; margin-left: 8px;">
           <i class="fas fa-external-link-alt"></i>
@@ -133,7 +134,7 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
       </div>
     </div>
     <div class="entry-meta-right">
-      {{- $authors := .Param "auteurs" }}
+      {{- $authors := $page.Param "auteurs" }}
       {{- if $authors }}
       <div class="entry-authors-enhanced">
         {{- if eq (len $authors) 1 }}
@@ -143,8 +144,8 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
         {{- end }}
       </div>
       {{- end }}
-      {{- $stepsName := .Param "stepsName" }}
-      {{- $stepsStatus := .Param "stepsStatus" }}
+      {{- $stepsName := $page.Param "stepsName" }}
+      {{- $stepsStatus := $page.Param "stepsStatus" }}
       {{- if and $stepsName $stepsStatus }}
         {{- $lastIndex := sub (len $stepsName) 1 }}
         {{- $lastStepName := index $stepsName $lastIndex }}
@@ -164,8 +165,8 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
 
   <a
     class="entry-link"
-    aria-label="post link to {{ .Title | plainify }}"
-    href="{{ .Permalink }}"></a>
+    aria-label="post link to {{ $page.Title | plainify }}"
+    href="{{ $page.Permalink }}"></a>
 </article>
 {{- end }} {{- if gt $paginator.TotalPages 1 }}
 <footer class="page-footer">
