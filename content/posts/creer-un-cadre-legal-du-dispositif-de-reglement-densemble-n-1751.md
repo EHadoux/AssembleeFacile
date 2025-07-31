@@ -1,4 +1,5 @@
 +++
+tags = ["Finances", "Économie", "Action publique"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/creation_cadre_legal_dispositif_reglement_ensemble_XVIIe"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Vendredi 11 juillet 2025"]
