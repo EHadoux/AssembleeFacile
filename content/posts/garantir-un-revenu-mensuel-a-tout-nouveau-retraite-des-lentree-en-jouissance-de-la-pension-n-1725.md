@@ -1,4 +1,5 @@
 +++
+tags = ["Retraite", "Solidarité", "Agriculture"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_revenu_mensuel_tout_nouveau_retraite_entree_jouissance_pension_retraite_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Vendredi 11 juillet 2025"]
