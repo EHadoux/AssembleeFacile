@@ -1,4 +1,5 @@
 +++
+tags = ["Justice", "Solidarité", "Travail"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_simplifier_echelle_peines_et_creation_peine_probation_et_inclusion_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Vendredi 11 juillet 2025"]
