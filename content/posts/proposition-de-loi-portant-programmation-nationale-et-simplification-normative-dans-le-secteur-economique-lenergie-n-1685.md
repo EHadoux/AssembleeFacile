@@ -1,4 +1,5 @@
 +++
+tags = ["Énergie", "Écologie", "Industrie"]
 date = 2025-07-17
 draft = false
 title = "Proposition de loi portant programmation nationale et simplification normative dans le secteur économique de l'énergie - N° 1685"
