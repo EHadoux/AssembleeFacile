@@ -1,4 +1,5 @@
 +++
+tags = ["Sécurité", "Justice", "Intérieur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/mieux_sanctionner_organisation_participation_rave_parties_illegales_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Vendredi 11 juillet 2025"]
