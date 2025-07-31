@@ -1,4 +1,5 @@
 +++
+tags = ["Agriculture", "Éducation", "Vie associative"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_ameliorer_transparence_representativite_conseils_administration_etablissements_enseignement_agricole_prives_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Vendredi 11 juillet 2025"]
