@@ -1,4 +1,5 @@
 +++
+tags = ["Santé", "Travail", "Action publique"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/obligation_vaccination_grippe_professionnels_sante_remborusement_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Vendredi 11 juillet 2025"]
