@@ -199,40 +199,49 @@
       {{- end }}
     </div>
 
+    {{/* Utiliser le parsing CSV natif de Hugo */}}
+    {{- $deputesData := slice }}
+    {{- $groupesData := slice }}
+    
+    {{/* Parser le fichier députés avec transform.Unmarshal */}}
     {{- $deputesFile := resources.Get "deputes-active.csv" }}
-    {{- $groupesFile := resources.Get "groupes.csv" }}
-
-    {{- if and $deputesFile $groupesFile }}
-      {{- $deputesContent := $deputesFile.Content }}
-      {{- $groupesContent := $groupesFile.Content }}
-      
-      {{/* Parser manuellement les CSVs */}}
-      {{- $deputesData := slice }}
-      {{- $groupesData := slice }}
-      
-      {{/* Parser députés CSV */}}
-      {{- range $line := (split $deputesContent "\n") }}
-        {{- if and $line (not (hasPrefix $line "id")) }}
-          {{- $fields := split $line "," }}
-          {{- if ge (len $fields) 10 }}
-            {{- $nom := index $fields 3 }}
-            {{- $prenom := index $fields 4 }}
-            {{- $groupe := index $fields 8 }}
+    {{- if $deputesFile }}
+      {{- $opts := dict "delimiter" "," }}
+      {{- $deputesRaw := $deputesFile | transform.Unmarshal $opts }}
+      {{- if gt (len $deputesRaw) 1 }}
+        {{/* Ignorer la première ligne (headers) */}}
+        {{- range after 1 $deputesRaw }}
+          {{- if ge (len .) 10 }}
+            {{- $nom := index . 3 }}
+            {{- $prenom := index . 4 }}
+            {{- $groupe := index . 8 }}
             {{- $nomComplet := printf "%s %s" $prenom $nom }}
             {{- $deputesData = $deputesData | append (dict "nom" $nomComplet "groupe" $groupe) }}
           {{- end }}
         {{- end }}
       {{- end }}
-      
-      {{/* Parser groupes CSV */}}
-      {{- range $line := (split $groupesContent "\n") }}
-        {{- if and $line (not (hasPrefix $line "groupe")) }}
-          {{- $fields := split $line "," }}
-          {{- if ge (len $fields) 3 }}
-            {{- $groupesData = $groupesData | append (dict "nom" (index $fields 0) "couleur" (index $fields 2)) }}
+    {{- end }}
+    
+    {{/* Parser le fichier groupes avec transform.Unmarshal */}}
+    {{- $groupesFile := resources.Get "groupes.csv" }}
+    {{- if $groupesFile }}
+      {{- $opts := dict "delimiter" "," }}
+      {{- $groupesRaw := $groupesFile | transform.Unmarshal $opts }}
+      {{- if gt (len $groupesRaw) 1 }}
+        {{/* Ignorer la première ligne (headers) */}}
+        {{- range after 1 $groupesRaw }}
+          {{- if ge (len .) 3 }}
+            {{- $groupeNom := index . 0 }}
+            {{- $couleur := index . 2 }}
+            {{- if and $groupeNom $couleur }}
+              {{- $groupesData = $groupesData | append (dict "nom" $groupeNom "couleur" $couleur) }}
+            {{- end }}
           {{- end }}
         {{- end }}
       {{- end }}
+    {{- end }}
+
+    {{- if and (gt (len $deputesData) 0) (gt (len $groupesData) 0) }}
 
       {{/* Compter le nombre total de députés par groupe */}}
       {{- $totalDeputesParGroupe := dict }}
