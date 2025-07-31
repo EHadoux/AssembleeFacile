@@ -1,4 +1,5 @@
 +++
+tags = ["Santé", "Économie", "Famille"]
 date = 2025-07-11
 draft = false
 title = "Rendre obligatoire l’affichage du nutri-score et à interdire la publicité à destination des enfants et adolescents en faveur des produits alimentaires de faible qualité nutritionnelle - N° 1708"
