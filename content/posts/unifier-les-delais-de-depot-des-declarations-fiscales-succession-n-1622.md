@@ -1,4 +1,5 @@
 +++
+tags = ["Famille", "Finances", "Justice"]
 date = 2025-06-24
 draft = false
 title = "Unifier les délais de dépôt des déclarations fiscales de succession - N° 1622"
