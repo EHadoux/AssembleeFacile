@@ -1,4 +1,5 @@
 +++
+tags = ["Éducation", "Enseignement supérieur", "Emploi"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_refonder_recrutement_et_formation_initiale_des_enseignants_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Vendredi 11 juillet 2025"]
