@@ -1,4 +1,5 @@
 +++
+tags = ["Écologie", "Transports", "Mer"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/etablir_taxe_utilisation_navires_croisiere_xviie"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Vendredi 11 juillet 2025"]
