@@ -1,4 +1,5 @@
 +++
+tags = ["Transports", "Emploi", "Jeunesse"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/desengorger_acces_permis_de_conduire_jeunes_departements_en_tension_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Vendredi 11 juillet 2025"]
