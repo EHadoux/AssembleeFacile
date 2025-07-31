@@ -138,11 +138,57 @@
   (dict "abrev" "NI" "name" "Non inscrits")
 }}
 
-{{/* Display authors grouped by political groups */}}
+
+{{/* Load and parse groupes.csv for group colors */}}
+{{ $groupesCSV := resources.Get "groupes.csv" }}
+{{ $groupesData := $groupesCSV | transform.Unmarshal (dict "delimiter" ",") }}
+
+{{/* Build a map: abrev -> couleur */}}
+{{ $groupColors := dict }}
+{{ range $groupesData }}
+  {{ $abrev := index . 1 }}
+  {{ $color := index . 2 }}
+  {{ $groupColors = merge $groupColors (dict $abrev $color) }}
+{{ end }}
+
+{{/* Helper to convert hex to rgba with alpha */}}
+{{/* Usage: {{ partial "hex2rgba.html" (dict "hex" $hex "alpha" 0.15) }} */}}
+{{/* Place this partial in layouts/partials/hex2rgba.html */}}
+
+
+{{/* Générer le CSS dynamiquement dans une variable */}}
+{{ $groupCSS := "" }}
+{{ range $groupOrder }}
+  {{ $hex := index $groupColors .abrev }}
+  {{ $hex = trim $hex " \n\r" }}
+  {{ $alpha := 0.04 }}
+  {{ $rgba := "rgba(200,200,200,0.15)" }}
+  {{ $rgb := "#cccccc" }}
+  {{ if and $hex (eq (len $hex) 7) (eq (substr $hex 0 1) "#") }}
+    {{ $rHex := substr $hex 1 3 }}
+    {{ $gHex := substr $hex 3 5 }}
+    {{ $bHex := substr $hex 5 7 }}
+    {{ $hexMap := dict "0" 0 "1" 1 "2" 2 "3" 3 "4" 4 "5" 5 "6" 6 "7" 7 "8" 8 "9" 9 "a" 10 "b" 11 "c" 12 "d" 13 "e" 14 "f" 15 "A" 10 "B" 11 "C" 12 "D" 13 "E" 14 "F" 15 }}
+    {{ $r1 := default 0 (index $hexMap (lower (substr $rHex 0 1))) }}
+    {{ $r2 := default 0 (index $hexMap (lower (substr $rHex 1 2))) }}
+    {{ $g1 := default 0 (index $hexMap (lower (substr $gHex 0 1))) }}
+    {{ $g2 := default 0 (index $hexMap (lower (substr $gHex 1 2))) }}
+    {{ $b1 := default 0 (index $hexMap (lower (substr $bHex 0 1))) }}
+    {{ $b2 := default 0 (index $hexMap (lower (substr $bHex 1 2))) }}
+    {{ $r := add (mul $r1 16) $r2 }}
+    {{ $g := add (mul $g1 16) $g2 }}
+    {{ $b := add (mul $b1 16) $b2 }}
+    {{ $rgba = printf "rgba(%d,%d,%d,%.2f)" $r $g $b $alpha }}
+    {{ $rgb = printf "rgb(%d,%d,%d)" $r $g $b }}
+  {{ end }}
+  {{ $groupCSS = printf "%s.political-group.group-%s {background:%s !important;border-radius:1em;padding:1em;margin-bottom:2em;border-left:6px solid %s;}\n" $groupCSS .abrev $rgba $rgb }}
+{{ end }}
+<style>{{ $groupCSS | safeCSS }}</style>
+
 {{ range $groupOrder }}
   {{ $groupAuthors := index $groupedAuthors .abrev }}
   {{ if $groupAuthors }}
-    <section class="political-group">
+    <section class="political-group group-{{ .abrev }}">
       <h2>{{ .name }}</h2>
       <ul class="terms-tags">
         {{ range sort $groupAuthors "lastName" }}

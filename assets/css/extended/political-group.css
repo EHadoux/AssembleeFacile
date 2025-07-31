@@ -1,0 +1,6 @@
+.political-group {
+  background: var(--group-bg, rgba(200, 200, 200, 0.15)) !important;
+  border-radius: 1em;
+  padding: 1em;
+  margin-bottom: 2em;
+}
