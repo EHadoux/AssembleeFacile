@@ -1,4 +1,5 @@
 +++
+tags = ["Commerce", "Économie", "Assurance"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/eviter_gaspillage_reparation_automobile_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Vendredi 11 juillet 2025"]
