@@ -1,4 +1,5 @@
 +++
+tags = ["Affaires étrangères", "Justice", "Finances"]
 date = 2025-07-11
 draft = false
 title = "Instituer un mécanisme de saisie des avoirs souverains étrangers gelés en réponse aux violations du droit international - N° 1706"
