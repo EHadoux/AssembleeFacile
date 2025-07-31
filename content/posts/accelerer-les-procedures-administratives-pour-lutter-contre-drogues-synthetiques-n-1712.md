@@ -1,4 +1,5 @@
 +++
+tags = ["Sécurité", "Justice", "Numérique"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/accelerer_procedures_administratives_lutte_drogues_synthetiques_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Vendredi 11 juillet 2025"]
