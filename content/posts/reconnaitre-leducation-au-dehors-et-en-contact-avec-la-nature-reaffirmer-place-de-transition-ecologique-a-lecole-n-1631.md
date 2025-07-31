@@ -1,4 +1,5 @@
 +++
+tags = ["Éducation", "Écologie", "Jeunesse"]
 date = 2025-06-24
 draft = false
 title = "Reconnaître l'éducation au dehors et en contact avec la nature et réaffirmer la place de la transition écologique à l'école - N° 1631"
