@@ -84,6 +84,81 @@
 .status-icon-fa {
     margin-right: 5px;
 }
+
+/* Political Spectrum Styles */
+.political-spectrum-container {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.political-spectrum-title {
+    font-size: 0.9em;
+    font-weight: 600;
+    color: var(--content);
+    margin-bottom: 8px;
+    text-align: left;
+}
+
+.political-spectrum {
+  display: flex;
+  width: 100%;
+  height: 20px;
+  border-radius: 4px;
+  overflow: hidden;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+}
+
+.spectrum-segment {
+  height: 100%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.spectrum-segment:not(:last-child) {
+    border-right: 1px solid #ccc;
+}
+
+.spectrum-fill {
+  height: 100%;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+/* Custom Tooltip Styles */
+.custom-tooltip {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.9);
+  color: white;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.75em;
+  white-space: nowrap;
+  z-index: 1000;
+  pointer-events: none;
+  opacity: 0;
+  transform: translateY(-100%);
+  transition: opacity 0.2s ease-in-out;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+}
+
+.custom-tooltip::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 3px solid transparent;
+  border-top-color: rgba(0, 0, 0, 0.9);
+}
+
+.custom-tooltip.show {
+  opacity: 1;
+}
 </style>
 
 <article class="post-single">
@@ -123,6 +198,118 @@
       </a>
       {{- end }}
     </div>
+
+    {{- $deputesFile := resources.Get "deputes-active.csv" }}
+    {{- $groupesFile := resources.Get "groupes.csv" }}
+
+    {{- if and $deputesFile $groupesFile }}
+      {{- $deputesContent := $deputesFile.Content }}
+      {{- $groupesContent := $groupesFile.Content }}
+      
+      {{/* Parser manuellement les CSVs */}}
+      {{- $deputesData := slice }}
+      {{- $groupesData := slice }}
+      
+      {{/* Parser députés CSV */}}
+      {{- range $line := (split $deputesContent "\n") }}
+        {{- if and $line (not (hasPrefix $line "id")) }}
+          {{- $fields := split $line "," }}
+          {{- if ge (len $fields) 10 }}
+            {{- $nom := index $fields 3 }}
+            {{- $prenom := index $fields 4 }}
+            {{- $groupe := index $fields 8 }}
+            {{- $nomComplet := printf "%s %s" $prenom $nom }}
+            {{- $deputesData = $deputesData | append (dict "nom" $nomComplet "groupe" $groupe) }}
+          {{- end }}
+        {{- end }}
+      {{- end }}
+      
+      {{/* Parser groupes CSV */}}
+      {{- range $line := (split $groupesContent "\n") }}
+        {{- if and $line (not (hasPrefix $line "groupe")) }}
+          {{- $fields := split $line "," }}
+          {{- if ge (len $fields) 3 }}
+            {{- $groupesData = $groupesData | append (dict "nom" (index $fields 0) "couleur" (index $fields 2)) }}
+          {{- end }}
+        {{- end }}
+      {{- end }}
+
+      {{/* Compter le nombre total de députés par groupe */}}
+      {{- $totalDeputesParGroupe := dict }}
+      {{- $totalDeputes := 0 }}
+      {{- range $deputesData }}
+        {{- $groupe := .groupe }}
+        {{- if and $groupe (ne (lower $groupe) "non inscrits") }}
+          {{- $count := index $totalDeputesParGroupe $groupe | default 0 }}
+          {{- $totalDeputesParGroupe = merge $totalDeputesParGroupe (dict $groupe (add $count 1)) }}
+          {{- $totalDeputes = add $totalDeputes 1 }}
+        {{- end }}
+      {{- end }}
+      
+      {{/* Analyser les auteurs de ce post */}}
+      {{- $auteurGroupes := slice }}
+      {{- $auteursValides := 0 }}
+      
+      {{- range .Params.auteurs }}
+        {{- $auteurNom := . }}
+        {{- $auteurGroupe := "" }}
+        
+        {{- range $deputesData }}
+          {{- if eq .nom $auteurNom }}
+            {{- $auteurGroupe = .groupe }}
+            {{- break }}
+          {{- end }}
+        {{- end }}
+        
+        {{- if and $auteurGroupe (ne $auteurGroupe "") (ne (lower $auteurGroupe) "non inscrits") }}
+          {{- $auteurGroupes = $auteurGroupes | append $auteurGroupe }}
+          {{- $auteursValides = add $auteursValides 1 }}
+        {{- end }}
+      {{- end }}
+      
+      {{/* Afficher la barre seulement s'il y a des auteurs valides */}}
+      {{- if gt $auteursValides 0 }}
+        {{/* Compter les auteurs par groupe */}}
+        {{- $groupeCounts := dict }}
+        {{- range $auteurGroupes }}
+          {{- $count := index $groupeCounts . | default 0 }}
+          {{- $groupeCounts = merge $groupeCounts (dict . (add $count 1)) }}
+        {{- end }}
+        
+        <div class="political-spectrum-container">
+          <div class="political-spectrum-title">Répartition politique des présentateurs</div>
+          <div class="political-spectrum">
+            {{- range $groupesData }}
+              {{- $groupeNom := .nom }}
+              {{- $totalGroupe := index $totalDeputesParGroupe $groupeNom | default 0 }}
+              
+              {{- if gt $totalGroupe 0 }}
+                {{- $couleur := .couleur }}
+                {{- $auteursGroupe := index $groupeCounts $groupeNom | default 0 }}
+                
+                {{- $largeurSegment := 0 }}
+                {{- if gt $totalDeputes 0 }}
+                  {{- $largeurSegment = mul (div (float $totalGroupe) (float $totalDeputes)) 100.0 }}
+                {{- end }}
+
+                {{- $remplissage := 0 }}
+                {{- if gt $totalGroupe 0 }}
+                  {{- $remplissage = mul (div (float $auteursGroupe) (float $totalGroupe)) 100.0 }}
+                {{- end }}
+                
+                <div class="spectrum-segment" 
+                     style="width: {{ $largeurSegment }}%;"
+                     data-tooltip="{{ $groupeNom }}: {{ $auteursGroupe }} auteur(s) sur {{ $totalGroupe }} député(s)">
+                  <div class="spectrum-fill" 
+                       style="width: {{ $remplissage }}%; background-color: {{ $couleur }};">
+                  </div>
+                </div>
+              {{- end }}
+            {{- end }}
+          </div>
+        </div>
+      {{- end }}
+    {{- end }}
   </header>
   
   {{- $stepsName := .Param "stepsName" }}
@@ -253,5 +440,59 @@
 
   {{- if (.Param "comments") }} {{- partial "comments.html" . }} {{- end }}
 </article>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Custom tooltip functionality
+  const segments = document.querySelectorAll('.spectrum-segment[data-tooltip]');
+  let tooltip = null;
+
+  // Create tooltip element
+  function createTooltip() {
+    if (!tooltip) {
+      tooltip = document.createElement('div');
+      tooltip.className = 'custom-tooltip';
+      document.body.appendChild(tooltip);
+    }
+    return tooltip;
+  }
+
+  // Show tooltip
+  function showTooltip(event, text) {
+    const tooltip = createTooltip();
+    tooltip.textContent = text;
+    tooltip.classList.add('show');
+    
+    const rect = event.target.getBoundingClientRect();
+    const tooltipRect = tooltip.getBoundingClientRect();
+    
+    // Position tooltip above the segment, very close to it
+    tooltip.style.left = Math.max(0, rect.left + (rect.width / 2) - (tooltipRect.width / 2)) + 'px';
+    tooltip.style.top = (rect.top - tooltipRect.height + 20 + window.scrollY) + 'px';
+  }
+
+  // Hide tooltip
+  function hideTooltip() {
+    if (tooltip) {
+      tooltip.classList.remove('show');
+    }
+  }
+
+  // Add event listeners to each segment
+  segments.forEach(segment => {
+    segment.addEventListener('mouseenter', function(e) {
+      const tooltipText = this.getAttribute('data-tooltip');
+      if (tooltipText) {
+        showTooltip(e, tooltipText);
+      }
+    });
+
+    segment.addEventListener('mouseleave', hideTooltip);
+  });
+
+  // Hide tooltip when scrolling
+  window.addEventListener('scroll', hideTooltip);
+});
+</script>
 
 {{- end }}{{/* end main */}}
