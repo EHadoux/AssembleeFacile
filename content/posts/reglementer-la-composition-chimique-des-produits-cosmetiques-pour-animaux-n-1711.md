@@ -1,4 +1,5 @@
 +++
+tags = ["Santé", "Écologie", "Agriculture"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_reglementer_composition_chimique_cosmetiques_pour_animaux_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Vendredi 11 juillet 2025"]
