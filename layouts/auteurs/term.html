@@ -84,6 +84,210 @@ found */}} {{ if $deputeInfo }}
 <div class="articles-section">
   <h3>Articles de {{ .Title }}</h3>
 
+  {{/* Calculate tag distribution for pie chart */}}
+  {{ $tagCounts := dict }}
+  {{ $totalTags := 0 }}
+  {{ range .Pages }}
+    {{ $tags := .Params.tags }}
+    {{ if $tags }}
+      {{ range $tags }}
+        {{ $tagCounts = merge $tagCounts (dict . (add (index $tagCounts . | default 0) 1)) }}
+        {{ $totalTags = add $totalTags 1 }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{/* Display pie chart if there are tags */}}
+  {{ if gt $totalTags 0 }}
+  <div class="tag-distribution-chart">
+    <h4>Répartition des domaines</h4>
+    <div class="pie-chart-container">
+      <svg class="pie-chart" viewBox="0 0 100 100">
+        {{ $currentAngle := 0 }}
+        {{ $sortedTags := slice }}
+        {{ range $tag, $count := $tagCounts }}
+          {{ $percentage := div (mul $count 100.0) $totalTags }}
+          {{ $sortedTags = $sortedTags | append (dict "tag" $tag "count" $count "percentage" $percentage) }}
+        {{ end }}
+        {{ $sortedTags = sort $sortedTags "count" "desc" }}
+
+        {{ $colors := slice "#e74c3c" "#3498db" "#2ecc71" "#f39c12" "#9b59b6" "#1abc9c" "#e67e22" "#34495e" "#f1c40f" "#95a5a6" "#8e44ad" "#16a085" "#27ae60" "#2980b9" "#c0392b" "#d35400" "#7f8c8d" "#2c3e50" "#e91e63" "#673ab7" }}
+        {{ $colorIndex := 0 }}
+
+        {{ range $index, $item := $sortedTags }}
+          {{ if gt $item.percentage 2 }}
+            {{ $angle := div (mul $item.percentage 360) 100 }}
+            {{ $endAngle := add $currentAngle $angle }}
+            {{ $largeArc := cond (gt $angle 180) 1 0 }}
+            {{ $x1 := add 50 (mul 45 (math.Cos (div (mul $currentAngle 3.14159) 180))) }}
+            {{ $y1 := add 50 (mul 45 (math.Sin (div (mul $currentAngle 3.14159) 180))) }}
+            {{ $x2 := add 50 (mul 45 (math.Cos (div (mul $endAngle 3.14159) 180))) }}
+            {{ $y2 := add 50 (mul 45 (math.Sin (div (mul $endAngle 3.14159) 180))) }}
+            {{ $color := index $colors (mod $colorIndex (len $colors)) }}
+            {{ $pathData := printf "M 50,50 L %.2f,%.2f A 45,45 0 %d,1 %.2f,%.2f z" $x1 $y1 $largeArc $x2 $y2 }}
+
+            <path class="pie-slice" data-tag="{{ $item.tag }}" data-count="{{ $item.count }}" data-percentage="{{ printf "%.1f" $item.percentage }}" d="{{ $pathData }}" fill="{{ $color }}" stroke="#fff" stroke-width="0.5"/>
+
+            {{ $currentAngle = $endAngle }}
+            {{ $colorIndex = add $colorIndex 1 }}
+          {{ end }}
+        {{ end }}
+
+        {{/* Group small tags as "Autres" */}}
+        {{ $otherCount := 0 }}
+        {{ $otherPercentage := 0 }}
+        {{ range $sortedTags }}
+          {{ if le .percentage 2 }}
+            {{ $otherCount = add $otherCount .count }}
+            {{ $otherPercentage = add $otherPercentage .percentage }}
+          {{ end }}
+        {{ end }}
+
+        {{ if gt $otherPercentage 0 }}
+          {{ $angle := div (mul $otherPercentage 360) 100 }}
+          {{ $endAngle := add $currentAngle $angle }}
+          {{ $largeArc := cond (gt $angle 180) 1 0 }}
+          {{ $x1 := add 50 (mul 45 (math.Cos (div (mul $currentAngle 3.14159) 180))) }}
+          {{ $y1 := add 50 (mul 45 (math.Sin (div (mul $currentAngle 3.14159) 180))) }}
+          {{ $x2 := add 50 (mul 45 (math.Cos (div (mul $endAngle 3.14159) 180))) }}
+          {{ $y2 := add 50 (mul 45 (math.Sin (div (mul $endAngle 3.14159) 180))) }}
+          {{ $color := index $colors (mod $colorIndex (len $colors)) }}
+          {{ $pathData := printf "M 50,50 L %.2f,%.2f A 45,45 0 %d,1 %.2f,%.2f z" $x1 $y1 $largeArc $x2 $y2 }}
+
+          <path class="pie-slice" data-tag="Autres" data-count="{{ $otherCount }}" data-percentage="{{ printf "%.1f" $otherPercentage }}" d="{{ $pathData }}" fill="{{ $color }}" stroke="#fff" stroke-width="0.5"/>
+        {{ end }}
+      </svg>
+
+      <div class="chart-tooltip" id="chart-tooltip"></div>
+    </div>
+  </div>
+
+  <style>
+    .tag-distribution-chart {
+      margin: 2rem 0 2rem 0;
+      text-align: center;
+    }
+
+    .tag-distribution-chart h4 {
+      margin: 0 0 1rem 0;
+      font-size: 1.3rem;
+      color: var(--primary);
+      text-align: center;
+      font-weight: 600;
+    }
+
+    .pie-chart-container {
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0 auto;
+      max-width: 225px;
+    }
+
+    .pie-chart {
+      width: 100%;
+      height: auto;
+      max-width: 200px;
+      filter: drop-shadow(0 4px 8px rgba(0,0,0,0.1));
+    }
+
+    .pie-slice {
+      cursor: pointer;
+      transition: all 0.2s ease;
+      transform-origin: 50% 50%;
+    }
+
+    .pie-slice:hover {
+      filter: brightness(1.15) saturate(1.1);
+      stroke-width: 1;
+    }
+
+    .chart-tooltip {
+      position: absolute;
+      background: var(--code-bg);
+      color: var(--content);
+      padding: 10px 14px;
+      border-radius: 6px;
+      font-size: 0.9rem;
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity 0.2s ease;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      z-index: 1000;
+      white-space: nowrap;
+      font-weight: 500;
+    }
+
+    .chart-tooltip.show {
+      opacity: 1;
+    }
+
+    @media (max-width: 768px) {
+      .pie-chart-container {
+        max-width: 175px;
+      }
+
+      .pie-chart {
+        max-width: 160px;
+      }
+
+      .tag-distribution-chart h4 {
+        font-size: 1.2rem;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .pie-chart-container {
+        max-width: 140px;
+      }
+
+      .pie-chart {
+        max-width: 130px;
+      }
+    }
+  </style>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const pieSlices = document.querySelectorAll('.pie-slice');
+      const tooltip = document.getElementById('chart-tooltip');
+
+      pieSlices.forEach(slice => {
+        slice.addEventListener('mouseenter', function(e) {
+          const tag = this.dataset.tag;
+          const count = this.dataset.count;
+          const percentage = this.dataset.percentage;
+
+          tooltip.innerHTML = `<strong>${tag}</strong><br>${count} article${count > 1 ? 's' : ''} (${percentage}%)`;
+          tooltip.classList.add('show');
+
+          // Position tooltip
+          const rect = this.getBoundingClientRect();
+          const containerRect = document.querySelector('.pie-chart-container').getBoundingClientRect();
+
+          tooltip.style.left = (e.clientX - containerRect.left + 15) + 'px';
+          tooltip.style.top = (e.clientY - containerRect.top - 10) + 'px';
+        });
+
+        slice.addEventListener('mouseleave', function() {
+          tooltip.classList.remove('show');
+        });
+
+        slice.addEventListener('mousemove', function(e) {
+          if (tooltip.classList.contains('show')) {
+            const containerRect = document.querySelector('.pie-chart-container').getBoundingClientRect();
+
+            tooltip.style.left = (e.clientX - containerRect.left + 15) + 'px';
+            tooltip.style.top = (e.clientY - containerRect.top - 10) + 'px';
+          }
+        });
+      });
+    });
+  </script>
+  {{ end }}
+
   {{ if .Pages }}
   {{- /* Custom sort by proposal number extracted from file name (descending) */ -}}
   {{- $sortedPages := slice }}
