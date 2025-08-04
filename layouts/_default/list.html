@@ -71,7 +71,7 @@ site.RegularPages "Type" "in" site.Params.mainSections }} {{- $pages = where $pa
 
 {{- $paginator := .Paginate $pages }} {{- if and
 .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }} {{- partial "home_info.html" . }}
-{{- end }} 
+{{- end }}
 
 {{- $term := .Data.Term }} {{- range $index, $page := $paginator.Pages }} {{- $class :=
 "post-entry" }} {{- $user_preferred := or site.Params.disableSpecial1stPost
@@ -182,7 +182,7 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
     style="position: absolute; inset: 0; z-index: 1;"></a>
 </article>
 {{- end }} {{- if gt $paginator.TotalPages 1 }}
-<footer class="page-footer">
+<footer class="page-footer" style="border: 0px; margin-top: 1em; background: none">
   <nav class="pagination">
     {{- if $paginator.HasPrev }}
     <a class="prev" href="{{ $paginator.Prev.URL | absURL }}">
