@@ -1,7 +1,7 @@
 +++
 date = 2025-03-18
 draft = false
-title = "Supprimer toute interprétation du mariage comme impliquant un "devoir conjugal" et garantir le consentement explicite aux relations sexuelles entre époux - N° 1128"
+title = "Supprimer toute interprétation du mariage comme impliquant un \"devoir conjugal\" et garantir le consentement explicite aux relations sexuelles entre époux - N° 1128"
 auteurs = ["Marie-Charlotte Garin","Fatiha Keloua Hachi","Céline Thiébault-Martinez","Sarah Legrain","Manon Meunier","Karine Lebon","Mereana Reid Arbelot","Marie-Pierre Rixain","Véronique Riotton","Stella Dupont","Sandrine Josso","Gabriel Amard","Christine Arrighi","Léa Balage El Mariky","Lisa Belluco","Christophe Bex","Nicolas Bonnet","Mickaël Bouloux","Pierre-Yves Cadalen","Eléonore Caroit","Gabrielle Cathala","Hendrik Davi","Arthur Delaporte","Julie Delpech","Peio Dufau","Emmanuel Duplessy","Mathilde Feld","Emmanuel Fernandes","Guillaume Gouffier Valente","Steevy Gustave","Céline Hervieu","Mathilde Hignet","Émeline K/Bidi","Julie Laernoes","Maxime Laisney","Élise Leboucher","Laurent Lhardit","Damien Maudet","Sandrine Nosbé","Julie Ozenne","Constance De Pélichy","Sébastien Peytavie","Marie Pochon","Jean-Claude Raux","Sandrine Rousseau","Anne Stambach-Terrenoir","Sophie Taillé-Polian","Boris Tavernier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/supprimer_devoir_conjugal_garantir_consentement_entre_epoux_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
