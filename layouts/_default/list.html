@@ -1,34 +1,9 @@
 {{- define "main" }}
-{{- if (and site.Params.profileMode .IsHome) }} {{- partial
-"index_profile.html" . }} {{- else }} {{/* if not profileMode */}} {{- if not .IsHome | and .Title
-}}
-<header class="page-header">
-  {{- partial "breadcrumbs.html" . }}
-  <h1>
-    {{ .Title }} {{- if and (or (eq .Kind `term`) (eq .Kind `section`)) (.Param
-    "ShowRssButtonInSectionTermList") }} {{- with .OutputFormats.Get "rss" }}
-    <a href="{{ .RelPermalink }}" title="RSS" aria-label="RSS">
-      <svg
-        xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 24 24"
-        fill="none"
-        stroke="currentColor"
-        stroke-width="2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        height="23">
-        <path d="M4 11a9 9 0 0 1 9 9" />
-        <path d="M4 4a16 16 0 0 1 16 16" />
-        <circle cx="5" cy="19" r="1" />
-      </svg>
-    </a>
-    {{- end }} {{- end }}
-  </h1>
-  {{- if .Description }}
-  <div class="post-description">{{ .Description | markdownify }}</div>
-  {{- end }}
-</header>
-{{- end }} {{- if .IsHome }}
+{{- if (and site.Params.profileMode .IsHome) }} 
+{{- partial "index_profile.html" . }} 
+{{- else }} {{/* if not profileMode */}} 
+
+{{- if .IsHome }}
 <div class="hero-section">
   <div class="hero-content">
     <h1>Assemblée Facile</h1>
@@ -39,7 +14,38 @@
     </p>
   </div>
 </div>
-{{- end }} {{- if .Content }}
+{{- end }}
+
+<div class="content-container">
+  <div class="main-content{{ if eq .Kind "term" }} full-width{{ end }}">
+    {{- if not .IsHome | and .Title }}
+    <header class="page-header">
+      {{- partial "breadcrumbs.html" . }}
+      <h1>
+        {{ .Title }} {{- if and (or (eq .Kind `term`) (eq .Kind `section`)) (.Param
+        "ShowRssButtonInSectionTermList") }} {{- with .OutputFormats.Get "rss" }}
+        <a href="{{ .RelPermalink }}" title="RSS" aria-label="RSS">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            height="23">
+            <path d="M4 11a9 9 0 0 1 9 9" />
+            <path d="M4 4a16 16 0 0 1 16 16" />
+            <circle cx="5" cy="19" r="1" />
+          </svg>
+        </a>
+        {{- end }} {{- end }}
+      </h1>
+      {{- if .Description }}
+      <div class="post-description">{{ .Description | markdownify }}</div>
+      {{- end }}
+    </header>
+    {{- end }} {{- if .Content }}
 <div class="post-content">
   {{- if not (.Param "disableAnchoredHeadings") }} {{- partial "anchored_headings.html" .Content -}}
   {{- else }}{{ .Content }}{{ end }}
@@ -69,7 +75,12 @@ site.RegularPages "Type" "in" site.Params.mainSections }} {{- $pages = where $pa
   {{- $pages = $pages | append .page }}
 {{- end }}
 
-{{- $paginator := .Paginate $pages }} {{- if and
+{{- $paginator := .Paginate $pages }}
+
+{{- /* Determine if sidebar should be shown */ -}}
+{{- $showSidebar := and (ne .Kind "term") (eq $paginator.PageNumber 1) }}
+
+{{- if and
 .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }} {{- partial "home_info.html" . }}
 {{- end }}
 
@@ -102,7 +113,7 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
         <svg
           xmlns="http://www.w3.org/2000/svg"
           height="20"
-          viewBox="0 -960 960 960"
+          viewBox="0 0 24 24"
           fill="currentColor">
           <path
             d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
@@ -181,7 +192,179 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
     href="{{ $page.Permalink }}"
     style="position: absolute; inset: 0; z-index: 1;"></a>
 </article>
-{{- end }} {{- if gt $paginator.TotalPages 1 }}
+{{- end }} 
+
+  </div>
+  
+  {{- if $showSidebar }}
+  <div class="sidebar">
+
+    {{/* Charger les données CSV */}}
+    {{- $deputesData := slice }}
+    {{- $groupesData := slice }}
+    
+    {{/* Parser le fichier députés avec transform.Unmarshal */}}
+    {{- $deputesFile := resources.Get "deputes-active.csv" }}
+    {{- if $deputesFile }}
+      {{- $opts := dict "delimiter" "," }}
+      {{- $deputesRaw := $deputesFile | transform.Unmarshal $opts }}
+      {{- if gt (len $deputesRaw) 1 }}
+        {{/* Ignorer la première ligne (headers) */}}
+        {{- range after 1 $deputesRaw }}
+          {{- if ge (len .) 10 }}
+            {{- $nom := index . 3 }}
+            {{- $prenom := index . 4 }}
+            {{- $groupe := index . 8 }}
+            {{- $nomComplet := printf "%s %s" $prenom $nom }}
+            {{- $deputesData = $deputesData | append (dict "nom" $nomComplet "groupe" $groupe) }}
+          {{- end }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+    
+    {{/* Parser le fichier groupes avec transform.Unmarshal */}}
+    {{- $groupesFile := resources.Get "groupes.csv" }}
+    {{- if $groupesFile }}
+      {{- $opts := dict "delimiter" "," }}
+      {{- $groupesRaw := $groupesFile | transform.Unmarshal $opts }}
+      {{- if gt (len $groupesRaw) 1 }}
+        {{/* Ignorer la première ligne (headers) */}}
+        {{- range after 1 $groupesRaw }}
+          {{- if ge (len .) 3 }}
+            {{- $groupeNom := index . 0 }}
+            {{- $couleur := index . 2 }}
+            {{- if and $groupeNom $couleur }}
+              {{- $groupesData = $groupesData | append (dict "nom" $groupeNom "couleur" $couleur) }}
+            {{- end }}
+          {{- end }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+
+    {{/* 10 plus gros contributeurs */}}
+    {{- $auteurCounts := dict }}
+    {{- range site.RegularPages }}
+      {{- $auteurs := .Param "auteurs" }}
+      {{- if $auteurs }}
+        {{- range $auteurs }}
+          {{- $count := index $auteurCounts . | default 0 }}
+          {{- $auteurCounts = merge $auteurCounts (dict . (add $count 1)) }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+
+    {{- $sortedAuteurs := slice }}
+    {{- range $auteur, $count := $auteurCounts }}
+      {{/* Trouver le groupe politique de cet auteur */}}
+      {{- $auteurGroupe := "" }}
+      {{- $groupeCouleur := "" }}
+      {{- range $deputesData }}
+        {{- if eq .nom $auteur }}
+          {{- $auteurGroupe = .groupe }}
+          {{/* Trouver la couleur du groupe */}}
+          {{- range $groupesData }}
+            {{- if eq .nom $auteurGroupe }}
+              {{- $groupeCouleur = .couleur }}
+              {{- break }}
+            {{- end }}
+          {{- end }}
+          {{- break }}
+        {{- end }}
+      {{- end }}
+      {{- $sortedAuteurs = $sortedAuteurs | append (dict "nom" $auteur "count" $count "groupe" $auteurGroupe "couleur" $groupeCouleur) }}
+    {{- end }}
+    {{- $sortedAuteurs = sort $sortedAuteurs "count" "desc" }}
+    {{- $top10Auteurs := first 10 $sortedAuteurs }}
+
+    <div class="stat-item">
+      <h4>10 plus gros contributeurs</h4>
+      <div class="top-authors">
+        {{- range $index, $auteur := $top10Auteurs }}
+        <div class="author-item">
+          <span class="author-rank">{{ add $index 1 }}.</span>
+          <div class="author-info">
+            <div class="author-name-line">
+              <a href="{{ printf "/auteurs/%s/" ($auteur.nom | urlize) | relURL }}" class="author-name">{{ $auteur.nom }}</a>
+              <span class="author-count">({{ $auteur.count }})</span>
+            </div>
+            {{- if and $auteur.groupe $auteur.couleur (ne (lower $auteur.groupe) "non inscrits") }}
+            <span class="author-party" style="background-color: {{ $auteur.couleur }};">{{ $auteur.groupe }}</span>
+            {{- end }}
+          </div>
+        </div>
+        {{- end }}
+      </div>
+    </div>
+
+    <!-- {{/* Contributions par parti */}}
+    {{- $contributionsByParty := dict }}
+    {{- range site.RegularPages }}
+      {{- $auteurs := .Param "auteurs" }}
+      {{- if $auteurs }}
+        {{- $pageParties := slice }}
+        {{- range $auteurs }}
+          {{- $auteurGroupe := "" }}
+          {{- range $deputesData }}
+            {{- if eq .nom . }}
+              {{- $auteurGroupe = .groupe }}
+              {{- break }}
+            {{- end }}
+          {{- end }}
+          {{- if $auteurGroupe }}
+            {{- if and (ne (lower $auteurGroupe) "non inscrits") (not (in $pageParties $auteurGroupe)) }}
+              {{- $pageParties = $pageParties | append $auteurGroupe }}
+            {{- end }}
+          {{- else }}
+            {{- if or (strings.Contains . "Président") (strings.Contains . "Sénat") }}
+              {{- if not (in $pageParties "Sénat") }}
+                {{- $pageParties = $pageParties | append "Sénat" }}
+              {{- end }}
+            {{- end }}
+          {{- end }}
+        {{- end }}
+        {{- range $pageParties }}
+          {{- $currentCount := index $contributionsByParty . | default 0 }}
+          {{- $contributionsByParty = merge $contributionsByParty (dict . (add $currentCount 1)) }}
+        {{- end }}
+      {{- end }}
+    {{- end }} -->
+
+    <!-- {{- $sortedParties := slice }}
+    {{- range $party, $count := $contributionsByParty }}
+      {{- $partyCouleur := "" }}
+      {{- range $groupesData }}
+        {{- if eq .nom $party }}
+          {{- $partyCouleur = .couleur }}
+          {{- break }}
+        {{- end }}
+      {{- end }}
+      {{- $sortedParties = $sortedParties | append (dict "nom" $party "count" $count "couleur" $partyCouleur) }}
+    {{- end }}
+    {{- $sortedParties = sort $sortedParties "count" "desc" }} -->
+
+    <!-- <div class="stat-item">
+      <h4>Contributions par parti</h4>
+      <div class="party-contributions">
+        {{- range $party := $sortedParties }}
+        <div class="party-item">
+          <div class="party-name-line">
+            {{- if $party.couleur }}
+            <span class="party-badge" style="background-color: {{ $party.couleur }};">{{ $party.nom }}</span>
+            {{- else }}
+            <span class="party-name">{{ $party.nom }}</span>
+            {{- end }}
+            <span class="party-count">{{ $party.count }}</span>
+          </div>
+        </div>
+        {{- end }}
+      </div>
+    </div> -->
+
+  </div>
+  {{- end }}
+</div>
+
+{{- if gt $paginator.TotalPages 1 }}
 <footer class="page-footer" style="border: 0px; margin-top: 1em; background: none">
   <nav class="pagination">
     {{- if $paginator.HasPrev }}
@@ -221,7 +404,7 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
       {{- if eq $pageNum 1 }}
       <a href="{{ $.Paginator.First.URL | absURL }}">{{ $pageNum }}</a>
       {{- else }}
-      <a href="{{ printf "/AssembleeFacile/page/%d/" $pageNum | absURL }}">{{ $pageNum }}</a>
+      <a href="{{ printf "/page/%d/" $pageNum | absURL }}">{{ $pageNum }}</a>
       {{- end }}
       {{- end }}
       {{- end }}
@@ -242,4 +425,19 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
     {{- end }}
   </nav>
 </footer>
-{{- end }} {{- end }}{{/* end profileMode */}} {{- end }}{{- /* end main */ -}}
+{{- end }}
+
+<script>
+// Auto-detect if sidebar is missing and apply full-width layout
+document.addEventListener('DOMContentLoaded', function() {
+  const container = document.querySelector('.content-container');
+  const sidebar = document.querySelector('.sidebar');
+  
+  if (container && !sidebar) {
+    container.classList.add('no-sidebar');
+  }
+});
+</script>
+
+{{- end }}{{/* end profileMode */}} 
+{{- end }}{{/* end main */}}
