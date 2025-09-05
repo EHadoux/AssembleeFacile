@@ -101,8 +101,9 @@ found */}} {{ if $deputeInfo }}
   {{ if gt $totalTags 0 }}
   <div class="tag-distribution-chart">
     <h4>Répartition des domaines</h4>
-    <div class="pie-chart-container">
-      <svg class="pie-chart" viewBox="0 0 100 100">
+    <div class="chart-and-table-container">
+      <div class="pie-chart-container">
+        <svg class="pie-chart" viewBox="0 0 100 100">
         {{ $currentAngle := 0 }}
         {{ $sortedTags := slice }}
         {{ range $tag, $count := $tagCounts }}
@@ -160,12 +161,27 @@ found */}} {{ if $deputeInfo }}
 
       <div class="chart-tooltip" id="chart-tooltip"></div>
     </div>
+
+    {{/* Table with top categories */}}
+    <div class="top-categories-table">
+      <table class="categories-table">
+        {{ $topThree := first 3 $sortedTags }}
+        {{ range $index, $item := $topThree }}
+          {{ if gt $item.percentage 0 }}
+          <tr>
+            <td class="category-name">{{ $item.tag }}</td>
+            <td class="category-count">{{ $item.count }}</td>
+            <td class="category-percentage">{{ printf "%.1f%%" $item.percentage }}</td>
+          </tr>
+          {{ end }}
+        {{ end }}
+      </table>
+    </div>
   </div>
 
   <style>
     .tag-distribution-chart {
       margin: 2rem 0 2rem 0;
-      text-align: center;
     }
 
     .tag-distribution-chart h4 {
@@ -181,7 +197,7 @@ found */}} {{ if $deputeInfo }}
       display: flex;
       justify-content: center;
       align-items: center;
-      margin: 0 auto;
+      margin: 0;
       max-width: 225px;
     }
 

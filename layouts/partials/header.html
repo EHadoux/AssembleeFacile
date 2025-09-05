@@ -117,8 +117,19 @@
                     {{- end}}
                 </ul>
                 {{- end }}
+
+                <!-- Mobile menu toggle button -->
+                <button class="mobile-menu-toggle" id="mobile-menu-toggle" aria-label="Toggle mobile menu">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <line x1="3" y1="6" x2="21" y2="6"></line>
+                        <line x1="3" y1="12" x2="21" y2="12"></line>
+                        <line x1="3" y1="18" x2="21" y2="18"></line>
+                    </svg>
+                </button>
             </div>
         </div>
+        
+        <!-- Desktop navigation -->
         {{- $currentPage := . }}
         <ul id="menu">
             {{- range site.Menus.main }}
@@ -155,3 +166,89 @@
         </ul>
     </nav>
 </header>
+
+<!-- Mobile navigation overlay and menu -->
+<nav class="mobile-nav-menu" id="mobile-nav-menu">
+    <div class="mobile-nav-header">
+        <div class="mobile-nav-title">Menu</div>
+        <button class="mobile-nav-close" id="mobile-nav-close" aria-label="Close mobile menu">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="18" y1="6" x2="6" y2="18"></line>
+                <line x1="6" y1="6" x2="18" y2="18"></line>
+            </svg>
+        </button>
+    </div>
+    <ul class="mobile-nav-list">
+        {{- range site.Menus.main }}
+        {{- $is_search := eq (site.GetPage .KeyName).Layout `search` }}
+        <li>
+            <a href="{{ .URL | absLangURL }}" 
+               title="{{ .Title | default .Name }}"
+               {{- cond $is_search (" accesskey=/" | safeHTMLAttr) ("" | safeHTMLAttr ) }}>
+                {{- .Pre }}
+                {{- .Name -}}
+                {{ .Post -}}
+                {{- if (findRE "://" .URL) }}
+                <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                    stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12" style="margin-left: 8px;">
+                    <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                    <path d="M15 3h6v6"></path>
+                    <path d="M10 14L21 3"></path>
+                </svg>
+                {{- end }}
+            </a>
+        </li>
+        {{- end }}
+        {{- /* GitHub link */}}
+        <li>
+            <a href="https://github.com/EHadoux/AssembleeFacile" title="GitHub" target="_blank" rel="noopener noreferrer">
+                <span>
+                    <i class="fab fa-github"></i>
+                </span>
+            </a>
+        </li>
+    </ul>
+</nav>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const mobileMenuToggle = document.getElementById('mobile-menu-toggle');
+    const mobileNavMenu = document.getElementById('mobile-nav-menu');
+    const mobileNavClose = document.getElementById('mobile-nav-close');
+
+    function openMobileMenu() {
+        if (mobileNavMenu) {
+            mobileNavMenu.classList.add('open');
+            document.body.style.overflow = 'hidden';
+        }
+    }
+
+    function closeMobileMenu() {
+        if (mobileNavMenu) {
+            mobileNavMenu.classList.remove('open');
+            document.body.style.overflow = '';
+        }
+    }
+
+    if (mobileMenuToggle) {
+        mobileMenuToggle.addEventListener('click', openMobileMenu);
+    }
+
+    if (mobileNavClose) {
+        mobileNavClose.addEventListener('click', closeMobileMenu);
+    }
+
+    // Close menu when clicking on a link
+    const mobileNavLinks = document.querySelectorAll('.mobile-nav-list a');
+    mobileNavLinks.forEach(link => {
+        link.addEventListener('click', closeMobileMenu);
+    });
+
+    // Close menu on escape key
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape' && mobileNavMenu && mobileNavMenu.classList.contains('open')) {
+            closeMobileMenu();
+        }
+    });
+});
+</script>

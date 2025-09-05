@@ -129,6 +129,93 @@
   transform: translateX(-50%);
 }
 
+/* Political Distribution Table Styles */
+.political-distribution-table {
+  margin-top: 1.5rem;
+}
+
+.political-distribution-table h4 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--primary);
+  margin: 0 0 1rem 0;
+}
+
+.parties-table {
+  width: fit-content;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  background: var(--entry);
+  border-radius: 8px;
+  overflow: hidden;
+  margin: auto;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.parties-table th,
+.parties-table td {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+}
+
+.parties-table th {
+  background: var(--theme);
+  color: var(--content);
+  font-weight: 600;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.parties-table tr:last-child td {
+  border-bottom: none;
+}
+
+.parties-table tr:hover {
+  background: var(--hljs-bg);
+}
+
+.party-name {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-weight: 500;
+}
+
+.party-color {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.party-present {
+  text-align: center;
+  font-weight: 600;
+  color: var(--primary);
+}
+
+.party-total {
+  text-align: center;
+  color: var(--secondary);
+}
+
+@media (max-width: 768px) {
+  .parties-table {
+    font-size: 0.85rem;
+  }
+  
+  .parties-table th,
+  .parties-table td {
+    padding: 0.6rem 0.8rem;
+  }
+  
+  .political-distribution-table h4 {
+    font-size: 1rem;
+  }
+}
+
 /* Custom Tooltip Styles */
 .custom-tooltip {
   position: absolute;
@@ -316,6 +403,38 @@
               {{- end }}
             {{- end }}
           </div>
+        </div>
+        
+        {{/* Political distribution table */}}
+        <div class="political-distribution-table">
+          <h4>Répartition par parti</h4>
+          <table class="parties-table">
+            <thead>
+              <tr>
+                <th>Parti</th>
+                <th>Signataires</th>
+                <th>Total</th>
+              </tr>
+            </thead>
+            <tbody>
+              {{- range $groupesData }}
+                {{- $groupeNom := .nom }}
+                {{- $totalGroupe := index $totalDeputesParGroupe $groupeNom | default 0 }}
+                {{- $auteursGroupe := index $groupeCounts $groupeNom | default 0 }}
+                
+                {{- if and (gt $totalGroupe 0) (gt $auteursGroupe 0) }}
+                  <tr>
+                    <td class="party-name">
+                      <span class="party-color" style="background-color: {{ .couleur }};"></span>
+                      {{ $groupeNom }}
+                    </td>
+                    <td class="party-present">{{ $auteursGroupe }}</td>
+                    <td class="party-total">{{ $totalGroupe }}</td>
+                  </tr>
+                {{- end }}
+              {{- end }}
+            </tbody>
+          </table>
         </div>
       {{- end }}
     {{- end }}
