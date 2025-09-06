@@ -20,7 +20,7 @@
 /* Container for the 2/3 - 1/3 layout */
 .content-container {
   display: grid;
-  grid-template-columns: 2fr 1fr;
+  grid-template-columns: 70% 30%;
   gap: 2rem;
   max-width: calc(var(--main-width) + var(--gap) * 2);
   margin: 0 auto;
@@ -87,10 +87,7 @@
 }
 
 .author-item {
-  display: grid;
-  grid-template-columns: 1.5rem 1fr;
-  grid-template-rows: auto auto;
-  gap: 0.5rem 0.5rem;
+  display: flex;
   padding: 0.5rem 0;
   border-bottom: 1px solid var(--border);
   font-size: 0.85rem;
@@ -199,7 +196,7 @@
   color: white !important;
   text-decoration: none;
   white-space: normal;
-  line-height: 1.2;
+  line-height: 1.1;
   max-width: 100%;
 }
 

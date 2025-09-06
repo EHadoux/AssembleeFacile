@@ -241,7 +241,7 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
       {{- end }}
     {{- end }}
 
-    {{/* 10 plus gros contributeurs */}}
+    {{/* 5 plus gros contributeurs */}}
     {{- $auteurCounts := dict }}
     {{- range site.RegularPages }}
       {{- $auteurs := .Param "auteurs" }}
@@ -274,14 +274,14 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
       {{- $sortedAuteurs = $sortedAuteurs | append (dict "nom" $auteur "count" $count "groupe" $auteurGroupe "couleur" $groupeCouleur) }}
     {{- end }}
     {{- $sortedAuteurs = sort $sortedAuteurs "count" "desc" }}
-    {{- $top10Auteurs := first 10 $sortedAuteurs }}
+    {{- $top5Auteurs := first 5 $sortedAuteurs }}
 
     <div class="stat-item">
-      <h4>10 plus gros contributeurs</h4>
+      <h4>5 plus gros contributeurs</h4>
       <div class="top-authors">
-        {{- range $index, $auteur := $top10Auteurs }}
+        {{- range $index, $auteur := $top5Auteurs }}
         <div class="author-item">
-          <span class="author-rank">{{ add $index 1 }}.</span>
+          <!-- <span class="author-rank">{{ add $index 1 }}.</span> -->
           <div class="author-info">
             <div class="author-name-line">
               <a href="{{ printf "/auteurs/%s/" ($auteur.nom | urlize) | relURL }}" class="author-name">{{ $auteur.nom }}</a>
@@ -296,16 +296,17 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
       </div>
     </div>
 
-    <!-- {{/* Contributions par parti */}}
-    {{- $contributionsByParty := dict }}
+    {{/* Propositions par parti - chaque proposition compte 1 fois par parti */}}
+    {{- $propositionsByParty := dict }}
     {{- range site.RegularPages }}
       {{- $auteurs := .Param "auteurs" }}
       {{- if $auteurs }}
         {{- $pageParties := slice }}
         {{- range $auteurs }}
+          {{- $auteurNom := . }}
           {{- $auteurGroupe := "" }}
           {{- range $deputesData }}
-            {{- if eq .nom . }}
+            {{- if eq .nom $auteurNom }}
               {{- $auteurGroupe = .groupe }}
               {{- break }}
             {{- end }}
@@ -315,7 +316,7 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
               {{- $pageParties = $pageParties | append $auteurGroupe }}
             {{- end }}
           {{- else }}
-            {{- if or (strings.Contains . "Président") (strings.Contains . "Sénat") }}
+            {{- if or (strings.Contains $auteurNom "Président") (strings.Contains $auteurNom "Sénat") }}
               {{- if not (in $pageParties "Sénat") }}
                 {{- $pageParties = $pageParties | append "Sénat" }}
               {{- end }}
@@ -323,14 +324,14 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
           {{- end }}
         {{- end }}
         {{- range $pageParties }}
-          {{- $currentCount := index $contributionsByParty . | default 0 }}
-          {{- $contributionsByParty = merge $contributionsByParty (dict . (add $currentCount 1)) }}
+          {{- $currentCount := index $propositionsByParty . | default 0 }}
+          {{- $propositionsByParty = merge $propositionsByParty (dict . (add $currentCount 1)) }}
         {{- end }}
       {{- end }}
-    {{- end }} -->
+    {{- end }}
 
-    <!-- {{- $sortedParties := slice }}
-    {{- range $party, $count := $contributionsByParty }}
+    {{- $sortedParties := slice }}
+    {{- range $party, $count := $propositionsByParty }}
       {{- $partyCouleur := "" }}
       {{- range $groupesData }}
         {{- if eq .nom $party }}
@@ -340,25 +341,25 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
       {{- end }}
       {{- $sortedParties = $sortedParties | append (dict "nom" $party "count" $count "couleur" $partyCouleur) }}
     {{- end }}
-    {{- $sortedParties = sort $sortedParties "count" "desc" }} -->
+    {{- $sortedParties = sort $sortedParties "count" "desc" }}
 
-    <!-- <div class="stat-item">
-      <h4>Contributions par parti</h4>
+    <div class="stat-item">
+      <h4>Propositions par parti</h4>
       <div class="party-contributions">
         {{- range $party := $sortedParties }}
         <div class="party-item">
-          <div class="party-name-line">
+          <div class="party-name-line" style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px; margin-bottom: 4px;">
             {{- if $party.couleur }}
-            <span class="party-badge" style="background-color: {{ $party.couleur }};">{{ $party.nom }}</span>
+            <span class="party-badge" style="background-color: {{ $party.couleur }}; color: white; border-radius: 3px; padding: 2px 6px; font-size: 0.85em; font-weight: 600; display: inline-block; flex: 1; max-width: calc(100% - 50px); word-wrap: break-word; overflow-wrap: break-word; white-space: normal; line-height: 1.1;">{{ $party.nom }}</span>
             {{- else }}
-            <span class="party-name">{{ $party.nom }}</span>
+            <span class="party-name" style="flex: 1; max-width: calc(100% - 50px); word-wrap: break-word; overflow-wrap: break-word; white-space: normal; line-height: 1.3;">{{ $party.nom }}</span>
             {{- end }}
-            <span class="party-count">{{ $party.count }}</span>
+            <span class="party-count" style="font-weight: 600; color: #374151; min-width: 40px; text-align: right; flex-shrink: 0; align-self: flex-start;">{{ $party.count }}</span>
           </div>
         </div>
         {{- end }}
       </div>
-    </div> -->
+    </div>
 
   </div>
   {{- end }}
