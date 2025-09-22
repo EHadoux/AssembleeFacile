@@ -2,7 +2,7 @@
 date = 2025-03-11
 draft = false
 title = "Déconjugaliser l’allocation de soutien familial - N° 1094"
-auteurs = ["Sarah Legrain","Maud Petit","Anne-Cécile Viollan","Constance De Pélichy","Sandrine Josso","Mathilde Panot","Sandrine Rousseau","Hadrien Clouet","Philippe Brun","Karine Lebon","Colette Capdevielle","Marie-Charlotte Garin","Mereana Reid Arbelot","Ayda Hadizadeh","Sébastien Peytavie","Céline Thiébault-Martinez","Marie Pochon","Stéphane Hablot","Jean-Claude Raux","Marie-Noëlle Battistel","Boris Tavernier","Denis Fégné","Julie Laernoes","Mickaël Bouloux","Florence Herouin-Léautey","Belkhir Belhaddad","Les membres du groupe La France insoumise - Nouveau Front Populaire"]
+auteurs = ["Sarah Legrain","Maud Petit","Anne-Cécile Violland","Constance De Pélichy","Sandrine Josso","Mathilde Panot","Sandrine Rousseau","Hadrien Clouet","Philippe Brun","Karine Lebon","Colette Capdevielle","Marie-Charlotte Garin","Mereana Reid Arbelot","Ayda Hadizadeh","Sébastien Peytavie","Céline Thiébault-Martinez","Marie Pochon","Stéphane Hablot","Jean-Claude Raux","Marie-Noëlle Battistel","Boris Tavernier","Denis Fégné","Julie Laernoes","Mickaël Bouloux","Florence Herouin-Léautey","Belkhir Belhaddad","Les membres du groupe La France insoumise - Nouveau Front Populaire"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/deconjugaliser_allocation_soutien_familial"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 11 mars 2025"]

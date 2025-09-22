@@ -2,7 +2,7 @@
 date = 2025-01-21
 draft = false
 title = "Intégrer explicitement la notion de consentement dans les définitions d’agression sexuelle et de viol - N° 796"
-auteurs = ["Nathalie Colin-Oesterlé","Joël Bruneau","Jean-René Cazeneuve","Philippe Fait","Vincent Jeanbrun","Lise Magnier","Laurent Mazaury","Hubert Ott","Maud Petit","Isabelle Rauch","Jean-Pierre Taite","Vincent Thiébaut","Anne-Cécile Viollan"]
+auteurs = ["Nathalie Colin-Oesterlé","Joël Bruneau","Jean-René Cazeneuve","Philippe Fait","Vincent Jeanbrun","Lise Magnier","Laurent Mazaury","Hubert Ott","Maud Petit","Isabelle Rauch","Jean-Pierre Taite","Vincent Thiébaut","Anne-Cécile Violland"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/notion_consentement_definition_agression_sexuelle_viol_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 21 janvier 2025"]

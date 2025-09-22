@@ -1,7 +1,7 @@
 +++
 date = 2025-09-16
 draft = false
-title = "renforcer la sécurité des utilisateurs de trottinettes électriques et celle des autres usagers de la route - N° 1844"
+title = "Renforcer la sécurité des utilisateurs de trottinettes électriques et celle des autres usagers de la route - N° 1844"
 auteurs = ["Fabien Di Filippo","Jean-Luc Bourgeaux","Fabrice Brun","Pierre Cordier","Josiane Corneloup","Vincent Descoeur","Sylvie Dezarnaud","Virginie Duby-Muller","Justine Gruet","Patrick Hetzel","Alexandra Martin","Éric Pauget","Christelle Petex","Jean-Pierre Taite"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_renforcer_securite_des_utilisateurs_de_trottinettes_electriques_et_celle_des_autres_usagers_de_la_route_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]

@@ -2,7 +2,7 @@
 date = 2025-01-21
 draft = false
 title = "Simplifier la sortie de l’indivision successorale - N° 823"
-auteurs = ["Louise Morel","Nicolas Turquoi"]
+auteurs = ["Louise Morel","Nicolas Turquois"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/simplifier_sortie_indivision_successorale"
 stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat"]
 stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025","Vendredi 7 mars 2025"]

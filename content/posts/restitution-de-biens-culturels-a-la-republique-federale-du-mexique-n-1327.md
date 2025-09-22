@@ -2,7 +2,7 @@
 date = 2025-04-17
 draft = false
 title = "Restitution de biens culturels à la République fédérale du Mexique - N° 1327"
-auteurs = ["Sophia Chikrou","Arnaud Le Gall","Nadège Abomangoli","Rodrigo Arenas","Idir Boumertit","Perceval Gaillard","Stéphane Hablot"]
+auteurs = ["Sophia Chikirou","Arnaud Le Gall","Nadège Abomangoli","Rodrigo Arenas","Idir Boumertit","Perceval Gaillard","Stéphane Hablot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/restitution_biens_culturels_mexique_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Jeudi 17 avril 2025"]

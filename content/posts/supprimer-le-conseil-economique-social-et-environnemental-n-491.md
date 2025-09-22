@@ -2,7 +2,7 @@
 date = 2024-10-28
 draft = false
 title = "Supprimer le Conseil économique, social et environnemental - N° 491"
-auteurs = ["Éric Ciotti","Alexandre Allegret-Pilot","Charles Alloncle","Brigitte Barèges","Matthieu Bloch","Bernard Chaix","Marc Chavent","Christelle D'intorni","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Maxime Michelet","Éric Michoux","Vincent Trébuchet","Sophie Vaginay","Gérault Verny"]
+auteurs = ["Éric Ciotti","Alexandre Allegret-Pilot","Charles Alloncle","Brigitte Barèges","Matthieu Bloch","Bernard Chaix","Marc Chavent","Christelle D'intorni","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Maxime Michelet","Éric Michoux","Vincent Trébuchet","Sophie Ricourt Vaginay","Gérault Verny"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/2suppression_CESE_again"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Lundi 28 octobre 2024"]
