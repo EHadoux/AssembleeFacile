@@ -325,10 +325,7 @@ found */}} {{ if $deputeInfo }}
     {{ range $sortedPages }}
     {{- $page := .page }}
     <article class="post-entry">
-      {{- /* Recent post indicator - if posted within last 7 days */ -}} {{- $daysSince := div (sub
-      now.Unix $page.Date.Unix) 86400 }} {{- if le $daysSince 7 }}
-      <div class="recent-indicator">Nouveau</div>
-      {{- end }} {{- /* Extract proposal number from title */ -}} {{- $title := $page.Title }} {{-
+      {{- /* Extract proposal number from title */ -}} {{- $title := $page.Title }} {{-
       $proposalNum := "" }} {{- if strings.Contains $title " - N° " }} {{- $parts := split $title "- N° " }} {{- if eq (len $parts) 2 }} {{- $proposalNum = printf "N° %s" (index $parts 1) }}
       {{- $title = index $parts 0 }} {{- end }} {{- end }}
 
