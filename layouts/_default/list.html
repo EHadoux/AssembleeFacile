@@ -93,12 +93,6 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
   {{- $isHidden := ($page.Param "cover.hiddenInList") | default ($page.Param "cover.hidden") | default false
   }} {{- partial "cover.html" (dict "cxt" $page "IsSingle" false "isHidden" $isHidden) }}
 
-  {{- /* Recent post indicator - if posted within last 7 days */ -}}
-  {{- $daysSince := div (sub now.Unix $page.Date.Unix) 86400 }}
-  {{- if le $daysSince 7 }}
-  <div class="recent-indicator">Nouveau</div>
-  {{- end }}
-
   <header class="entry-header">
     {{- /* Extract proposal number from title */ -}} {{- $title := $page.Title }} {{- $proposalNum := ""
     }} {{- if strings.Contains $title " - N° " }} {{- $parts := split $title " - N° " }} {{- if eq
@@ -199,82 +193,13 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
   {{- if $showSidebar }}
   <div class="sidebar">
 
-    {{/* Charger les données CSV */}}
-    {{- $deputesData := slice }}
-    {{- $groupesData := slice }}
-    
-    {{/* Parser le fichier députés avec transform.Unmarshal */}}
-    {{- $deputesFile := resources.Get "deputes-active.csv" }}
-    {{- if $deputesFile }}
-      {{- $opts := dict "delimiter" "," }}
-      {{- $deputesRaw := $deputesFile | transform.Unmarshal $opts }}
-      {{- if gt (len $deputesRaw) 1 }}
-        {{/* Ignorer la première ligne (headers) */}}
-        {{- range after 1 $deputesRaw }}
-          {{- if ge (len .) 10 }}
-            {{- $nom := index . 3 }}
-            {{- $prenom := index . 4 }}
-            {{- $groupe := index . 8 }}
-            {{- $nomComplet := printf "%s %s" $prenom $nom }}
-            {{- $deputesData = $deputesData | append (dict "nom" $nomComplet "groupe" $groupe) }}
-          {{- end }}
-        {{- end }}
+    {{/* 5 plus gros contributeurs - Chargement depuis JSON SQLite optimisé */}}
+    {{- $top5Auteurs := slice }}
+    {{- if site.Data.top_contributors }}
+      {{- if site.Data.top_contributors.top_contributors }}
+        {{- $top5Auteurs = site.Data.top_contributors.top_contributors }}
       {{- end }}
     {{- end }}
-    
-    {{/* Parser le fichier groupes avec transform.Unmarshal */}}
-    {{- $groupesFile := resources.Get "groupes.csv" }}
-    {{- if $groupesFile }}
-      {{- $opts := dict "delimiter" "," }}
-      {{- $groupesRaw := $groupesFile | transform.Unmarshal $opts }}
-      {{- if gt (len $groupesRaw) 1 }}
-        {{/* Ignorer la première ligne (headers) */}}
-        {{- range after 1 $groupesRaw }}
-          {{- if ge (len .) 3 }}
-            {{- $groupeNom := index . 0 }}
-            {{- $couleur := index . 2 }}
-            {{- if and $groupeNom $couleur }}
-              {{- $groupesData = $groupesData | append (dict "nom" $groupeNom "couleur" $couleur) }}
-            {{- end }}
-          {{- end }}
-        {{- end }}
-      {{- end }}
-    {{- end }}
-
-    {{/* 5 plus gros contributeurs */}}
-    {{- $auteurCounts := dict }}
-    {{- range site.RegularPages }}
-      {{- $auteurs := .Param "auteurs" }}
-      {{- if $auteurs }}
-        {{- range $auteurs }}
-          {{- $count := index $auteurCounts . | default 0 }}
-          {{- $auteurCounts = merge $auteurCounts (dict . (add $count 1)) }}
-        {{- end }}
-      {{- end }}
-    {{- end }}
-
-    {{- $sortedAuteurs := slice }}
-    {{- range $auteur, $count := $auteurCounts }}
-      {{/* Trouver le groupe politique de cet auteur */}}
-      {{- $auteurGroupe := "" }}
-      {{- $groupeCouleur := "" }}
-      {{- range $deputesData }}
-        {{- if eq .nom $auteur }}
-          {{- $auteurGroupe = .groupe }}
-          {{/* Trouver la couleur du groupe */}}
-          {{- range $groupesData }}
-            {{- if eq .nom $auteurGroupe }}
-              {{- $groupeCouleur = .couleur }}
-              {{- break }}
-            {{- end }}
-          {{- end }}
-          {{- break }}
-        {{- end }}
-      {{- end }}
-      {{- $sortedAuteurs = $sortedAuteurs | append (dict "nom" $auteur "count" $count "groupe" $auteurGroupe "couleur" $groupeCouleur) }}
-    {{- end }}
-    {{- $sortedAuteurs = sort $sortedAuteurs "count" "desc" }}
-    {{- $top5Auteurs := first 5 $sortedAuteurs }}
 
     <div class="stat-item">
       <h4>5 plus gros contributeurs</h4>
@@ -296,52 +221,13 @@ $user_preferred)) }} {{- $class = "first-entry" }} {{- else if $term }} {{- $cla
       </div>
     </div>
 
-    {{/* Propositions par parti - chaque proposition compte 1 fois par parti */}}
-    {{- $propositionsByParty := dict }}
-    {{- range site.RegularPages }}
-      {{- $auteurs := .Param "auteurs" }}
-      {{- if $auteurs }}
-        {{- $pageParties := slice }}
-        {{- range $auteurs }}
-          {{- $auteurNom := . }}
-          {{- $auteurGroupe := "" }}
-          {{- range $deputesData }}
-            {{- if eq .nom $auteurNom }}
-              {{- $auteurGroupe = .groupe }}
-              {{- break }}
-            {{- end }}
-          {{- end }}
-          {{- if $auteurGroupe }}
-            {{- if and (ne (lower $auteurGroupe) "non inscrits") (not (in $pageParties $auteurGroupe)) }}
-              {{- $pageParties = $pageParties | append $auteurGroupe }}
-            {{- end }}
-          {{- else }}
-            {{- if or (strings.Contains $auteurNom "Président") (strings.Contains $auteurNom "Sénat") }}
-              {{- if not (in $pageParties "Sénat") }}
-                {{- $pageParties = $pageParties | append "Sénat" }}
-              {{- end }}
-            {{- end }}
-          {{- end }}
-        {{- end }}
-        {{- range $pageParties }}
-          {{- $currentCount := index $propositionsByParty . | default 0 }}
-          {{- $propositionsByParty = merge $propositionsByParty (dict . (add $currentCount 1)) }}
-        {{- end }}
-      {{- end }}
-    {{- end }}
-
+    {{/* Propositions par parti - Chargement depuis JSON SQLite optimisé */}}
     {{- $sortedParties := slice }}
-    {{- range $party, $count := $propositionsByParty }}
-      {{- $partyCouleur := "" }}
-      {{- range $groupesData }}
-        {{- if eq .nom $party }}
-          {{- $partyCouleur = .couleur }}
-          {{- break }}
-        {{- end }}
+    {{- if site.Data.top_contributors }}
+      {{- if site.Data.top_contributors.party_stats }}
+        {{- $sortedParties = site.Data.top_contributors.party_stats }}
       {{- end }}
-      {{- $sortedParties = $sortedParties | append (dict "nom" $party "count" $count "couleur" $partyCouleur) }}
     {{- end }}
-    {{- $sortedParties = sort $sortedParties "count" "desc" }}
 
     <div class="stat-item">
       <h4>Propositions par parti</h4>
