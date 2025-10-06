@@ -1,7 +1,7 @@
 +++
 date = 2024-10-15
 draft = false
-title = "Pour un héritage vivant des jeux Olympiques et Paralympiques : mesures de soutien aux bénévoles des clubs sportifs, artisans au quotidien du "sport pour tous" - N° 332"
+title = "Pour un héritage vivant des jeux Olympiques et Paralympiques : mesures de soutien aux bénévoles des clubs sportifs, artisans au quotidien du \"sport pour tous\" - N° 332"
 auteurs = ["François Ruffin","Pouria Amirshahi","Christine Arrighi","Léa Balage El Mariky","Delphine Batho","Lisa Belluco","Édouard Bénard","Karim Ben Cheikh","Benoît Biteau","Arnaud Bonnet","Nicolas Bonnet","Mickaël Bouloux","Soumya Bourouaha","Cyrielle Chatelain","Paul Christophle","Paul-André Colombani","Alexis Corbière","Pierrick Courbon","Arthur Delaporte","Denis Fégné","Charles Fournier","Marie-Charlotte Garin","Damien Girard","Steevy Gustave","Ayda Hadizadeh","Catherine Hervieu","Émeline K/Bidi","Julie Laernoes","Tristan Lahais","Jean-Paul Lecoq","Laurent Lhardit","Benjamin Lucas-Lundy","Damien Maudet","Emmanuel Maurel","Marcellin Nadeau","Julie Ozenne","Sophie Pantel","Maud Petit","Stéphane Peu","Sébastien Peytavie","Marie Pochon","Christophe Proença","Richard Ramos","Jean-Claude Raux","Sandra Regol","Mereana Reid Arbelot","Sandrine Rousseau","Nicolas Sansu","Eva Sas","Sabrina Sebaihi","Thierry Sother","Sophie Taillé-Polian","David Taupiac","Boris Tavernier","Emmanuel Tjibaou","Stéphane Viry","Dominique Voynet","Julien Gokel","Christine Pirès Beaune"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/heritage_jop_mesures_soutien_benevoles_clubs_sportifs"
 stepsName = ["Dépôt à l'Assemblée nationale"]
