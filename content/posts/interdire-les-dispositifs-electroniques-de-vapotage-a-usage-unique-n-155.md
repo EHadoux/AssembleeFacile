@@ -6,8 +6,7 @@ auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdire_vapotage_unique"
 stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Commission Mixte Paritaire","Commission Mixte Paritaire","Promulgation de la loi"]
 stepsDate = ["Mardi 15 novembre 2022","Mardi 15 novembre 2022","Lundi 4 décembre 2023","Mercredi 13 mars 2024","Lundi 2 décembre 2024","Lundi 24 février 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️","Accord","adoptée, dans les conditions prévues à l'article 45, alinéa 3, de la
-Constitution",""]
+stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️","Accord","adoptée, dans les conditions prévues à l'article 45, alinéa 3, de la Constitution",""]
 tags = ["Santé","Écologie","Jeunesse"]
 +++
 
