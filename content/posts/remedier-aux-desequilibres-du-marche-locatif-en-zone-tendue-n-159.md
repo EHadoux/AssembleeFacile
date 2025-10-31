@@ -6,8 +6,7 @@ auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/locatif_zone_tendue"
 stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Commission Mixte Paritaire","Commission Mixte Paritaire","Promulgation de la loi"]
 stepsDate = ["Vendredi 28 avril 2023","Vendredi 28 avril 2023","Lundi 29 janvier 2024","Mercredi 22 mai 2024","Jeudi 17 octobre 2024","Mardi 19 novembre 2024"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️","Accord","adoptée, dans les conditions prévues à l'article 45, alinéa 3, de la
-Constitution",""]
+stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️","Accord","adoptée, dans les conditions prévues à l'article 45, alinéa 3, de la Constitution",""]
 tags = ["Logement","Urbanisme","Action publique"]
 +++
 
