@@ -1,0 +1,23 @@
++++
+date = 2024-07-26
+draft = false
+title = "Reconnaître et soutenir les entrepreneurs français à l'étranger - N° 116"
+auteurs = ["Gérard Larcher"]
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N47317"
+stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Vendredi 3 mars 2023","Vendredi 3 mars 2023","Mercredi 31 mai 2023","Mardi 23 juillet 2024"]
+stepsStatus = ["","Texte adopté ✔️","",""]
+tags = ["Économie","Affaires étrangères","Commerce"]
++++
+
+## Résumé
+
+Cette proposition de loi vise à mieux reconnaître et soutenir les entrepreneurs français qui vivent et travaillent à l'étranger. Elle cherche à valoriser leur contribution à l'économie et au rayonnement de la France à l'international.
+
+## Liste des modifications
+
+**Définition de l'entrepreneur français à l'étranger (Article 1)**: Clarifie qui est considéré comme un entrepreneur français à l'étranger, en précisant les critères de nationalité, d'inscription au registre des Français hors de France, et de contrôle d'une entreprise locale sans lien capitalistique fort avec la France.
+
+**Création d'un comité d'identification (Article 2)**: Met en place un comité dans chaque pays pour identifier les entrepreneurs français à l'étranger qui souhaitent obtenir un label. Ce comité sera composé de représentants locaux des Français et du commerce.
+
+**Mise en place d'un label de valorisation (Article 3)**: Crée un label pour reconnaître les entrepreneurs français à l'étranger qui contribuent à la promotion du savoir-faire, des produits ou services français, et au rayonnement de la France. Les modalités de ce label (nom, durée, etc.) seront définies par décret et les bénéficiaires seront inscrits dans un répertoire public.
