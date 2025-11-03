@@ -1,0 +1,29 @@
++++
+date = 2024-07-25
+draft = false
+title = "Proposition de loi créant une résidence d'attache pour les Français établis hors de France - N° 110"
+auteurs = ["M. Le Président du Sénat"]
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N46057"
+stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Jeudi 28 juillet 2022","Jeudi 28 juillet 2022","Mardi 4 avril 2023","Mardi 23 juillet 2024"]
+stepsStatus = ["","Texte adopté ✔️","",""]
+tags = ["Affaires étrangères","Économie","Finances"]
++++
+
+## Résumé
+
+Cette proposition de loi vise à créer un statut de 'résidence d'attache' pour les Français vivant à l'étranger. L'objectif est de leur permettre de désigner une de leurs résidences secondaires en France comme résidence d'attache, afin de maintenir un lien avec la France et potentiellement bénéficier d'avantages fiscaux, notamment en cas de situation difficile dans leur pays de résidence à l'étranger.
+
+## Liste des modifications
+
+**Création de la résidence d'attache (Article 1)**: Un Français non-résident, propriétaire d'une résidence secondaire en France, pourra déclarer cette résidence comme 'résidence d'attache' auprès des services fiscaux. Cette mesure prendra effet à partir du 1er janvier de l'année suivant son départ à l'étranger.
+
+**Compensation des pertes de recettes (Article 1)**: Les pertes de recettes pour les collectivités locales seront compensées par une augmentation de la dotation globale de fonctionnement. Les pertes de recettes pour l'État seront compensées par une taxe additionnelle sur les tabacs.
+
+**Exonération de taxe d'habitation (Article 2)**: Les Français établis à l'étranger dans un pays classé en zone rouge ou orange par le ministère des affaires étrangères pourront être exonérés de la taxe d'habitation pour leur résidence d'attache, à condition que celle-ci ne génère pas de revenus locatifs.
+
+**Dégrèvement d'impôt (Article 2)**: Un dégrèvement d'impôt pourra être accordé aux Français établis à l'étranger dans un pays classé en zone rouge ou orange, pour l'impôt dû sur leur résidence d'attache et si elle ne produit pas de revenus locatifs.
+
+**Création d'une commission temporaire (Article 2 bis)**: Une commission temporaire sera mise en place pour définir les droits et avantages liés au statut de la résidence d'attache. Elle sera composée de parlementaires, de représentants des Français de l'étranger et d'experts, et aura pour mission de proposer des mesures fiscales ou incitatives. Elle devra rendre un rapport au Parlement avant le 30 septembre 2023.
+
+**Date d'application (Article 3)**: La loi s'appliquera à partir du 1er janvier de l'année suivant sa promulgation.
