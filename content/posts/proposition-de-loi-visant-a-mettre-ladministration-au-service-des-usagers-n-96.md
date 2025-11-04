@@ -1,0 +1,29 @@
++++
+date = 2024-07-25
+draft = false
+title = "Proposition de loi visant à mettre l'administration au service des usagers - N° 96"
+auteurs = ["M. Le Président du Sénat"]
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L15N40786"
+stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Lundi 26 octobre 2020","Lundi 26 octobre 2020","Jeudi 4 novembre 2021","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Texte adopté ✔️","","",""]
+tags = ["Action publique","Intérieur"]
++++
+
+## Résumé
+
+Cette proposition de loi vise à améliorer les relations entre les citoyens et l'administration en simplifiant les procédures et en rendant l'administration plus réactive. Elle cherche à encadrer les cas où le silence de l'administration vaut acceptation et à fixer des délais pour certaines de ses réponses.
+
+## Liste des modifications
+
+**Décisions implicites d'acceptation (Article 1)**: La loi précise les situations où le silence de l'administration ne vaut pas acceptation d'une demande. Ces exceptions incluent les cas où la demande ne peut être acceptée par simple approbation, où l'acceptation implicite nuirait à l'intérêt public, où la demande concerne une profession réglementée, où elle augmenterait les coûts administratifs ou nuirait aux droits de tiers, ou si elle est liée à une demande principale déjà exclue de ce principe.
+
+**Délai maximal de réponse (Article 4)**: Le délai maximal pour qu'une décision implicite d'acceptation soit effective est fixé à six mois.
+
+**Simplification des procédures (Article 5)**: Certaines phrases et alinéas concernant les délais de réponse de l'administration sont supprimés ou modifiés pour simplifier les règles et les rendre plus claires.
+
+**Délais de transmission des demandes (Article 6)**: L'administration doit accuser réception des demandes et transmettre les dossiers dans un délai de quinze jours.
+
+**Mise à jour des références légales (Article 7)**: Les tableaux de références légales sont mis à jour pour inclure les nouvelles dispositions de cette loi.
+
+**Date d'entrée en vigueur (Article 8)**: La loi entrera en vigueur deux ans après sa promulgation.
