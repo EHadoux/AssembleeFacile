@@ -1,7 +1,7 @@
 +++
 date = 2024-07-25
 draft = false
-title = "Proposition de loi visant à permettre une gestion différenciée de la compétence "Eau et Assainissement" - N° 108"
+title = "Proposition de loi visant à permettre une gestion différenciée de la compétence \"Eau et Assainissement\" - N° 108"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N46374"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
