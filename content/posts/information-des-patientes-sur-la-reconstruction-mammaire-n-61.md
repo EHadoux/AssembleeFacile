@@ -1,0 +1,21 @@
++++
+date = 2024-07-25
+draft = false
+title = "Information des patientes sur la reconstruction mammaire - N° 61"
+auteurs = ["M. Le Président du Sénat"]
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/information_patientes_reconstruction_mammaire"
+stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Mardi 18 décembre 2018","Mardi 18 décembre 2018","Mardi 5 mars 2019","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Texte adopté ✔️","","",""]
+tags = ["Santé","Droits des femmes","Action publique"]
++++
+
+## Résumé
+
+Cette proposition de loi vise à garantir que les patientes subissant une mastectomie (ablation du sein) reçoivent une information complète et obligatoire sur les différentes options de reconstruction mammaire, leurs avantages, leurs inconvénients et les risques associés. L'objectif est de s'assurer que les femmes soient pleinement informées pour prendre des décisions éclairées concernant leur parcours de soins.
+
+## Liste des modifications
+
+**Information sur la reconstruction mammaire (Article 1)**: Les professionnels de santé devront désormais informer les patientes, avant ou après une mastectomie, sur les techniques de chirurgie réparatrice existantes, leur utilité, leurs conséquences et les risques. Si le professionnel ne peut pas fournir cette information, il devra orienter la patiente vers un parcours de soins lui permettant de l'obtenir.
+
+**Application de la loi dans les territoires d'outre-mer (Article 2)**: Les nouvelles dispositions concernant l'information sur la reconstruction mammaire (Article L.1111-2 du code de la santé publique) seront rendues applicables à Wallis-et-Futuna, en Nouvelle-Calédonie et en Polynésie française.
