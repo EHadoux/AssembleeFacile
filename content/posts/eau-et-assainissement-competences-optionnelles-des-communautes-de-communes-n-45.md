@@ -1,0 +1,25 @@
++++
+date = 2024-07-24
+draft = false
+title = "Eau et «assainissement , compétences optionnelles des communautés de communes - N° 45"
+auteurs = ["M. Le Président du Sénat"]
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/competences_communautes_communes_eau_assainissement"
+stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Mercredi 11 janvier 2017","Mercredi 11 janvier 2017","Vendredi 24 février 2017","Jeudi 6 juillet 2017","Lundi 11 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Texte adopté ✔️","","","",""]
+tags = ["Aménagement du territoire","Décentralisation","Action publique"]
++++
+
+## Résumé
+
+Cette proposition de loi vise à permettre aux communautés de communes et d'agglomération de continuer à gérer les services d'eau et d'assainissement, plutôt que de rendre cette gestion obligatoire à un niveau plus large. L'objectif est de donner plus de flexibilité aux collectivités locales pour organiser ces services essentiels.
+
+## Liste des modifications
+
+**Compétences obligatoires (Article 1)**: Supprime les dispositions qui rendaient obligatoires le transfert des compétences eau et assainissement aux communautés de communes et d'agglomération à partir de 2020.
+
+**Seuil de population (Article 2)**: Augmente le seuil de population de 3000 à 5000 habitants pour certaines obligations concernant les services d'eau et d'assainissement.
+
+**Délégation de compétences (Article 3)**: Permet à un conseil de territoire, lorsqu'il a reçu la compétence de gestion de l'eau, de la confier aux communes ou groupements de communes qui s'en occupaient auparavant.
+
+**Gestion des eaux pluviales (Article 4)**: Clarifie et étend les responsabilités des communautés de communes en matière de gestion des eaux usées et des eaux pluviales, notamment pour la collecte, le stockage et le traitement des pollutions.
