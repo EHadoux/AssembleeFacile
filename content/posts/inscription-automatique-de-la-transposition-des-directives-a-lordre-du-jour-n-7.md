@@ -1,0 +1,19 @@
++++
+date = 2024-07-24
+draft = false
+title = "Inscription automatique de la transposition des directives à l'ordre du jour - N° 7"
+auteurs = ["M. Le Président du Sénat"]
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/0000740001"
+stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Mardi 14 novembre 2000","Mardi 14 novembre 2000","Jeudi 14 juin 2001","Mercredi 17 juillet 2002","Mercredi 4 juillet 2007","Lundi 2 juillet 2012","Jeudi 6 juillet 2017","Vendredi 8 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Texte adopté ✔️","","","","","","",""]
+tags = ["Europe","Relations parlementaires","Action publique"]
++++
+
+## Résumé
+
+Cette proposition de loi vise à améliorer la manière dont la France intègre les lois européennes (directives) et ratifie les accords internationaux. L'idée est de dédier un temps spécifique chaque mois au Parlement pour traiter ces sujets, afin d'éviter les retards et de renforcer le rôle du Parlement dans ces processus.
+
+## Liste des modifications
+
+**Organisation des débats parlementaires (Article unique)**: Une séance par mois sera spécifiquement dédiée à la transposition des directives européennes et à l'autorisation de ratification des conventions internationales. L'ordre du jour de cette séance sera fixé par le Gouvernement ou, à défaut, par chaque assemblée.
