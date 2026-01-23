@@ -1,0 +1,29 @@
++++
+date = 2026-01-21
+draft = false
+title = "Proposition de loi portant réparation des personnes condamnées pour homosexualité entre 1945 et 1982 - N° 2351"
+auteurs = ["M. Le Premier Ministre","Yaël Braun-Pivet"]
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N46127"
+stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Deuxième lecture au Sénat","Deuxième lecture à l'Assemblée nationale","Commission Mixte Paritaire","Nouvelle lecture à l'Assemblée nationale"]
+stepsDate = ["Samedi 6 août 2022","Samedi 6 août 2022","Mercredi 22 novembre 2023","Jeudi 7 mars 2024","Mercredi 7 mai 2025","Jeudi 18 décembre 2025","Vendredi 16 janvier 2026"]
+stepsStatus = ["","Texte adopté ✅","Texte adopté ✅","Texte adopté ✅","Texte adopté ✅","Désaccord",""]
+tags = ["Discriminations","Justice","Solidarité"]
++++
+
+## Résumé
+
+Cette proposition de loi vise à reconnaître officiellement les discriminations subies par les personnes condamnées pour homosexualité entre 1942 et 1982 en France. Elle propose également des mesures de réparation financière pour ces personnes, ainsi que la création d'une commission indépendante pour gérer ces réparations et préserver la mémoire de ces injustices.
+
+## Liste des modifications
+
+**Reconnaissance des discriminations (Article 1)**: La Nation reconnaît que l'application de certaines dispositions pénales entre 1942 et 1982 a constitué une discrimination fondée sur l'orientation sexuelle et une violation du droit à la vie privée. Cette reconnaissance s'étend aux personnes poursuivies de manière discriminatoire ou contraintes de dissimuler leur orientation sexuelle.
+
+**Suppression d'une disposition (Article 1)**: Le point 3° de l'article 1, qui faisait référence à une disposition pénale, a été supprimé.
+
+**Mesures de réparation financière (Article 3)**: Les personnes condamnées auront droit à une allocation forfaitaire de 10 000 euros, une allocation de 150 euros par jour de privation de liberté, et le remboursement actualisé des amendes payées. Ces sommes seront exonérées d'impôt sur le revenu et de contribution sociale.
+
+**Exonération fiscale et sociale (Article 3)**: Les sommes versées au titre de la réparation ne seront pas soumises à l'impôt sur le revenu ni à la contribution sociale généralisée (CSG).
+
+**Compensation des pertes de recettes (Article 3)**: Les pertes de recettes pour l'État et les organismes de sécurité sociale dues à ces exonérations seront compensées par une taxe additionnelle sur les tabacs.
+
+**Création d'une commission indépendante (Article 4)**: Une commission nationale indépendante sera instituée auprès du Premier ministre pour statuer sur les demandes de réparation et contribuer à la transmission de la mémoire des discriminations subies. Elle sera composée de parlementaires, de magistrats, de représentants de l'État et de personnalités qualifiées.
