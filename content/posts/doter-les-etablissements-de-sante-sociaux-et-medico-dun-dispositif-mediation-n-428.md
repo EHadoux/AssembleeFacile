@@ -2,7 +2,7 @@
 date = 2024-10-15
 draft = false
 title = "Doter les établissements de santé, sociaux et médico-sociaux d’un dispositif de médiation - N° 428"
-auteurs = ["Agnès Firmin Le Bodo","Erwan Balanant","Béatrice Bellay","Aurore Bergé","Sylvain Berrios","Véronique Besse","Bertrand Bouyx","Joël Bruneau","Paul-André Colombani","Sophie Delorme Duret","Julie Delpech","Philippe Fait","François Gernigon","Jean-Carles Grelier","David Guerin","Sandrine Josso","Michel Lauzzana","Constance Le Grip","Didier Lemaire","Delphine Lingemann","Lise Magnier","Yannick Neuder","Hubert Ott","Sophie Pantel","Jérémie Patrier-Leitus","Maud Petit","Béatrice Piron","Loïc Prud'homme","Isabelle Rauch","Xavier Roseren","Aurélien Rousseau","Jean-François Rousset","Violette Spillebout","Vincent Thiébaut","Stéphane Travert","Frédéric Valletoux","Annie Vidal","Stéphane Viry","Caroline Yadan"]
+auteurs = ["Agnès Firmin Le Bodo","Erwan Balanant","Béatrice Bellay","Aurore Bergé","Sylvain Berrios","Véronique Besse","Bertrand Bouyx","Joël Bruneau","Paul-André Colombani","Sophie Delorme Duret","Julie Delpech","Philippe Fait","François Gernigon","Jean-Carles Grelier","David Guiraud","Sandrine Josso","Michel Lauzzana","Constance Le Grip","Didier Lemaire","Delphine Lingemann","Lise Magnier","Yannick Neuder","Hubert Ott","Sophie Pantel","Jérémie Patrier-Leitus","Maud Petit","Béatrice Piron","Loïc Prud'homme","Isabelle Rauch","Xavier Roseren","Aurélien Rousseau","Jean-François Rousset","Violette Spillebout","Vincent Thiébaut","Stéphane Travert","Frédéric Valletoux","Annie Vidal","Stéphane Viry","Caroline Yadan"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_etablissements_sante_dispositif_mediation"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 15 octobre 2024"]

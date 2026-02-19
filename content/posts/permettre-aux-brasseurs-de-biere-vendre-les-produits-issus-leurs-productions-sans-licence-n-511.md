@@ -2,7 +2,7 @@
 date = 2024-10-30
 draft = false
 title = "Permettre aux brasseurs de bière de vendre les produits issus de leurs productions sans licence - N° 511"
-auteurs = ["Violette Spillebout","Philippe Fait","Félicie Gérard","Thibault Bazin","Mickaël Cosson","Maud Petit","Christophe Plassard","Brigitte Klinkert","Jean-Pierre Bataille","Jérémie Patrier-Leitus","Laetitia Saint-Paul","Vincent Thiébaut","Isabelle Mesnard","Thierry Benoit","Julie Delpech","Jean Laussucq","Jean Moulliere","Estelle Mercier","Émilie Bonnivard","Michel Herbillon","Moerani Frébault","Hubert Ott","Christophe Naegelen","Lise Magnier","Hervé Saulignac","Hervé Berville","Valérie Rossi","Anne-Cécile Violland","Denis Fégné"]
+auteurs = ["Violette Spillebout","Philippe Fait","Félicie Gérard","Thibault Bazin","Mickaël Cosson","Maud Petit","Christophe Plassard","Brigitte Klinkert","Jean-Pierre Bataille","Jérémie Patrier-Leitus","Laetitia Saint-Paul","Vincent Thiébaut","Christelle Minard","Thierry Benoit","Julie Delpech","Jean Laussucq","Jean Moulliere","Estelle Mercier","Émilie Bonnivard","Michel Herbillon","Moerani Frébault","Hubert Ott","Christophe Naegelen","Lise Magnier","Hervé Saulignac","Hervé Berville","Valérie Rossi","Anne-Cécile Violland","Denis Fégné"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/vente_producteurs_biere_lience"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 29 octobre 2024"]

@@ -7,7 +7,7 @@ stepsStatus = [""]
 date = 2025-07-11
 draft = false
 title = "Renforcer la prévention des risques d’accidents liés aux batteries au lithium et aux cartouches de protoxyde d’azote dans les installations de traitement de déchets - N° 1717"
-auteurs = ["Violette Spillebout","Joël Bruneau","Salvatore Castiglione","Josiane Corneloup","Sylvie Dezarnaud","Philippe Fait","Olivier Falorni","Moerani Frébault","Félicie Gérard","Sandrine Josso","Sandrine Le Feur","Graziella Melchior","Jean Moulliere","Constance De Pélichy","Béatrice Piron","Nicolas Ray","Stéphane Viry","Jiovanny William"]
+auteurs = ["Violette Spillebout","Joël Bruneau","Salvatore Castiglione","Josiane Corneloup","Sylvie Dezarnaud","Philippe Fait","Olivier Falorni","Moerani Frébault","Félicie Gérard","Sandrine Josso","Sandrine Le Feur","Graziella Melchior","Jean Moulliere","Constance de Pélichy","Béatrice Piron","Nicolas Ray","Stéphane Viry","Jiovanny William"]
 +++
 
 ## Résumé

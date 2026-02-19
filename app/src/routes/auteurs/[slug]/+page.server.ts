@@ -1,19 +1,19 @@
 import type { PageServerLoad } from './$types';
 import { error } from '@sveltejs/kit';
-import { getAllAuteurs, getPostsByAuteur, getAuteurBySlug, slugify, getAllTags } from '$lib/content';
-import { findDeputeByName } from '$lib/server/deputes';
+import { getAllAuteurs, getPostsByAuteur, getAuteurBySlug, slugify } from '$lib/content';
 import { getAllGroupes } from '$lib/server/groupes';
+import { findDeputeByNameInDb, getTopCosignataires } from '$lib/server/queries';
 
 export const load: PageServerLoad = async ({ params }) => {
 	const name = getAuteurBySlug(params.slug);
 	if (!name) error(404, 'Auteur introuvable');
 
 	const posts = getPostsByAuteur(name);
-	const dep = findDeputeByName(name);
+	const dep = findDeputeByNameInDb(name);
 	const groupes = getAllGroupes();
-	const groupe = groupes.find((g) => g.abrev === dep?.groupeAbrev) ?? null;
+	const groupe = dep ? (groupes.find((g) => g.abrev === dep.groupe_abrev) ?? null) : null;
+	const cosignataires = dep ? getTopCosignataires(dep.id, 5) : [];
 
-	// Tag frequency for this author
 	const tagCounts = new Map<string, { tag: string; count: number }>();
 	for (const post of posts) {
 		for (const tag of post.tags) {
@@ -25,7 +25,7 @@ export const load: PageServerLoad = async ({ params }) => {
 	}
 	const topTags = [...tagCounts.values()].sort((a, b) => b.count - a.count).slice(0, 10);
 
-	return { name, posts, dep, groupe, topTags };
+	return { name, posts, dep, groupe, topTags, cosignataires };
 };
 
 export function entries() {

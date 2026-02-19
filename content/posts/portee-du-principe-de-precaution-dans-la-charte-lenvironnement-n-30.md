@@ -2,7 +2,7 @@
 date = 2024-07-24
 draft = false
 title = "Portée du principe de précaution dans la Charte de l'environnement - N° 30"
-auteurs = ["Jean-Pierre Bel"]
+auteurs = ["Jean-Pierre Bataille"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/principe_precaution_principe_innovation"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Mardi 3 décembre 2013","Mardi 3 décembre 2013","Mercredi 28 mai 2014","Jeudi 6 juillet 2017","Lundi 11 juillet 2022","Mardi 23 juillet 2024"]

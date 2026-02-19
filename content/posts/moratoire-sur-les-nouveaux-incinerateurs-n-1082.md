@@ -2,7 +2,7 @@
 date = 2025-03-11
 draft = false
 title = "Moratoire sur les nouveaux incinérateurs - N° 1082"
-auteurs = ["René Pilato","Gabriel Amard","Mathilde Panot","Nadège Abomangoli","Pierrick Courbon","Clémence Guetté","Chantal Jourdan","Claire Lejeune","Louise Morel","Loïc Prud’homme","Sandra Regol","Jean-Louis Roumégas","Eva Sas","Thierry Sother","Anne Stambach-Terrenoir"]
+auteurs = ["René Pilato","Gabriel Amard","Mathilde Panot","Nadège Abomangoli","Pierrick Courbon","Clémence Guetté","Chantal Jourdan","Claire Lejeune","Louise Morel","Loïc Prud'homme","Sandra Regol","Jean-Louis Roumégas","Eva Sas","Thierry Sother","Anne Stambach-Terrenoir"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/moratoire_nouveaux_incinerateurs_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 11 mars 2025"]

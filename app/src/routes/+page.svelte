@@ -1,8 +1,10 @@
 <script lang="ts">
 	import type { PageData } from './$types';
 	import PostCard from '$lib/components/PostCard.svelte';
+	import { slugify } from '$lib/content';
 
 	let { data }: { data: PageData } = $props();
+	let photoErrors = $state<boolean[]>(data.topContributors.map(() => false));
 </script>
 
 <svelte:head>
@@ -69,17 +71,17 @@
 					Top contributeurs
 				</h3>
 				<ol class="flex flex-col gap-3">
-					{#each data.topContributors as { name, count, groupeAbrev, photo }, i}
+					{#each data.topContributors as { name, count, groupeAbrev, couleur, photo }, i}
 						<li class="flex items-center gap-3">
 							<span class="w-4 shrink-0 text-xs font-bold tabular-nums text-muted-foreground">
 								{i + 1}
 							</span>
-							{#if photo}
+							{#if photo && !photoErrors[i]}
 								<img
-									src="https://www.assemblee-nationale.fr/dyn/static/deputes/photos/{photo}"
+									src="https://www2.assemblee-nationale.fr/static/tribun/17/photos/{photo}"
 									alt={name}
 									class="h-8 w-8 shrink-0 rounded-full bg-accent object-cover"
-									onerror={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none'; }}
+									onerror={() => { photoErrors[i] = true; }}
 								/>
 							{:else}
 								<div class="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-accent text-xs font-semibold text-muted-foreground">
@@ -87,9 +89,14 @@
 								</div>
 							{/if}
 							<div class="min-w-0 flex-1">
-								<p class="truncate text-xs font-semibold text-foreground">{name}</p>
+								<a href="/auteurs/{slugify(name)}" class="truncate text-xs font-semibold text-foreground hover:text-primary hover:underline">{name}</a>
 								{#if groupeAbrev}
-									<p class="text-[10px] text-muted-foreground">{groupeAbrev}</p>
+									<span
+										class="mt-0.5 inline-block rounded-sm px-1.5 py-px text-[9px] font-bold uppercase tracking-wide text-white"
+										style="background-color: {couleur ?? '#9ca3af'};"
+									>
+										{groupeAbrev}
+									</span>
 								{/if}
 							</div>
 							<span class="shrink-0 text-xs font-bold tabular-nums text-primary">{count}</span>

@@ -2,7 +2,7 @@
 date = 2024-07-24
 draft = false
 title = "Prévention des inondations et protection contre celles-ci - N° 28"
-auteurs = ["M. Le Président du Sénat","Jean-Pierre Bel"]
+auteurs = ["M. Le Président du Sénat","Jean-Pierre Bataille"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/prevention_protection_inondations"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Mardi 8 octobre 2013","Mardi 8 octobre 2013","Jeudi 21 novembre 2013","Jeudi 6 juillet 2017","Lundi 11 juillet 2022","Mardi 23 juillet 2024"]

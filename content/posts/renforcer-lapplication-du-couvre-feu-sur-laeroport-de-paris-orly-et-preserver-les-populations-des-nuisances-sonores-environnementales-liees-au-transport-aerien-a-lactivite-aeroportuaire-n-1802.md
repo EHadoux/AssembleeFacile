@@ -2,7 +2,7 @@
 date = 2025-09-16
 draft = false
 title = "Renforcer l’application du couvre-feu sur l’aéroport de Paris-Orly et préserver les populations des nuisances sonores et environnementales liées au transport aérien et à l’activité aéroportuaire - N° 1802"
-auteurs = ["Sylvain Berrios","Naïma Moutchou","Agnès Firmin Le Bodo","Anne-Cécile Virolland","Xavier Roseren","Béatrice Piron","Mathieu Lefèvre","Romain Eskenazi","Joël Bruneau","Romain Daubié","Michel Herbillon","Jean Moulliere","Constance De Pélichy","Maud Petit"]
+auteurs = ["Sylvain Berrios","Naïma Moutchou","Agnès Firmin Le Bodo","Anne-Cécile Violland","Xavier Roseren","Béatrice Piron","Mathieu Lefèvre","Romain Eskenazi","Joël Bruneau","Romain Daubié","Michel Herbillon","Jean Moulliere","Constance de Pélichy","Maud Petit"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/nuisances_aeroportuaires_paris_orly_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 16 septembre 2025"]

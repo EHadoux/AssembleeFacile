@@ -2,7 +2,7 @@
 date = 2025-10-28
 draft = false
 title = "Protéger les mineurs isolés et à lutter contre le sans-abrisme - N° 2021"
-auteurs = ["Emmanuel Gregoire","Isabelle Santiago","Sandrine Runel"]
+auteurs = ["Emmanuel Grégoire","Isabelle Santiago","Sandrine Runel"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_isoles_lutter_sans_abrisme_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 28 octobre 2025"]

@@ -2,7 +2,7 @@
 date = 2025-03-26
 draft = false
 title = "Garantir l'engagement de la responsabilité du Gouvernement par un vote de confiance - N° 1178"
-auteurs = ["Harold Huwart","Charles De Courson","Constance De Pélíchy","Martine Froger","Paul Molac","Olivier Serva","David Taupiac","Stella Dupont","Aurélien Pradié","Laurent Mazaury","Stéphane Viry","Jérémie Iordanoff","Thierry Sother"]
+auteurs = ["Harold Huwart","Charles de Courson","Constance de Pélichy","Martine Froger","Paul Molac","Olivier Serva","David Taupiac","Stella Dupont","Aurélien Pradié","Laurent Mazaury","Stéphane Viry","Jérémie Iordanoff","Thierry Sother"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/engagement_responsabilite_vote_confiance"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mercredi 26 mars 2025"]

@@ -2,7 +2,7 @@
 date = 2025-06-10
 draft = false
 title = "Création d’un dispositif territorial de prise en charge des soins urgents non programmés et ouverture encadrée de la spécialité de médecine d’urgence - N° 1547"
-auteurs = ["Sophie Ricourt Vaginay","Alexandre Allegret-Pilot","Brigitte Barèges","Romain Baubry","Philippe Bonnecarrère","Bernard Chaix","Sébastien Chenu","Christelle D'intorni","Emmanuel Fouquart","Sébastien Humbert","Laurent Jacobelli","Michèle Martinez","Sophie-Laurence Roy","Emmanuel Taché De La Pagerie","Thierry Tesson","Matthieu Bloch","Éric Michoux","Alexandre Sabatou","Charles Alloncle","Véronique Besse","Yoann Gillet","Stéphane Viry"]
+auteurs = ["Sophie Ricourt Vaginay","Alexandre Allegret-Pilot","Brigitte Barèges","Romain Baubry","Philippe Bonnecarrère","Bernard Chaix","Sébastien Chenu","Christelle D'Intorni","Emmanuel Fouquart","Sébastien Humbert","Laurent Jacobelli","Michèle Martinez","Sophie-Laurence Roy","Emmanuel Taché de la Pagerie","Thierry Tesson","Matthieu Bloch","Éric Michoux","Alexandre Sabatou","Charles Alloncle","Véronique Besse","Yoann Gillet","Stéphane Viry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/creation_dispositif_territoriale_prise_charge_soins_urgents_non_programmes_ouverture_encadree_specialite_medecine_urgence_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 10 juin 2025"]

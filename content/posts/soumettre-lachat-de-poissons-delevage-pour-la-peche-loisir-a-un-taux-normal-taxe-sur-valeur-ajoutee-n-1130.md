@@ -2,7 +2,7 @@
 date = 2025-03-18
 draft = false
 title = "Soumettre l’achat de poissons d’élevage pour la pêche de loisir à un taux normal de taxe sur la valeur ajoutée - N° 1130"
-auteurs = ["Danielle Simonnet","Farida Amrani","Christine Arrighi","Clémentine Autain","Léa Balage El Mariky","Christophe Bex","Arnaud Bonnet","Nicolas Bonnet","Gabrielle Cathala","Alexis Corbière","Jean-François Coulomme","Alma Dufour","Marie-Charlotte Garin","Damien Girard","Andy Kerbrat","Maxime Laisney","Sandrine Nosbé","Marie Pochon","Loïc Prud’homme","Sandra Regol","Mereana Reid Arbelot","Sandrine Rousseau","Eva Sas","Sabrina Sebaihi","Céline Thiébault-Martinez"]
+auteurs = ["Danielle Simonnet","Farida Amrani","Christine Arrighi","Clémentine Autain","Léa Balage El Mariky","Christophe Bex","Arnaud Bonnet","Nicolas Bonnet","Gabrielle Cathala","Alexis Corbière","Jean-François Coulomme","Alma Dufour","Marie-Charlotte Garin","Damien Girard","Andy Kerbrat","Maxime Laisney","Sandrine Nosbé","Marie Pochon","Loïc Prud'homme","Sandra Regol","Mereana Reid Arbelot","Sandrine Rousseau","Eva Sas","Sabrina Sebaihi","Céline Thiébault-Martinez"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/soumettre_achat_poissons_elevage_peche_loisir_taux_normal_taxe_valeur_ajoutee_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 18 mars 2025"]

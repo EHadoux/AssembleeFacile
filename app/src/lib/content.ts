@@ -19,6 +19,7 @@ export interface PostMeta {
 	stepsName: string[];
 	stepsDate: string[];
 	stepsStatus: string[];
+	excerpt: string;
 }
 
 // Eager metadata-only: used by listing pages at build time
@@ -26,6 +27,20 @@ const rawMetadata = import.meta.glob('../../../content/posts/*.md', {
 	eager: true,
 	import: 'metadata'
 }) as Record<string, Record<string, unknown>>;
+
+// Raw text: used to extract the résumé excerpt
+const rawContent = import.meta.glob('../../../content/posts/*.md', {
+	eager: true,
+	query: '?raw',
+	import: 'default'
+}) as Record<string, string>;
+
+function extractExcerpt(raw: string, maxChars = 200): string {
+	const match = raw.match(/## Résumé\s*\n+([\s\S]+?)(?=\n+##|$)/);
+	if (!match) return '';
+	const text = match[1].replace(/\*\*/g, '').replace(/\*/g, '').trim();
+	return text.length > maxChars ? text.slice(0, maxChars).trimEnd() + '…' : text;
+}
 
 // Lazy full-module: used by single post page to get the compiled Svelte component
 export const postModules = import.meta.glob('../../../content/posts/*.md') as Record<
@@ -62,7 +77,8 @@ const allPosts: PostMeta[] = Object.entries(rawMetadata)
 			link: (meta?.link as string) ?? '',
 			stepsName: (meta?.stepsName as string[]) ?? [],
 			stepsDate: (meta?.stepsDate as string[]) ?? [],
-			stepsStatus: (meta?.stepsStatus as string[]) ?? []
+			stepsStatus: (meta?.stepsStatus as string[]) ?? [],
+			excerpt: extractExcerpt(rawContent[path] ?? '')
 		} satisfies PostMeta;
 	})
 	.sort((a, b) => b.proposalNum - a.proposalNum);
