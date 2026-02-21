@@ -2,14 +2,15 @@
 	interface Props {
 		pageNum: number;
 		totalPages: number;
-		pageUrl: (page: number) => string;
+		pageUrl?: (page: number) => string;
+		onPageChange?: (page: number) => void;
 	}
 
-	let { pageNum, totalPages, pageUrl }: Props = $props();
+	let { pageNum, totalPages, pageUrl, onPageChange }: Props = $props();
 
 	type PageItem = { type: 'page'; n: number } | { type: 'ellipsis'; key: string };
 
-	const items = $derived<PageItem[]>(() => {
+	const items = $derived.by<PageItem[]>(() => {
 		if (totalPages <= 1) return [];
 
 		const windowStart = Math.max(1, pageNum - 2);
@@ -40,12 +41,21 @@
 
 <nav class="mt-8 grid grid-cols-[auto_1fr_auto] items-center gap-2" aria-label="Pagination">
 	{#if pageNum > 1}
-		<a
-			href={pageUrl(pageNum - 1)}
-			class="rounded-lg border border-border bg-white px-6 py-2.5 text-sm font-medium text-foreground shadow-sm transition-colors hover:border-primary hover:text-primary"
-		>
-			← Précédent
-		</a>
+		{#if onPageChange}
+			<button
+				onclick={() => onPageChange(pageNum - 1)}
+				class="rounded-lg border border-border bg-white px-6 py-2.5 text-sm font-medium text-foreground shadow-sm transition-colors hover:border-primary hover:text-primary"
+			>
+				← Précédent
+			</button>
+		{:else}
+			<a
+				href={pageUrl!(pageNum - 1)}
+				class="rounded-lg border border-border bg-white px-6 py-2.5 text-sm font-medium text-foreground shadow-sm transition-colors hover:border-primary hover:text-primary"
+			>
+				← Précédent
+			</a>
+		{/if}
 	{:else}
 		<span class="rounded-lg border border-border/40 bg-white px-6 py-2.5 text-sm font-medium text-muted-foreground/40 shadow-sm cursor-not-allowed select-none">
 			← Précédent
@@ -53,14 +63,25 @@
 	{/if}
 
 	<div class="flex items-center justify-center gap-1.5">
-		{#each items() as item}
+		{#each items as item}
 			{#if item.type === 'ellipsis'}
 				<span class="flex h-9 w-9 items-center justify-center text-sm text-muted-foreground select-none">
 					…
 				</span>
+			{:else if onPageChange}
+				<button
+					onclick={() => onPageChange(item.n)}
+					class="flex h-9 w-9 items-center justify-center rounded-full text-sm font-medium transition-colors
+						{item.n === pageNum
+						? 'bg-primary text-white shadow-sm'
+						: 'border border-border bg-white text-foreground hover:border-primary hover:text-primary'}"
+					aria-current={item.n === pageNum ? 'page' : undefined}
+				>
+					{item.n}
+				</button>
 			{:else}
 				<a
-					href={pageUrl(item.n)}
+					href={pageUrl!(item.n)}
 					class="flex h-9 w-9 items-center justify-center rounded-full text-sm font-medium transition-colors
 						{item.n === pageNum
 						? 'bg-primary text-white shadow-sm'
@@ -74,12 +95,21 @@
 	</div>
 
 	{#if pageNum < totalPages}
-		<a
-			href={pageUrl(pageNum + 1)}
-			class="rounded-lg border border-border bg-white px-6 py-2.5 text-sm font-medium text-foreground shadow-sm transition-colors hover:border-primary hover:text-primary"
-		>
-			Suivant →
-		</a>
+		{#if onPageChange}
+			<button
+				onclick={() => onPageChange(pageNum + 1)}
+				class="rounded-lg border border-border bg-white px-6 py-2.5 text-sm font-medium text-foreground shadow-sm transition-colors hover:border-primary hover:text-primary"
+			>
+				Suivant →
+			</button>
+		{:else}
+			<a
+				href={pageUrl!(pageNum + 1)}
+				class="rounded-lg border border-border bg-white px-6 py-2.5 text-sm font-medium text-foreground shadow-sm transition-colors hover:border-primary hover:text-primary"
+			>
+				Suivant →
+			</a>
+		{/if}
 	{:else}
 		<span class="rounded-lg border border-border/40 bg-white px-6 py-2.5 text-sm font-medium text-muted-foreground/40 shadow-sm cursor-not-allowed select-none">
 			Suivant →

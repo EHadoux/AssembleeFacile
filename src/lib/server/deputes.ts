@@ -13,8 +13,7 @@ export interface Depute {
 	photo: string;
 }
 
-// process.cwd() = app/ directory (where vite build runs)
-const CSV_PATH = join(process.cwd(), '../assets/deputes-active.csv');
+const CSV_PATH = join(process.cwd(), 'assets/deputes-active.csv');
 
 function parseCSV(raw: string): string[][] {
 	const lines = raw.trim().split('\n');

@@ -5,8 +5,11 @@
 	import { Badge } from '$lib/components/ui/badge';
 	import { slugify } from '$lib/content';
 
+	const AUTEUR_PER_PAGE = 10;
+
 	let { data }: { data: PageData } = $props();
 
+	let pageNum = $state(1);
 	let photoError = $state(false);
 	let cosigPhotoErrors = $state<boolean[]>([]);
 	$effect.pre(() => {
@@ -59,6 +62,11 @@
 	}
 
 	const groupeColour = $derived(data.groupe?.couleur ?? '#6b7280');
+
+	const totalPages = $derived(Math.ceil(data.totalPosts / AUTEUR_PER_PAGE));
+	const paginatedPosts = $derived(
+		data.posts.slice((pageNum - 1) * AUTEUR_PER_PAGE, pageNum * AUTEUR_PER_PAGE)
+	);
 </script>
 
 <svelte:head>
@@ -326,16 +334,16 @@
 				Propositions ({data.totalPosts})
 			</h2>
 			<div class="flex flex-col gap-3">
-				{#each data.posts as post}
+				{#each paginatedPosts as post}
 					<PostCard {post} />
 				{/each}
 			</div>
 
-			{#if data.totalPages > 1}
+			{#if totalPages > 1}
 				<Pagination
-					pageNum={data.pageNum}
-					totalPages={data.totalPages}
-					pageUrl={(page) => `?page=${page}`}
+					{pageNum}
+					{totalPages}
+					onPageChange={(page) => { pageNum = page; }}
 				/>
 			{/if}
 		</section>

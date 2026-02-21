@@ -1,7 +1,7 @@
 /**
  * Central content module — the only file using import.meta.glob for markdown posts.
- * Paths are relative to THIS file (app/src/lib/content.ts):
- *   ../../.. = app/ root → ../content/posts = content/posts in parent dir
+ * Paths are relative to THIS file (src/lib/content.ts):
+ *   ../../content/posts = [project-root]/content/posts
  *
  * NOT in $lib/server/ so it can be imported in +page.ts files
  * (which run both SSR and client-side).

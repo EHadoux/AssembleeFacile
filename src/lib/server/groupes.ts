@@ -10,7 +10,7 @@ export interface Groupe {
 	couleur: string;
 }
 
-const CSV_PATH = join(process.cwd(), '../assets/groupes.csv');
+const CSV_PATH = join(process.cwd(), 'assets/groupes.csv');
 
 
 let _cache: Groupe[] | null = null;
