@@ -2,7 +2,7 @@
 date = 2024-10-15
 draft = false
 title = "Créer une réduction d’impôt sur le revenu pour les bénévoles qui s’investissent dans une association - N° 387"
-auteurs = ["Ian Boucard","Vincent Descoeur","Fabrice Brun","Alexandre Portier","Virginie Duby-Muller","Jean-Pierre Taite","Sylvie Bonnet","Eric Pauget","Vincent Rolland","Stéphane Viry"]
+auteurs = ["Ian Boucard","Vincent Descoeur","Fabrice Brun","Alexandre Portier","Virginie Duby-Muller","Jean-Pierre Taite","Sylvie Bonnet","Éric Pauget","Vincent Rolland","Stéphane Viry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reduction_impot_revenu_benevoles_associations"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 15 octobre 2024"]

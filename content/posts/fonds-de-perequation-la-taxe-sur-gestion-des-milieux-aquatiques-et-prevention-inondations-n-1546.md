@@ -2,7 +2,7 @@
 date = 2025-06-10
 draft = false
 title = "Fonds de péréquation de la taxe sur la gestion des milieux aquatiques et la prévention des inondations - N° 1546"
-auteurs = ["Sophie Ricourt Vaginay","Alexandre Allegret-Pilot","Brigitte Barèges","Bernard Chaix","Marc Chavent","Roger Chudeau","Frédéric Falcon","Olivier Fayssat","Hélène Laporte","Marie-France Lorho","Pascal Markowsky","Michèle Martinez","Alexandra Masson","Laurent Mazaury","Joseph Rivière","Emmanuel Taché De La Pagerie","Thierry Tesson","Romain Baubry","Christelle D'intorni","Nicolas Meizonnet","Julien Rancoule","Matthieu Bloch","Éric Michoux","Monique Griseti","Lionel Tivoli","Stéphane Viry","Yoann Gillet"]
+auteurs = ["Sophie Ricourt Vaginay","Alexandre Allegret-Pilot","Brigitte Barèges","Bernard Chaix","Marc Chavent","Roger Chudeau","Frédéric Falcon","Olivier Fayssat","Hélène Laporte","Marie-France Lorho","Pascal Markowsky","Michèle Martinez","Alexandra Masson","Laurent Mazaury","Joseph Rivière","Emmanuel Taché de la Pagerie","Thierry Tesson","Romain Baubry","Christelle D'Intorni","Nicolas Meizonnet","Julien Rancoule","Matthieu Bloch","Éric Michoux","Monique Griseti","Lionel Tivoli","Stéphane Viry","Yoann Gillet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/perequation_taxe_gestion_milieux_aquatiques_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 10 juin 2025"]

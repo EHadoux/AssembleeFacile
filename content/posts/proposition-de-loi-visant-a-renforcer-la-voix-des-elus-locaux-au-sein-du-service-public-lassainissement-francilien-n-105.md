@@ -2,7 +2,7 @@
 date = 2024-07-25
 draft = false
 title = "Proposition de loi visant à renforcer la voix des élus locaux au sein du service public de l'assainissement francilien - N° 105"
-auteurs = ["Gérard LARCHE"]
+auteurs = ["Gérard Larcher"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N46694"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Lundi 14 novembre 2022","Lundi 14 novembre 2022","Jeudi 2 mars 2023","Mardi 23 juillet 2024"]

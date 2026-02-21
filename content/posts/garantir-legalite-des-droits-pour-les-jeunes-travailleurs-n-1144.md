@@ -2,7 +2,7 @@
 date = 2025-03-18
 draft = false
 title = "Garantir l’égalité des droits pour les jeunes travailleurs - N° 1144"
-auteurs = ["Paul Midy","Ian Boucard","Joël Bruneau","Françoise Buffet","Lionel Causse","Julie Delpech","Philippe Fait","Olivier Falorni","Jean-Marie Fiévet","Moerani Frébault","Jean-Luc Fugit","Jean-Michel Jacques","Brigitte Klinkert","Jean Laussucq","Christine Le Nabour","Vincent Ledoux","Pauline Levasseur","Delphine Lingemann","Brigitte Liso","Lise Magnier","Christophe Marion","Sandra Marsaud","Stéphane Mazars","Laurent Mazaury","Constance De Pélichy","Maud Petit","Natalia Pouzyreff","Franck Riester","Anne-Sophie Ronceret","Xavier Roseren","Jean-François Rousset","Bertrand Sorre","Violette Spillebout","Prisca Thevenot","Stéphane Travert","Annie Vidal"]
+auteurs = ["Paul Midy","Ian Boucard","Joël Bruneau","Françoise Buffet","Lionel Causse","Julie Delpech","Philippe Fait","Olivier Falorni","Jean-Marie Fiévet","Moerani Frébault","Jean-Luc Fugit","Jean-Michel Jacques","Brigitte Klinkert","Jean Laussucq","Christine Le Nabour","Vincent Ledoux","Pauline Levasseur","Delphine Lingemann","Brigitte Liso","Lise Magnier","Christophe Marion","Sandra Marsaud","Stéphane Mazars","Laurent Mazaury","Constance de Pélichy","Maud Petit","Natalia Pouzyreff","Franck Riester","Anne-Sophie Ronceret","Xavier Roseren","Jean-François Rousset","Bertrand Sorre","Violette Spillebout","Prisca Thevenot","Stéphane Travert","Annie Vidal"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_egalite_droits_jeunes_travailleurs_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 18 mars 2025"]

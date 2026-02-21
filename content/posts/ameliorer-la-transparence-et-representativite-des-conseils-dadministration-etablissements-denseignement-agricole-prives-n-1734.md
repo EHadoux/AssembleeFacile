@@ -7,7 +7,7 @@ stepsStatus = [""]
 date = 2025-07-11
 draft = false
 title = "Améliorer la transparence et la représentativité des conseils d’administration des établissements d’enseignement agricole privés - N° 1734"
-auteurs = ["Hendrik Davi","Jean-Claude Raux","Loïc Prud’Homme","Peio Dufau","Farida Amrani","Fabrice Barusseau","Lisa Belluco","Christophe Bex","Nicolas Bonnet","Pierre-Yves Cadalen","Cyrielle Chatelain","Alexis Corbière","Jérôme Guedj","Catherine Hervieu","Maxime Laisney","Marianne Maximi","Julie Ozenne","Dominique Potier","Danielle Simonnet"]
+auteurs = ["Hendrik Davi","Jean-Claude Raux","Loïc Prud'homme","Peio Dufau","Farida Amrani","Fabrice Barusseau","Lisa Belluco","Christophe Bex","Nicolas Bonnet","Pierre-Yves Cadalen","Cyrielle Chatelain","Alexis Corbière","Jérôme Guedj","Catherine Hervieu","Maxime Laisney","Marianne Maximi","Julie Ozenne","Dominique Potier","Danielle Simonnet"]
 +++
 
 ## Résumé

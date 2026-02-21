@@ -2,7 +2,7 @@
 date = 2025-10-28
 draft = false
 title = "Adapter la France au nouvel ordre monétaire en embrassant le bitcoin et les cryptomonnaies - N° 2022"
-auteurs = ["Éric Ciotti","Charles Alloncle","Pierre-Henri Carbonnel","Bernard Chaix","Marc Chavent","Christelle D'intorni","Olivier Fayssat","Bartolomé Lenoir","Maxime Michelet","Éric Michoux","Sophie Ricourt Vaginay","Vincent Trébuchet","Hanane Mansouri","Matthieu Bloch"]
+auteurs = ["Éric Ciotti","Charles Alloncle","Pierre-Henri Carbonnel","Bernard Chaix","Marc Chavent","Christelle D'Intorni","Olivier Fayssat","Bartolomé Lenoir","Maxime Michelet","Éric Michoux","Sophie Ricourt Vaginay","Vincent Trébuchet","Hanane Mansouri","Matthieu Bloch"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/adapter_france_nouvel_ordre_monetaire_embrassant_bitcoin_cryptomonnaies_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 28 octobre 2025"]

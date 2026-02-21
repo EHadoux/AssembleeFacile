@@ -2,7 +2,7 @@
 date = 2025-09-13
 draft = false
 title = "Garantir la continuité des mandats locaux pour les députés suppléants accédant temporairement au mandat parlementaire - N° 1783"
-auteurs = ["Sylvie Dezarnaud","Constance De Pélichy","Ian Boucard","Véronique Besse","Sylvie Bonnet","Thibault Bazin","Josiane Corneloup","Joël Bruneau","Stéphane Mazars","Marie-Agnès Poussier-Winsback","Justine Gruet"]
+auteurs = ["Sylvie Dezarnaud","Constance de Pélichy","Ian Boucard","Véronique Besse","Sylvie Bonnet","Thibault Bazin","Josiane Corneloup","Joël Bruneau","Stéphane Mazars","Marie-Agnès Poussier-Winsback","Justine Gruet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/suppleants_deputes_mandats_locaux"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Vendredi 12 septembre 2025"]

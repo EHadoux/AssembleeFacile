@@ -2,7 +2,7 @@
 date = 2024-11-19
 draft = false
 title = "Supprimer le Conseil économique, social et environnemental et les conseils économiques, sociaux et environnementaux régionaux - N° 569"
-auteurs = ["Éric Ciotti","Alexandre Allegret-Pilot","Charles Alloncle","Brigitte Barèges","Matthieu Bloch","Bernard Chaix","Marc Chavent","Christelle D'intorni","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Maxime Michelet","Éric Michoux","Vincent Trébuchet","Sophie Ricourt Vaginay","Gérault Verny"]
+auteurs = ["Éric Ciotti","Alexandre Allegret-Pilot","Charles Alloncle","Brigitte Barèges","Matthieu Bloch","Bernard Chaix","Marc Chavent","Christelle D'Intorni","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Maxime Michelet","Éric Michoux","Vincent Trébuchet","Sophie Ricourt Vaginay","Gérault Verny"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/supprimer_CESE_CESER"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 19 novembre 2024"]

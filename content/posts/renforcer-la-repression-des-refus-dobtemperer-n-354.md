@@ -2,7 +2,7 @@
 date = 2024-10-15
 draft = false
 title = "Renforcer la répression des refus d’obtempérer - N° 354"
-auteurs = ["Éric Ciotti","Alexandre Allegret-Pilot","Charles Alloncle","Brigitte Barèges","Matthieu Bloch","Bernard Chaix","Marc Chavent","Christelle D'intorni","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Maxime Michelet","Éric Michoux","Vincent Trébuchet","Sophie Vaginay","Gérault Verny"]
+auteurs = ["Éric Ciotti","Alexandre Allegret-Pilot","Charles Alloncle","Brigitte Barèges","Matthieu Bloch","Bernard Chaix","Marc Chavent","Christelle D'Intorni","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Maxime Michelet","Éric Michoux","Vincent Trébuchet","Sophie Vaginay","Gérault Verny"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/repression_refus_obtemperer"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 15 octobre 2024"]

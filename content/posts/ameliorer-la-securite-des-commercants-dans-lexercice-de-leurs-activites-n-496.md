@@ -2,7 +2,7 @@
 date = 2024-10-29
 draft = false
 title = "Améliorer la sécurité des commerçants dans l’exercice de leurs activités - N° 496"
-auteurs = ["Romain Daubie","Delphine Lingemann"]
+auteurs = ["Romain Daubié","Delphine Lingemann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/securite_commercants_exercices_activites"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 29 octobre 2024"]

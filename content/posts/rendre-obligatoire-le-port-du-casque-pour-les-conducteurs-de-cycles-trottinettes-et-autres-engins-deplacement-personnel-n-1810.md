@@ -2,7 +2,7 @@
 date = 2025-09-16
 draft = false
 title = "Rendre obligatoire le port du casque pour les conducteurs de cycles, trottinettes et autres engins de déplacement personnel - N° 1810"
-auteurs = ["Yannick Favennec-Bécot","Agnès Firmin Le Bodo","Martine Froger","Sandrine Le Feur","Delphine Lingemann","Lise Magnier","Christophe Marion","Laurent Mazaury","Paul Molac","Maud Petit","Bertrand Sorre","David Taupiac","Prisca Thevenot","Nicolas Turquois","Corinne Vignon","Stéphane Viry","Philippe Vigier","Virginie Duby-Muller","Anne Le Hénanff","Jean-Pierre Bataille","Joël Bruneau","Salvatore Castiglione","Constance De Pélichy","Françoise Buffet","Josiane Corneloup","Julie Delpech","Nicole Dubré-Chirat","Philippe Fait"]
+auteurs = ["Yannick Favennec-Bécot","Agnès Firmin Le Bodo","Martine Froger","Sandrine Le Feur","Delphine Lingemann","Lise Magnier","Christophe Marion","Laurent Mazaury","Paul Molac","Maud Petit","Bertrand Sorre","David Taupiac","Prisca Thevenot","Nicolas Turquois","Corinne Vignon","Stéphane Viry","Philippe Vigier","Virginie Duby-Muller","Anne Le Hénanff","Jean-Pierre Bataille","Joël Bruneau","Salvatore Castiglione","Constance de Pélichy","Françoise Buffet","Josiane Corneloup","Julie Delpech","Nicole Dubré-Chirat","Philippe Fait"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_obligatoire_port_casque_conducteurs_cycles_trottinettes_engins_deplacement_personnel_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 16 septembre 2025"]

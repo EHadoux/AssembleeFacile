@@ -2,7 +2,7 @@
 date = 2025-10-28
 draft = false
 title = "Retrouver la confiance et l’équilibre dans les rapports locatifs - N° 2039"
-auteurs = ["Inaki Echaniz","Emmanuel Gregoire","Laurent Lhardit","Fanny Dombre Coste","Peio Dufau","Sandrine Runel","Roger Vicot","Karim Benbrahim","Stéphane Delautrette"]
+auteurs = ["Inaki Echaniz","Emmanuel Grégoire","Laurent Lhardit","Fanny Dombre Coste","Peio Dufau","Sandrine Runel","Roger Vicot","Karim Benbrahim","Stéphane Delautrette"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/retrouver_confiance_equilibre_rapports_locatifs_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 28 octobre 2025"]

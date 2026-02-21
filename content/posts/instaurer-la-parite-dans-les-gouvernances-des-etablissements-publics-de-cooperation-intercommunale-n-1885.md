@@ -2,7 +2,7 @@
 date = 2025-09-30
 draft = false
 title = "Instaurer la parité dans les gouvernances des établissements publics de coopération intercommunale - N° 1885"
-auteurs = ["Delphine Lingemann","Guillaume Gouffier Valente","Jean-Pierre Bataille","Véronique Riotton","Colette Capdevielle","Laurent Lhardit","Dominique Voynet","Anthony Brosse","Marie-Pierre Rixain","Julie Delpech","Graziella Melchior","Anne-Cécile Violland","Stéphane Viry","Benoît Biteau","Constance De Pélichy","Richard Ramos","Denis Fégné","Stéphane Buchou","Constance Le Grip"]
+auteurs = ["Delphine Lingemann","Guillaume Gouffier Valente","Jean-Pierre Bataille","Véronique Riotton","Colette Capdevielle","Laurent Lhardit","Dominique Voynet","Anthony Brosse","Marie-Pierre Rixain","Julie Delpech","Graziella Melchior","Anne-Cécile Violland","Stéphane Viry","Benoît Biteau","Constance de Pélichy","Richard Ramos","Denis Fégné","Stéphane Buchou","Constance Le Grip"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_instaurer_parite_dans_les_gouvernances_des_etablissements_publics_de_cooperation_intercommunale_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 30 septembre 2025"]

@@ -2,7 +2,7 @@
 date = 2024-07-24
 draft = false
 title = "Droit de vote et éligibilité des étrangers aux élections - N° 149"
-auteurs = ["Jean-Pierre Bel"]
+auteurs = ["Jean-Pierre Bataille"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/992063"
 stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale"]
 stepsDate = ["Jeudi 23 décembre 1999","Jeudi 23 décembre 1999","Jeudi 4 mai 2000","Vendredi 9 décembre 2011","Lundi 2 juillet 2012","Jeudi 6 juillet 2017","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]

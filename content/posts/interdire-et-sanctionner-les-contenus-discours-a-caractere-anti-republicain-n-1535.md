@@ -2,7 +2,7 @@
 date = 2025-06-10
 draft = false
 title = "Interdire et sanctionner les contenus et discours à caractère anti-républicain - N° 1535"
-auteurs = ["Vincent Jeanbrun","Joël Bruneau","Pierre Cordier","Michel Herbillon","Frédérique Meunier","Éric Pauget","Constance De Pélichy","Nicolas Ray","Jean-Pierre Taite","Mathieu Lefèvre","Charles Rodwell","Eric Liégeon","Jean-Louis Thiériot","Josiane Corneloup","Émilie Bonnivard","Virginie Duby-Muller","Guillaume Lepers","Jean-Pierre Vigier","Laurent Wauquiez","Jean-Didier Berger","Christelle Petex"]
+auteurs = ["Vincent Jeanbrun","Joël Bruneau","Pierre Cordier","Michel Herbillon","Frédérique Meunier","Éric Pauget","Constance de Pélichy","Nicolas Ray","Jean-Pierre Taite","Mathieu Lefèvre","Charles Rodwell","Eric Liégeon","Jean-Louis Thiériot","Josiane Corneloup","Émilie Bonnivard","Virginie Duby-Muller","Guillaume Lepers","Jean-Pierre Vigier","Laurent Wauquiez","Jean-Didier Berger","Christelle Petex"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/inyerdire_sanctionner_contenus_discours_antirepublicain_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 10 juin 2025"]

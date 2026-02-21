@@ -2,7 +2,7 @@
 date = 2025-01-21
 draft = false
 title = "Sécuriser la vente de plaques d'immatriculation - N° 817"
-auteurs = ["Romain Daubié","Thibault Bazin","Thierry Benoit","Jean-Luc Bourgeaux","Françoise Buffet","Jean-René Cazeneuve","Nathalie Colin-Oesterlé","Laurent Croizier","Nicole Dubré-Chirat","Virginie Duby-Muller","Jean-Marie Fiévet","Guillaume Garot","Philippe Gosselin","Jean-Carles Grelier","Sandrine Josso","Daniel Labaronne","Sandrine Le Feur","Vincent Ledoux","Corentin Le Fur","Louise Morel","Christophe Naegelen","Hubert Ott","Sophie Pantel","Constance De Pélichy","Alexandre Portier","Anne-Sophie Ronceret","Thierry Sother","Violette Spillebout","Jean-Pierre Taite","Anne-Cécile Violland","Stéphane Viry","Delphine Lingemann","Erwan Balanant","Denis Fégne"]
+auteurs = ["Romain Daubié","Thibault Bazin","Thierry Benoit","Jean-Luc Bourgeaux","Françoise Buffet","Jean-René Cazeneuve","Nathalie Colin-Oesterlé","Laurent Croizier","Nicole Dubré-Chirat","Virginie Duby-Muller","Jean-Marie Fiévet","Guillaume Garot","Philippe Gosselin","Jean-Carles Grelier","Sandrine Josso","Daniel Labaronne","Sandrine Le Feur","Vincent Ledoux","Corentin Le Fur","Louise Morel","Christophe Naegelen","Hubert Ott","Sophie Pantel","Constance de Pélichy","Alexandre Portier","Anne-Sophie Ronceret","Thierry Sother","Violette Spillebout","Jean-Pierre Taite","Anne-Cécile Violland","Stéphane Viry","Delphine Lingemann","Erwan Balanant","Denis Fégné"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/securiser_vente_plaques_immatriculation22"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 21 janvier 2025"]

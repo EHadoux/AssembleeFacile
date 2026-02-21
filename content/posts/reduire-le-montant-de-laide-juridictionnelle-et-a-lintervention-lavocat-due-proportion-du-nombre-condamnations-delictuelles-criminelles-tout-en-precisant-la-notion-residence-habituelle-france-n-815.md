@@ -2,7 +2,7 @@
 date = 2025-01-21
 draft = false
 title = "Réduire le montant de l’aide juridictionnelle et de l’aide à l’intervention de l’avocat à due proportion du nombre de condamnations délictuelles et criminelles, tout en précisant la notion de résidence habituelle en France - N° 815"
-auteurs = ["Alexandre Allegret-Pilot","Robert Le Bourgeois","Philippe Lottiaux","Laurence Robert-Dehault","Joseph Rivière","Michèle Martinez","Emmanuel Taché De La Pagerie","Marie-France Lorho","Antoine Villedieu","Hanane Mansouri","Véronique Besse","Sophie Ricourt Vaginay","Romain Baubry","Jonathan Gery","Marc Chavent","Thibaut Monnier","Géraldine Grangier"]
+auteurs = ["Alexandre Allegret-Pilot","Robert Le Bourgeois","Philippe Lottiaux","Laurence Robert-Dehault","Joseph Rivière","Michèle Martinez","Emmanuel Taché de la Pagerie","Marie-France Lorho","Antoine Villedieu","Hanane Mansouri","Véronique Besse","Sophie Ricourt Vaginay","Romain Baubry","Jonathan Gery","Marc Chavent","Thibaut Monnier","Géraldine Grangier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reduire_aide_juridictionnelle_17"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 21 janvier 2025"]

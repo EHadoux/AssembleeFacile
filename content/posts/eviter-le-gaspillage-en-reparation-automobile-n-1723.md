@@ -7,7 +7,7 @@ stepsStatus = [""]
 date = 2025-07-11
 draft = false
 title = "Éviter le gaspillage en réparation automobile - N° 1723"
-auteurs = ["Perrine Goulet","Anne Bergantz","Romain Daubié","Jean-Marie Fiévet","Pauline Levasseur","Justine Gruet","Delphine Lingemann","Bastien Marchive","Constance De Pélichy","Nicolas Ray","Claudia Rouaux","David Taupiac","Vincent Thiébaut","Julie Delpech"]
+auteurs = ["Perrine Goulet","Anne Bergantz","Romain Daubié","Jean-Marie Fiévet","Pauline Levasseur","Justine Gruet","Delphine Lingemann","Bastien Marchive","Constance de Pélichy","Nicolas Ray","Claudia Rouaux","David Taupiac","Vincent Thiébaut","Julie Delpech"]
 +++
 
 ## Résumé
