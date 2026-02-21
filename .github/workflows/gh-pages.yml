@@ -1,47 +1,55 @@
-name: GitHub Pages
+name: Build & Deploy
 
 on: workflow_dispatch
 
 jobs:
   deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v4
         with:
-          submodules: true # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+          fetch-depth: 0
 
-      - name: "Set up Python"
-        uses: actions/setup-python@v5
+      - uses: actions/setup-node@v4
         with:
-          python-version-file: "scripts/.python-version"
+          node-version: '22'
+          cache: 'npm'
 
-      - name: Install uv
-        uses: astral-sh/setup-uv@v6
+      - name: Install dependencies
+        run: npm ci
 
-      - name: Install the project
-        working-directory: scripts
-        run: uv sync --locked --all-extras --dev
+      - name: Download député CSV
+        run: npm run db:download-deputes
 
-      - name: Generate top contributors data
-        working-directory: scripts
-        run: uv run export_top_contributors.py
+      - name: Seed députés into database
+        run: npm run db:seed-deputes
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
-        with:
-          hugo-version: 'latest'
-          # extended: true
+      - name: Seed articles into database
+        run: npm run db:seed-articles
 
-      - name: Build
-        run: hugo --minify
+      - name: Normalise article authors
+        run: npm run db:clean-authors
 
-      - name: Deploy
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/deputes-active.csv db/assemblee.db content/posts/
+          git diff --staged --quiet || git commit -m "chore: update député data and article authors [skip ci]"
+          git push
+
+      - name: Build site
+        run: npm run build
+
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/master'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          publish_dir: ./build
           cname: anfacile.fr
