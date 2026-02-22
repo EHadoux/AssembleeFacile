@@ -2,7 +2,7 @@
 date = 2026-02-17
 draft = false
 title = "Intégrer les périodes de bénévolat dans le calcul de la retraite - N° 2497"
-auteurs = ["Alix Fruchon","Ian Boucard","Jean-Luc Bourgeaux","Valérie Létard","Sandrine Josso","Julien Dive","Éric Pauget","Anne-Sophie Ronceret","Constance De Pélichy","Josiane Corneloup","Joël Bruneau","Marie-Agnès Poussier-Winsback","Lionel Vuibert","Olivier Falorni","Sophie Panonacle","Sylvie Bonnet","Yannick Neuder","Xavier Breton","Stéphane Viry","Virginie Duby-Muller"]
+auteurs = ["Alix Fruchon","Ian Boucard","Jean-Luc Bourgeaux","Valérie Létard","Sandrine Josso","Julien Dive","Éric Pauget","Anne-Sophie Ronceret","Constance de Pélichy","Josiane Corneloup","Joël Bruneau","Marie-Agnès Poussier-Winsback","Lionel Vuibert","Olivier Falorni","Sophie Panonacle","Sylvie Bonnet","Yannick Neuder","Xavier Breton","Stéphane Viry","Virginie Duby-Muller"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/integrer_benevolat_calcul_retraites_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 17 février 2026"]

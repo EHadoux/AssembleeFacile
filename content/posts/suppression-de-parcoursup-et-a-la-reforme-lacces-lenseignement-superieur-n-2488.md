@@ -2,7 +2,7 @@
 date = 2026-02-17
 draft = false
 title = "Suppression de Parcoursup et à la réforme de l'accès à l'enseignement supérieur - N° 2488"
-auteurs = ["Éric Ciotti","Alexandre Allegret-Pilot","Charles Alloncle","Matthieu Bloch","Pierre-Henri Carbonnel","Bernard Chaix","Marc Chavent","Christelle D’Intorni","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Maxime Michelet","Éric Michoux","Sophie Ricourt Vaginay","Vincent Trébuchet","Antoine Valentin","Gérault Verny"]
+auteurs = ["Éric Ciotti","Alexandre Allegret-Pilot","Charles Alloncle","Matthieu Bloch","Pierre-Henri Carbonnel","Bernard Chaix","Marc Chavent","Christelle D'Intorni","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Maxime Michelet","Éric Michoux","Sophie Ricourt Vaginay","Vincent Trébuchet","Antoine Valentin","Gérault Verny"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_suppression_de_parcoursup_et_a_la_reforme_de_l_acces_a_l_enseignement_superieur_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 17 février 2026"]
