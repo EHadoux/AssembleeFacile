@@ -3,7 +3,7 @@
 	import Header from '$lib/components/Header.svelte';
 	import Footer from '$lib/components/Footer.svelte';
 
-	let { children } = $props();
+	let { children, data } = $props();
 </script>
 
 <div class="flex min-h-screen flex-col">
@@ -11,5 +11,5 @@
 	<main class="flex-1">
 		{@render children()}
 	</main>
-	<Footer />
+	<Footer buildDate={data.buildDate} />
 </div>
