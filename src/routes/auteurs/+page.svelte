@@ -1,10 +1,25 @@
 <script lang="ts">
 	import type { PageData } from './$types';
+	import { onMount } from 'svelte';
 
 	let { data }: { data: PageData } = $props();
 
 	let photoErrors = $state<Record<string, boolean>>({});
 	let search = $state('');
+	let visibleGroupCount = $state(1);
+
+	onMount(() => {
+		let current = 1;
+		const total = data.groupedList.length;
+		function renderNext() {
+			if (current < total) {
+				current++;
+				visibleGroupCount = current;
+				requestAnimationFrame(renderNext);
+			}
+		}
+		requestAnimationFrame(renderNext);
+	});
 
 	const totalAuteurs = $derived(data.groupedList.reduce((acc, g) => acc + g.auteurs.length, 0));
 
@@ -19,6 +34,10 @@
 						)
 					}))
 					.filter((g) => g.auteurs.length > 0)
+	);
+
+	const displayedGroups = $derived(
+		search.trim() !== '' ? filteredGroups : filteredGroups.slice(0, visibleGroupCount)
 	);
 </script>
 
@@ -73,7 +92,7 @@
 			Aucun auteur trouvé pour « {search} ».
 		</p>
 	{:else}
-		{#each filteredGroups as groupe}
+		{#each displayedGroups as groupe}
 			<section class="mb-7">
 				<!-- Group header -->
 				<div class="mb-3 flex items-center gap-2">

@@ -27,6 +27,7 @@
 			{#each nav as { href, label }}
 				<a
 					{href}
+					data-sveltekit-preload-data="hover"
 					class="rounded-md px-3 py-1.5 text-sm font-medium transition-colors
 						{$page.url.pathname.startsWith(href)
 						? 'bg-primary/10 text-primary'
