@@ -1,0 +1,21 @@
++++
+date = 2026-02-17
+draft = false
+title = "La création d’une carte famille ouverte dès le deuxième enfant - N° 2495"
+auteurs = ["Jérémie Patrier-Leitus","Paul Christophe","Xavier Albertini","Henri Alfandari","Béatrice Bellamy","Thierry Benoit","Sylvain Berrios","Benoît Blanchard","Bertrand Bouyx","Jean-Michel Brard","Nathalie Colin-Oesterlé","Michel Criaud","Philippe Fait","Agnès Firmin Le Bodo","Félicie Gérard","François Gernigon","Pierre Henriet","François Jolivet","Loïc Kervran","Thomas Lam","Didier Lemaire","Lise Magnier","Laurent Marcangeli","Jean Moulliere","Béatrice Piron","Christophe Plassard","Jean-François Portarrieu","Marie-Agnès Poussier-Winsback","Isabelle Rauch","Xavier Roseren","Laetitia Saint-Paul","Vincent Thiébaut","Frédéric Valletoux","Anne-Cécile Violland"]
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/creation_carte_famille_ouverte_des_deuxieme_enfant_17e"
+stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Mardi 17 février 2026","Mardi 17 février 2026"]
+stepsStatus = ["",""]
+tags = ["Famille","Transports","Économie"]
++++
+
+## Résumé
+
+Face à la baisse historique de la natalité en France, cette proposition vise à moderniser la politique familiale en ouvrant les avantages de l'actuelle « carte familles nombreuses » aux foyers dès le deuxième enfant. L'objectif est de soutenir le pouvoir d'achat de ces familles, qui représentent 40 % des foyers, notamment pour leurs frais de transport.
+
+## Liste des modifications
+
+**Création de la carte famille (Article 1)**: Remplace la carte familles nombreuses par une « carte famille » accessible dès le deuxième enfant à charge, offrant des réductions progressives sur les transports et chez des partenaires commerciaux.
+
+**Financement de la mesure (Article 2)**: Prévoit la compensation financière des pertes de revenus pour l'État et les collectivités locales par la création d'une taxe supplémentaire sur le tabac.
