@@ -1,11 +1,11 @@
-import { readFileSync } from 'node:fs';
-import { fileURLToPath } from 'node:url';
-import { join } from 'node:path';
 import { parse } from 'csv-parse/sync';
+import { readFileSync } from 'node:fs';
+import { join } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { db } from './_db.ts';
 
 const dir = fileURLToPath(new URL('.', import.meta.url));
-const assetsDir = join(dir, '../../assets');
+const assetsDir = join(dir, '../assets');
 
 // ── Groupes ──────────────────────────────────────────────────────────────────
 
@@ -17,7 +17,7 @@ const groupeRows: GroupeRow[] = parse(groupesCsv, { columns: true, skip_empty_li
 const upsertGroupe = db.prepare(
   `INSERT INTO groupes (abrev, nom, couleur)
    VALUES (?, ?, ?)
-   ON CONFLICT(abrev) DO UPDATE SET nom = excluded.nom, couleur = excluded.couleur`
+   ON CONFLICT(abrev) DO UPDATE SET nom = excluded.nom, couleur = excluded.couleur`,
 );
 
 let groupesUpserted = 0;
@@ -30,15 +30,31 @@ for (const row of groupeRows) {
 // ── Députés ──────────────────────────────────────────────────────────────────
 
 type DeputeRow = {
-  id: string; legislature: string; civ: string; nom: string; prenom: string;
-  villeNaissance: string; naissance: string; age: string;
-  groupe: string; groupeAbrev: string;
-  departementNom: string; departementCode: string; circo: string;
-  datePriseFonction: string; job: string; mail: string;
-  twitter: string; facebook: string; website: string;
-  nombreMandats: string; experienceDepute: string;
-  scoreParticipation: string; scoreParticipationSpecialite: string;
-  scoreLoyaute: string; scoreMajorite: string;
+  id: string;
+  legislature: string;
+  civ: string;
+  nom: string;
+  prenom: string;
+  villeNaissance: string;
+  naissance: string;
+  age: string;
+  groupe: string;
+  groupeAbrev: string;
+  departementNom: string;
+  departementCode: string;
+  circo: string;
+  datePriseFonction: string;
+  job: string;
+  mail: string;
+  twitter: string;
+  facebook: string;
+  website: string;
+  nombreMandats: string;
+  experienceDepute: string;
+  scoreParticipation: string;
+  scoreParticipationSpecialite: string;
+  scoreLoyaute: string;
+  scoreMajorite: string;
   dateMaj: string;
 };
 
@@ -78,13 +94,11 @@ const upsertDepute = db.prepare(
      score_loyaute = excluded.score_loyaute,
      score_majorite = excluded.score_majorite,
      date_maj = excluded.date_maj,
-     retire = 0`
+     retire = 0`,
 );
 
 // Ensure every group referenced by deputies exists (e.g. "NI" not in groupes.csv)
-const ensureGroupe = db.prepare(
-  `INSERT OR IGNORE INTO groupes (abrev, nom, couleur) VALUES (?, ?, '#888888')`
-);
+const ensureGroupe = db.prepare(`INSERT OR IGNORE INTO groupes (abrev, nom, couleur) VALUES (?, ?, '#888888')`);
 for (const row of deputeRows) {
   if (row.groupeAbrev?.trim()) ensureGroupe.run(row.groupeAbrev.trim(), row.groupe ?? row.groupeAbrev.trim());
 }
@@ -99,22 +113,33 @@ for (const row of deputeRows) {
 
   const existing = db.prepare('SELECT id FROM deputes WHERE id = ?').get(row.id);
   upsertDepute.run(
-    row.id, parseInt(row.legislature) || 17, row.civ || null, row.nom, row.prenom,
+    row.id,
+    parseInt(row.legislature) || 17,
+    row.civ || null,
+    row.nom,
+    row.prenom,
     row.groupeAbrev?.trim() || null,
-    row.villeNaissance || null, row.naissance || null,
-    row.departementNom || null, row.departementCode || null,
+    row.villeNaissance || null,
+    row.naissance || null,
+    row.departementNom || null,
+    row.departementCode || null,
     parseInt(row.circo) || null,
-    row.datePriseFonction || null, row.job || null,
-    row.mail || null, row.twitter || null, row.facebook || null, row.website || null,
+    row.datePriseFonction || null,
+    row.job || null,
+    row.mail || null,
+    row.twitter || null,
+    row.facebook || null,
+    row.website || null,
     parseInt(row.nombreMandats) || null,
     parseFloat(row.scoreParticipation) || null,
     parseFloat(row.scoreParticipationSpecialite) || null,
     parseFloat(row.scoreLoyaute) || null,
     parseFloat(row.scoreMajorite) || null,
-    row.dateMaj || null
+    row.dateMaj || null,
   );
 
-  if (existing) updated++; else inserted++;
+  if (existing) updated++;
+  else inserted++;
 }
 
 // Mark deputies no longer in the CSV as retired

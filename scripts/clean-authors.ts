@@ -1,42 +1,49 @@
-import { readFileSync, writeFileSync } from 'node:fs';
-import { fileURLToPath } from 'node:url';
-import { join } from 'node:path';
 import { Searcher } from 'fast-fuzzy';
+import { readFileSync, writeFileSync } from 'node:fs';
+import { join } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { db } from './_db.ts';
 
 const dir = fileURLToPath(new URL('.', import.meta.url));
-const postsDir = join(dir, '../../content/posts');
+const postsDir = join(dir, '../content/posts');
 
 const MATCH_THRESHOLD = 0.85;
 
-interface Depute { id: string; nom: string; prenom: string }
-interface ArticleRow { slug: string }
-interface AuteurRow { ordre: number; nom_brut: string }
+interface Depute {
+  id: string;
+  nom: string;
+  prenom: string;
+}
+interface ArticleRow {
+  slug: string;
+}
+interface AuteurRow {
+  ordre: number;
+  nom_brut: string;
+}
 
 const deputes = db.prepare('SELECT id, nom, prenom FROM deputes WHERE retire = 0').all() as unknown as Depute[];
 
 // Index for fast-fuzzy: search by "prenom nom" and "nom prenom"
 type SearchItem = { id: string; canonical: string };
-const candidates: SearchItem[] = deputes.flatMap(d => [
+const candidates: SearchItem[] = deputes.flatMap((d) => [
   { id: d.id, canonical: `${d.prenom} ${d.nom}` },
   { id: d.id, canonical: `${d.nom} ${d.prenom}` },
 ]);
 const searcher = new Searcher(candidates, {
-  keySelector: item => item.canonical,
+  keySelector: (item) => item.canonical,
   returnMatchData: true,
 });
 
 function canonicalName(id: string): string {
-  const d = deputes.find(dep => dep.id === id)!;
+  const d = deputes.find((dep) => dep.id === id)!;
   return `${d.prenom} ${d.nom}`;
 }
 
 const updateAuteur = db.prepare(
-  `UPDATE article_auteurs SET nom_brut = ?, depute_id = ? WHERE article_slug = ? AND ordre = ?`
+  `UPDATE article_auteurs SET nom_brut = ?, depute_id = ? WHERE article_slug = ? AND ordre = ?`,
 );
-const markClean = db.prepare(
-  `UPDATE articles SET clean_authors = 1 WHERE slug = ?`
-);
+const markClean = db.prepare(`UPDATE articles SET clean_authors = 1 WHERE slug = ?`);
 
 const dirty = db.prepare('SELECT slug FROM articles WHERE clean_authors = 0').all() as unknown as ArticleRow[];
 
@@ -53,9 +60,9 @@ for (const { slug } of dirty) {
     continue;
   }
 
-  const auteurs = db.prepare(
-    'SELECT ordre, nom_brut FROM article_auteurs WHERE article_slug = ? ORDER BY ordre'
-  ).all(slug) as unknown as AuteurRow[];
+  const auteurs = db
+    .prepare('SELECT ordre, nom_brut FROM article_auteurs WHERE article_slug = ? ORDER BY ordre')
+    .all(slug) as unknown as AuteurRow[];
 
   const replacements: { original: string; canonical: string; score: number }[] = [];
 
@@ -82,11 +89,12 @@ for (const { slug } of dirty) {
   if (replacements.length > 0) {
     // Replace the auteurs array in the .md frontmatter
     const newNames = (
-      db.prepare('SELECT nom_brut FROM article_auteurs WHERE article_slug = ? ORDER BY ordre')
-        .all(slug) as { nom_brut: string }[]
-    ).map(r => (r as unknown as { nom_brut: string }).nom_brut);
+      db.prepare('SELECT nom_brut FROM article_auteurs WHERE article_slug = ? ORDER BY ordre').all(slug) as {
+        nom_brut: string;
+      }[]
+    ).map((r) => (r as unknown as { nom_brut: string }).nom_brut);
 
-    const newLine = `auteurs = [${newNames.map(n => `"${n}"`).join(',')}]`;
+    const newLine = `auteurs = [${newNames.map((n) => `"${n}"`).join(',')}]`;
     content = content.replace(/^auteurs = \[.*\]$/m, newLine);
     writeFileSync(filepath, content, 'utf-8');
 
