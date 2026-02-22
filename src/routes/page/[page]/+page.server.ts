@@ -1,6 +1,6 @@
 import type { PageServerLoad } from './$types';
 import { error } from '@sveltejs/kit';
-import { getAllPosts, POSTS_PER_PAGE } from '$lib/content';
+import { getAllPosts, POSTS_PER_PAGE } from '$lib/server/content';
 
 export const load: PageServerLoad = async ({ params }) => {
 	const pageNum = parseInt(params.page, 10);

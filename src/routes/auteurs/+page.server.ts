@@ -1,5 +1,5 @@
 import type { PageServerLoad } from './$types';
-import { getAllAuteurs, getPostsByAuteur, slugify } from '$lib/content';
+import { getAllAuteurs, getPostsByAuteur, slugify } from '$lib/server/content';
 import { findDeputeByName } from '$lib/server/deputes';
 import { getAllGroupes, GROUPE_ORDER } from '$lib/server/groupes';
 

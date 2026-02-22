@@ -1,5 +1,5 @@
 import type { PageServerLoad } from './$types';
-import { getAllPosts, POSTS_PER_PAGE } from '$lib/content';
+import { getAllPosts, POSTS_PER_PAGE } from '$lib/server/content';
 import { getTopContributors, getPropositionsByGroupe } from '$lib/server/queries';
 
 export const load: PageServerLoad = async () => {

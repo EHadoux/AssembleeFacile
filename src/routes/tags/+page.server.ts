@@ -1,5 +1,5 @@
 import type { PageServerLoad } from './$types';
-import { getAllTags, getAllPosts } from '$lib/content';
+import { getAllTags, getAllPosts } from '$lib/server/content';
 import { getAllDeputes } from '$lib/server/deputes';
 import { getAllGroupes } from '$lib/server/groupes';
 import { normalizeForLookup } from '$lib/utils/normalize';

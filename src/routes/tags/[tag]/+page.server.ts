@@ -1,6 +1,6 @@
 import type { PageServerLoad } from './$types';
 import { error } from '@sveltejs/kit';
-import { getAllTags, getPostsByTag, getTagBySlug, slugify } from '$lib/content';
+import { getAllTags, getPostsByTag, getTagBySlug, slugify } from '$lib/server/content';
 
 export const load: PageServerLoad = async ({ params }) => {
 	const tag = getTagBySlug(params.tag);

@@ -1,6 +1,6 @@
 import type { PageServerLoad } from './$types';
 import { error } from '@sveltejs/kit';
-import { getAllAuteurs, getPostsByAuteur, getAuteurBySlug, slugify } from '$lib/content';
+import { getAllAuteurs, getPostsByAuteur, getAuteurBySlug, slugify } from '$lib/server/content';
 import { getAllGroupes } from '$lib/server/groupes';
 import { findDeputeByNameInDb, getTopCosignataires } from '$lib/server/queries';
 

@@ -1,10 +1,12 @@
 /**
- * Central content module — the only file using import.meta.glob for markdown posts.
- * Paths are relative to THIS file (src/lib/content.ts):
- *   ../../content/posts = [project-root]/content/posts
+ * Universal content module (runs on both server and client).
+ * Contains only: PostMeta type, slugify, POSTS_PER_PAGE, and lazy postModules.
  *
- * NOT in $lib/server/ so it can be imported in +page.ts files
- * (which run both SSR and client-side).
+ * All eager markdown imports (metadata, raw text, allPosts, etc.) live in
+ * $lib/server/content.ts to avoid bloating the client bundle.
+ *
+ * postModules is lazy so each post's compiled Svelte component is code-split
+ * into its own chunk and only downloaded when navigating to that post.
  */
 
 export interface PostMeta {
@@ -22,137 +24,10 @@ export interface PostMeta {
 	excerpt: string;
 }
 
-// Eager metadata-only: used by listing pages at build time
-const rawMetadata = import.meta.glob('../../content/posts/*.md', {
-	eager: true,
-	import: 'metadata'
-}) as Record<string, Record<string, unknown>>;
-
-// Raw text: used to extract the résumé excerpt
-const rawContent = import.meta.glob('../../content/posts/*.md', {
-	eager: true,
-	query: '?raw',
-	import: 'default'
-}) as Record<string, string>;
-
-function extractExcerpt(raw: string, maxChars = 200): string {
-	const match = raw.match(/## Résumé\s*\n+([\s\S]+?)(?=\n+##|$)/);
-	if (!match) return '';
-	const text = match[1].replace(/\*\*/g, '').replace(/\*/g, '').trim();
-	return text.length > maxChars ? text.slice(0, maxChars).trimEnd() + '…' : text;
-}
-
-// Eager full-module: used by single post page to get the compiled Svelte component.
-// Must be eager (not lazy) because the same files are already eagerly imported above
-// for metadata and raw text — Vite can't code-split modules that are statically imported.
-export const postModules = import.meta.glob('../../content/posts/*.md', { eager: true }) as Record<
+export const postModules = import.meta.glob('../../content/posts/*.md') as Record<
 	string,
-	{ default: unknown; metadata: Record<string, unknown> }
+	() => Promise<{ default: unknown; metadata: Record<string, unknown> }>
 >;
-
-const allPosts: PostMeta[] = Object.entries(rawMetadata)
-	.map(([path, meta]) => {
-		const slug = path.split('/').pop()!.replace('.md', '');
-		const numMatch = slug.match(/n-(\d+)$/);
-		const proposalNum = numMatch ? parseInt(numMatch[1], 10) : 0;
-		const rawTitle = (meta?.title as string) ?? slug;
-		const proposalTitle = rawTitle.includes(' - N° ')
-			? rawTitle.split(' - N° ')[0]
-			: rawTitle;
-
-		const rawDate = meta?.date;
-		let date = '';
-		if (rawDate instanceof Date) {
-			date = rawDate.toISOString().split('T')[0];
-		} else if (typeof rawDate === 'string') {
-			date = rawDate;
-		}
-
-		return {
-			slug,
-			proposalTitle,
-			proposalNum,
-			title: rawTitle,
-			date,
-			auteurs: (meta?.auteurs as string[]) ?? [],
-			tags: (meta?.tags as string[]) ?? [],
-			link: (meta?.link as string) ?? '',
-			stepsName: (meta?.stepsName as string[]) ?? [],
-			stepsDate: (meta?.stepsDate as string[]) ?? [],
-			stepsStatus: (meta?.stepsStatus as string[]) ?? [],
-			excerpt: extractExcerpt(rawContent[path] ?? '')
-		} satisfies PostMeta;
-	})
-	.sort((a, b) => b.proposalNum - a.proposalNum);
-
-export function getAllPosts(): PostMeta[] {
-	return allPosts;
-}
-
-export function getPost(slug: string): PostMeta | null {
-	return allPosts.find((p) => p.slug === slug) ?? null;
-}
-
-export function getPostsByTag(tag: string): PostMeta[] {
-	const normalized = slugify(tag);
-	return allPosts.filter((p) => p.tags.some((t) => slugify(t) === normalized));
-}
-
-export function getPostsByAuteur(name: string): PostMeta[] {
-	const normalized = slugify(name);
-	return allPosts.filter((p) => p.auteurs.some((a) => slugify(a) === normalized));
-}
-
-export function getAllTags(): { tag: string; count: number }[] {
-	const counts = new Map<string, { tag: string; count: number }>();
-	for (const post of allPosts) {
-		for (const tag of post.tags) {
-			const key = slugify(tag);
-			const existing = counts.get(key);
-			if (existing) {
-				existing.count++;
-			} else {
-				counts.set(key, { tag, count: 1 });
-			}
-		}
-	}
-	return [...counts.values()].sort((a, b) => b.count - a.count);
-}
-
-export function getAllAuteurs(): string[] {
-	const seen = new Map<string, string>();
-	for (const post of allPosts) {
-		for (const auteur of post.auteurs) {
-			const key = slugify(auteur);
-			if (!seen.has(key)) seen.set(key, auteur);
-		}
-	}
-	return [...seen.values()];
-}
-
-export function getTopContributors(n: number): { name: string; count: number }[] {
-	const counts = new Map<string, { name: string; count: number }>();
-	for (const post of allPosts) {
-		for (const auteur of post.auteurs) {
-			const key = slugify(auteur);
-			const existing = counts.get(key);
-			if (existing) {
-				existing.count++;
-			} else {
-				counts.set(key, { name: auteur, count: 1 });
-			}
-		}
-	}
-	return [...counts.values()].sort((a, b) => b.count - a.count).slice(0, n);
-}
-
-export function getAuteurBySlug(slug: string): string | null {
-	return getAllAuteurs().find((name) => slugify(name) === slug) ?? null;
-}
-
-export function getTagBySlug(slug: string): string | null {
-	return getAllTags().find(({ tag }) => slugify(tag) === slug)?.tag ?? null;
-}
 
 /** Mirrors Hugo's urlize: lowercase, remove accents, hyphenate spaces, strip non-alpha */
 export function slugify(s: string): string {
