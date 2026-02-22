@@ -42,10 +42,12 @@ function extractExcerpt(raw: string, maxChars = 200): string {
 	return text.length > maxChars ? text.slice(0, maxChars).trimEnd() + '…' : text;
 }
 
-// Lazy full-module: used by single post page to get the compiled Svelte component
-export const postModules = import.meta.glob('../../content/posts/*.md') as Record<
+// Eager full-module: used by single post page to get the compiled Svelte component.
+// Must be eager (not lazy) because the same files are already eagerly imported above
+// for metadata and raw text — Vite can't code-split modules that are statically imported.
+export const postModules = import.meta.glob('../../content/posts/*.md', { eager: true }) as Record<
 	string,
-	() => Promise<{ default: unknown; metadata: Record<string, unknown> }>
+	{ default: unknown; metadata: Record<string, unknown> }
 >;
 
 const allPosts: PostMeta[] = Object.entries(rawMetadata)
