@@ -1,26 +1,26 @@
-import { DatabaseSync } from 'node:sqlite';
 import { join } from 'node:path';
+import { DatabaseSync } from 'node:sqlite';
 
 const dbPath = join(process.cwd(), 'db/assemblee.db');
 const db = new DatabaseSync(dbPath);
 
 export interface GroupeStat {
-	abrev: string;
-	nom: string;
-	couleur: string;
-	count: number;
+  abrev: string;
+  nom: string;
+  couleur: string;
+  count: number;
 }
 
 export interface TopContributor {
-	name: string;
-	count: number;
-	groupeAbrev: string | null;
-	couleur: string | null;
-	photo: string | null;
+  name: string;
+  count: number;
+  groupeAbrev: string | null;
+  couleur: string | null;
+  photo: string | null;
 }
 
 export function getTopContributors(limit: number): TopContributor[] {
-	const stmt = db.prepare(`
+  const stmt = db.prepare(`
 		SELECT
 			d.prenom || ' ' || d.nom AS name,
 			d.groupe_abrev AS groupeAbrev,
@@ -34,11 +34,11 @@ export function getTopContributors(limit: number): TopContributor[] {
 		ORDER BY count DESC
 		LIMIT ?
 	`);
-	return stmt.all(limit) as unknown as TopContributor[];
+  return stmt.all(limit) as unknown as TopContributor[];
 }
 
 export function getPropositionsByGroupe(): GroupeStat[] {
-	const stmt = db.prepare(`
+  const stmt = db.prepare(`
 		SELECT g.abrev, g.nom, g.couleur, COUNT(DISTINCT aa.article_slug) AS count
 		FROM article_auteurs aa
 		JOIN deputes d ON aa.depute_id = d.id
@@ -47,91 +47,90 @@ export function getPropositionsByGroupe(): GroupeStat[] {
 		GROUP BY g.abrev
 		ORDER BY count DESC
 	`);
-	return stmt.all() as unknown as GroupeStat[];
+  return stmt.all() as unknown as GroupeStat[];
 }
 
 export interface DeputeDetail {
-	id: string;
-	nom: string;
-	prenom: string;
-	groupe_abrev: string | null;
-	photo: string | null;
-	profession: string | null;
-	departement_nom: string | null;
-	departement_code: string | null;
-	circo: number | null;
-	mail: string | null;
-	twitter: string | null;
-	facebook: string | null;
-	website: string | null;
-	nombre_mandats: number | null;
-	score_participation: number | null;
-	score_participation_specialite: number | null;
-	score_loyaute: number | null;
-	score_majorite: number | null;
-	date_prise_fonction: string | null;
+  id: string;
+  nom: string;
+  prenom: string;
+  groupe_abrev: string | null;
+  photo: string | null;
+  profession: string | null;
+  departement_nom: string | null;
+  departement_code: string | null;
+  circo: number | null;
+  mail: string | null;
+  twitter: string | null;
+  facebook: string | null;
+  website: string | null;
+  nombre_mandats: number | null;
+  score_participation: number | null;
+  score_participation_specialite: number | null;
+  score_loyaute: number | null;
+  score_majorite: number | null;
+  date_prise_fonction: string | null;
 }
 
 export interface Cosignataire {
-	name: string;
-	groupeAbrev: string | null;
-	couleur: string | null;
-	photo: string | null;
-	count: number;
+  name: string;
+  groupeAbrev: string | null;
+  couleur: string | null;
+  photo: string | null;
+  count: number;
 }
 
 function normalizeStr(s: string): string {
-	return s
-		.toLowerCase()
-		.normalize('NFD')
-		.replace(/[\u0300-\u036f]/g, '')
-		.replace(/[^a-z\s]/g, '')
-		.replace(/\s+/g, ' ')
-		.trim();
+  return s
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-z\s]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
 }
 
 let _deputesCache: DeputeDetail[] | null = null;
 
 function getAllDeputesFromDb(): DeputeDetail[] {
-	if (_deputesCache) return _deputesCache;
-	const stmt = db.prepare(`
+  if (_deputesCache) return _deputesCache;
+  const stmt = db.prepare(`
 		SELECT id, nom, prenom, groupe_abrev, REPLACE(id, 'PA', '') || '.jpg' AS photo, profession,
 		       departement_nom, departement_code, circo, mail, twitter, facebook,
 		       website, nombre_mandats, score_participation, score_participation_specialite,
 		       score_loyaute, score_majorite, date_prise_fonction
 		FROM deputes
 	`);
-	_deputesCache = stmt.all() as unknown as DeputeDetail[];
-	return _deputesCache;
+  _deputesCache = stmt.all() as unknown as DeputeDetail[];
+  return _deputesCache;
 }
 
 export function findDeputeByNameInDb(fullName: string): DeputeDetail | null {
-	const deputes = getAllDeputesFromDb();
-	const normTarget = normalizeStr(fullName);
+  const deputes = getAllDeputesFromDb();
+  const normTarget = normalizeStr(fullName);
 
-	for (const dep of deputes) {
-		const fullA = normalizeStr(`${dep.prenom} ${dep.nom}`);
-		const fullB = normalizeStr(`${dep.nom} ${dep.prenom}`);
-		if (normTarget === fullA || normTarget === fullB) return dep;
-	}
+  for (const dep of deputes) {
+    const fullA = normalizeStr(`${dep.prenom} ${dep.nom}`);
+    const fullB = normalizeStr(`${dep.nom} ${dep.prenom}`);
+    if (normTarget === fullA || normTarget === fullB) return dep;
+  }
 
-	for (const dep of deputes) {
-		const normNom = normalizeStr(dep.nom);
-		const normPrenom = normalizeStr(dep.prenom);
-		if (normNom && normPrenom && normTarget.includes(normNom) && normTarget.includes(normPrenom))
-			return dep;
-	}
+  for (const dep of deputes) {
+    const normNom = normalizeStr(dep.nom);
+    const normPrenom = normalizeStr(dep.prenom);
+    if (normNom && normPrenom && normTarget.includes(normNom) && normTarget.includes(normPrenom)) return dep;
+  }
 
-	for (const dep of deputes) {
-		const normNom = normalizeStr(dep.nom);
-		if (normNom && normTarget.includes(normNom)) return dep;
-	}
+  for (const dep of deputes) {
+    const normNom = normalizeStr(dep.nom);
+    if (normNom && (normTarget === normNom || normTarget.endsWith(' ' + normNom))) return dep;
+  }
 
-	return null;
+  return null;
 }
 
 export function getTopCosignataires(deputeId: string, limit: number): Cosignataire[] {
-	const stmt = db.prepare(`
+  const stmt = db.prepare(`
 		SELECT
 			d2.prenom || ' ' || d2.nom AS name,
 			d2.groupe_abrev AS groupeAbrev,
@@ -149,5 +148,5 @@ export function getTopCosignataires(deputeId: string, limit: number): Cosignatai
 		ORDER BY count DESC
 		LIMIT ?
 	`);
-	return stmt.all(deputeId, limit) as unknown as Cosignataire[];
+  return stmt.all(deputeId, limit) as unknown as Cosignataire[];
 }

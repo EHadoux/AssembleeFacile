@@ -57,10 +57,10 @@
 				const p = normalizeForLookup(d.prenom);
 				return n && p && norm.includes(n) && norm.includes(p);
 			});
-			// Pass 3: nom only
+			// Pass 3: nom at end of target only (avoids matching first names used as nom)
 			if (!dep) dep = deputes.find((d) => {
 				const n = normalizeForLookup(d.nom);
-				return n && norm.includes(n);
+				return n && (norm === n || norm.endsWith(' ' + n));
 			});
 			if (dep) {
 				sigMap.set(dep.groupeAbrev, (sigMap.get(dep.groupeAbrev) ?? 0) + 1);
