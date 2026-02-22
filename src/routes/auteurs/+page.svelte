@@ -102,6 +102,7 @@
 									<img
 										src="https://www2.assemblee-nationale.fr/static/tribun/17/photos/{auteur.photo}"
 										alt={auteur.name}
+										loading="lazy"
 										class="h-11 w-11 rounded-full bg-accent object-cover object-top"
 										style="outline: 2px solid {groupe.couleur}30; outline-offset: 1px;"
 										onerror={() => {
