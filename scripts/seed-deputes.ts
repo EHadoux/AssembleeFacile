@@ -7,28 +7,6 @@ import { db } from './_db.ts';
 const dir = fileURLToPath(new URL('.', import.meta.url));
 const assetsDir = join(dir, '../assets');
 
-// ── Groupes ──────────────────────────────────────────────────────────────────
-
-type GroupeRow = { groupe: string; groupeAbrev: string; couleur: string };
-
-const groupesCsv = readFileSync(join(assetsDir, 'groupes.csv'), 'utf-8');
-const groupeRows: GroupeRow[] = parse(groupesCsv, { columns: true, skip_empty_lines: true, trim: true });
-
-const upsertGroupe = db.prepare(
-  `INSERT INTO groupes (abrev, nom, couleur)
-   VALUES (?, ?, ?)
-   ON CONFLICT(abrev) DO UPDATE SET nom = excluded.nom, couleur = excluded.couleur`,
-);
-
-let groupesUpserted = 0;
-for (const row of groupeRows) {
-  if (!row.groupeAbrev) continue;
-  upsertGroupe.run(row.groupeAbrev, row.groupe, row.couleur);
-  groupesUpserted++;
-}
-
-// ── Députés ──────────────────────────────────────────────────────────────────
-
 type DeputeRow = {
   id: string;
   legislature: string;
@@ -153,5 +131,4 @@ for (const row of allInDb) {
   }
 }
 
-console.log(`Groupes : ${groupesUpserted} upserted`);
 console.log(`Députés : ${inserted} inserted, ${updated} updated, ${retired} marked as retired`);
