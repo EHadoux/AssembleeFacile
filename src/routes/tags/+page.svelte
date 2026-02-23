@@ -67,7 +67,7 @@
 									{#each groupe.topTags as tag}
 										<a
 											href="/tags/{slugify(tag)}"
-											class="inline-flex items-center rounded-full bg-primary/10 px-2.5 py-1 text-[11px] font-medium text-primary transition-colors hover:bg-primary/20"
+											class="inline-flex items-center whitespace-nowrap rounded-full bg-primary/10 px-2.5 py-1 text-[11px] font-medium text-primary transition-colors hover:bg-primary/20"
 										>
 											{tag}
 										</a>
