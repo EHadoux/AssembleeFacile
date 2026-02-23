@@ -1,0 +1,29 @@
++++
+date = 2026-02-13
+draft = false
+title = "Proposition de loi visant à prohiber l'achat de services sexuels virtuels personnalisés et à lutter contre le proxénétisme en ligne - N° 2462"
+auteurs = ["M. Le Président du Sénat"]
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53198"
+stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025","Mardi 10 février 2026"]
+stepsStatus = ["","Texte adopté ✅",""]
+tags = ["Justice","Numérique","Sécurité"]
++++
+
+## Résumé
+
+Cette proposition de loi vise à créer un cadre juridique spécifique pour lutter contre l'exploitation sexuelle en ligne. Elle définit cette pratique comme le recrutement ou l'hébergement d'une personne afin de produire et diffuser des contenus sexuels sur internet, et prévoit des sanctions pénales graduées selon la gravité des faits et l'âge des victimes.
+
+## Liste des modifications
+
+**Création du délit d'exploitation sexuelle en ligne (Article 1)**: Définit l'infraction comme le fait de recruter, transporter ou héberger une personne pour produire et diffuser des images ou vidéos sexuelles sur des plateformes, réseaux sociaux ou messageries. La peine de base est de 7 ans de prison et 150 000 euros d'amende, portée à 10 ans et 1,5 million d'euros si la victime est mineure.
+
+**Circonstances aggravantes (Article 1)**: Prévoit des peines allant de 10 ans de prison à la réclusion criminelle à perpétuité en cas de circonstances multiples, de recours à la bande organisée ou d'actes de torture et de barbarie.
+
+**Responsabilité des entreprises et tentative (Article 1)**: Rend les personnes morales (entreprises) pénalement responsables et punit la tentative de ces infractions des mêmes peines que l'infraction consommée.
+
+**Application hors du territoire et protection des lanceurs d'alerte (Article 1)**: Permet de poursuivre un Français commettant ces faits à l'étranger et prévoit des exemptions ou réductions de peine pour les auteurs qui dénoncent les faits aux autorités avant ou pendant leur réalisation.
+
+**Sanction des clients (Article 1)**: Punit de 3 ans de prison et 45 000 euros d'amende le fait de consulter de manière habituelle ou payante des contenus issus de l'exploitation sexuelle en ligne en connaissance de cause.
+
+**Procédure pénale et application territoriale (Article 1)**: Intègre ces nouveaux crimes et délits dans les régimes de procédure spéciale (suivi socio-judiciaire et criminalité organisée) et assure l'application de la loi dans les territoires d'outre-mer.
