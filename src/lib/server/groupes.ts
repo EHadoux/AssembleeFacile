@@ -1,5 +1,5 @@
-import { readFileSync } from 'fs';
-import { join } from 'path';
+import { join } from 'node:path';
+import { DatabaseSync } from 'node:sqlite';
 import { GROUPE_ORDER } from '$lib/utils/groupe-order';
 
 export { GROUPE_ORDER };
@@ -10,19 +10,15 @@ export interface Groupe {
 	couleur: string;
 }
 
-const CSV_PATH = join(process.cwd(), 'assets/groupes.csv');
-
+const dbPath = join(process.cwd(), 'db/assemblee.db');
 
 let _cache: Groupe[] | null = null;
 
 export function getAllGroupes(): Groupe[] {
 	if (_cache) return _cache;
-	const raw = readFileSync(CSV_PATH, 'utf-8');
-	const lines = raw.trim().split('\n').slice(1);
-	_cache = lines.map((line) => {
-		const [nom, abrev, couleur] = line.split(',');
-		return { nom: nom ?? '', abrev: abrev ?? '', couleur: couleur?.trim() ?? '#888' };
-	});
+	const db = new DatabaseSync(dbPath);
+	const rows = db.prepare('SELECT nom, abrev, couleur FROM groupes').all() as unknown as Groupe[];
+	_cache = rows;
 	return _cache;
 }
 

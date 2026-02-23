@@ -1,5 +1,6 @@
 import { readFileSync } from 'fs';
 import { join } from 'path';
+import { parse } from 'csv-parse/sync';
 import { normalizeForLookup } from '$lib/utils/normalize';
 
 export { normalizeForLookup };
@@ -15,36 +16,13 @@ export interface Depute {
 
 const CSV_PATH = join(process.cwd(), 'assets/deputes-active.csv');
 
-function parseCSV(raw: string): string[][] {
-	const lines = raw.trim().split('\n');
-	return lines.map((line) => {
-		const fields: string[] = [];
-		let inQuote = false;
-		let current = '';
-		for (let i = 0; i < line.length; i++) {
-			const ch = line[i];
-			if (ch === '"') {
-				inQuote = !inQuote;
-			} else if (ch === ',' && !inQuote) {
-				fields.push(current);
-				current = '';
-			} else {
-				current += ch;
-			}
-		}
-		fields.push(current);
-		return fields;
-	});
-}
-
 let _cache: Depute[] | null = null;
 
 export function getAllDeputes(): Depute[] {
 	if (_cache) return _cache;
 	const raw = readFileSync(CSV_PATH, 'utf-8');
-	const rows = parseCSV(raw);
-	// Skip header row
-	_cache = rows.slice(1).map((cols) => {
+	const rows: string[][] = parse(raw, { columns: false, skip_empty_lines: true, from_line: 2 });
+	_cache = rows.map((cols) => {
 		const id = cols[0] ?? '';
 		return {
 			id,
