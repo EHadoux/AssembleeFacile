@@ -1,15 +1,22 @@
+<script lang="ts">
+	let { buildDate }: { buildDate: string } = $props();
+</script>
+
 <footer class="mt-16 border-t border-border/50 bg-white py-5">
 	<div class="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4">
-		<p class="text-sm text-muted-foreground">
-			Données issues de l'
-			<a
-				href="https://www.assemblee-nationale.fr"
-				target="_blank"
-				rel="noopener noreferrer"
-				class="font-medium text-primary underline underline-offset-2 hover:no-underline"
-			>Assemblée nationale</a>.
-			Site non officiel.
-		</p>
+		<div class="flex flex-col gap-1">
+			<p class="text-sm text-muted-foreground">
+				Données issues de l'
+				<a
+					href="https://www.assemblee-nationale.fr"
+					target="_blank"
+					rel="noopener noreferrer"
+					class="font-medium text-primary underline underline-offset-2 hover:no-underline"
+				>Assemblée nationale</a>.
+				Site non officiel.
+			</p>
+			<p class="text-xs text-muted-foreground/60">Dernière mise à jour : {buildDate}</p>
+		</div>
 
 		<div class="flex shrink-0 items-center gap-4">
 			<div class="flex items-center gap-3">
