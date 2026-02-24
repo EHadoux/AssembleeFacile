@@ -2,7 +2,7 @@
 date = 2026-01-27
 draft = false
 title = "Renforcer la lutte contre la diffusion de contenus faisant l’apologie du terrorisme ou incitant à la haine sur les plateformes numériques et à promouvoir une sensibilisation renforcée du public, en particulier des jeunes - N° 2381"
-auteurs = ["Matthieu Bloch","Jérôme Buisson","Bernard Chaix","Sébastien Chenu","Josiane Corneloup","Christelle D’Intorni","Michèle Martinez","Didier Padey"]
+auteurs = ["Matthieu Bloch","Jérôme Buisson","Bernard Chaix","Sébastien Chenu","Josiane Corneloup","Christelle D'Intorni","Michèle Martinez","Didier Padey"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_lutte_diffusion_contenus_apologie_terrorisme_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 27 janvier 2026"]

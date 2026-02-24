@@ -2,7 +2,7 @@
 date = 2026-01-27
 draft = false
 title = "Renforcer la transparence et le contrôle des subventions publiques versées aux associations afin de garantir le respect des principes de la République - N° 2375"
-auteurs = ["Matthieu Bloch","Jérôme Buisson","Bernard Chaix","Sébastien Chenu","Josiane Corneloup","Christelle D’Intorni","Michèle Martinez","Didier Padey"]
+auteurs = ["Matthieu Bloch","Jérôme Buisson","Bernard Chaix","Sébastien Chenu","Josiane Corneloup","Christelle D'Intorni","Michèle Martinez","Didier Padey"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_transparence_controle_subventions_publiques_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 27 janvier 2026"]

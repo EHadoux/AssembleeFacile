@@ -2,7 +2,7 @@
 date = 2026-01-27
 draft = false
 title = "Renforcer les motifs de dissolution des associations et groupements de fait portant une atteinte grave aux principes de la République - N° 2378"
-auteurs = ["Matthieu Bloch","Jérôme Buisson","Bernard Chaix","Sébastien Chenu","Josiane Corneloup","Christelle D’Intorni","Michèle Martinez","Didier Padey"]
+auteurs = ["Matthieu Bloch","Jérôme Buisson","Bernard Chaix","Sébastien Chenu","Josiane Corneloup","Christelle D'Intorni","Michèle Martinez","Didier Padey"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_moyens_dissolution_associations_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 27 janvier 2026"]
