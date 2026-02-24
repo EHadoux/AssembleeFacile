@@ -11,3 +11,8 @@ export const db = new DatabaseSync(dbPath);
 
 const migration = readFileSync(migrationPath, 'utf-8');
 db.exec(migration);
+
+try {
+  const migration2 = readFileSync(join(dir, '../db/002_add_authors_from_an.sql'), 'utf-8');
+  db.exec(migration2);
+} catch { /* columns already exist */ }

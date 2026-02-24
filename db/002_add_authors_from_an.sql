@@ -1,0 +1,2 @@
+ALTER TABLE articles ADD COLUMN authors_from_an INTEGER NOT NULL DEFAULT 0;
+ALTER TABLE article_auteurs ADD COLUMN role TEXT;
