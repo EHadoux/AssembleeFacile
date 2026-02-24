@@ -14,7 +14,13 @@ export const load: PageServerLoad = async ({ params }) => {
 	const dep = findDeputeByNameInDb(name);
 	const groupes = getAllGroupes();
 	const groupe = dep ? (groupes.find((g) => g.abrev === dep.groupe_abrev) ?? null) : null;
-	const cosignataires = dep ? getTopCosignataires(dep.id, 5) : [];
+	// TODO: once the DB is the single source of truth for authors, remove this filter —
+	// all cosignataires will have their own page and the slug check will be unnecessary.
+	const auteurSlugs = new Set(getAllAuteurs().map((n) => slugify(n)));
+	const rawCosignataires = dep ? getTopCosignataires(dep.id, 10) : [];
+	const cosignataires = rawCosignataires
+		.filter(({ name }) => auteurSlugs.has(slugify(name)))
+		.slice(0, 5);
 
 	const tagCounts = new Map<string, { tag: string; count: number }>();
 	for (const post of posts) {
