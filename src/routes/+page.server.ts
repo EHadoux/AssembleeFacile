@@ -1,6 +1,8 @@
 import type { PageServerLoad } from './$types';
 import { getAllPosts, POSTS_PER_PAGE } from '$lib/server/content';
-import { getTopContributors, getPropositionsByGroupe } from '$lib/server/queries';
+import { getTopContributors, getPropositionsByGroupe, getMostCosigned, getMostTransPartisan, getDeputeCount } from '$lib/server/queries';
+import { getAllGroupes } from '$lib/server/groupes';
+import { GROUPE_ORDER } from '$lib/utils/groupe-order';
 
 export const load: PageServerLoad = async () => {
 	const all = getAllPosts();
@@ -9,12 +11,24 @@ export const load: PageServerLoad = async () => {
 
 	const topContributors = getTopContributors(5);
 	const partyStats = getPropositionsByGroupe();
+	const mostCosigned = getMostCosigned(5);
+	const mostTransPartisan = getMostTransPartisan(5);
+	const totalDeputes = getDeputeCount();
+
+	const allGroupes = getAllGroupes();
+	const orderedGroupes = GROUPE_ORDER
+		.map(abrev => allGroupes.find(g => g.abrev === abrev))
+		.filter(g => g !== undefined);
 
 	return {
 		posts,
 		totalPages,
 		totalPosts: all.length,
 		topContributors,
-		partyStats
+		partyStats,
+		mostCosigned,
+		totalDeputes,
+		mostTransPartisan,
+		orderedGroupes
 	};
 };

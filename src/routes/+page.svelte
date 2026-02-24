@@ -149,6 +149,97 @@
 					{/each}
 				</div>
 			</div>
+
+			<div class="rounded-xl border border-border bg-white p-5 shadow-sm">
+				<h3 class="mb-4 text-xs font-semibold uppercase tracking-widest text-muted-foreground">
+					Plus cosignées
+				</h3>
+				<ol class="flex flex-col gap-1">
+					{#each data.mostCosigned as { slug, titre_court, nb_cosignataires }, i}
+						{@const pct = Math.round((nb_cosignataires / data.totalDeputes) * 100)}
+						<li>
+							<a
+								href="/posts/{slug}"
+								class="group -mx-2 flex flex-col gap-1.5 rounded-lg px-2 py-2 transition-colors hover:bg-accent/60"
+							>
+								<div class="flex items-start gap-2">
+									<span
+										class="mt-px flex h-4 w-4 shrink-0 items-center justify-center rounded text-[9px] font-black tabular-nums leading-none transition-colors {i === 0 ? 'bg-primary text-white' : 'bg-accent text-muted-foreground group-hover:bg-primary/10 group-hover:text-primary'}"
+									>
+										{i + 1}
+									</span>
+									<span class="flex-1 text-[11px] font-medium leading-snug text-foreground line-clamp-2 transition-colors group-hover:text-primary">
+										{titre_court}
+									</span>
+								</div>
+								<div class="ml-6 flex items-center gap-2">
+									<div class="h-[3px] flex-1 overflow-hidden rounded-full bg-accent">
+										<div
+											class="h-full rounded-full transition-all duration-500 {i === 0 ? 'bg-primary' : 'bg-primary/40 group-hover:bg-primary/70'}"
+											style="width:{pct}%;"
+										></div>
+									</div>
+									<span class="shrink-0 text-[10px] font-bold tabular-nums text-primary/70">
+										{nb_cosignataires}
+									</span>
+								</div>
+							</a>
+						</li>
+					{/each}
+				</ol>
+			</div>
+			<div class="rounded-xl border border-border bg-white p-5 shadow-sm">
+				<h3 class="mb-4 text-xs font-semibold uppercase tracking-widest text-muted-foreground">
+					Trans-partisanes
+				</h3>
+				<ol class="flex flex-col gap-1">
+					{#each data.mostTransPartisan as { slug, titre_court, nb_groupes, nb_cosignataires, groupes }, i}
+						{@const groupSet = new Set(groupes)}
+						<li>
+							<a
+								href="/posts/{slug}"
+								class="group -mx-2 flex flex-col gap-1.5 rounded-lg px-2 py-2 transition-colors hover:bg-accent/60"
+							>
+								<div class="flex items-start gap-2">
+									<span
+										class="mt-px flex h-4 w-4 shrink-0 items-center justify-center rounded text-[9px] font-black tabular-nums leading-none transition-colors {i === 0 ? 'bg-primary text-white' : 'bg-accent text-muted-foreground group-hover:bg-primary/10 group-hover:text-primary'}"
+									>
+										{i + 1}
+									</span>
+									<span class="flex-1 text-[11px] font-medium leading-snug text-foreground line-clamp-2 transition-colors group-hover:text-primary">
+										{titre_court}
+									</span>
+								</div>
+								<div class="ml-6 flex items-center gap-2">
+									<div class="flex items-center gap-[3px]">
+										{#each data.orderedGroupes as g}
+											{@const active = groupSet.has(g.abrev)}
+											<span
+												role="presentation"
+												class="relative flex h-2 w-2 shrink-0 cursor-default items-center justify-center"
+												onmouseenter={(e) => {
+													const rect = (e.currentTarget as HTMLElement).getBoundingClientRect();
+													partyTooltip = { x: rect.left + rect.width / 2, y: rect.top - 8, text: g.nom };
+												}}
+												onmouseleave={() => (partyTooltip = null)}
+											>
+												{#if active}
+													<span class="block h-2 w-2 rounded-full" style="background-color: {g.couleur ?? '#9ca3af'};"></span>
+												{:else}
+													<span class="block text-[9px] font-black leading-none text-muted-foreground/30">×</span>
+												{/if}
+											</span>
+										{/each}
+									</div>
+									<span class="ml-auto shrink-0 text-[10px] tabular-nums text-muted-foreground/60">
+										{nb_cosignataires} sig.
+									</span>
+								</div>
+							</a>
+						</li>
+					{/each}
+				</ol>
+			</div>
 		</aside>
 	</div>
 </div>

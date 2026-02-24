@@ -129,6 +129,68 @@ export function findDeputeByNameInDb(fullName: string): DeputeDetail | null {
   return null;
 }
 
+export interface MostCosigned {
+  slug: string;
+  titre_court: string;
+  nb_cosignataires: number;
+}
+
+export function getDeputeCount(): number {
+  const row = db.prepare('SELECT COUNT(*) AS c FROM deputes WHERE retire = 0').get() as { c: number };
+  return row.c;
+}
+
+export function getMostCosigned(limit: number): MostCosigned[] {
+  const stmt = db.prepare(`
+		SELECT
+			a.slug,
+			a.titre_court,
+			COUNT(aa.depute_id) AS nb_cosignataires
+		FROM articles a
+		JOIN article_auteurs aa ON a.slug = aa.article_slug
+		WHERE aa.depute_id IS NOT NULL
+		GROUP BY a.slug
+		ORDER BY nb_cosignataires DESC
+		LIMIT ?
+	`);
+  return stmt.all(limit) as unknown as MostCosigned[];
+}
+
+export interface MostTransPartisan {
+  slug: string;
+  titre_court: string;
+  nb_groupes: number;
+  nb_cosignataires: number;
+  groupes: string[];
+}
+
+export function getMostTransPartisan(limit: number): MostTransPartisan[] {
+  const stmt = db.prepare(`
+		SELECT
+			a.slug,
+			a.titre_court,
+			COUNT(DISTINCT d.groupe_abrev) AS nb_groupes,
+			COUNT(aa.depute_id) AS nb_cosignataires,
+			GROUP_CONCAT(DISTINCT d.groupe_abrev) AS groupes_str
+		FROM articles a
+		JOIN article_auteurs aa ON a.slug = aa.article_slug
+		JOIN deputes d ON aa.depute_id = d.id
+		WHERE d.groupe_abrev IS NOT NULL
+		GROUP BY a.slug
+		HAVING nb_groupes >= 2
+		ORDER BY nb_groupes DESC, nb_cosignataires DESC
+		LIMIT ?
+	`);
+  type Row = Omit<MostTransPartisan, 'groupes'> & { groupes_str: string };
+  return (stmt.all(limit) as unknown as Row[]).map(r => ({
+    slug: r.slug,
+    titre_court: r.titre_court,
+    nb_groupes: r.nb_groupes,
+    nb_cosignataires: r.nb_cosignataires,
+    groupes: r.groupes_str ? r.groupes_str.split(',') : []
+  }));
+}
+
 export function getTopCosignataires(deputeId: string, limit: number): Cosignataire[] {
   const stmt = db.prepare(`
 		SELECT
