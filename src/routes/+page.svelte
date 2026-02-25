@@ -75,7 +75,7 @@
 				<h3 class="mb-4 text-xs font-semibold uppercase tracking-widest text-muted-foreground">
 					Top contributeurs
 				</h3>
-				<ol class="flex flex-col gap-3">
+				<ol class="flex flex-col gap-2">
 					{#each data.topContributors as { name, count_auteur, groupeAbrev, couleur, photo }, i}
 						<li class="flex items-center gap-3">
 							<span class="w-4 shrink-0 text-xs font-bold tabular-nums text-muted-foreground">
@@ -94,10 +94,10 @@
 								</div>
 							{/if}
 							<div class="min-w-0 flex-1">
-								<a href="/auteurs/{slugify(name)}" class="truncate text-xs font-semibold text-foreground hover:text-primary hover:underline">{name}</a>
+								<a href="/auteurs/{slugify(name)}" class="text-xs font-semibold leading-tight text-foreground hover:text-primary hover:underline">{name}</a>
 								{#if groupeAbrev}
 									<span
-										class="mt-0.5 inline-block rounded-sm px-1.5 py-px text-[9px] font-bold uppercase tracking-wide text-white"
+										class="block w-fit rounded-sm px-1.5 py-px text-[9px] font-bold uppercase tracking-wide text-white"
 										style="background-color: {couleur ?? '#9ca3af'};"
 									>
 										{groupeAbrev}
