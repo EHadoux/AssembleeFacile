@@ -2,7 +2,7 @@
 date = 2024-07-27
 draft = false
 title = "Proposition de loi relative aux droits de l'enfant à entretenir régulièrement des relations personnelles avec ses parents en cas de séparation de ces derniers - N° 127"
-auteurs = ["M. Le Président du Sénat","Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L15N44555"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Jeudi 16 décembre 2021","Jeudi 16 décembre 2021","Vendredi 15 décembre 2023","Mardi 23 juillet 2024"]

@@ -2,7 +2,7 @@
 date = 2024-10-24
 draft = false
 title = "Proposition de loi organique visant à reporter le renouvellement général des membres du congrès et des assemblées de province de la Nouvelle-Calédonie - N° 483"
-auteurs = ["Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50450"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Conseil constitutionnel","Promulgation de la loi"]
 stepsDate = ["Lundi 16 septembre 2024","Lundi 16 septembre 2024","Jeudi 24 octobre 2024","Jeudi 7 novembre 2024","Vendredi 15 novembre 2024"]

@@ -2,7 +2,7 @@
 date = 2024-07-29
 draft = false
 title = "Lutte contre les discriminations par la pratique de tests individuels et statistiques - N° 156"
-auteurs = ["M. Le Président du Sénat","Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/tests_discriminations"
 stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Commission Mixte Paritaire","Nouvelle lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale"]
 stepsDate = ["Mardi 4 juillet 2023","Mardi 4 juillet 2023","Mercredi 6 décembre 2023","Mercredi 13 mars 2024","Mercredi 13 mars 2024","Mardi 23 juillet 2024"]

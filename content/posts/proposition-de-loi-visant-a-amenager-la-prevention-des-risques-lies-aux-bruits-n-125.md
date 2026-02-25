@@ -2,7 +2,7 @@
 date = 2024-07-26
 draft = false
 title = "Proposition de loi visant à aménager la prévention des risques liés aux bruits - N° 125"
-auteurs = ["Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N48579"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Lundi 4 septembre 2023","Lundi 4 septembre 2023","Jeudi 23 novembre 2023","Mardi 23 juillet 2024"]

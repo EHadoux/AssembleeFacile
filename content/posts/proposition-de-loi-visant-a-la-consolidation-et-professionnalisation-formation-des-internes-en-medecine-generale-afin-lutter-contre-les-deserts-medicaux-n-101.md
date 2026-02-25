@@ -2,7 +2,7 @@
 date = 2024-07-29
 draft = false
 title = "Proposition de loi visant à la consolidation et à la professionnalisation de la formation des internes en médecine générale afin de lutter contre « les déserts médicaux » - N° 101"
-auteurs = ["M. Le Président du Sénat","Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L15N45009"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Lundi 31 janvier 2022","Lundi 31 janvier 2022","Mardi 18 octobre 2022","Mardi 23 juillet 2024"]

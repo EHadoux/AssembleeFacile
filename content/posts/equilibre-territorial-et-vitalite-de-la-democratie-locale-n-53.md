@@ -2,7 +2,7 @@
 date = 2024-07-24
 draft = false
 title = "Equilibre territorial et vitalité de la démocratie locale - N° 53"
-auteurs = ["Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/equilibre_territorial_vitalite_democratie_locale"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Lundi 30 avril 2018","Lundi 30 avril 2018","Jeudi 14 juin 2018","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]

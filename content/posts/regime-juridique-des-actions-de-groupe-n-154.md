@@ -2,7 +2,7 @@
 date = 2024-07-27
 draft = false
 title = "Régime juridique des actions de groupe - N° 154"
-auteurs = ["M. Le Président du Sénat","Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/regime_juridique_actions_groupe"
 stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale"]
 stepsDate = ["Jeudi 15 décembre 2022","Jeudi 15 décembre 2022","Jeudi 9 mars 2023","Mercredi 7 février 2024","Mardi 23 juillet 2024"]

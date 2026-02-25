@@ -2,7 +2,7 @@
 date = 2024-07-24
 draft = false
 title = "Pouvoirs de police à Paris - N° 38"
-auteurs = ["M. Le Président Du Sénat","Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/pouvoirs_police_Paris"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Mercredi 1er avril 2015","Mercredi 1er avril 2015","Jeudi 21 mai 2015","Jeudi 6 juillet 2017","Lundi 11 juillet 2022","Mardi 23 juillet 2024"]

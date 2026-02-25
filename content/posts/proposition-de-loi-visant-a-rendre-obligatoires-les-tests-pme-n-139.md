@@ -2,7 +2,7 @@
 date = 2024-07-29
 draft = false
 title = "Proposition de loi visant à rendre obligatoires les « tests PME » - N° 139"
-auteurs = ["Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49109"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Mardi 12 décembre 2023","Mardi 12 décembre 2023","Mercredi 27 mars 2024","Mardi 23 juillet 2024"]

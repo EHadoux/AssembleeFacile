@@ -2,7 +2,7 @@
 date = 2024-07-25
 draft = false
 title = "Garantir le respect des principes de la démocratie représentative et de l'État de droit en cas de législation par ordonnance - N° 95"
-auteurs = ["M. Le Président du Sénat","Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L15N43088"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Jeudi 22 juillet 2021","Jeudi 22 juillet 2021","Jeudi 4 novembre 2021","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]

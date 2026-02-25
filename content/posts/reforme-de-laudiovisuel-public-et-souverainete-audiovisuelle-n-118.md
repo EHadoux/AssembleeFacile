@@ -2,7 +2,7 @@
 date = 2024-07-26
 draft = false
 title = "Réforme de l’audiovisuel public et souveraineté audiovisuelle - N° 118"
-auteurs = ["M. Le Président du Sénat","Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N47697"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Deuxième lecture au Sénat","Deuxième lecture à l'Assemblée nationale"]
 stepsDate = ["Vendredi 21 avril 2023","Vendredi 21 avril 2023","Mercredi 14 juin 2023","Mardi 23 juillet 2024","Lundi 30 juin 2025","Vendredi 11 juillet 2025"]

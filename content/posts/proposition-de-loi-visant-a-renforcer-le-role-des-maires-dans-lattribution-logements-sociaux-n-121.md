@@ -2,7 +2,7 @@
 date = 2024-07-26
 draft = false
 title = "Proposition de loi visant à renforcer le rôle des maires dans l’attribution des logements sociaux - N° 121"
-auteurs = ["M. Le Président du Sénat","Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N47518"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Mardi 4 avril 2023","Mardi 4 avril 2023","Mardi 10 octobre 2023","Mardi 23 juillet 2024"]

@@ -2,7 +2,7 @@
 date = 2024-07-29
 draft = false
 title = "Proposition de loi conférant un statut de personne morale de droit public à statut particulier à l’Académie nationale de chirurgie - N° 145"
-auteurs = ["Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N47230"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Jeudi 16 février 2023","Jeudi 16 février 2023","Mardi 7 mai 2024","Mardi 23 juillet 2024"]

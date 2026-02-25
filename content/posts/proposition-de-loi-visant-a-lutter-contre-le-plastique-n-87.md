@@ -2,7 +2,7 @@
 date = 2024-07-25
 draft = false
 title = "Proposition de loi visant à lutter contre le plastique - N° 87"
-auteurs = ["M. Le Président du Sénat","Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L15N41031"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Lundi 30 novembre 2020","Lundi 30 novembre 2020","Jeudi 11 mars 2021","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]

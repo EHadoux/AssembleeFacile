@@ -2,7 +2,7 @@
 date = 2024-07-27
 draft = false
 title = "Proposition de loi relative au renforcement de la sûreté dans les transports - N° 134"
-auteurs = ["Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49176"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Commission Mixte Paritaire","Conseil constitutionnel","Promulgation de la loi"]
 stepsDate = ["Jeudi 28 décembre 2023","Jeudi 28 décembre 2023","Jeudi 15 février 2024","Mardi 23 juillet 2024","Mercredi 12 février 2025","Lundi 24 mars 2025","Lundi 28 avril 2025"]

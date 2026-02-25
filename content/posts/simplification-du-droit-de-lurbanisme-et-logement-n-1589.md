@@ -2,7 +2,7 @@
 date = 2025-06-19
 draft = false
 title = "Simplification du droit de l'urbanisme et du logement - N° 1589"
-auteurs = ["M. Le Président du Sénat","Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/simplification_droit_urbanisme_logement_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Commission Mixte Paritaire"]
 stepsDate = ["Mardi 1er avril 2025","Mardi 1er avril 2025","Jeudi 15 mai 2025","Mercredi 18 juin 2025"]

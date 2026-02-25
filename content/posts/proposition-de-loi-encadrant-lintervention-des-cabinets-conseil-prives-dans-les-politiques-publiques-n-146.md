@@ -2,7 +2,7 @@
 date = 2024-07-29
 draft = false
 title = "Proposition de loi encadrant l'intervention des cabinets de conseil privés dans les politiques publiques - N° 146"
-auteurs = ["M. Le Président Du Sénat"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L15N45886"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Deuxième lecture au Sénat","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale"]
 stepsDate = ["Mardi 21 juin 2022","Mardi 21 juin 2022","Mercredi 19 octobre 2022","Jeudi 1er février 2024","Mercredi 29 mai 2024","Mardi 23 juillet 2024"]

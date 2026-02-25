@@ -2,7 +2,7 @@
 date = 2024-07-25
 draft = false
 title = "Renforcement des droits des consommateurs en matière de démarchage téléphonique - N° 18"
-auteurs = ["Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/droits_consommateurs_demarchage_tel"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Vendredi 11 mars 2011","Vendredi 11 mars 2011","Vendredi 29 avril 2011","Lundi 2 juillet 2012","Jeudi 6 juillet 2017","Vendredi 8 juillet 2022","Mardi 23 juillet 2024"]

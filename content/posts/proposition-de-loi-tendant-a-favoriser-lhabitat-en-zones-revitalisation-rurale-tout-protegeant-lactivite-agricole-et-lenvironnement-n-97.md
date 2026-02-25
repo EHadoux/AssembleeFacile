@@ -2,7 +2,7 @@
 date = 2024-07-25
 draft = false
 title = "Proposition de loi tendant à favoriser l'habitat en zones de revitalisation rurale tout en protégeant l'activité agricole et l'environnement - N° 97"
-auteurs = ["M. Le Président du Sénat","Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L15N42228"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Lundi 12 avril 2021","Lundi 12 avril 2021","Jeudi 9 décembre 2021","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]

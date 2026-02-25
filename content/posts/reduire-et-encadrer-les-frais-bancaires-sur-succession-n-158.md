@@ -2,7 +2,7 @@
 date = 2024-07-29
 draft = false
 title = "Réduire et encadrer les frais bancaires sur succession - N° 158"
-auteurs = ["Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reduction_frais_bancaires_succession"
 stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale","Deuxième lecture au Sénat","Promulgation de la loi"]
 stepsDate = ["Mardi 16 janvier 2024","Mardi 16 janvier 2024","Vendredi 1er mars 2024","Jeudi 16 mai 2024","Mardi 23 juillet 2024","Mercredi 4 décembre 2024","Mardi 13 mai 2025"]

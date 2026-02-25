@@ -2,7 +2,7 @@
 date = 2024-07-24
 draft = false
 title = "Conditions des délégations de compétences en matière de transports scolaires - N° 43"
-auteurs = ["Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/delegations_competences_transports_scolaires"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Mardi 10 mai 2016","Mardi 10 mai 2016","Mardi 6 décembre 2016","Jeudi 6 juillet 2017","Lundi 11 juillet 2022","Mardi 23 juillet 2024"]

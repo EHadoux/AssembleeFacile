@@ -2,7 +2,7 @@
 date = 2024-07-25
 draft = false
 title = "Proposition de loi organique visant à permettre à Saint-Barthélemy de participer à l'exercice de compétences de l'État - N° 106"
-auteurs = ["Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N46492"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Vendredi 14 octobre 2022","Vendredi 14 octobre 2022","Mardi 14 mars 2023","Mardi 23 juillet 2024"]

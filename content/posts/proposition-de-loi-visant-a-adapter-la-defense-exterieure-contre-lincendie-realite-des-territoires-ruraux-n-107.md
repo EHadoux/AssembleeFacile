@@ -2,7 +2,7 @@
 date = 2024-07-25
 draft = false
 title = "Proposition de loi visant à adapter la défense extérieure contre l'incendie à la réalité des territoires ruraux - N° 107"
-auteurs = ["M. Le Président du Sénat","Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N47059"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Jeudi 19 janvier 2023","Jeudi 19 janvier 2023","Mercredi 15 mars 2023","Mardi 23 juillet 2024"]

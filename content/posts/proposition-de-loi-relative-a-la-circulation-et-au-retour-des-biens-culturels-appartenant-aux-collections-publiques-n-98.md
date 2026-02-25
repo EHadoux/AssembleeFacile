@@ -2,7 +2,7 @@
 date = 2024-07-25
 draft = false
 title = "Proposition de loi relative à la circulation et au retour des biens culturels appartenant aux collections publiques - N° 98"
-auteurs = ["M. Le Président du Sénat","Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L15N43814"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Mardi 12 octobre 2021","Mardi 12 octobre 2021","Mardi 11 janvier 2022","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]

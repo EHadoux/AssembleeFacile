@@ -2,7 +2,7 @@
 date = 2024-07-29
 draft = false
 title = "Proposition de loi visant à garantir un mode de calcul juste et équitable des pensions de retraite de base des travailleurs non salariés des professions agricoles - N° 137"
-auteurs = ["Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49383"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Mercredi 31 janvier 2024","Mercredi 31 janvier 2024","Mardi 19 mars 2024","Mardi 23 juillet 2024"]

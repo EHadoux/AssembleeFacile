@@ -2,7 +2,7 @@
 date = 2025-05-13
 draft = false
 title = "Proposition de loi portant réparation des personnes condamnées pour homosexualité entre 1945 et 1982 - N° 1369"
-auteurs = ["Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N46127"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Deuxième lecture au Sénat","Deuxième lecture à l'Assemblée nationale"]
 stepsDate = ["Samedi 6 août 2022","Samedi 6 août 2022","Mercredi 22 novembre 2023","Jeudi 7 mars 2024","Mercredi 7 mai 2025"]

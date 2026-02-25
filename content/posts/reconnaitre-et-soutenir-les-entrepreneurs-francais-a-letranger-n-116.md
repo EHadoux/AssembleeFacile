@@ -2,7 +2,7 @@
 date = 2024-07-26
 draft = false
 title = "Reconnaître et soutenir les entrepreneurs français à l'étranger - N° 116"
-auteurs = ["Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N47317"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Vendredi 3 mars 2023","Vendredi 3 mars 2023","Mercredi 31 mai 2023","Mardi 23 juillet 2024"]

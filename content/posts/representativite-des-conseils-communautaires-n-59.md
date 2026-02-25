@@ -2,7 +2,7 @@
 date = 2024-07-25
 draft = false
 title = "Représentativité des conseils communautaires - N° 59"
-auteurs = ["Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/petites_communes_conseils_communautaires"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Vendredi 26 octobre 2018","Vendredi 26 octobre 2018","Jeudi 24 janvier 2019","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]

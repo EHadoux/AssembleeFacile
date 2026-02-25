@@ -2,7 +2,7 @@
 date = 2025-10-28
 draft = false
 title = "Proposition de loi portant création d'un statut de l'élu local - N° 1997"
-auteurs = ["M. Le Président du Sénat","Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49280"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Deuxième lecture au Sénat","Deuxième lecture à l'Assemblée nationale"]
 stepsDate = ["Jeudi 18 janvier 2024","Jeudi 18 janvier 2024","Vendredi 8 mars 2024","Mardi 23 juillet 2024","Jeudi 10 juillet 2025","Jeudi 23 octobre 2025"]

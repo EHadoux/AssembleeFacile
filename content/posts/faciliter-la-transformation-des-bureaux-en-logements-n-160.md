@@ -2,7 +2,7 @@
 date = 2024-07-29
 draft = false
 title = "Faciliter la transformation des bureaux en logements - N° 160"
-auteurs = ["Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/transformation_bureaux_logements"
 stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Commission Mixte Paritaire","Commission Mixte Paritaire","Promulgation de la loi"]
 stepsDate = ["Vendredi 15 décembre 2023","Vendredi 15 décembre 2023","Jeudi 7 mars 2024","Jeudi 23 mai 2024","Mardi 20 mai 2025","Lundi 16 juin 2025"]

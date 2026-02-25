@@ -2,7 +2,7 @@
 date = 2024-07-31
 draft = false
 title = "Déclaration de naissance au lieu de résidence des parents - N° 70"
-auteurs = ["Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/declaration_naissance_lieu_residence_parents"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Mercredi 27 novembre 2019","Mercredi 27 novembre 2019","Vendredi 17 janvier 2020","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]

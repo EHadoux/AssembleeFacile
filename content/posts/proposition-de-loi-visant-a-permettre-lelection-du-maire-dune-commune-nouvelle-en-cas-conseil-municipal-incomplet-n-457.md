@@ -2,7 +2,7 @@
 date = 2024-10-16
 draft = false
 title = "Proposition de loi visant à permettre l'élection du maire d'une commune nouvelle en cas de conseil municipal incomplet - N° 457"
-auteurs = ["Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49843"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Promulgation de la loi"]
 stepsDate = ["Jeudi 25 avril 2024","Jeudi 25 avril 2024","Mercredi 16 octobre 2024","Vendredi 14 février 2025"]

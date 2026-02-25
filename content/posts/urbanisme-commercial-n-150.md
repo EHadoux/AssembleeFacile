@@ -2,7 +2,7 @@
 date = 2024-07-24
 draft = false
 title = "Urbanisme commercial - N° 150"
-auteurs = ["M. Le Président Du Sénat"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/urbanisme_commercial"
 stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale"]
 stepsDate = ["Lundi 3 mai 2010","Lundi 3 mai 2010","Mercredi 16 juin 2010","Vendredi 1er avril 2011","Lundi 2 juillet 2012","Jeudi 6 juillet 2017","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]

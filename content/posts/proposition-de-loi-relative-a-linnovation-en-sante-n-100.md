@@ -2,7 +2,7 @@
 date = 2024-07-25
 draft = false
 title = "Proposition de loi relative à l'innovation en santé - N° 100"
-auteurs = ["M. Le Président Du Sénat"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L15N44352"
 stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Jeudi 25 novembre 2021","Jeudi 25 novembre 2021","Mercredi 23 février 2022","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]

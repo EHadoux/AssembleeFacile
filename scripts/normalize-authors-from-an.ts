@@ -1,3 +1,4 @@
+import fs from 'node:fs/promises';
 import { load } from 'cheerio';
 import { db } from './_db.ts';
 
@@ -39,9 +40,7 @@ function toArray<T>(val: T | T[] | undefined): T[] {
   return Array.isArray(val) ? val : [val];
 }
 
-const selectArticle = db.prepare(
-  'SELECT slug FROM articles WHERE numero_proposition = ? AND authors_from_an = 0',
-);
+const selectArticle = db.prepare('SELECT slug FROM articles WHERE numero_proposition = ? AND authors_from_an = 0');
 const selectDepute = db.prepare('SELECT id, nom, prenom FROM deputes WHERE id = ?');
 const deleteAuteurs = db.prepare('DELETE FROM article_auteurs WHERE article_slug = ?');
 const insertAuteur = db.prepare(
@@ -73,7 +72,10 @@ let errors = 0;
 
 for (const li of items) {
   // Numero is in the pion{numero}.asp href, not in the dossier URL
-  const allHrefs = $list(li).find('a').map((_, a) => $list(a).attr('href') ?? '').toArray();
+  const allHrefs = $list(li)
+    .find('a')
+    .map((_, a) => $list(a).attr('href') ?? '')
+    .toArray();
   const pionHref = allHrefs.find((h) => /pion\d+\.asp/.test(h));
   if (!pionHref) continue;
 
@@ -103,9 +105,7 @@ for (const li of items) {
       continue;
     }
 
-    const jsonUrl = jsonHref.startsWith('http')
-      ? jsonHref
-      : `https://www.assemblee-nationale.fr${jsonHref}`;
+    const jsonUrl = jsonHref.startsWith('http') ? jsonHref : `https://www.assemblee-nationale.fr${jsonHref}`;
 
     const data = (await fetchJson(jsonUrl)) as AnJson;
 
@@ -122,9 +122,24 @@ for (const li of items) {
 
     const allRefs = [...auteurRefs, ...coSignRefs];
 
-    if (allRefs.length === 0) {
-      console.warn(`[${slug}] No acteurRef found (may be a Sénat-transmitted text) — skipping`);
-      errors++;
+    if (auteurRefs.length === 0) {
+      const mdPath = new URL(`../content/posts/${slug}.md`, import.meta.url).pathname;
+      const mdContent = await fs.readFile(mdPath, 'utf-8');
+      const auteursMatch = mdContent.match(/^auteurs\s*=\s*\[([^\]]*)\]/m);
+      if (auteursMatch) {
+        const PRESIDENT_VARIANTS = /^(M\.\s*Le\s*Président\s*Du\s*Sénat|M\.\s*Le\s*Président\s*du\s*Sénat|Gérard\s*Larcher)$/i;
+        const rawNames = auteursMatch[1].match(/"([^"]+)"/g)?.map((s) => s.slice(1, -1)) ?? [];
+        if (rawNames.length > 0 && rawNames.every((n) => PRESIDENT_VARIANTS.test(n.trim()))) {
+          const newLine = 'auteurs = ["M. Le Président du Sénat"]';
+          const updated = mdContent.replace(/^auteurs\s*=\s*\[[^\]]*\]/m, newLine);
+          await fs.writeFile(mdPath, updated, 'utf-8');
+          console.log(`[${slug}] Rewrote auteurs → M. Le Président Du Sénat`);
+        }
+      }
+      deleteAuteurs.run(slug);
+      markDone.run(slug);
+      console.log(`[${slug}] No auteur acteurRef — cleared authors and marked normalised`);
+      processed++;
       await new Promise((r) => setTimeout(r, 2000));
       continue;
     }
@@ -153,9 +168,7 @@ for (const li of items) {
     }
     markDone.run(slug);
 
-    const summary = deputes
-      .map((d) => `${d!.depute.prenom} ${d!.depute.nom} (${d!.role})`)
-      .join(', ');
+    const summary = deputes.map((d) => `${d!.depute.prenom} ${d!.depute.nom} (${d!.role})`).join(', ');
     console.log(`[${slug}] ✓ ${summary}`);
     processed++;
   } catch (err) {
