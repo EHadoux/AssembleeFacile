@@ -2,7 +2,7 @@ import type { PageServerLoad } from './$types';
 import { error } from '@sveltejs/kit';
 import { getAllAuteurs, getPostsByAuteur, getAuteurBySlug, slugify } from '$lib/server/content';
 import { getAllGroupes } from '$lib/server/groupes';
-import { findDeputeByNameInDb, getTopCosignataires } from '$lib/server/queries';
+import { findDeputeByNameInDb, getTopCosignataires, getAuthorCounts } from '$lib/server/queries';
 
 export const load: PageServerLoad = async ({ params }) => {
 	const name = getAuteurBySlug(params.slug);
@@ -12,6 +12,9 @@ export const load: PageServerLoad = async ({ params }) => {
 	const totalPosts = posts.length;
 
 	const dep = findDeputeByNameInDb(name);
+	const counts = dep
+		? getAuthorCounts(dep.id)
+		: { count_auteur: totalPosts, count_cosig: 0 };
 	const groupes = getAllGroupes();
 	const groupe = dep ? (groupes.find((g) => g.abrev === dep.groupe_abrev) ?? null) : null;
 	// TODO: once the DB is the single source of truth for authors, remove this filter —
@@ -33,7 +36,7 @@ export const load: PageServerLoad = async ({ params }) => {
 	}
 	const topTags = [...tagCounts.values()].sort((a, b) => b.count - a.count).slice(0, 10);
 
-	return { name, posts, totalPosts, dep, groupe, topTags, cosignataires };
+	return { name, posts, totalPosts, dep, groupe, topTags, cosignataires, counts };
 };
 
 export function entries() {

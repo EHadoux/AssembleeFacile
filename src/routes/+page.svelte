@@ -76,7 +76,7 @@
 					Top contributeurs
 				</h3>
 				<ol class="flex flex-col gap-3">
-					{#each data.topContributors as { name, count, groupeAbrev, couleur, photo }, i}
+					{#each data.topContributors as { name, count_auteur, groupeAbrev, couleur, photo }, i}
 						<li class="flex items-center gap-3">
 							<span class="w-4 shrink-0 text-xs font-bold tabular-nums text-muted-foreground">
 								{i + 1}
@@ -104,7 +104,7 @@
 									</span>
 								{/if}
 							</div>
-							<span class="shrink-0 text-xs font-bold tabular-nums text-primary">{count}</span>
+							<span class="shrink-0 text-xs font-bold tabular-nums text-primary">{count_auteur}</span>
 						</li>
 					{/each}
 				</ol>

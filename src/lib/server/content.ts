@@ -107,22 +107,6 @@ export function getAllAuteurs(): string[] {
 	return [...seen.values()];
 }
 
-export function getTopContributors(n: number): { name: string; count: number }[] {
-	const counts = new Map<string, { name: string; count: number }>();
-	for (const post of allPosts) {
-		for (const auteur of post.auteurs) {
-			const key = slugify(auteur);
-			const existing = counts.get(key);
-			if (existing) {
-				existing.count++;
-			} else {
-				counts.set(key, { name: auteur, count: 1 });
-			}
-		}
-	}
-	return [...counts.values()].sort((a, b) => b.count - a.count).slice(0, n);
-}
-
 export function getAuteurBySlug(slug: string): string | null {
 	return getAllAuteurs().find((name) => slugify(name) === slug) ?? null;
 }

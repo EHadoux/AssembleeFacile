@@ -13,7 +13,8 @@ export interface GroupeStat {
 
 export interface TopContributor {
   name: string;
-  count: number;
+  count_auteur: number;
+  count_cosig: number;
   groupeAbrev: string | null;
   couleur: string | null;
   photo: string | null;
@@ -26,12 +27,16 @@ export function getTopContributors(limit: number): TopContributor[] {
 			d.groupe_abrev AS groupeAbrev,
 			g.couleur,
 			REPLACE(d.id, 'PA', '') || '.jpg' AS photo,
-			COUNT(DISTINCT aa.article_slug) AS count
-		FROM article_auteurs aa
-		JOIN deputes d ON aa.depute_id = d.id
-		LEFT JOIN groupes g ON d.groupe_abrev = g.abrev
+			COUNT(DISTINCT CASE WHEN aa.role = 'auteur' OR (aa.role IS NULL AND aa.ordre = 0)
+				THEN aa.article_slug END) AS count_auteur,
+			COUNT(DISTINCT CASE WHEN aa.role = 'cosignataire'
+				THEN aa.article_slug END) AS count_cosig
+		FROM deputes d
+		JOIN groupes g ON g.abrev = d.groupe_abrev
+		LEFT JOIN article_auteurs aa ON aa.depute_id = d.id
 		GROUP BY d.id
-		ORDER BY count DESC
+		HAVING count_auteur > 0
+		ORDER BY count_auteur DESC, count_cosig DESC
 		LIMIT ?
 	`);
   return stmt.all(limit) as unknown as TopContributor[];
@@ -40,14 +45,32 @@ export function getTopContributors(limit: number): TopContributor[] {
 export function getPropositionsByGroupe(): GroupeStat[] {
   const stmt = db.prepare(`
 		SELECT g.abrev, g.nom, g.couleur, COUNT(DISTINCT aa.article_slug) AS count
-		FROM article_auteurs aa
-		JOIN deputes d ON aa.depute_id = d.id
-		JOIN groupes g ON d.groupe_abrev = g.abrev
-		WHERE d.groupe_abrev IS NOT NULL
+		FROM groupes g
+		JOIN deputes d ON d.groupe_abrev = g.abrev
+		JOIN article_auteurs aa ON aa.depute_id = d.id
+		WHERE aa.role = 'auteur' OR (aa.role IS NULL AND aa.ordre = 0)
 		GROUP BY g.abrev
 		ORDER BY count DESC
 	`);
   return stmt.all() as unknown as GroupeStat[];
+}
+
+export interface AuthorCounts {
+  count_auteur: number;
+  count_cosig: number;
+}
+
+export function getAuthorCounts(deputeId: string): AuthorCounts {
+  const stmt = db.prepare(`
+		SELECT
+			COUNT(DISTINCT CASE WHEN role = 'auteur' OR (role IS NULL AND ordre = 0)
+				THEN article_slug END) AS count_auteur,
+			COUNT(DISTINCT CASE WHEN role = 'cosignataire'
+				THEN article_slug END) AS count_cosig
+		FROM article_auteurs
+		WHERE depute_id = ?
+	`);
+  return stmt.get(deputeId) as unknown as AuthorCounts;
 }
 
 export interface DeputeDetail {

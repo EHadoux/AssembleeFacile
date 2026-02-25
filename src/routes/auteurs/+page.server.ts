@@ -1,7 +1,8 @@
 import type { PageServerLoad } from './$types';
-import { getAllAuteurs, getPostsByAuteur, slugify } from '$lib/server/content';
+import { getAllAuteurs, slugify } from '$lib/server/content';
 import { findDeputeByName } from '$lib/server/deputes';
 import { getAllGroupes, GROUPE_ORDER } from '$lib/server/groupes';
+import { getAuthorCounts } from '$lib/server/queries';
 
 export const load: PageServerLoad = async () => {
 	const groupes = getAllGroupes();
@@ -9,11 +10,11 @@ export const load: PageServerLoad = async () => {
 
 	const auteurs = getAllAuteurs().map((name) => {
 		const dep = findDeputeByName(name);
-		const count = getPostsByAuteur(name).length;
+		const counts = dep ? getAuthorCounts(dep.id) : { count_auteur: 0, count_cosig: 0 };
 		return {
 			name,
 			slug: slugify(name),
-			count,
+			count: counts.count_auteur,
 			groupeAbrev: dep?.groupeAbrev ?? null,
 			photo: dep?.photo ?? null
 		};

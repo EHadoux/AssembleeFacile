@@ -263,10 +263,15 @@
 				<!-- Counts row -->
 				<div class="flex divide-x divide-border/70">
 					<div class="flex-1 px-4 py-3 text-center">
-						<p class="text-2xl font-extrabold tabular-nums text-foreground">{data.totalPosts}</p>
+						<p class="text-2xl font-extrabold tabular-nums text-foreground">{data.counts.count_auteur}</p>
 						<p class="mt-0.5 text-[10px] uppercase tracking-wider text-muted-foreground">
-							Proposition{data.totalPosts > 1 ? 's' : ''}
+							Proposition{data.counts.count_auteur > 1 ? 's' : ''} déposée{data.counts.count_auteur > 1 ? 's' : ''}
 						</p>
+						{#if data.counts.count_cosig > 0}
+							<p class="mt-1 text-[10px] text-muted-foreground">
+								+ {data.counts.count_cosig} cosignée{data.counts.count_cosig > 1 ? 's' : ''}
+							</p>
+						{/if}
 					</div>
 
 					{#if data.dep?.nombre_mandats != null}
