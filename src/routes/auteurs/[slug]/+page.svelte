@@ -262,36 +262,46 @@
 			<div class="mt-6 overflow-hidden rounded-xl border border-border/70 bg-accent/20">
 				<!-- Counts row -->
 				<div class="flex divide-x divide-border/70">
-					<div class="flex-1 px-4 py-3 text-center">
-						<p class="text-2xl font-extrabold tabular-nums text-foreground">{data.counts.count_auteur}</p>
-						<p class="mt-0.5 text-[10px] uppercase tracking-wider text-muted-foreground">
+					<div class="flex-1 px-4 py-4 text-center">
+						<p class="text-3xl font-black tabular-nums" style="color: {groupeColour};">
+							{data.counts.count_auteur}
+						</p>
+						<p class="mt-0.5 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
 							Proposition{data.counts.count_auteur > 1 ? 's' : ''} déposée{data.counts.count_auteur > 1 ? 's' : ''}
 						</p>
 						{#if data.counts.count_cosig > 0}
-							<p class="mt-1 text-[10px] text-muted-foreground">
-								+ {data.counts.count_cosig} cosignée{data.counts.count_cosig > 1 ? 's' : ''}
-							</p>
+							<div
+								class="mx-auto mt-2 inline-flex items-center gap-1 rounded-full px-2 py-0.5"
+								style="background-color: {groupeColour}18;"
+							>
+								<span class="text-xs font-bold tabular-nums" style="color: {groupeColour};">
+									+{data.counts.count_cosig}
+								</span>
+								<span class="text-[10px] text-muted-foreground">
+									cosignée{data.counts.count_cosig > 1 ? 's' : ''}
+								</span>
+							</div>
 						{/if}
 					</div>
 
 					{#if data.dep?.nombre_mandats != null}
-						<div class="flex-1 px-4 py-3 text-center">
-							<p class="text-2xl font-extrabold tabular-nums text-foreground">
+						<div class="flex-1 px-4 py-4 text-center">
+							<p class="text-3xl font-black tabular-nums" style="color: {groupeColour};">
 								{data.dep.nombre_mandats}
 							</p>
-							<p class="mt-0.5 text-[10px] uppercase tracking-wider text-muted-foreground">
+							<p class="mt-0.5 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
 								Mandat{data.dep.nombre_mandats > 1 ? 's' : ''}
 							</p>
 						</div>
 					{/if}
 
 					{#if data.dep?.date_prise_fonction}
-						<div class="flex-1 px-4 py-3 text-center">
-							<p class="text-[10px] uppercase tracking-wider text-muted-foreground">
-								En fonction depuis
+						<div class="flex-1 px-4 py-4 text-center">
+							<p class="text-3xl font-black tabular-nums" style="color: {groupeColour};">
+								{new Date(data.dep.date_prise_fonction).getFullYear()}
 							</p>
-							<p class="mt-1 text-sm font-bold text-foreground">
-								{formatDateShort(data.dep.date_prise_fonction)}
+							<p class="mt-0.5 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
+								En fonction depuis
 							</p>
 						</div>
 					{/if}

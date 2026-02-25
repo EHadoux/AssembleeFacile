@@ -214,6 +214,22 @@ export function getMostTransPartisan(limit: number): MostTransPartisan[] {
   }));
 }
 
+export interface ArticleSignataire {
+  depute_id: string;
+  role: string | null;
+  ordre: number;
+}
+
+export function getArticleSignataires(slug: string): ArticleSignataire[] {
+  const stmt = db.prepare(`
+		SELECT depute_id, role, ordre
+		FROM article_auteurs
+		WHERE article_slug = ?
+		ORDER BY ordre ASC
+	`);
+  return stmt.all(slug) as unknown as ArticleSignataire[];
+}
+
 export function getTopCosignataires(deputeId: string, limit: number): Cosignataire[] {
   const stmt = db.prepare(`
 		SELECT

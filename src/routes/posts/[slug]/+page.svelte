@@ -37,11 +37,47 @@
     return null;
   }
 
+  // Identify the principal author's depute ID from the DB role data
+  const principalDeputeId = $derived.by(() => {
+    if (!data.signataires.length) return null;
+    const byRole = data.signataires.find((s) => s.role === 'auteur');
+    if (byRole) return byRole.depute_id;
+    const byOrder = data.signataires.find((s) => s.role === null && s.ordre === 0);
+    return byOrder?.depute_id ?? null;
+  });
+
+  // Resolve the principal author name + depute match + groupe info
+  const principalAuteur = $derived.by(() => {
+    const groupeMap = new Map(data.groupes.map((g) => [g.abrev, g]));
+    if (principalDeputeId) {
+      for (let i = 0; i < meta.auteurs.length; i++) {
+        const dep = findDepute(meta.auteurs[i]);
+        if (dep && dep.id === principalDeputeId) {
+          return { name: meta.auteurs[i], dep, groupe: groupeMap.get(dep.groupeAbrev) ?? null, idx: i };
+        }
+      }
+    }
+    // Fallback: treat first auteur as principal
+    if (meta.auteurs.length > 0) {
+      const dep = findDepute(meta.auteurs[0]);
+      return {
+        name: meta.auteurs[0],
+        dep,
+        groupe: dep ? (groupeMap.get(dep.groupeAbrev) ?? null) : null,
+        idx: 0
+      };
+    }
+    return null;
+  });
+
+  // All cosignataires grouped by political group (excluding principal author)
   const signatairesByGroupe = $derived.by(() => {
     const groupeMap = new Map(data.groupes.map((g) => [g.abrev, g]));
     const groups = new Map<string, Array<{ name: string; photo: string; slug: string; idx: number }>>();
 
     meta.auteurs.forEach((auteur, idx) => {
+      // Skip the principal author
+      if (idx === principalAuteur?.idx) return;
       const dep = findDepute(auteur);
       if (dep) {
         const arr = groups.get(dep.groupeAbrev) ?? [];
@@ -57,6 +93,18 @@
       return [{ groupeAbrev: abrev, couleur: groupe.couleur, nom: groupe.nom, deputes }];
     });
   });
+
+  // Auteurs with no depute match, excluding principal, for fallback display
+  const unmatchedCosignataires = $derived.by(() => {
+    return meta.auteurs.filter((auteur, idx) => {
+      if (idx === principalAuteur?.idx) return false;
+      return !findDepute(auteur);
+    });
+  });
+
+  const totalCosignataires = $derived(
+    signatairesByGroupe.reduce((s, g) => s + g.deputes.length, 0) + unmatchedCosignataires.length
+  );
 
   let photoErrors = $state<boolean[]>([]);
   $effect.pre(() => {
@@ -172,82 +220,143 @@
     <!-- Sidebar -->
     <aside class="flex flex-col gap-5">
       <div class="rounded-xl border border-border bg-white p-5 shadow-sm">
-        <h3 class="mb-4 text-xs font-semibold uppercase tracking-widest text-muted-foreground">
-          {meta.auteurs.length > 1 ? 'Auteurs' : 'Auteur'}
-        </h3>
 
-        {#if signatairesByGroupe.length > 0}
-          <div class="flex flex-col gap-4">
-            {#each signatairesByGroupe as groupe}
-              {@const isExpanded = expandedGroupes.has(groupe.groupeAbrev)}
-              {@const visible = isExpanded ? groupe.deputes : groupe.deputes.slice(0, SIGNATAIRES_LIMIT)}
-              {@const hiddenCount = groupe.deputes.length - SIGNATAIRES_LIMIT}
-              <div>
-                <!-- Party header -->
-                <div class="mb-2 flex items-center gap-1.5">
-                  <span class="h-2 w-2 shrink-0 rounded-full" style="background-color: {groupe.couleur};"></span>
-                  <span
-                    class="inline-flex items-center rounded px-1.5 py-0.5 text-[10px] font-bold uppercase leading-none tracking-wide text-white"
-                    style="background-color: {groupe.couleur};"
-                  >
-                    {groupe.groupeAbrev}
-                  </span>
-                  <span class="min-w-0 truncate text-[10px] text-muted-foreground">{groupe.nom}</span>
-                </div>
-
-                <!-- Deputies in this group -->
-                <ul class="flex flex-col gap-1.5 border-l-2 pl-4" style="border-color: {groupe.couleur}33;">
-                  {#each visible as dep}
-                    <li class="flex items-center gap-2">
-                      {#if dep.photo && !photoErrors[dep.idx]}
-                        <img
-                          src="https://www2.assemblee-nationale.fr/static/tribun/17/photos/{dep.photo}"
-                          alt={dep.name}
-                          class="h-7 w-7 shrink-0 rounded-full object-cover object-top ring-1 ring-border"
-                          onerror={() => {
-                            photoErrors[dep.idx] = true;
-                          }}
-                        />
-                      {:else}
-                        <div
-                          class="flex h-7 w-7 shrink-0 items-center justify-center rounded-full text-[10px] font-bold text-white"
-                          style="background-color: {groupe.couleur};"
-                        >
-                          {dep.name.split(' ').pop()?.[0] ?? '?'}
-                        </div>
-                      {/if}
-                      <a
-                        href="/auteurs/{dep.slug}"
-                        class="min-w-0 truncate text-xs font-medium text-foreground transition-colors hover:text-primary hover:underline"
-                      >
-                        {dep.name}
-                      </a>
-                    </li>
-                  {/each}
-                  {#if hiddenCount > 0}
-                    <li>
-                      <button
-                        class="cursor-pointer text-[11px] text-muted-foreground underline decoration-dotted underline-offset-2 hover:text-primary"
-                        onclick={() => {
-                          const next = new Set(expandedGroupes);
-                          if (isExpanded) {
-                            next.delete(groupe.groupeAbrev);
-                          } else {
-                            next.add(groupe.groupeAbrev);
-                          }
-                          expandedGroupes = next;
-                        }}
-                      >
-                        {isExpanded ? 'Réduire' : `et ${hiddenCount} de plus`}
-                      </button>
-                    </li>
-                  {/if}
-                </ul>
+        <!-- Principal author -->
+        {#if principalAuteur}
+          <h3 class="mb-3 text-xs font-semibold uppercase tracking-widest text-muted-foreground">
+            Auteur
+          </h3>
+          <div
+            class="mb-5 flex items-center gap-3 rounded-lg px-3 py-2.5"
+            style="background-color: {principalAuteur.groupe?.couleur ?? 'var(--primary)'}12; border-left: 3px solid {principalAuteur.groupe?.couleur ?? 'var(--primary)'};"
+          >
+            {#if principalAuteur.dep?.photo && !photoErrors[principalAuteur.idx]}
+              <img
+                src="https://www2.assemblee-nationale.fr/static/tribun/17/photos/{principalAuteur.dep.photo}"
+                alt={principalAuteur.name}
+                class="h-11 w-11 shrink-0 rounded-full object-cover object-top ring-2 ring-background shadow-sm"
+                onerror={() => { photoErrors[principalAuteur.idx] = true; }}
+              />
+            {:else}
+              <div
+                class="flex h-11 w-11 shrink-0 items-center justify-center rounded-full text-sm font-bold text-white shadow-sm"
+                style="background-color: {principalAuteur.groupe?.couleur ?? 'var(--primary)'};"
+              >
+                {principalAuteur.name.split(' ').pop()?.[0] ?? '?'}
               </div>
-            {/each}
+            {/if}
+            <div class="min-w-0 flex-1">
+              <a
+                href="/auteurs/{slugify(principalAuteur.name)}"
+                class="block truncate text-sm font-bold leading-snug text-foreground hover:text-primary hover:underline"
+              >
+                {principalAuteur.name}
+              </a>
+              {#if principalAuteur.groupe}
+                <span
+                  class="mt-1 inline-block rounded-sm px-1.5 py-px text-[9px] font-bold uppercase tracking-wide text-white"
+                  style="background-color: {principalAuteur.groupe.couleur};"
+                >
+                  {principalAuteur.groupe.abrev}
+                </span>
+              {/if}
+            </div>
           </div>
-        {:else}
-          <!-- Fallback when no depute matches found -->
+        {/if}
+
+        <!-- Cosignataires -->
+        {#if totalCosignataires > 0}
+          <h3 class="mb-3 text-xs font-semibold uppercase tracking-widest text-muted-foreground">
+            Cosignataires
+            <span class="ml-1 font-normal tabular-nums">({totalCosignataires})</span>
+          </h3>
+
+          {#if signatairesByGroupe.length > 0}
+            <div class="flex flex-col gap-4">
+              {#each signatairesByGroupe as groupe}
+                {@const isExpanded = expandedGroupes.has(groupe.groupeAbrev)}
+                {@const visible = isExpanded ? groupe.deputes : groupe.deputes.slice(0, SIGNATAIRES_LIMIT)}
+                {@const hiddenCount = groupe.deputes.length - SIGNATAIRES_LIMIT}
+                <div>
+                  <!-- Party header -->
+                  <div class="mb-2 flex items-center gap-1.5">
+                    <span
+                      class="inline-flex items-center rounded px-1.5 py-0.5 text-[10px] font-bold uppercase leading-none tracking-wide text-white"
+                      style="background-color: {groupe.couleur};"
+                    >
+                      {groupe.groupeAbrev}
+                    </span>
+                    <span class="min-w-0 truncate text-[10px] text-muted-foreground">{groupe.nom}</span>
+                  </div>
+
+                  <!-- Deputies in this group -->
+                  <ul class="flex flex-col gap-1.5 border-l-2 pl-4" style="border-color: {groupe.couleur}33;">
+                    {#each visible as dep}
+                      <li class="flex items-center gap-2">
+                        {#if dep.photo && !photoErrors[dep.idx]}
+                          <img
+                            src="https://www2.assemblee-nationale.fr/static/tribun/17/photos/{dep.photo}"
+                            alt={dep.name}
+                            class="h-6 w-6 shrink-0 rounded-full object-cover object-top ring-1 ring-border"
+                            onerror={() => { photoErrors[dep.idx] = true; }}
+                          />
+                        {:else}
+                          <div
+                            class="flex h-6 w-6 shrink-0 items-center justify-center rounded-full text-[9px] font-bold text-white"
+                            style="background-color: {groupe.couleur};"
+                          >
+                            {dep.name.split(' ').pop()?.[0] ?? '?'}
+                          </div>
+                        {/if}
+                        <a
+                          href="/auteurs/{dep.slug}"
+                          class="min-w-0 truncate text-xs font-medium text-foreground transition-colors hover:text-primary hover:underline"
+                        >
+                          {dep.name}
+                        </a>
+                      </li>
+                    {/each}
+                    {#if hiddenCount > 0}
+                      <li>
+                        <button
+                          class="cursor-pointer text-[11px] text-muted-foreground underline decoration-dotted underline-offset-2 hover:text-primary"
+                          onclick={() => {
+                            const next = new Set(expandedGroupes);
+                            if (isExpanded) {
+                              next.delete(groupe.groupeAbrev);
+                            } else {
+                              next.add(groupe.groupeAbrev);
+                            }
+                            expandedGroupes = next;
+                          }}
+                        >
+                          {isExpanded ? 'Réduire' : `et ${hiddenCount} de plus`}
+                        </button>
+                      </li>
+                    {/if}
+                  </ul>
+                </div>
+              {/each}
+            </div>
+          {/if}
+
+          {#if unmatchedCosignataires.length > 0}
+            <ul class="mt-3 flex flex-col gap-1">
+              {#each unmatchedCosignataires as auteur}
+                <li>
+                  <a
+                    href="/auteurs/{slugify(auteur)}"
+                    class="text-xs font-medium text-foreground transition-colors hover:text-primary hover:underline"
+                  >
+                    {auteur}
+                  </a>
+                </li>
+              {/each}
+            </ul>
+          {/if}
+
+        {:else if !principalAuteur && meta.auteurs.length > 0}
+          <!-- Fallback when nothing matched at all -->
           <ul class="flex flex-col gap-1.5">
             {#each meta.auteurs as auteur}
               <li>
@@ -261,6 +370,7 @@
             {/each}
           </ul>
         {/if}
+
       </div>
     </aside>
   </div>
