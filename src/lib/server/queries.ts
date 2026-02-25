@@ -20,6 +20,8 @@ export interface TopContributor {
   photo: string | null;
 }
 
+/** Classement des députés par nombre de propositions déposées en tant qu'auteur principal.
+ *  Utilisé : `routes/+page.server.ts` (bloc d'accueil "top contributeurs"). */
 export function getTopContributors(limit: number): TopContributor[] {
   const stmt = db.prepare(`
 		SELECT
@@ -42,6 +44,8 @@ export function getTopContributors(limit: number): TopContributor[] {
   return stmt.all(limit) as unknown as TopContributor[];
 }
 
+/** Nombre de propositions par groupe politique (auteurs principaux uniquement).
+ *  Utilisé : `routes/+page.server.ts` (statistiques d'accueil par groupe). */
 export function getPropositionsByGroupe(): GroupeStat[] {
   const stmt = db.prepare(`
 		SELECT g.abrev, g.nom, g.couleur, COUNT(DISTINCT aa.article_slug) AS count
@@ -60,6 +64,8 @@ export interface AuthorCounts {
   count_cosig: number;
 }
 
+/** Compte les propositions d'un député donné (auteur principal + cosignataire).
+ *  Utilisé : `routes/auteurs/[slug]/+page.server.ts` et `routes/auteurs/+page.server.ts`. */
 export function getAuthorCounts(deputeId: string): AuthorCounts {
   const stmt = db.prepare(`
 		SELECT
@@ -103,6 +109,8 @@ export interface Cosignataire {
   count: number;
 }
 
+/** Normalisation interne : minuscules, sans accents, sans ponctuation, espaces condensés.
+ *  Utilisée uniquement dans ce fichier pour les comparaisons de noms. */
 function normalizeStr(s: string): string {
   return s
     .toLowerCase()
@@ -115,6 +123,8 @@ function normalizeStr(s: string): string {
 
 let _deputesCache: DeputeDetail[] | null = null;
 
+/** Charge tous les députés depuis la DB avec mise en cache en mémoire (singleton de module).
+ *  Utilisée en interne par `findDeputeByNameInDb`. */
 function getAllDeputesFromDb(): DeputeDetail[] {
   if (_deputesCache) return _deputesCache;
   const stmt = db.prepare(`
@@ -128,6 +138,9 @@ function getAllDeputesFromDb(): DeputeDetail[] {
   return _deputesCache;
 }
 
+/** Recherche floue d'un député par son nom complet (trois passes : nom+prénom exact →
+ *  inclusion des deux → nom seul). Couvre les variations issues du LLM dans les frontmatters.
+ *  Utilisée : `routes/auteurs/[slug]/+page.server.ts`. */
 export function findDeputeByNameInDb(fullName: string): DeputeDetail | null {
   const deputes = getAllDeputesFromDb();
   const normTarget = normalizeStr(fullName);
@@ -158,11 +171,15 @@ export interface MostCosigned {
   nb_cosignataires: number;
 }
 
+/** Nombre total de députés actifs (retire = 0).
+ *  Utilisé : `routes/+page.server.ts` (statistique d'accueil). */
 export function getDeputeCount(): number {
   const row = db.prepare('SELECT COUNT(*) AS c FROM deputes WHERE retire = 0').get() as { c: number };
   return row.c;
 }
 
+/** Propositions avec le plus grand nombre de signataires (toutes signatures confondues).
+ *  Utilisé : `routes/+page.server.ts` (bloc d'accueil "les plus cosignées"). */
 export function getMostCosigned(limit: number): MostCosigned[] {
   const stmt = db.prepare(`
 		SELECT
@@ -187,6 +204,9 @@ export interface MostTransPartisan {
   groupes: string[];
 }
 
+/** Propositions réunissant le plus de groupes politiques différents (≥ 2).
+ *  Trie par nb_groupes DESC puis nb_cosignataires DESC.
+ *  Utilisé : `routes/+page.server.ts` (bloc d'accueil "les plus transpartisanes"). */
 export function getMostTransPartisan(limit: number): MostTransPartisan[] {
   const stmt = db.prepare(`
 		SELECT
@@ -220,6 +240,8 @@ export interface ArticleSignataire {
   ordre: number;
 }
 
+/** Récupère tous les signataires (auteur + cosignataires) d'une proposition, triés par ordre.
+ *  Utilisé : `routes/posts/[slug]/+page.server.ts` (sidebar de la fiche de proposition). */
 export function getArticleSignataires(slug: string): ArticleSignataire[] {
   const stmt = db.prepare(`
 		SELECT depute_id, role, ordre
@@ -230,6 +252,41 @@ export function getArticleSignataires(slug: string): ArticleSignataire[] {
   return stmt.all(slug) as unknown as ArticleSignataire[];
 }
 
+export interface ArticleRoles {
+  auteursPrincipaux: string[];
+  cosignataires: string[];
+}
+
+/** Construit une Map slug → { auteursPrincipaux, cosignataires } pour toutes les propositions.
+ *  Chargée en une seule requête pour éviter les N+1 lors de la génération de l'index de recherche.
+ *  Utilisée : `routes/search.json/+server.ts`. */
+export function getAllArticleRoles(): Map<string, ArticleRoles> {
+  const stmt = db.prepare(`
+		SELECT article_slug, nom_brut, role, ordre
+		FROM article_auteurs
+		ORDER BY article_slug, ordre
+	`);
+  type Row = { article_slug: string; nom_brut: string; role: string | null; ordre: number };
+  const rows = stmt.all() as unknown as Row[];
+
+  const map = new Map<string, ArticleRoles>();
+  for (const row of rows) {
+    let entry = map.get(row.article_slug);
+    if (!entry) {
+      entry = { auteursPrincipaux: [], cosignataires: [] };
+      map.set(row.article_slug, entry);
+    }
+    if (row.role === 'auteur' || (row.role === null && row.ordre === 0)) {
+      entry.auteursPrincipaux.push(row.nom_brut);
+    } else if (row.role === 'cosignataire') {
+      entry.cosignataires.push(row.nom_brut);
+    }
+  }
+  return map;
+}
+
+/** Députés ayant le plus souvent cosigné avec le député donné (co-occurrence sur les mêmes articles).
+ *  Utilisé : `routes/auteurs/[slug]/+page.server.ts` (bloc "cosignateurs fréquents"). */
 export function getTopCosignataires(deputeId: string, limit: number): Cosignataire[] {
   const stmt = db.prepare(`
 		SELECT

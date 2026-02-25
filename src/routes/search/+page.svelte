@@ -5,7 +5,10 @@
 	import PostCard from '$lib/components/PostCard.svelte';
 	import type { PostMeta } from '$lib/content';
 
-	type SearchItem = Pick<PostMeta, 'slug' | 'proposalTitle' | 'proposalNum' | 'auteurs' | 'tags' | 'date'>;
+	type SearchItem = Pick<PostMeta, 'slug' | 'proposalTitle' | 'proposalNum' | 'tags' | 'date'> & {
+		auteursPrincipaux: string[];
+		cosignataires: string[];
+	};
 
 	let query = $state('');
 	let allItems = $state<SearchItem[]>([]);
@@ -21,6 +24,7 @@
 	const resultPosts = $derived(
 		results.map((item) => ({
 			...item,
+			auteurs: [...item.auteursPrincipaux, ...item.cosignataires],
 			title: item.proposalTitle,
 			link: '',
 			stepsName: [],
@@ -38,9 +42,11 @@
 				keys: [
 					{ name: 'proposalTitle', weight: 2 },
 					{ name: 'tags', weight: 1.5 },
-					{ name: 'auteurs', weight: 1 }
+					{ name: 'auteursPrincipaux', weight: 1.2 },
+					{ name: 'cosignataires', weight: 0.5 }
 				],
 				threshold: 0.35,
+				ignoreLocation: true,
 				includeScore: true
 			});
 		} finally {
