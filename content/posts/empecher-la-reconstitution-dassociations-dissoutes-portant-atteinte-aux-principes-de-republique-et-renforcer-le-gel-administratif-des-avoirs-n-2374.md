@@ -2,7 +2,7 @@
 date = 2026-01-27
 draft = false
 title = "Empêcher la reconstitution d’associations dissoutes portant atteinte aux principes de la République et renforcer le gel administratif des avoirs - N° 2374"
-auteurs = ["Matthieu Bloch","Jérôme Buisson","Bernard Chaix","Sébastien Chenu","Josiane Corneloup","Christelle D’Intorni","Michèle Martinez","Didier Padey"]
+auteurs = ["Matthieu Bloch","Jérôme Buisson","Bernard Chaix","Sébastien Chenu","Josiane Corneloup","Christelle D'Intorni","Michèle Martinez","Didier Padey"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/empecher_reconstitution_associations_dissoutes_renforcer_gel_administratif_avoirs_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 27 janvier 2026"]
