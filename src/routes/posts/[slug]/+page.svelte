@@ -15,6 +15,15 @@
     return new Intl.DateTimeFormat('fr-FR', { dateStyle: 'long' }).format(new Date(dateStr));
   }
 
+  const SENATE_PRESIDENT_NORM = 'm le president du senat';
+  const SENAT_COULEUR = '#002395';
+  const SENAT_LOGO_URL = 'https://www.assemblee-nationale.fr/assets/images/logos/logo_sn.webp';
+  const SENAT_GROUPE = { nom: 'Sénat', abrev: 'SEN', couleur: SENAT_COULEUR };
+
+  function isSenatePresident(auteur: string): boolean {
+    return normalizeForLookup(auteur) === SENATE_PRESIDENT_NORM;
+  }
+
   function findDepute(auteur: string) {
     const norm = normalizeForLookup(auteur);
     // Pass 1: exact full name match
@@ -53,18 +62,23 @@
       for (let i = 0; i < meta.auteurs.length; i++) {
         const dep = findDepute(meta.auteurs[i]);
         if (dep && dep.id === principalDeputeId) {
-          return { name: meta.auteurs[i], dep, groupe: groupeMap.get(dep.groupeAbrev) ?? null, idx: i };
+          return { name: meta.auteurs[i], dep, groupe: groupeMap.get(dep.groupeAbrev) ?? null, idx: i, senatePresident: false };
         }
       }
     }
     // Fallback: treat first auteur as principal
     if (meta.auteurs.length > 0) {
-      const dep = findDepute(meta.auteurs[0]);
+      const auteur = meta.auteurs[0];
+      if (isSenatePresident(auteur)) {
+        return { name: auteur, dep: null, groupe: SENAT_GROUPE, idx: 0, senatePresident: true };
+      }
+      const dep = findDepute(auteur);
       return {
-        name: meta.auteurs[0],
+        name: auteur,
         dep,
         groupe: dep ? (groupeMap.get(dep.groupeAbrev) ?? null) : null,
-        idx: 0
+        idx: 0,
+        senatePresident: false
       };
     }
     return null;
@@ -94,11 +108,11 @@
     });
   });
 
-  // Auteurs with no depute match, excluding principal, for fallback display
+  // Auteurs with no depute match, excluding principal and Senate president, for fallback display
   const unmatchedCosignataires = $derived.by(() => {
     return meta.auteurs.filter((auteur, idx) => {
       if (idx === principalAuteur?.idx) return false;
-      return !findDepute(auteur);
+      return !findDepute(auteur) && !isSenatePresident(auteur);
     });
   });
 
@@ -230,7 +244,13 @@
             class="mb-5 flex items-center gap-3 rounded-lg px-3 py-2.5"
             style="background-color: {principalAuteur.groupe?.couleur ?? 'var(--primary)'}12; border-left: 3px solid {principalAuteur.groupe?.couleur ?? 'var(--primary)'};"
           >
-            {#if principalAuteur.dep?.photo && !photoErrors[principalAuteur.idx]}
+            {#if principalAuteur.senatePresident}
+              <img
+                src={SENAT_LOGO_URL}
+                alt="Sénat"
+                class="h-11 w-11 shrink-0 rounded-full object-contain bg-white p-1 ring-2 ring-background shadow-sm"
+              />
+            {:else if principalAuteur.dep?.photo && !photoErrors[principalAuteur.idx]}
               <img
                 src="https://www2.assemblee-nationale.fr/static/tribun/17/photos/{principalAuteur.dep.photo}"
                 alt={principalAuteur.name}
