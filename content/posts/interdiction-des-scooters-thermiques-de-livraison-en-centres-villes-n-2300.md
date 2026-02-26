@@ -1,0 +1,19 @@
++++
+date = 2025-12-23
+draft = false
+title = "Interdiction des scooters thermiques de livraison en centres-villes - N° 2300"
+auteurs = ["Élisabeth De Maistre"]
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdiction_scooters_thermiques_livraison_centres-villes_17e"
+stepsName = ["Dépôt à l'Assemblée nationale"]
+stepsDate = ["Mardi 23 décembre 2025"]
+stepsStatus = [""]
+tags = ["Écologie","Transports","Urbanisme"]
++++
+
+## Résumé
+
+Face à l'augmentation des livraisons urbaines, ce texte vise à réduire la pollution de l'air, le bruit et l'insécurité routière causés par les scooters thermiques. Il propose d'imposer l'usage de véhicules propres (vélos électriques, cargos, hydrogène) pour les livraisons via plateformes dans les grandes villes d'ici 2027.
+
+## Liste des modifications
+
+**Interdiction des scooters thermiques de livraison (Article 1)**: À partir du 1er janvier 2027, les livreurs des plateformes numériques devront obligatoirement utiliser des vélos électriques, des vélos-cargos ou des véhicules électriques/hydrogène dans les villes de plus de 50 000 habitants et les centres-villes des communes de plus de 20 000 habitants.
