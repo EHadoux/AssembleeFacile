@@ -2,7 +2,7 @@
 date = 2025-12-23
 draft = false
 title = "Interdiction des scooters thermiques de livraison en centres-villes - N° 2300"
-auteurs = ["Élisabeth De Maistre"]
+auteurs = ["Élisabeth de Maistre"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdiction_scooters_thermiques_livraison_centres-villes_17e"
 stepsName = ["Dépôt à l'Assemblée nationale"]
 stepsDate = ["Mardi 23 décembre 2025"]
