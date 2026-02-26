@@ -1,0 +1,688 @@
+<declaration>
+		<dateDepot>08/08/2024 17:17:28</dateDepot>
+		<uuid>39bfd582-5e36-4cb6-9014-d3fd9ba25e93</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je suis retrait&#xe9; depuis septembre 2017.</commentaire>
+					<description>Enseignant</description>
+					<employeur>IME les gommiers</employeur>
+					<remuneration/>
+					<dateDebut>08/2017</dateDebut>
+					<dateFin>08/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Retrait&#xe9;e
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </employeurConjoint>
+					<activiteProf>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Les r&#xe9;mun&#xe9;rations de 2023 et 2024 sont nets apr&#xe8;s imp&#xf4;ts. A noter que les r&#xe9;mun&#xe9;rations re&#xe7;ues depuis 2022 ont &#xe9;t&#xe9; vers&#xe9;es sous forme de dons au CCAS de Saint-Claude jusqu&apos;&#xe0; la dissolution de 2024.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller d&#xe9;partemental</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>20 435</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>20 435</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>17 396</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>16 748</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>17 023</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>8 688</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Les pr&#xe9;sentes r&#xe9;mun&#xe9;rations sont indiqu&#xe9;es apr&#xe8;s imp&#xf4;ts</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>D&#xe9;put&#xe9;</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>28 044</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>56 088</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>28 044</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction non r&#xe9;mun&#xe9;r&#xe9;e.</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>H&#xf4;pital public de Monteran (EPSM)</nomSociete>
+					<activite>Pr&#xe9;sident du conseil de surveillance</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2019</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction non r&#xe9;mun&#xe9;r&#xe9;e.</commentaire>
+					<nomSociete>F&#xe9;d&#xe9;ration hospitali&#xe8;re de la Guadeloupe</nomSociete>
+					<activite>Pr&#xe9;sident du conseil d&apos;administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2019</dateDebut>
+					<dateFin>03/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Activit&#xe9; non-r&#xe9;mun&#xe9;r&#xe9;e</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>H&#xf4;pital public de Monteran (EPSM)</nomSociete>
+					<activite>Membre du conseil de surveillance</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2022</dateDebut>
+					<dateFin>08/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Leatham Romain</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Legrix Philippe</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Carle-Martias Nadia</nom>
+					<employeur>CHCBE</employeur>
+					<descriptionActivite>Assistante de direction</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>971</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Guadeloupe(971)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Guadeloupe(971)</qualiteDeclarantForPDF>
+			<dateDebutMandat>09/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>califer</nom>
+				<prenom>elie</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>19/04/1954</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+<declaration>
+		<dateDepot>24/02/2025 17:00:12</dateDepot>
+		<uuid>bdf03cb3-562e-43e7-9354-a1eb2aec96ae</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je suis retrait&#xe9; depuis septembre 2017.</commentaire>
+					<description>Enseignant</description>
+					<employeur>IME les gommiers</employeur>
+					<remuneration/>
+					<dateDebut>08/2017</dateDebut>
+					<dateFin>08/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Retrait&#xe9;e 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </employeurConjoint>
+					<activiteProf>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller d&#xe9;partemental</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>8 698</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>14 609</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>14 968</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>7 484</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>D&#xe9;put&#xe9;</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>38 342</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>73 698</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>39 942</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction non r&#xe9;mun&#xe9;r&#xe9;e.</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>H&#xf4;pital public de Monteran (EPSM)</nomSociete>
+					<activite>Pr&#xe9;sident du conseil de surveillance</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2019</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fonction non r&#xe9;mun&#xe9;r&#xe9;e.</commentaire>
+					<nomSociete>F&#xe9;d&#xe9;ration hospitali&#xe8;re de la Guadeloupe</nomSociete>
+					<activite>Pr&#xe9;sident du conseil d&apos;administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2019</dateDebut>
+					<dateFin>03/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Activit&#xe9; non-r&#xe9;mun&#xe9;r&#xe9;e</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>H&#xf4;pital public de Monteran (EPSM)</nomSociete>
+					<activite>Membre du conseil de surveillance</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2022</dateDebut>
+					<dateFin>08/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Leatham Romain</nom>
+					<employeur/>
+					<descriptionActivite>N&#xe9;ant</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Legrix Philippe</nom>
+					<employeur/>
+					<descriptionActivite>N&#xe9;ant</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Carle-Martias Nadia</nom>
+					<employeur>CHCBE</employeur>
+					<descriptionActivite>Assistante de direction</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>971</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Guadeloupe(971)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Guadeloupe(971)</qualiteDeclarantForPDF>
+			<dateDebutMandat>09/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>califer</nom>
+				<prenom>elie</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>19/04/1954</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>

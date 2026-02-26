@@ -1,0 +1,614 @@
+<declaration>
+		<dateDepot>30/07/2024 11:51:26</dateDepot>
+		<uuid>20229455-bda1-4a1f-8280-3e4ed746450e</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomEmployeur>Bruno CLAVET</nomEmployeur>
+					<description>Auto entreprise</description>
+					<dateDebut>10/2019</dateDebut>
+					<dateFin>08/2021</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>4 690</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4 875</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>57 756</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Responsable de service</description>
+					<employeur>Ville de H&#xe9;nin-Beaumont</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>26 048</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>26 028</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>28 306</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>29 460</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>29 913</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>15 515</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller communautaire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1 306</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1 959</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>1 959</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>1 959</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>1 142</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2020</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Conseiller r&#xe9;gional</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12 989</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>25 979</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>25 979</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>12 989</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Gilles Montreuil</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>62</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Pas-de-Calais(62)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Pas-de-Calais(62)</qualiteDeclarantForPDF>
+			<dateDebutMandat>30/06/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Clavet</nom>
+				<prenom>Bruno</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>06/05/1989</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+<declaration>
+		<dateDepot>16/10/2024 20:24:51</dateDepot>
+		<uuid>4cc6d6c2-1934-41ef-a9e5-8cb6bd4257dc</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomEmployeur>Bruno CLAVET</nomEmployeur>
+					<description>Auto entreprise</description>
+					<dateDebut>10/2019</dateDebut>
+					<dateFin>08/2021</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>4 690</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4 875</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>57 756</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Responsable de service</description>
+					<employeur>Ville de H&#xe9;nin-Beaumont</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>26 048</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>26 028</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>28 306</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>29 460</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>29 913</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>15 515</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items/>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller communautaire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1 306</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1 959</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>1 959</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>1 959</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>1 142</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2020</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Conseiller r&#xe9;gional</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12 989</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>15 417</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>14 417</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>12 989</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>conseiller municipal</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2020</dateDebut>
+					<dateFin>10/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>2100</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>1</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Gilles Montreuil</nom>
+					<employeur>neant</employeur>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Alexis Goeury</nom>
+					<employeur>n&#xe9;ant</employeur>
+					<descriptionActivite>Assistant parlementaire en circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Julien Hamy</nom>
+					<employeur>n&#xe9;ant</employeur>
+					<descriptionActivite>Assistant parlementaire &#xe0; Paris</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Leslie Dervaux</nom>
+					<employeur>n&#xe9;ant</employeur>
+					<descriptionActivite>Assistante parlementaire en circonscription</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>62</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Pas-de-Calais(62)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Pas-de-Calais(62)</qualiteDeclarantForPDF>
+			<dateDebutMandat>30/06/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Clavet</nom>
+				<prenom>Bruno</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>06/05/1989</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>

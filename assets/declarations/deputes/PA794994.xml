@@ -1,0 +1,1180 @@
+<declaration>
+		<dateDepot>18/02/2025 11:21:40</dateDepot>
+		<uuid>3c5b8fed-250d-431a-938c-0d96d6b8620a</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Charg&#xe9; de mission Vice-pr&#xe9;sidence</description>
+					<employeur>R&#xe9;gion Auvergne-Rh&#xf4;ne-Alpes</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>22 702</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>39 039</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2018</dateDebut>
+					<dateFin>12/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Charg&#xe9; de mission</description>
+					<employeur>R&#xe9;gion Auvergne-Rh&#xf4;ne-Alpes</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>39 101</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>16 269</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Professeur de philosophie</description>
+					<employeur>Education nationale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>6 968</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>12 586</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Droits d&apos;auteur</description>
+					<employeur>Plon</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>1 314</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2023</dateDebut>
+					<dateFin>12/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<description>Ministre d&#xe9;l&#xe9;gu&#xe9; &#xe0; la r&#xe9;ussite scolaire et &#xe0; l&apos;enseignement professionnel</description>
+					<employeur>Gouvernement</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>29 544</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2024</dateDebut>
+					<dateFin>12/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>Rectorat de Lyon</employeurConjoint>
+					<activiteProf>Professeure des &#xe9;coles</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Adjoint au Maire de Villefranche-sur-Sa&#xf4;ne</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>6 390</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>14 198</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>14 081</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>13 414</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>11 672</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>5 402</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2017</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Vice-pr&#xe9;sident Communaut&#xe9; d&apos;Agglom&#xe9;ration Villefranche-Beaujolais-Sa&#xf4;ne</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>11 926</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>6 392</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5 802</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>5 525</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>3 628</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller municipal d&#xe9;l&#xe9;gu&#xe9; Mairie de Villefranche</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2022</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller communautaire d&apos;Agglom&#xe9;ration Villefranche Beaujolais Sa&#xf4;ne</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2022</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>D&#xe9;put&#xe9; du Rh&#xf4;ne</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>38 352</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>73 723</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>54 361</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin>09/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Participation en tant que repr&#xe9;sentant de la Communaut&#xe9; d&apos;Agglom&#xe9;ration Villefranche-Beaujolais-Sa&#xf4;ne.</commentaire>
+					<nomSociete>Sytral Mobilit&#xe9;s (autorit&#xe9; organisatrice des mobilit&#xe9;s des territoires lyonnais)</nomSociete>
+					<activite>Membre du conseil d&apos;administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Participation en tant que repr&#xe9;sentant de la Communaut&#xe9; d&apos;Agglom&#xe9;ration Villefranche-Beaujolais-Sa&#xf4;ne.</commentaire>
+					<nomSociete>SDMIS (Service D&#xe9;partemental et M&#xe9;tropolitain d&apos;Incendie et de Secours du Rh&#xf4;ne)</nomSociete>
+					<activite>Membre du conseil d&apos;administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Participation en tant que repr&#xe9;sentant de la Communaut&#xe9; d&apos;Agglom&#xe9;ration Villefranche-Beaujolais-Sa&#xf4;ne.</commentaire>
+					<nomSociete>Syndicat Mixte du Beaujolais</nomSociete>
+					<activite>Membre du conseil syndical</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Participation en tant que repr&#xe9;sentant de la Ville de Villefranche-sur-Sa&#xf4;ne.</commentaire>
+					<nomSociete>SYDER (Syndicat D&#xe9;partemental d&apos;Energie du Rh&#xf4;ne)</nomSociete>
+					<activite>Membre du conseil syndical</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>PIQUANT Kerrien</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>HADJ-SAID Nathalie</nom>
+					<employeur>Mairie de Villefranche-sur-Saone</employeur>
+					<descriptionActivite>Assistante direction urbanisme</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>BERNE R&#xe9;mi</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>FANIER Basile</nom>
+					<employeur>D&#xe9;partement du Cantal</employeur>
+					<descriptionActivite>Directeur de cabinet du pr&#xe9;sident</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>69</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Rh&#xf4;ne(69)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Rh&#xf4;ne(69)</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>PORTIER</nom>
+				<prenom>Alexandre</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>21/04/1990</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+<declaration>
+		<dateDepot>02/04/2025 22:52:51</dateDepot>
+		<uuid>50dcb7aa-f0fb-49f6-afe7-f9fbd8ed871f</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Charg&#xe9; de mission</description>
+					<employeur>R&#xe9;gion Auvergne-Rh&#xf4;ne-Alpes</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>39 101</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>16 269</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin>06/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Professeur de philosophie</description>
+					<employeur>Education nationale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>6 968</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>12 586</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Droits d&apos;auteur</description>
+					<employeur>Plon</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>1 314</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2023</dateDebut>
+					<dateFin>12/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<description>Ministre d&#xe9;l&#xe9;gu&#xe9; &#xe0; la r&#xe9;ussite scolaire et &#xe0; l&apos;enseignement professionnel</description>
+					<employeur>Gouvernement</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>29 544</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2024</dateDebut>
+					<dateFin>12/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>Rectorat de Lyon</employeurConjoint>
+					<activiteProf>Professeure des &#xe9;coles</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Adjoint au Maire de Villefranche-sur-Sa&#xf4;ne</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>13 414</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>11 672</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>5 402</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Vice-pr&#xe9;sident Communaut&#xe9; d&apos;Agglom&#xe9;ration Villefranche-Beaujolais-Sa&#xf4;ne</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5 802</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>5 525</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>3 628</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin>08/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller municipal d&#xe9;l&#xe9;gu&#xe9; Mairie de Villefranche</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2022</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller communautaire d&apos;Agglom&#xe9;ration Villefranche Beaujolais Sa&#xf4;ne</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2022</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>D&#xe9;put&#xe9; du Rh&#xf4;ne</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>38 352</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>73 723</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>54 361</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin>09/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Participation en tant que repr&#xe9;sentant de la Communaut&#xe9; d&apos;Agglom&#xe9;ration Villefranche-Beaujolais-Sa&#xf4;ne.</commentaire>
+					<nomSociete>Sytral Mobilit&#xe9;s (autorit&#xe9; organisatrice des mobilit&#xe9;s des territoires lyonnais)</nomSociete>
+					<activite>Membre du conseil d&apos;administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Participation en tant que repr&#xe9;sentant de la Communaut&#xe9; d&apos;Agglom&#xe9;ration Villefranche-Beaujolais-Sa&#xf4;ne.</commentaire>
+					<nomSociete>SDMIS (Service D&#xe9;partemental et M&#xe9;tropolitain d&apos;Incendie et de Secours du Rh&#xf4;ne)</nomSociete>
+					<activite>Membre du conseil d&apos;administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Participation en tant que repr&#xe9;sentant de la Communaut&#xe9; d&apos;Agglom&#xe9;ration Villefranche-Beaujolais-Sa&#xf4;ne.</commentaire>
+					<nomSociete>Syndicat Mixte du Beaujolais</nomSociete>
+					<activite>Membre du conseil syndical</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Participation en tant que repr&#xe9;sentant de la Ville de Villefranche-sur-Sa&#xf4;ne.</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SYDER (Syndicat D&#xe9;partemental d&apos;Energie du Rh&#xf4;ne)</nomSociete>
+					<activite>Membre du conseil syndical</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>PIQUANT Kerrien</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>HADJ-SAID Nathalie</nom>
+					<employeur>Mairie de Villefranche-sur-Saone</employeur>
+					<descriptionActivite>Assistante direction urbanisme</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>BERNE R&#xe9;mi</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>FANIER Basile</nom>
+					<employeur>D&#xe9;partement du Cantal</employeur>
+					<descriptionActivite>Directeur de cabinet du pr&#xe9;sident</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>69</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Rh&#xf4;ne(69)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Rh&#xf4;ne(69)</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>PORTIER</nom>
+				<prenom>Alexandre</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>21/04/1990</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>

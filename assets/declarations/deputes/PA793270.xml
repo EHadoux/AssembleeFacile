@@ -1,0 +1,958 @@
+<declaration>
+		<dateDepot>04/09/2024 09:02:06</dateDepot>
+		<uuid>431a8175-1dcf-4633-9737-ead5546e3807</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<description>Vacations vaccination COVID</description>
+					<employeur>CH E BOREL 12400 SAINT AFFRIQUE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>3 562</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2021</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>retrait&#xe9;e</commentaire>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>aucun</employeurConjoint>
+					<activiteProf>retrait&#xe9;e</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>R&#xe9;f&#xe9;rent LREM</nomStructure>
+					<descriptionActivite>Animations</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Conseiller municipal</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>3 464</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>20</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>12/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>aucun</commentaire>
+					<descriptionMandat>Conseiller communautaire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>2 140</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2 140</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2 140</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2 140</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>1 070</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>12/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Pr&#xe9;sident SYDOM</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>286</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>38</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>120</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin>12/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>pas d&apos;indemnit&#xe9;s</commentaire>
+					<descriptionMandat>delegue SMICA Aveyron</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2021</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>pas d&apos;endemint&#xe9;s</commentaire>
+					<descriptionMandat>delegue au Parc Naturel r&#xe9;gional des Grands Causses</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2021</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>d&#xe9;l&#xe9;gu&#xe9; au comit&#xe9; sans indemnit&#xe9;s ou r&#xe9;mun&#xe9;ration</commentaire>
+					<nomSociete>SMICA Aveyron</nomSociete>
+					<activite>syndicat departemental informatisation</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2021</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Aveyron Ingienerie syndicat d&#xe9;partemental</nomSociete>
+					<activite>d&#xe9;l&#xe9;gu&#xe9;</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2021</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>PNRDGC parc naturel r&#xe9;gional des grands causses</nomSociete>
+					<activite>delegue des petites communes</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2021</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SAFRAN</nomSociete>
+					<evaluation>2820</evaluation>
+					<remuneration>aucune</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>30</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>NANOBIOTIX</nomSociete>
+					<evaluation>15351</evaluation>
+					<remuneration>aucune</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>4200</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>VERGNET</nomSociete>
+					<evaluation>472</evaluation>
+					<remuneration>aucune</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>22700</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SCI 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>0</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>400</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Mogharaei Thomas</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur et Auto entrepreneur 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fin de contrat en Fevrier 2024</commentaire>
+					<nom>BENEZECH Val&#xe9;rie</nom>
+					<employeur/>
+					<descriptionActivite>collaboratrice</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Carrere-Fontana M&#xe9;lanie</nom>
+					<employeur/>
+					<descriptionActivite>collaboratrice</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>BOURREL-MEYMARIAN C&#xe9;cile</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice et Entreprise Les H&#xe9;rans
+        [Donn&#xe9;es non publi&#xe9;es]
+    </descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>12</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Aveyron(12)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Aveyron(12)</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>ROUSSET</nom>
+				<prenom>Jean-Fran&#xe7;ois</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>09/09/1952</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+<declaration>
+		<dateDepot>23/03/2025 08:13:16</dateDepot>
+		<uuid>f223da9b-00f9-4f3b-90e1-7b84cb297415</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<description>Vacations vaccination COVID</description>
+					<employeur>CH E BOREL 12400 SAINT AFFRIQUE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>3 562</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2021</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>retrait&#xe9;e</commentaire>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>aucun</employeurConjoint>
+					<activiteProf>retrait&#xe9;e</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>R&#xe9;f&#xe9;rent LREM</nomStructure>
+					<descriptionActivite>Animations</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>oui mais en tant que simple conseiller</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller municipal</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>20</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin>12/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>depuis mon &#xe9;lection je ne suis que conseiller municipal je ne suis plus adjoint.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller communautaire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2 140</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2 140</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>1 077</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin>12/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>depuis mon &#xe9;lection je ne suis plus pr&#xe9;sident du SYDOM de l&apos;Aveyron</commentaire>
+					<descriptionMandat>Pr&#xe9;sident SYDOM</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>286</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>38</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>120</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin>12/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>pas d&apos;indemnit&#xe9;s</commentaire>
+					<descriptionMandat>delegue SMICA Aveyron</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2021</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>pas d&apos;endemint&#xe9;s</commentaire>
+					<descriptionMandat>delegue au Parc Naturel r&#xe9;gional des Grands Causses</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2021</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>deput&#xe9;</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>37 000</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>73 000</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>37 000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>d&#xe9;l&#xe9;gu&#xe9; au comit&#xe9; sans indemnit&#xe9;s ou r&#xe9;mun&#xe9;ration</commentaire>
+					<nomSociete>SMICA Aveyron</nomSociete>
+					<activite>syndicat departemental informatisation</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2021</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Aveyron Ingienerie syndicat d&#xe9;partemental</nomSociete>
+					<activite>d&#xe9;l&#xe9;gu&#xe9;</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2021</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>PNRDGC parc naturel r&#xe9;gional des grands causses</nomSociete>
+					<activite>delegue des petites communes</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2021</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SAFRAN</nomSociete>
+					<evaluation>2820</evaluation>
+					<remuneration>aucune</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>30</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>NANOBIOTIX</nomSociete>
+					<evaluation>15351</evaluation>
+					<remuneration>aucune</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>4200</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>VERGNET</nomSociete>
+					<evaluation>472</evaluation>
+					<remuneration>aucune</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>22700</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>SCI propri&#xe9;taire de bureaux je suis propri&#xe9;taire de 400 parts 152 euros la part</commentaire>
+					<nomSociete>SCI 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>60800</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>400</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>moins values 545 euros</commentaire>
+					<nomSociete>SANOFI</nomSociete>
+					<evaluation>23248</evaluation>
+					<remuneration>932</remuneration>
+					<capitalDetenu/>
+					<nombreParts>248</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>un appartement</commentaire>
+					<nomSociete>SCI 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>6000</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>1</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Carrere-Fontana M&#xe9;lanie</nom>
+					<employeur/>
+					<descriptionActivite>collaboratrice</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>BOURREL-MEYMARIAN C&#xe9;cile</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice et Entreprise Les H&#xe9;rans 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>12</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Aveyron(12)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Aveyron(12)</qualiteDeclarantForPDF>
+			<dateDebutMandat>09/06/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>ROUSSET</nom>
+				<prenom>Jean-Fran&#xe7;ois</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>09/09/1952</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>

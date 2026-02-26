@@ -1,0 +1,743 @@
+<declaration>
+		<dateDepot>04/09/2024 14:11:15</dateDepot>
+		<uuid>c12c499b-68f6-46c0-8688-e61b0eed269f</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Emploi &#xe0; mi-temps</commentaire>
+					<description>Notaire assistante &#xe0; temps partiel</description>
+					<employeur>&#xc9;tude Koch et GRANDIDIER THIONVILLE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>13800</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>14090</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>14213</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>14979</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>15500</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>16642</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>5500</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2013</dateDebut>
+					<dateFin>05/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>Profession liberale</employeurConjoint>
+					<activiteProf>Notaire 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Vice Pr&#xe9;sidente du d&#xe9;partement de la Moselle</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>20000</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>35279</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>34104</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>34600</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>17154</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2015</dateDebut>
+					<dateFin>06/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseill&#xe8;re municipale ville de Metz</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>2600</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>2700</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>2787</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>2888</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>2874</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>2816</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>3 192</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3 192</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>3 192</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>3 192</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>3 192</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>1 596</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2013</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseill&#xe8;re m&#xe9;tropolitaine</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>2240</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>2270</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>2300</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>2311</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>2341</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>2103</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2 559</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2 559</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2 559</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>2 559</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>2 559</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>1 280</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2013</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>BRISSON Emmanuelle</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>KLING Val&#xe9;rie</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>CLAUDON L&#xe9;a</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>57</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Moselle(57)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Moselle(57)</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Colin Oesterl&#xe9;</nom>
+				<prenom>Nathalie</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>05/05/1965</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+<declaration>
+		<dateDepot>19/12/2024 00:44:14</dateDepot>
+		<uuid>083bc8cf-6b1b-43e7-8f63-b2a4833f5a72</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items/>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>Profession liberale</employeurConjoint>
+					<activiteProf>Notaire 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseill&#xe8;re municipale ville de Metz</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>1 596</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3 192</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>3 192</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>3 192</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>3 192</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>1 596</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2019</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    e</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseill&#xe8;re m&#xe9;tropolitaine</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>1 279</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2 559</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2 559</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>2 559</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>2 559</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>1 280</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2019</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>D&#xe9;put&#xe9;e europ&#xe9;enne</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>53 264</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>107 499</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>108 900</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>115 099</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>120 233</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>72 601</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2019</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#xe9;mission de ce mandat en Septembre 2024</commentaire>
+					<nomSociete>SEM Eurom&#xe9;tropole Metz Habitat</nomSociete>
+					<activite>Membre du Conseil d administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2019</dateDebut>
+					<dateFin>09/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Association Metz Blida</nomSociete>
+					<activite>Membre du Conseil d administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2019</dateDebut>
+					<dateFin>09/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>ALGOM Noemie</nom>
+					<employeur>N&#xe9;ant</employeur>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>KLING Val&#xe9;rie</nom>
+					<employeur>N&#xe9;anr</employeur>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>CLAUDON L&#xe9;a</nom>
+					<employeur>N&#xe9;ant</employeur>
+					<descriptionActivite/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s modificative</label>
+				<filtre/>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>57</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Moselle(57)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Moselle(57)</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Colin Oesterl&#xe9;</nom>
+				<prenom>Nathalie</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>05/05/1965</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>

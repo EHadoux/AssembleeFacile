@@ -1,0 +1,850 @@
+<declaration>
+		<dateDepot>23/07/2024 11:30:17</dateDepot>
+		<uuid>2df4a993-3bc7-458b-9e5f-71b4f16f3e69</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<description>DGAS</description>
+					<employeur>Mairie de Fr&#xe9;jus</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>19 137</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>50 104</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>62 892</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>67 547</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>33 500</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2018</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Agent comptable</description>
+					<employeur>Education Nationale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>16 058</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>34 959</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2017</dateDebut>
+					<dateFin>08/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>DAF Lyc&#xe9;e Louis Massignon</description>
+					<employeur>AEFE affaires &#xe9;trang&#xe8;res</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>21 440</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>08/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>Voisins et soins</employeurConjoint>
+					<activiteProf>Accompagnement &#xe0; domicile des personnes en fin de vie.</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller R&#xe9;gional</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12 443</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>26 799</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>27 412</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>13 869</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<descriptionMandat>D&#xe9;put&#xe9;</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>40 062</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>77 003</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>38 942</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#xe9;l&#xe9;gu&#xe9; D&#xe9;partemental du RN et membre du conseil national.Ces activit&#xe9;s s exercent b&#xe9;n&#xe9;volement.</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Rassemblement National</nomSociete>
+					<activite>Politique</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>La soci&#xe9;t&#xe9; la &quot;La Rapugue&quot; est un restaurant.</commentaire>
+					<nomSociete>SARL La Rapugue</nomSociete>
+					<evaluation>750</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>7</capitalDetenu>
+					<nombreParts>30</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Microsoft</nomSociete>
+					<evaluation>4172</evaluation>
+					<remuneration>13 euros</remuneration>
+					<capitalDetenu/>
+					<nombreParts>10</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Costco Wholesale</nomSociete>
+					<evaluation>1587</evaluation>
+					<remuneration>5</remuneration>
+					<capitalDetenu/>
+					<nombreParts>2</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Apple</nomSociete>
+					<evaluation>2359</evaluation>
+					<remuneration>5</remuneration>
+					<capitalDetenu/>
+					<nombreParts>12</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>LVMH</nomSociete>
+					<evaluation>1427</evaluation>
+					<remuneration>26</remuneration>
+					<capitalDetenu/>
+					<nombreParts>2</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Hermes INTL</nomSociete>
+					<evaluation>4280</evaluation>
+					<remuneration>15</remuneration>
+					<capitalDetenu/>
+					<nombreParts>2</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>De Witte M&#xe9;lody</nom>
+					<employeur/>
+					<descriptionActivite>- R&#xe9;daction des interventions - Travail l&#xe9;gislatif - Veille presse - Communication</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Chable Pierre-Laurent</nom>
+					<employeur/>
+					<descriptionActivite>- R&#xe9;daction de courriers et r&#xe9;ponses - Relations avec les institutions de la circonscription - Tenue de la permanence - Accompagnement durant les invitations</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>83</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Var(83)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Var(83)</qualiteDeclarantForPDF>
+			<dateDebutMandat>30/06/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Giletti</nom>
+				<prenom>Frank</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>01/03/1973</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+<declaration>
+		<dateDepot>25/09/2024 19:11:49</dateDepot>
+		<uuid>bb587584-52e5-48ad-b23b-09df16a42d20</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<description>DGAS</description>
+					<employeur>Mairie de Fr&#xe9;jus</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>19 137</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>50 104</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>62 892</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>67 547</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>33 500</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2018</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Agent comptable</description>
+					<employeur>Education Nationale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>16 058</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>34 959</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2017</dateDebut>
+					<dateFin>08/2018</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>DAF Lyc&#xe9;e Louis Massignon</description>
+					<employeur>AEFE affaires &#xe9;trang&#xe8;res</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>21 440</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2017</dateDebut>
+					<dateFin>08/2017</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>Voisins et soins</employeurConjoint>
+					<activiteProf>Accompagnement &#xe0; domicile des personnes en fin de vie.</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller R&#xe9;gional</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12 443</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>26 799</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>27 412</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>13 869</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<descriptionMandat>D&#xe9;put&#xe9;</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>40 062</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>77 003</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>38 942</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#xe9;l&#xe9;gu&#xe9; D&#xe9;partemental du RN et membre du conseil national.Ces activit&#xe9;s s exercent b&#xe9;n&#xe9;volement.</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Rassemblement National</nomSociete>
+					<activite>Politique</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>La soci&#xe9;t&#xe9; la &quot;La Rapugue&quot; est un restaurant.</commentaire>
+					<nomSociete>SARL La Rapugue</nomSociete>
+					<evaluation>750</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>7</capitalDetenu>
+					<nombreParts>30</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Microsoft</nomSociete>
+					<evaluation>4172</evaluation>
+					<remuneration>13 euros</remuneration>
+					<capitalDetenu/>
+					<nombreParts>10</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Costco Wholesale</nomSociete>
+					<evaluation>1587</evaluation>
+					<remuneration>5</remuneration>
+					<capitalDetenu/>
+					<nombreParts>2</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Apple</nomSociete>
+					<evaluation>2359</evaluation>
+					<remuneration>5</remuneration>
+					<capitalDetenu/>
+					<nombreParts>12</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>LVMH</nomSociete>
+					<evaluation>1427</evaluation>
+					<remuneration>26</remuneration>
+					<capitalDetenu/>
+					<nombreParts>2</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Hermes INTL</nomSociete>
+					<evaluation>4280</evaluation>
+					<remuneration>15</remuneration>
+					<capitalDetenu/>
+					<nombreParts>2</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>De Witte M&#xe9;lody</nom>
+					<employeur/>
+					<descriptionActivite>- R&#xe9;daction des interventions - Travail l&#xe9;gislatif - Veille presse - Communication</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Chable Pierre-Laurent</nom>
+					<employeur/>
+					<descriptionActivite>- R&#xe9;daction de courriers et r&#xe9;ponses - Relations avec les institutions de la circonscription - Tenue de la permanence - Accompagnement durant les invitations</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Temps partiel</commentaire>
+					<nom>Laurence Menichini</nom>
+					<employeur/>
+					<descriptionActivite>- Comptabilit&#xe9; - Tenue de l&apos;agenda en circonscription - Accompagnement sur le terrain - Administratif : r&#xe9;ponse aux courriers</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Collaborateur parisien &#xe0; temps partiel</commentaire>
+					<nom>Thomas Molina</nom>
+					<employeur>- Fr&#xe9;d&#xe9;ric Boccaletti (assembl&#xe9;e nationale)</employeur>
+					<descriptionActivite>- L&#xe9;gislatif - R&#xe9;daction - Communication - R&#xe9;daction de la newsletter</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>83</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Var(83)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Var(83)</qualiteDeclarantForPDF>
+			<dateDebutMandat>30/06/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Giletti</nom>
+				<prenom>Frank</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>01/03/1973</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>

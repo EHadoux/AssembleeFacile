@@ -1,0 +1,815 @@
+<declaration>
+		<dateDepot>27/07/2024 16:16:50</dateDepot>
+		<uuid>23ac4610-7234-486a-810f-2121b8443239</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Non</commentaire>
+					<description>Enseignant</description>
+					<employeur>Education nationale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>25 707</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>27 355</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>33 453</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>30 960</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>30 182</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>15 129</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>Education nationale</employeurConjoint>
+					<activiteProf>Adjointe admnistrative</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>1 597</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2 625</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>3 639</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>3 784</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>4 052</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>2 052</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Non</commentaire>
+					<descriptionMandat>Conseiller d&#xe9;partemental</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>20 149</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>18 014</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>19 346</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>17 527</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>18 014</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>9 072</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Non</commentaire>
+					<descriptionMandat>Vice Pr&#xe9;sident CDA Saintes</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>9 498</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>8 613</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>9 219</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>9 384</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>10 270</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>5 190</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Non</commentaire>
+					<descriptionMandat>Vice Pr&#xe9;sident Eau 17</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2 242</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>4 752</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>4 853</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>2 479</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2021</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Non</commentaire>
+					<descriptionMandat>Pr&#xe9;sident SYMBA</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1 463</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>4 772</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>4 844</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>4 962</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>2 537</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items/>
+			<neant>true</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>17</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Charente-Maritime(17)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Charente-Maritime(17)</qualiteDeclarantForPDF>
+			<dateDebutMandat>08/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Barusseau</nom>
+				<prenom>fabrice</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>01/06/1970</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+<declaration>
+		<dateDepot>10/12/2024 20:24:15</dateDepot>
+		<uuid>0c922148-83b4-4f90-8c54-4a792ce096a8</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Non</commentaire>
+					<description>Enseignant</description>
+					<employeur>Education nationale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>25 707</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>27 355</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>33 453</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>30 960</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>30 182</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>15 129</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>Education nationale</employeurConjoint>
+					<activiteProf>Adjointe admnistrative</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Maire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>1 597</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2 625</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>3 639</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>3 784</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>4 052</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>2 052</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Non</commentaire>
+					<descriptionMandat>Conseiller d&#xe9;partemental</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>20 149</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>18 014</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>19 346</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>17 527</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>18 014</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>9 072</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Non</commentaire>
+					<descriptionMandat>Vice Pr&#xe9;sident CDA Saintes</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>9 498</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>8 613</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>9 219</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>9 384</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>10 270</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>5 190</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nomSociete>Syndicat mixte Eau 17</nomSociete>
+					<activite>Vice Pr&#xe9;sident Eau 17</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2 242</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>4 752</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>4 853</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>2 479</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2021</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Syndicat mixte Epage Symba</nomSociete>
+					<activite>Pr&#xe9;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1 463</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>4 772</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>4 844</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>4 962</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>2 537</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2020</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SEM des Autocars et Autobus Aunis et Saintonge</nomSociete>
+					<activite>Administrateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2021</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SA Charente Maritime D&#xe9;veloppement</nomSociete>
+					<activite>Administrateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>04/2021</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>ARAINTY Aur&#xe9;lie</nom>
+					<employeur/>
+					<descriptionActivite>N&#xe9;ant</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>TISSANIE S&#xe9;bastien</nom>
+					<employeur/>
+					<descriptionActivite>N&#xe9;ant</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>LABRUE Lydia</nom>
+					<employeur/>
+					<descriptionActivite>Auto entrepreneuse</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s</label>
+				<filtre/>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>17</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Charente-Maritime(17)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Charente-Maritime(17)</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Barusseau</nom>
+				<prenom>fabrice</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>01/06/1970</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>

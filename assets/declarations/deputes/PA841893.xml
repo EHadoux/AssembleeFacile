@@ -1,0 +1,807 @@
+<declaration>
+		<dateDepot>06/09/2024 23:32:13</dateDepot>
+		<uuid>3a971fd4-15a3-4736-82f0-11293357ab8c</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Il s&apos;agit de 35 heures d&apos;intervention r&#xe9;parties sur une ann&#xe9;e</commentaire>
+					<nomEmployeur>Fondation nationale des Sciences politiques</nomEmployeur>
+					<description>Tutorat dans le cadre du cycle interminist&#xe9;riel - Gestion publique et Management</description>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>10/2019</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2 913</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomEmployeur>Fondation nationale des Sciences politiques</nomEmployeur>
+					<description>Tutorat dans le cadre du cycle interminist&#xe9;riel - Gestion publique et management. accompagnement d&apos;un groupe d&apos;agents de la fonction publique pour la r&#xe9;daction d&apos;un m&#xe9;moire en groupe</description>
+					<dateDebut>10/2020</dateDebut>
+					<dateFin>10/2021</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>122</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2 823</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>C&apos;&#xe9;tait une mission de 14 jours r&#xe9;partis sur plusieurs mois. J&apos;ai effectu&#xe9; cette mission au titre de la SASU Cernunnos consulting. La r&#xe9;mun&#xe9;ration per&#xe7;ue l&apos;a &#xe9;t&#xe9; sur le compte de Cernunnos consulting</commentaire>
+					<nomEmployeur>Socieux +</nomEmployeur>
+					<description>Experte principale pour la Finalisation &#xe9;tude de faisabilit&#xe9; pour la mise en place de la Couverture sanitaire universelle au Congo central.</description>
+					<dateDebut>04/2022</dateDebut>
+					<dateFin>05/2022</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>5 880</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<nomEmployeur>SociEUx+</nomEmployeur>
+					<description>R&#xe9;alisation d&apos;une &#xe9;tude de faisabilit&#xe9; pour la mise en place de la Couverture sanitaire universelle au Congo central. Cette phase 3 visait &#xe0; pr&#xe9;ciser les modalit&#xe9;s de la gouvernance de la CSU en cas de d&#xe9;ploiement</description>
+					<dateDebut>11/2021</dateDebut>
+					<dateFin>01/2022</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1 704</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>2 289</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<description>Directrice g&#xe9;n&#xe9;rale: charg&#xe9;e du pilotage et de la strat&#xe9;gie de la mutuelle sous l&apos;autorit&#xe9; du Conseil d&apos;administration</description>
+					<employeur>La mutuelle des Scop et des Scic</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>43 482</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>41 572</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2023</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Secr&#xe9;taire g&#xe9;n&#xe9;rale - Charg&#xe9;e de la strat&#xe9;gie du pilotage de la structure en lien avec les instances.</description>
+					<employeur>IPSE - Institut de la protection sociale europ&#xe9;enne</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>51 500</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>30 333</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2022</dateDebut>
+					<dateFin>06/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J&apos;ai quitt&#xe9; mes fonctions en avril 2021.</commentaire>
+					<description>Directrice du secr&#xe9;tariat g&#xe9;n&#xe9;ral - Accompagnement des &#xe9;lus du pr&#xe9;sident et du vice-pr&#xe9;sident. Strat&#xe9;gie suivi des instances de la mutuelle et du groupe Int&#xe9;riale</description>
+					<employeur>Interiale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>80 896</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>98 272</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>93 400</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>28 000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>04/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>Fondation COS Alexandre GLASBERG</employeurConjoint>
+					<activiteProf>Directeur d&apos;&#xe9;tablissement de sant&#xe9; priv&#xe9; non lucratif. 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je reste membre du Conseil d&apos;administration.</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>Association 1901 CLEF ou Coordination fran&#xe7;aise pour le lobby europ&#xe9;en des femmes</nomStructure>
+					<descriptionActivite>Administratrice repr&#xe9;sentante de l&apos;Assembl&#xe9;e des femmes. La CLEF regroupe entre 60 et 80 associations fran&#xe7;aises f&#xe9;ministes selon les ann&#xe9;es. Elle exerce un plaidoyer en faveur des droits des femmes au niveau national europ&#xe9;en et international.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Assembl&#xe9;e des femmes Association Loi 1901</nomStructure>
+					<descriptionActivite>Je suis membre du Conseil d&apos;administration</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items/>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J&apos;ai d&#xe9;missionn&#xe9; du poste de pr&#xe9;sidente &#xe0; la suite de mon &#xe9;lection &#xe0; l&apos;Assembl&#xe9;e nationale</commentaire>
+					<nomSociete>CLEF -Coordination fran&#xe7;aise pour le lobby europ&#xe9;en des femmes</nomSociete>
+					<activite>Pr&#xe9;sidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>La seule participation financi&#xe8;re dans une entreprise dont je dispose est celle de cette SASU que j&apos;ai constitu&#xe9;e en f&#xe9;vrier 2022</commentaire>
+					<nomSociete>CERNUNNOS CONSULTING</nomSociete>
+					<evaluation>1</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>10</nombreParts>
+					<actiConseil>Oui</actiConseil>
+					<nomOrganisationConseil>CERNUNNOS CONSULTING 10 parts</nomOrganisationConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>PEREZ NAVARRO A&#xef;tana</nom>
+					<employeur/>
+					<descriptionActivite>Attach&#xe9;e parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>LINARES Morgane</nom>
+					<employeur/>
+					<descriptionActivite>Attach&#xe9;e parlementaire</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>77</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Seine-et-Marne(77)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Seine-et-Marne(77)</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>THIEBAULT</nom>
+				<prenom>c&#xe9;line</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>04/08/1974</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+<declaration>
+		<dateDepot>26/10/2024 17:23:25</dateDepot>
+		<uuid>9ce43551-7181-4135-a1d9-8d9de42e9e3e</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Il s&apos;agit de 35 heures d&apos;intervention r&#xe9;parties sur une ann&#xe9;e</commentaire>
+					<nomEmployeur>Fondation nationale des Sciences politiques</nomEmployeur>
+					<description>Tutorat dans le cadre du cycle interminist&#xe9;riel - Gestion publique et Management</description>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>10/2019</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2 913</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomEmployeur>Fondation nationale des Sciences politiques</nomEmployeur>
+					<description>Tutorat dans le cadre du cycle interminist&#xe9;riel - Gestion publique et management. accompagnement d&apos;un groupe d&apos;agents de la fonction publique pour la r&#xe9;daction d&apos;un m&#xe9;moire en groupe</description>
+					<dateDebut>10/2020</dateDebut>
+					<dateFin>10/2021</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>122</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>2 823</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>C&apos;&#xe9;tait une mission de 14 jours r&#xe9;partis sur plusieurs mois. J&apos;ai effectu&#xe9; cette mission au titre de la SASU Cernunnos consulting. La r&#xe9;mun&#xe9;ration per&#xe7;ue l&apos;a &#xe9;t&#xe9; sur le compte de Cernunnos consulting</commentaire>
+					<nomEmployeur>Socieux +</nomEmployeur>
+					<description>Experte principale pour la Finalisation &#xe9;tude de faisabilit&#xe9; pour la mise en place de la Couverture sanitaire universelle au Congo central.</description>
+					<dateDebut>04/2022</dateDebut>
+					<dateFin>05/2022</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>5 880</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<nomEmployeur>SociEUx+</nomEmployeur>
+					<description>R&#xe9;alisation d&apos;une &#xe9;tude de faisabilit&#xe9; pour la mise en place de la Couverture sanitaire universelle au Congo central. Cette phase 3 visait &#xe0; pr&#xe9;ciser les modalit&#xe9;s de la gouvernance de la CSU en cas de d&#xe9;ploiement</description>
+					<dateDebut>11/2021</dateDebut>
+					<dateFin>01/2022</dateFin>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1 704</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>2 289</montant>
+							</montant>
+						</montant>
+					</remuneration>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<description>Directrice g&#xe9;n&#xe9;rale: charg&#xe9;e du pilotage et de la strat&#xe9;gie de la mutuelle sous l&apos;autorit&#xe9; du Conseil d&apos;administration</description>
+					<employeur>La mutuelle des Scop et des Scic</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>43 482</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>41 572</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2023</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Secr&#xe9;taire g&#xe9;n&#xe9;rale - Charg&#xe9;e de la strat&#xe9;gie du pilotage de la structure en lien avec les instances.</description>
+					<employeur>IPSE - Institut de la protection sociale europ&#xe9;enne</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>51 500</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>30 333</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2022</dateDebut>
+					<dateFin>06/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J&apos;ai quitt&#xe9; mes fonctions en avril 2021.</commentaire>
+					<description>Directrice du secr&#xe9;tariat g&#xe9;n&#xe9;ral - Accompagnement des &#xe9;lus du pr&#xe9;sident et du vice-pr&#xe9;sident. Strat&#xe9;gie suivi des instances de la mutuelle et du groupe Int&#xe9;riale</description>
+					<employeur>Interiale</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>80 896</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>98 272</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>93 400</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>28 000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>04/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>Fondation COS Alexandre GLASBERG</employeurConjoint>
+					<activiteProf>Directeur d&apos;&#xe9;tablissement de sant&#xe9; priv&#xe9; non lucratif. 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items/>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J&apos;ai d&#xe9;missionn&#xe9; du poste de pr&#xe9;sidente &#xe0; la suite de mon &#xe9;lection &#xe0; l&apos;Assembl&#xe9;e nationale</commentaire>
+					<nomSociete>CLEF -Coordination fran&#xe7;aise pour le lobby europ&#xe9;en des femmes</nomSociete>
+					<activite>Pr&#xe9;sidente</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomSociete>Assembl&#xe9;e des Femmes</nomSociete>
+					<activite>membre du Conseil d&apos;administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2022</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>La seule participation financi&#xe8;re dans une entreprise dont je dispose est celle de cette SASU que j&apos;ai constitu&#xe9;e en f&#xe9;vrier 2022</commentaire>
+					<nomSociete>CERNUNNOS CONSULTING</nomSociete>
+					<evaluation>1</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>10</nombreParts>
+					<actiConseil>Oui</actiConseil>
+					<nomOrganisationConseil>CERNUNNOS CONSULTING 10 parts</nomOrganisationConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Elle n&apos;exerce pas d&apos;autres activit&#xe9;s professionnelles</commentaire>
+					<nom>PEREZ NAVARRO A&#xef;tana</nom>
+					<employeur/>
+					<descriptionActivite>Attach&#xe9;e parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Madame Linares quittera ses fonctions le 14 novembre 2024
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<nom>LINARES Morgane</nom>
+					<employeur/>
+					<descriptionActivite>Attach&#xe9;e parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Au 1er novembre 2024 Madame Davenne Pinel travaillera &#xe0; temps plein &#xe0; mes c&#xf4;t&#xe9;s. Elle n&apos;aura plus de fonction &#xe0; Grand Paris sud</commentaire>
+					<nom>DAVENNE PINEL</nom>
+					<employeur>Grand Paris Sud jusqu&apos;au 31/10/2024</employeur>
+					<descriptionActivite>Collaboratrice</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>77</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Seine-et-Marne(77)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Seine-et-Marne(77)</qualiteDeclarantForPDF>
+			<dateDebutMandat>08/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>THIEBAULT</nom>
+				<prenom>c&#xe9;line</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>04/08/1974</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>

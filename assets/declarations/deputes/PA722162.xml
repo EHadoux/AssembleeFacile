@@ -1,0 +1,1332 @@
+<declaration>
+		<dateDepot>01/08/2024 10:26:41</dateDepot>
+		<uuid>9da28fdd-b0c9-493a-bd16-5c7d6c8be702</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Les revenus d&#xe9;clar&#xe9;s sont les revenus nets imposables. 2024 n&apos;est pas compl&#xe9;t&#xe9; car non connu &#xe0; ce jour</commentaire>
+					<conservee>true</conservee>
+					<description>Agriculteur - g&#xe9;rant de la soci&#xe9;t&#xe9;</description>
+					<employeur>SCEA 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>76705</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>80020</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>97206</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>81233</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>76569</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>59097</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>54192</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>44758</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>45287</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>44 571</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>49 828</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>50 012</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>50 506</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>Chambre d&apos;Agriculture des Deux-S&#xe8;vres</employeurConjoint>
+					<activiteProf>Conseill&#xe8;re agricole 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>ADIV - syndicat des irrigants de la Vienne</nomStructure>
+					<descriptionActivite>Simple adh&#xe9;rent</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Conseiller municipal de Moncontour (86)</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller municipal</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2017</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>D&#xe9;put&#xe9;</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>37 111</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>73 414</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>72 351</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>71 409</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>70 702</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>71 938</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>73 724</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>37 291</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J&apos;envisage de laisser la pr&#xe9;sidence du Modem 86 &#xe0; l&apos;automne 2017</commentaire>
+					<conservee>false</conservee>
+					<nomSociete>MODEM 86</nomSociete>
+					<activite>Pr&#xe9;sident</activite>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>08/2017</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SCI 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<activite>G&#xe9;rant</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>500</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>500</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2012</dateDebut>
+					<dateFin>12/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomSociete>SARL AN VOLT</nomSociete>
+					<activite>G&#xe9;rant</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2011</annee>
+								<montant>1000</montant>
+							</montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>1000</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>1000</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>1000</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2011</dateDebut>
+					<dateFin>12/2023</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Soci&#xe9;t&#xe9; &#xe0; l&apos;IS qui ne distribue pas de revenus pour l&apos;instant (cf d&#xe9;claration de patrimoine)</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SCIGP BLEU TURQUOISE</nomSociete>
+					<activite>G&#xe9;rant</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2012</annee>
+								<montant>1000</montant>
+							</montant>
+							<montant>
+								<annee>2013</annee>
+								<montant>1000</montant>
+							</montant>
+							<montant>
+								<annee>2014</annee>
+								<montant>1000</montant>
+							</montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2012</dateDebut>
+					<dateFin>12/2023</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Evaluation au 31/03/2024 pour la participation financi&#xe8;re. R&#xe9;mun&#xe9;ration per&#xe7;ue entre le 1/4/2023 et le 31/03/2024</commentaire>
+					<nomSociete>AXA</nomSociete>
+					<evaluation>174</evaluation>
+					<remuneration>Moins de 10 &#x20ac;</remuneration>
+					<capitalDetenu/>
+					<nombreParts>5</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Evaluation au 31/03/2024 pour la participation financi&#xe8;re. R&#xe9;mun&#xe9;ration per&#xe7;ue entre le 1/4/2023 et le 31/03/2024</commentaire>
+					<nomSociete>Bouygues</nomSociete>
+					<evaluation>189</evaluation>
+					<remuneration>Moins de 10 &#x20ac;</remuneration>
+					<capitalDetenu/>
+					<nombreParts>5</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Evaluation au 31/03/2024 pour la participation financi&#xe8;re. R&#xe9;mun&#xe9;ration per&#xe7;ue entre le 1/4/2023 et le 31/03/2024</commentaire>
+					<nomSociete>Casino-Guichard</nomSociete>
+					<evaluation>1</evaluation>
+					<remuneration>Moins de 10 &#x20ac;</remuneration>
+					<capitalDetenu/>
+					<nombreParts>5</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Evaluation au 31/03/2024 pour la participation financi&#xe8;re. R&#xe9;mun&#xe9;ration per&#xe7;ue entre le 1/4/2023 et le 31/03/2024</commentaire>
+					<nomSociete>Jacquet-M&#xe9;tal Services</nomSociete>
+					<evaluation>92</evaluation>
+					<remuneration>0 &#x20ac;</remuneration>
+					<capitalDetenu/>
+					<nombreParts>5</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Evaluation au 31/03/2024 pour la participation financi&#xe8;re. R&#xe9;mun&#xe9;ration per&#xe7;ue entre le 1/4/2023 et le 31/03/2024</commentaire>
+					<nomSociete>Rallye</nomSociete>
+					<evaluation>1</evaluation>
+					<remuneration>0 &#x20ac;</remuneration>
+					<capitalDetenu/>
+					<nombreParts>5</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Evaluation au 31/03/2024 pour la participation financi&#xe8;re. R&#xe9;mun&#xe9;ration per&#xe7;ue entre le 1/4/2023 et le 31/03/2024</commentaire>
+					<nomSociete>TotalEnergies</nomSociete>
+					<evaluation>762</evaluation>
+					<remuneration>Environ 40 &#x20ac;</remuneration>
+					<capitalDetenu/>
+					<nombreParts>12</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>GFA 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>86128</evaluation>
+					<remuneration>Rien car parts en nue-propri&#xe9;t&#xe9;</remuneration>
+					<capitalDetenu/>
+					<nombreParts>110</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Groupement Forestier 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>43827</evaluation>
+					<remuneration>74 &#x20ac; en 2023 de revenu forfaitaire forestier et 28 &#x20ac; de revenus d&apos;activit&#xe9; car deux parts seulement en pleine propri&#xe9;t&#xe9; / le reste en nue-propri&#xe9;t&#xe9;</remuneration>
+					<capitalDetenu>45</capitalDetenu>
+					<nombreParts>1250</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>CRCA Touraine-Poitou</nomSociete>
+					<evaluation>173</evaluation>
+					<remuneration>Inf&#xe9;rieure &#xe0; 10 &#x20ac;/an</remuneration>
+					<capitalDetenu/>
+					<nombreParts>173</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Les revenus sont d&#xe9;clar&#xe9;s &#xe0; la rubrique 1</commentaire>
+					<nomSociete>SCEA 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>47880</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>60</capitalDetenu>
+					<nombreParts>319</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pas d&apos;autres activit&#xe9;s</commentaire>
+					<nom>Xavier Brouard</nom>
+					<employeur>N&#xe9;ant</employeur>
+					<descriptionActivite>Assistant parlementaire en circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Auto-entrepreneur sans chiffre d&apos;affaire actuellement</commentaire>
+					<nom>Plaze Fran&#xe7;ois</nom>
+					<employeur>Auto-entrepreneur</employeur>
+					<descriptionActivite>Assistant parlementaire en circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>1&#xe8;re vice-pr&#xe9;sidente du Conseil D&#xe9;partemental de la Vienne</commentaire>
+					<nom>Dauge Val&#xe9;rie</nom>
+					<employeur>N&#xe9;ant</employeur>
+					<descriptionActivite>Assistante parlementaire en circonscription</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>86</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Vienne(86)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Vienne(86)</qualiteDeclarantForPDF>
+			<dateDebutMandat>08/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Turquois</nom>
+				<prenom>Nicolas</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>26/07/1972</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+<declaration>
+		<dateDepot>14/02/2025 10:30:42</dateDepot>
+		<uuid>6a3f935f-72da-4e4b-9efd-ba00fb3472f7</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Les revenus d&#xe9;clar&#xe9;s sont les revenus nets imposables. 2024 est &#xe9;valu&#xe9; &#xe0; partir de la moyenne des ann&#xe9;es pr&#xe9;c&#xe9;dentes</commentaire>
+					<conservee>true</conservee>
+					<description>Agriculteur - g&#xe9;rant de la soci&#xe9;t&#xe9;</description>
+					<employeur>SCEA 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>22 644</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>44 571</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>49 828</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>50 012</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>50 506</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>25 000</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>Chambre d&apos;Agriculture des Deux-S&#xe8;vres</employeurConjoint>
+					<activiteProf>Conseill&#xe8;re agricole 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>ADIV - syndicat des irrigants de la Vienne</nomStructure>
+					<descriptionActivite>Simple adh&#xe9;rent</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Conseiller municipal de Moncontour (86)</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller municipal</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>D&#xe9;put&#xe9;</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>35 969</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>73 724</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>37 291</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SCI 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<activite>G&#xe9;rant</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>500</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>500</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomSociete>SARL AN VOLT</nomSociete>
+					<activite>G&#xe9;rant</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Soci&#xe9;t&#xe9; &#xe0; l&apos;IS qui ne distribue pas de revenus pour l&apos;instant (cf d&#xe9;claration de patrimoine)</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>SCIGP BLEU TURQUOISE</nomSociete>
+					<activite>G&#xe9;rant</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Evaluation au 31/03/2024 pour la participation financi&#xe8;re. R&#xe9;mun&#xe9;ration per&#xe7;ue entre le 1/4/2023 et le 31/03/2024</commentaire>
+					<nomSociete>AXA</nomSociete>
+					<evaluation>174</evaluation>
+					<remuneration>Moins de 10 &#x20ac;</remuneration>
+					<capitalDetenu/>
+					<nombreParts>5</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Evaluation au 31/03/2024 pour la participation financi&#xe8;re. R&#xe9;mun&#xe9;ration per&#xe7;ue entre le 1/4/2023 et le 31/03/2024</commentaire>
+					<nomSociete>Bouygues</nomSociete>
+					<evaluation>189</evaluation>
+					<remuneration>Moins de 10 &#x20ac;</remuneration>
+					<capitalDetenu/>
+					<nombreParts>5</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Evaluation au 31/03/2024 pour la participation financi&#xe8;re. R&#xe9;mun&#xe9;ration per&#xe7;ue entre le 1/4/2023 et le 31/03/2024</commentaire>
+					<nomSociete>Casino-Guichard</nomSociete>
+					<evaluation>1</evaluation>
+					<remuneration>Moins de 10 &#x20ac;</remuneration>
+					<capitalDetenu/>
+					<nombreParts>5</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Evaluation au 31/03/2024 pour la participation financi&#xe8;re. R&#xe9;mun&#xe9;ration per&#xe7;ue entre le 1/4/2023 et le 31/03/2024</commentaire>
+					<nomSociete>Jacquet-M&#xe9;tal Services</nomSociete>
+					<evaluation>92</evaluation>
+					<remuneration>0 &#x20ac;</remuneration>
+					<capitalDetenu/>
+					<nombreParts>5</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Evaluation au 31/03/2024 pour la participation financi&#xe8;re. R&#xe9;mun&#xe9;ration per&#xe7;ue entre le 1/4/2023 et le 31/03/2024</commentaire>
+					<nomSociete>Rallye</nomSociete>
+					<evaluation>1</evaluation>
+					<remuneration>0 &#x20ac;</remuneration>
+					<capitalDetenu/>
+					<nombreParts>5</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Evaluation au 31/03/2024 pour la participation financi&#xe8;re. R&#xe9;mun&#xe9;ration per&#xe7;ue entre le 1/4/2023 et le 31/03/2024</commentaire>
+					<nomSociete>TotalEnergies</nomSociete>
+					<evaluation>762</evaluation>
+					<remuneration>Environ 40 &#x20ac;</remuneration>
+					<capitalDetenu/>
+					<nombreParts>12</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>GFA 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>86128</evaluation>
+					<remuneration>Rien car parts en nue-propri&#xe9;t&#xe9;</remuneration>
+					<capitalDetenu/>
+					<nombreParts>110</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Groupement Forestier 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>47812</evaluation>
+					<remuneration>74 &#x20ac; en 2023 de revenu forfaitaire forestier et 28 &#x20ac; de revenus d&apos;activit&#xe9; car deux parts seulement en pleine propri&#xe9;t&#xe9; / le reste en nue-propri&#xe9;t&#xe9;</remuneration>
+					<capitalDetenu>45</capitalDetenu>
+					<nombreParts>1250</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>CRCA Touraine-Poitou</nomSociete>
+					<evaluation>173</evaluation>
+					<remuneration>Inf&#xe9;rieure &#xe0; 10 &#x20ac;/an</remuneration>
+					<capitalDetenu/>
+					<nombreParts>173</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Les revenus sont d&#xe9;clar&#xe9;s &#xe0; la rubrique 1</commentaire>
+					<nomSociete>SCEA 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>103156</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>60</capitalDetenu>
+					<nombreParts>319</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SCIGP Bleu Turquoise</nomSociete>
+					<evaluation>286264</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>50</capitalDetenu>
+					<nombreParts>565</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<nomSociete>SCI 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>61160</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>25</capitalDetenu>
+					<nombreParts>557</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pas d&apos;autres activit&#xe9;s</commentaire>
+					<nom>Xavier Brouard</nom>
+					<employeur>N&#xe9;ant</employeur>
+					<descriptionActivite>Assistant parlementaire en circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Auto-entrepreneur sans chiffre d&apos;affaire actuellement</commentaire>
+					<nom>Plaze Fran&#xe7;ois</nom>
+					<employeur>Auto-entrepreneur</employeur>
+					<descriptionActivite>Assistant parlementaire en circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>1&#xe8;re vice-pr&#xe9;sidente du Conseil D&#xe9;partemental de la Vienne</commentaire>
+					<nom>Dauge Val&#xe9;rie</nom>
+					<employeur>N&#xe9;ant</employeur>
+					<descriptionActivite>Assistante parlementaire en circonscription</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items/>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>86</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Vienne(86)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Vienne(86)</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Turquois</nom>
+				<prenom>Nicolas</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>26/07/1972</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>

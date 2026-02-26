@@ -1,0 +1,1331 @@
+<declaration>
+		<dateDepot>25/07/2024 10:00:47</dateDepot>
+		<uuid>4293e216-ef4b-45e3-b03c-834d69d162e2</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </employeurConjoint>
+					<activiteProf>conseill&#xe8;re de vente en librairie</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Fondation Jean Jaur&#xe8;s</nomStructure>
+					<descriptionActivite>Directeur de l&apos;Observatoire Agriculture et ruralit&#xe9;</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>2017: Les montants indiqu&#xe9;s correspondent &#xe0; 6 mois d&apos;activit&#xe9; prenant en compte le d&#xe9;but de la mandature. 2024 : Les montants indiqu&#xe9;s correspondent &#xe0; 6 mois d&apos;activit&#xe9; prenant en compte la fin de la mandature au 9 juin 2024.</commentaire>
+					<descriptionMandat>D&#xe9;put&#xe9;</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>34 894</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>72 288</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>72 046</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>70 799</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>70 702</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>71 921</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>73 698</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>33 333</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2017</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fin du mandat au lendemain de l&apos;annonce de la dissolution de l&apos;Assembl&#xe9;e nationale (10 juin 2024)</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Agence Fran&#xe7;aise de D&#xe9;veloppement</nomSociete>
+					<activite>Membre suppl&#xe9;ant du Conseil d&apos;administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomSociete>Pays Terres de Lorraine</nomSociete>
+					<activite>Pr&#xe9;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomSociete>Association Michel Dinet Objet : servir et faire vivre les valeurs la pens&#xe9;e politique et les principes d&apos;action de Michel Dinet</nomSociete>
+					<activite>Pr&#xe9;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2019</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomSociete>Association Esprit Civique</nomSociete>
+					<activite>Pr&#xe9;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Membre du Conseil d&apos;Administration en tant que Pr&#xe9;sident du Pays Terres de Lorraine</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>ENERCOOP NORD EST SCIC</nomSociete>
+					<activite>Membre du Conseil d&apos;administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2022</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>2021 : d&#xe9;ficit de 1109&#x20ac; au titre des revenus agricoles 2023 : d&#xe9;ficit de 2184&#x20ac; au titre des revenus agricoles 2024 : revenu non connu</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>GAEC 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<activite>Associ&#xe9;</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>152</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>1 234</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1 468</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Montant 2024 : non connu &#xe0; la date de d&#xe9;claration</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>GFA 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<activite>Associ&#xe9;</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>619</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>592</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>50</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1 639</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>992</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Correspond &#xe0; la r&#xe9;mun&#xe9;ration du capital social d&#xe9;tenu au sein du GAEC apr&#xe8;s d&#xe9;duction des charges sociales ; &#xe9;valuation de la participation financi&#xe8;re faite lors de la d&#xe9;claration de patrimoine de d&#xe9;cembre 2021</commentaire>
+					<nomSociete>GAEC 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>91276</evaluation>
+					<remuneration>Revenu fiscal 2021 : -1109&#x20ac; Revenu fiscal 2022 : -772&#x20ac; Revenu fiscal 2023 : -2184&#x20ac;</remuneration>
+					<capitalDetenu>20</capitalDetenu>
+					<nombreParts>461</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>&#xe9;valuation de la participation financi&#xe8;re faite lors de la d&#xe9;claration de patrimoine de d&#xe9;cembre 2021</commentaire>
+					<nomSociete>GFA 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>22921</evaluation>
+					<remuneration>Revenu fiscal 2021 : 1623&#x20ac; Revenu fiscal 2022 : 1110&#x20ac; Revenu fiscal 2023 : 992&#x20ac;</remuneration>
+					<capitalDetenu>25</capitalDetenu>
+					<nombreParts>25</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Faute de pr&#xe9;cision sur le nombre d&apos;actions total j&apos;ai signal&#xe9; symboliquement 1%. ;</commentaire>
+					<nomSociete>GFA 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>500</evaluation>
+					<remuneration>Revenu fiscal 2021 : 16&#x20ac; Revenu fiscal 2022 : 16&#x20ac; Revenu fiscal 2023 : 16&#x20ac;</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>1</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>&#xe9;valuation de la participation financi&#xe8;re faite lors de la d&#xe9;claration de patrimoine de d&#xe9;cembre 2021</commentaire>
+					<nomSociete>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>27368</evaluation>
+					<remuneration>Revenu fiscal 2021 : 0 &#x20ac; Revenu fiscal 2022 : 0 &#x20ac; Revenu fiscal 2023 : 0 &#x20ac;</remuneration>
+					<capitalDetenu>20</capitalDetenu>
+					<nombreParts>1</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Faute de pr&#xe9;cision sur le nombre d&apos;actions total j&apos;ai signal&#xe9; symboliquement 1%.</commentaire>
+					<nomSociete>SCIC Centrales Villageoises du Pays du Saintois</nomSociete>
+					<evaluation>50</evaluation>
+					<remuneration>Revenu fiscal 2021 : 0&#x20ac; Revenu fiscal 2022 : 0 &#x20ac; Revenu fiscal 2023 : 0 &#x20ac;</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>1</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Faute de pr&#xe9;cision sur le nombre d&apos;actions total j&apos;ai signal&#xe9; symboliquement 1%.</commentaire>
+					<nomSociete>SCIC Turbul&apos;lance</nomSociete>
+					<evaluation>500</evaluation>
+					<remuneration>Revenu fiscal 2021 : 0&#x20ac; Revenu fiscal 2022 : 0 &#x20ac; Revenu fiscal 2023 : 0 &#x20ac;</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>2</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<nomSociete>Cigale</nomSociete>
+					<evaluation>4500</evaluation>
+					<remuneration>Revenu fiscal 2021 : 0&#x20ac; Revenu fiscal 2022 : 0 &#x20ac; Revenu fiscal 2023 : 0 &#x20ac;</remuneration>
+					<capitalDetenu>5</capitalDetenu>
+					<nombreParts>1</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Groscolas Jeanne</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice en circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Gaspar Hugo</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur en circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Evain Suzanne</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice &#xe0; l&apos;Assembl&#xe9;e nationale</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>embauch&#xe9;e le 2 septembre 2024</commentaire>
+					<nom>Albouy Esther</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice &#xe0; l&apos;Assembl&#xe9;e nationale</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>54</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Meurthe-et-Moselle(54)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Meurthe-et-Moselle(54)</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>potier</nom>
+				<prenom>dominique</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>17/03/1964</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+<declaration>
+		<dateDepot>14/04/2025 09:31:05</dateDepot>
+		<uuid>a79e8d09-27d0-4719-8170-e2b730257add</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<conservee>true</conservee>
+					<description>AGRICULTEUR</description>
+					<employeur>GAEC 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>12/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je n&apos;ai per&#xe7;u aucune r&#xe9;mun&#xe9;ration &#xe0; ce titre au titre d&apos;auteur du livre &quot;La Terre en commun Plaidoyer pour une justice fonci&#xe8;re&quot;</commentaire>
+					<description>Auteur</description>
+					<employeur>Fondation Jean Jaur&#xe8;s</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2019</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </employeurConjoint>
+					<activiteProf>conseill&#xe8;re de vente en librairie</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je ne per&#xe7;ois aucune remuneration</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>Fondation Jean Jaur&#xe8;s</nomStructure>
+					<descriptionActivite>Directeur de l&apos;Observatoire Agriculture et ruralit&#xe9; et auteur livre La terre en commun</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>2017: Les montants indiqu&#xe9;s correspondent &#xe0; 6 mois d&apos;activit&#xe9; prenant en compte le d&#xe9;but de la mandature. 2024 : Les montants indiqu&#xe9;s correspondent &#xe0; 6 mois d&apos;activit&#xe9; prenant en compte la fin de la mandature au 9 juin 2024.</commentaire>
+					<descriptionMandat>D&#xe9;put&#xe9;</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>51 862</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>73 698</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>33 333</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Fin du mandat au lendemain de l&apos;annonce de la dissolution de l&apos;Assembl&#xe9;e nationale (10 juin 2024)</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Agence Fran&#xe7;aise de D&#xe9;veloppement</nomSociete>
+					<activite>Membre suppl&#xe9;ant du Conseil d&apos;administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2019</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomSociete>Pays Terres de Lorraine</nomSociete>
+					<activite>Pr&#xe9;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2019</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomSociete>Association Michel Dinet Objet : servir et faire vivre les valeurs la pens&#xe9;e politique et les principes d&apos;action de Michel Dinet</nomSociete>
+					<activite>Pr&#xe9;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2019</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomSociete>Association Esprit Civique</nomSociete>
+					<activite>Pr&#xe9;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2019</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Membre du Conseil d&apos;Administration en tant que Pr&#xe9;sident du Pays Terres de Lorraine</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>ENERCOOP NORD EST SCIC</nomSociete>
+					<activite>Membre du Conseil d&apos;administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2022</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>2021 : d&#xe9;ficit de 1109&#x20ac; au titre des revenus agricoles 2023 : d&#xe9;ficit de 2184&#x20ac; au titre des revenus agricoles 2024 : revenu non connu</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>GAEC
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<activite>Associ&#xe9;</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>1 234</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1 468</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2019</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Montant 2024 : non connu &#xe0; la date de d&#xe9;claration</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>GFA 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<activite>Associ&#xe9;</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>592</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>50</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>1 639</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>992</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2019</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Correspond &#xe0; la r&#xe9;mun&#xe9;ration du capital social d&#xe9;tenu au sein du GAEC apr&#xe8;s d&#xe9;duction des charges sociales ; &#xe9;valuation de la participation financi&#xe8;re faite lors de la d&#xe9;claration de patrimoine de d&#xe9;cembre 2021</commentaire>
+					<nomSociete>GAEC 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>91276</evaluation>
+					<remuneration>Revenu fiscal 2021 : -1109&#x20ac; Revenu fiscal 2022 : -772&#x20ac; Revenu fiscal 2023 : -2184&#x20ac;</remuneration>
+					<capitalDetenu>20</capitalDetenu>
+					<nombreParts>461</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>&#xe9;valuation de la participation financi&#xe8;re faite lors de la d&#xe9;claration de patrimoine de d&#xe9;cembre 2021</commentaire>
+					<nomSociete>GFA 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>22921</evaluation>
+					<remuneration>Revenu fiscal 2021 : 1623&#x20ac; Revenu fiscal 2022 : 1110&#x20ac; Revenu fiscal 2023 : 992&#x20ac;</remuneration>
+					<capitalDetenu>25</capitalDetenu>
+					<nombreParts>25</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Faute de pr&#xe9;cision sur le nombre d&apos;actions total j&apos;ai signal&#xe9; symboliquement 1%. ;</commentaire>
+					<nomSociete>GFA 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>500</evaluation>
+					<remuneration>Revenu fiscal 2021 : 16&#x20ac; Revenu fiscal 2022 : 16&#x20ac; Revenu fiscal 2023 : 16&#x20ac;</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>1</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>&#xe9;valuation de la participation financi&#xe8;re faite lors de la d&#xe9;claration de patrimoine de d&#xe9;cembre 2021</commentaire>
+					<nomSociete>GFA 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>27368</evaluation>
+					<remuneration>Revenu fiscal 2021 : 0 &#x20ac; Revenu fiscal 2022 : 0 &#x20ac; Revenu fiscal 2023 : 0 &#x20ac;</remuneration>
+					<capitalDetenu>20</capitalDetenu>
+					<nombreParts>1</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Faute de pr&#xe9;cision sur le nombre d&apos;actions total j&apos;ai signal&#xe9; symboliquement 1%.</commentaire>
+					<nomSociete>SCIC Centrales Villageoises du Pays du Saintois</nomSociete>
+					<evaluation>50</evaluation>
+					<remuneration>Revenu fiscal 2021 : 0&#x20ac; Revenu fiscal 2022 : 0 &#x20ac; Revenu fiscal 2023 : 0 &#x20ac;</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>1</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Faute de pr&#xe9;cision sur le nombre d&apos;actions total j&apos;ai signal&#xe9; symboliquement 1%.</commentaire>
+					<nomSociete>SCIC Turbul&apos;lance</nomSociete>
+					<evaluation>500</evaluation>
+					<remuneration>Revenu fiscal 2021 : 0&#x20ac; Revenu fiscal 2022 : 0 &#x20ac; Revenu fiscal 2023 : 0 &#x20ac;</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>2</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<nomSociete>Cigale</nomSociete>
+					<evaluation>4500</evaluation>
+					<remuneration>Revenu fiscal 2021 : 0&#x20ac; Revenu fiscal 2022 : 0 &#x20ac; Revenu fiscal 2023 : 0 &#x20ac;</remuneration>
+					<capitalDetenu>5</capitalDetenu>
+					<nombreParts>1</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Groscolas Jeanne</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice en circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Gaspar Hugo</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur en circonscription</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Evain Suzanne</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice &#xe0; l&apos;Assembl&#xe9;e nationale</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<nom>Albouy Esther</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice &#xe0; l&apos;Assembl&#xe9;e nationale</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>54</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Meurthe-et-Moselle(54)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Meurthe-et-Moselle(54)</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>potier</nom>
+				<prenom>dominique</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>17/03/1964</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>

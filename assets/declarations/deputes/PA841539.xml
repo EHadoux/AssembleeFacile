@@ -1,0 +1,1162 @@
+<declaration>
+		<dateDepot>20/08/2024 09:43:58</dateDepot>
+		<uuid>cb429409-b78a-4df0-a6a5-7bcd50587b29</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je me suis mis en disponibilit&#xe9; de la fonction publique territoriale en mai 2020 suite &#xe0; mon &#xe9;lection de maire de Cappelle-la-Grande.</commentaire>
+					<description>Fonctionnaire Territorial de cat&#xe9;gorie C</description>
+					<employeur>Communaut&#xe9; Urbaine de Dunkerque</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>22 827</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>22 863</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>23 049</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>23 829</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>24 010</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>11 179</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>05/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Agence d&apos;Urbanisme de la R&#xe9;gion Flandre Dunkerque</nomStructure>
+					<descriptionActivite>Tr&#xe9;sorier Adjoint</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Association Entreprendre Ensemble</nomStructure>
+					<descriptionActivite>Vice-Pr&#xe9;sident</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#xe9;mission de la Vice-Pr&#xe9;sidence du SIVU en juillet 2024 &#xe0; la suite de mon &#xe9;lection de D&#xe9;put&#xe9;</commentaire>
+					<descriptionMandat>Vice-Pr&#xe9;sident du SIVU</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>3 788</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>3 720</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>150</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2 859</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>5 588</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>6 050</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>6 199</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>3 140</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#xe9;mission de ma fonction de maire le 24 juillet 2024 suite &#xe0; mon &#xe9;lection de D&#xe9;put&#xe9;</commentaire>
+					<descriptionMandat>Maire de Cappelle-la-Grande</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>45</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>16 336</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>17 616</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>19 244</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>14 092</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2020</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#xe9;mission de la Vice-Pr&#xe9;sidence en date du 24 juillet 2024. Je reste conseiller communautaire</commentaire>
+					<descriptionMandat>Vice-Pr&#xe9;sident de la Communaut&#xe9; Urbaine de Dunkerque</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>17 165</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>16 024</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>17 357</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>17 755</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>9 296</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#xe9;mission de mon mandat de Conseiller D&#xe9;partemental du Nord en date du 24 juillet 2024.</commentaire>
+					<descriptionMandat>Conseiller D&#xe9;partemental du Nord</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12 682</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>26 551</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>26 942</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>15 085</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>VANDENSTEEN MARIE</nom>
+					<employeur>Mairie de Cappelle-la-Grande</employeur>
+					<descriptionActivite>Assistante Parlementaire</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe/>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>GOKEL</nom>
+				<prenom>Julien</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>13/03/1983</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+<declaration>
+		<dateDepot>12/02/2025 01:52:14</dateDepot>
+		<uuid>f48b02ce-085c-4184-8c62-25ce9e9792a4</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je me suis mis en disponibilit&#xe9; de la fonction publique territoriale en mai 2020 suite &#xe0; mon &#xe9;lection de maire de Cappelle-la-Grande.</commentaire>
+					<description>Fonctionnaire Territorial de cat&#xe9;gorie C</description>
+					<employeur>Communaut&#xe9; Urbaine de Dunkerque</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>22 827</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>22 863</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>23 049</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>23 829</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>24 010</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>11 179</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>05/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items/>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Agence d&apos;Urbanisme de la R&#xe9;gion Flandre Dunkerque</nomStructure>
+					<descriptionActivite>Tr&#xe9;sorier Adjoint</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Association Entreprendre Ensemble</nomStructure>
+					<descriptionActivite>Vice-Pr&#xe9;sident</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#xe9;mission de la Vice-Pr&#xe9;sidence du SIVU en juillet 2024 &#xe0; la suite de mon &#xe9;lection de D&#xe9;put&#xe9;</commentaire>
+					<descriptionMandat>Vice-Pr&#xe9;sident du SIVU</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>3 788</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>3 720</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>150</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2 859</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>5 588</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>6 050</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>6 199</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>3 140</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#xe9;mission de ma fonction de maire le 24 juillet 2024 suite &#xe0; mon &#xe9;lection de D&#xe9;put&#xe9;</commentaire>
+					<descriptionMandat>Maire de Cappelle-la-Grande</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>45</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>16 336</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>17 616</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>19 244</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>14 092</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2020</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#xe9;mission de la Vice-Pr&#xe9;sidence en date du 24 juillet 2024. Je reste conseiller communautaire</commentaire>
+					<descriptionMandat>Vice-Pr&#xe9;sident de la Communaut&#xe9; Urbaine de Dunkerque</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>17 165</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>16 024</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>17 357</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>17 755</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>9 296</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#xe9;mission de mon mandat de Conseiller D&#xe9;partemental du Nord en date du 24 juillet 2024.</commentaire>
+					<descriptionMandat>Conseiller D&#xe9;partemental du Nord</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12 682</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>26 551</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>26 942</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>15 085</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nomSociete>NORDSEM</nomSociete>
+					<activite>Administrateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2021</dateDebut>
+					<dateFin>08/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Temps partiel hebdomadaire</commentaire>
+					<nom>VANDENSTEEN MARIE</nom>
+					<employeur>Mairie de Cappelle-la-Grande</employeur>
+					<descriptionActivite>Directrice de cabinet</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>BALEZEAU BAPTISTE</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur Parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>FORNARO EMMA</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice Parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>MAILLET-PRAUD DORIANN</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur Parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Temps partiel hebdomadaire</commentaire>
+					<nom>PACCOU GREGOIRE</nom>
+					<employeur>Mairie de Gravelines</employeur>
+					<descriptionActivite>Directeur G&#xe9;n&#xe9;ral des Services</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>59</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Nord(59)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Nord(59)</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>GOKEL</nom>
+				<prenom>Julien</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>13/03/1983</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+<declaration>
+		<dateDepot>25/11/2025 13:44:02</dateDepot>
+		<uuid>8ab43515-124e-4de0-9798-cdfb7e0b08cb</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    en disponibilit&#xe9;
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<description>Fonctionnaire Territorial de cat&#xe9;gorie C</description>
+					<employeur>Communaut&#xe9; Urbaine de Dunkerque</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>22 827</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>22 863</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>23 049</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>23 829</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>24 010</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>11 179</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>05/2020</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items/>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Agence d&apos;Urbanisme de la R&#xe9;gion Flandre Dunkerque</nomStructure>
+					<descriptionActivite>Tr&#xe9;sorier Adjoint</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomStructure>Association Entreprendre Ensemble</nomStructure>
+					<descriptionActivite>Vice-Pr&#xe9;sident</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#xe9;mission de la Vice-Pr&#xe9;sidence du SIVU en juillet 2024 &#xe0; la suite de mon &#xe9;lection de D&#xe9;put&#xe9;</commentaire>
+					<descriptionMandat>Vice-Pr&#xe9;sident du SIVU</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2015</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2016</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2017</annee>
+								<montant>3 788</montant>
+							</montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>3 720</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>150</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>2 859</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>5 588</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>6 050</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>6 199</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>3 140</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2015</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#xe9;mission de ma fonction de maire le 24 juillet 2024 suite &#xe0; mon &#xe9;lection de D&#xe9;put&#xe9;</commentaire>
+					<descriptionMandat>Maire de Cappelle-la-Grande</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>45</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>16 336</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>17 616</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>19 244</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>14 092</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>05/2020</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#xe9;mission de la Vice-Pr&#xe9;sidence en date du 24 juillet 2024. Je reste conseiller communautaire</commentaire>
+					<descriptionMandat>Vice-Pr&#xe9;sident de la Communaut&#xe9; Urbaine de Dunkerque</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>17 165</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>16 024</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>17 357</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>17 755</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>9 296</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#xe9;mission de mon mandat de Conseiller D&#xe9;partemental du Nord en date du 24 juillet 2024.</commentaire>
+					<descriptionMandat>Conseiller D&#xe9;partemental du Nord</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12 682</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>26 551</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>26 942</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>15 085</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<nomSociete>NORDSEM</nomSociete>
+					<activite>Administrateur</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2021</dateDebut>
+					<dateFin>08/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>BALEZEAU BAPTISTE</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur Parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>FORNARO EMMA</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice Parlementaire</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>MAILLET-PRAUD DORIANN</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur Parlementaire</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>59</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Nord(59)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Nord(59)</qualiteDeclarantForPDF>
+			<dateDebutMandat>08/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>GOKEL</nom>
+				<prenom>Julien</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>13/03/1983</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>

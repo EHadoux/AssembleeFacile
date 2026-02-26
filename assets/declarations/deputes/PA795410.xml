@@ -1,0 +1,492 @@
+<declaration>
+		<dateDepot>20/08/2024 13:14:20</dateDepot>
+		<uuid>305391c6-8294-48ef-af2e-85a805151d98</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items/>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items/>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je n&apos;ai aucune activit&#xe9; dans aucune de ces associations je me contente de les soutenir plus ou moins r&#xe9;guli&#xe8;rement. 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<conservee>true</conservee>
+					<nomStructure>Membre cotisant dans plusieurs associations de protection animale : L214; CIWF France; Welfram; Fondation AAA (assistance aux animaux) ; Fondation Brigitte BARDOT; SPA; Ani&apos;Meaux; COLBAC.</nomStructure>
+					<descriptionActivite>Aucune activit&#xe9; simplement soutien financier. Soutien irr&#xe9;gulier pour la plupart pr&#xe9;l&#xe8;vements r&#xe9;guliers pour L214 Wolfram CIWF France</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Aucune activit&#xe9; ni r&#xf4;le particulier au sein de ces associations</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>Associations de protection de l&apos;enfance. Enfance et partage</nomStructure>
+					<descriptionActivite>Aucune activit&#xe9; au sein de ces associations. Seulement un soutien financier r&#xe9;gulier ne d&#xe9;passant pas jusqu&apos;&#xe0; maintenant 500 euros par an.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pas d&apos;activit&#xe9; ni de r&#xf4;le dans ces associations soutien financier ponctuel en dehors du Secours Catholique 
+        [Donn&#xe9;es non publi&#xe9;es]
+    .</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>Associations humanitaires telles que Secours Catholique croix rouge ou autres.</nomStructure>
+					<descriptionActivite>Aucune activit&#xe9; dans de telles associations. seulement soutien financier en g&#xe9;n&#xe9;ral irr&#xe9;gulier. Je cotise actuellement mensuellement pour le secours catholiques; je ne cotise plus depuis de nombreuses ann&#xe9;es &#xe0; M&#xe9;decins du Monde. Je donne de fa&#xe7;on ponctuelle &#xe0; l&apos;une ou l&apos;autre (exemple : T&#xe9;l&#xe9;thon)</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Pour l&apos;instant j&apos;envisage de poursuivre mon mandant de conseill&#xe8;re r&#xe9;gionale et je verrai avec le temps si je peux correctement me donner aux deux en m&#xea;me temps.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller r&#xe9;gional</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12 937</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>17 250</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<nom>GREFFIN Nathalie</nom>
+					<employeur>N&#xe9;ant</employeur>
+					<descriptionActivite>Collaboratrice sur Paris : recherches juridiques r&#xe9;daction d&apos;amendements de questions &#xe9;crites gestion du courrier relative &#xe0; l&apos;activit&#xe9; sur Paris</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<nom>TREULL&#xc9; &#xc9;milie</nom>
+					<employeur/>
+					<descriptionActivite>Collaborateur en circonscription &#xe0; mi temps</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>77</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Seine-et-Marne(77)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Seine-et-Marne(77)</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>ROULLAUD</nom>
+				<prenom>B&#xe9;atrice</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>09/06/1960</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+<declaration>
+		<dateDepot>30/06/2025 23:57:31</dateDepot>
+		<uuid>7bf133d7-df95-41bd-87e1-284ea5a719ce</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>OMISSION DU BARREAU DE MEAUX ROULLAUD_EXTRAIT DELIBERATIONS CO ME ROULLAUD.pdf</fileName>
+				<serverFileName>7bf133d7-df95-41bd-87e1-284ea5a719ce_pj01</serverFileName>
+				<base64EncodedContent/>
+			</attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Bilan 2022 : d&#xe9;ficit (- 5514 euros). Bilan 2023 : d&#xe9;ficit (-15687 euros). Je ne suis plus avocate officiellement depuis le 4 avril 2024 mais je ne prenais plus aucun dossier depuis juin 2022 et je n&apos;ai per&#xe7;u aucune r&#xe9;mun&#xe9;ration en 2022 mais clients ayant d&#xe9;j&#xe0; &#xe9;t&#xe9; factur&#xe9;s avant 2022.</commentaire>
+					<description>AVOCAT</description>
+					<employeur>individuel</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>19 953</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>5 413</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>5 513</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>11/2019</dateDebut>
+					<dateFin>08/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller R&#xe9;gional</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12 937</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>17 250</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>23 264</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>14 152</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>08/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>D&#xe9;put&#xe9;</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>34 200</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>68 400</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>39 900</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin>08/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<nom>GREFFIN Nathalie</nom>
+					<employeur/>
+					<descriptionActivite>
+        [Donn&#xe9;es non publi&#xe9;es]
+     Questions &#xe9;crites agenda comptabilit&#xe9; correspondances &#xe9;ventuellement pr&#xe9;paration de PPR ou PPL</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>&#xc9;milie Treull&#xe9;</nom>
+					<employeur/>
+					<descriptionActivite>
+        [Donn&#xe9;es non publi&#xe9;es]
+     R&#xe9;daction courrier et traitement des dossiers presse tenue de la permanence &#xe9;ventuellement r&#xe9;ception de personnes &#xe0; ma place r&#xe9;alisation de visuels. Exceptionnellement remplace Nicolas lors d&apos;&#xe9;v&#xe8;nements .</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>NUNEZ Nicolas</nom>
+					<employeur/>
+					<descriptionActivite>
+        [Donn&#xe9;es non publi&#xe9;es]
+    Charg&#xe9; du planning de circonscription de recevoir les appels des personnes en circonscription de pr&#xe9;parer mes rendez-vous et de m&apos;accompagner sur les &#xe9;v&#xe8;nements &#xe9;ventuellement de recevoir seul &#xe0; la permanence.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>SERVANT Dorian</nom>
+					<employeur/>
+					<descriptionActivite>
+        [Donn&#xe9;es non publi&#xe9;es]
+     charg&#xe9; &#xe9;galement de l&apos;agenda des prises de rendez vous hors circo des amendements et du travail l&#xe9;gislatif en g&#xe9;n&#xe9;ral.</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>77</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Seine-et-Marne(77)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Seine-et-Marne(77)</qualiteDeclarantForPDF>
+			<dateDebutMandat>09/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>ROULLAUD</nom>
+				<prenom>B&#xe9;atrice</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>09/06/1960</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>

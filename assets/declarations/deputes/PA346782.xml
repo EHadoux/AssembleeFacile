@@ -1,0 +1,2123 @@
+<declaration>
+		<dateDepot>03/08/2024 13:45:51</dateDepot>
+		<uuid>7218d0d9-56d9-4bd3-a6d4-e881a8a30166</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<description>professeur d universit&#xe9;</description>
+					<employeur>Universit&#xe9; Paris 5</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>56306</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>55 309</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>56 502</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>47 348</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>58 897</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>34 560</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<description>chef de service m&#xe9;decin</description>
+					<employeur>Assistance Publique Paris APHP</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>61116</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>66 018</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>68 974</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>46 437</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>76 124</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>45 928</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<conservee>true</conservee>
+					<description>m&#xe9;decin pompiers</description>
+					<employeur>BSPP Pompiers paris</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>400</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<description>ecrivain</description>
+					<employeur>Gallimard</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3 066</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>3 658</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Maitrise des hauts de Seine</nomStructure>
+					<descriptionActivite>J&apos;ai int&#xe9;gr&#xe9; le CA de cette structure &#xe0; titre b&#xe9;n&#xe9;vole en juin 2024. Il n&apos;ya pas d&apos;&#xe9;l&#xe9;ment susceptible de cr&#xe9;er un conflit d&apos;int&#xe9;r&#xea;t entre cette activit&#xe9; et mon mandat</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>EJ&apos;ai quitt&#xe9; mes fonctions de maire de la garenne &#xe0; mon &#xe9;lection &#xe0; l&apos;AN en 2022 et suis rest&#xe9; conseiller municipal</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Maire puis conseiller municipal de La Garenne Colombes</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>35490</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>31 603</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>37 427</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>12 210</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J&apos;&#xe9;tais VP de SENEO et j&apos;en ai &#xe9;t&#xe9; &#xe9;lu pr&#xe9;sident en septembre 2020. J&apos;ai quitt&#xe9; ces fonctions lors de mon &#xe9;lection &#xe0; l AN en juin 2022. Depuis je ne touche plus d&apos;indemnit&#xe9;s.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Vice pr&#xe9;sident puis pr&#xe9;sident puis membre du conseil d&apos;administration du Syndicat Des eaux de la presqu&apos;ile de Gennevilliers devenu ensuite SENEO</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>6340</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7 784</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>13 902</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>6 687</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Depuis juin 2022 je ne suis plus VP mais suis seulement membre du conseil non r&#xe9;mun&#xe9;r&#xe9;</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>vice pr&#xe9;sident du territoire Paris Ouest La D&#xe9;fense puis membre du conseil</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>10268</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>15 656</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>16 109</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>8 000</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>j&apos;ai indiqu&#xe9; 0 pour 2021 et 2022 car je ne trouve pas de fiches de paye.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Membre du conseil de la M&#xe9;tropole du Grand Paris</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>4248</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4 541</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>3 999</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>2 656</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>d&#xe9;put&#xe9;</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>38 341</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>67 511</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>37 278</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>je suis le pr&#xe9;sident de la f&#xe9;d&#xe9;ration des hauts de seine des LR.
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Les Republicains f&#xe9;d&#xe9;ration des Hauts de Seine</nomSociete>
+					<activite>pr&#xe9;sident de la f&#xe9;d&#xe9;ration des Hauts de seine d&apos;un eparti politique</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>dans le cadre d&apos;un PEA g&#xe9;r&#xe9; par ma banque</commentaire>
+					<nomSociete>SG actions euro</nomSociete>
+					<evaluation>18621</evaluation>
+					<remuneration>inconnu</remuneration>
+					<capitalDetenu/>
+					<nombreParts>245</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>dans le cadre d&apos;un PEA g&#xe9;r&#xe9; Par ma banque</commentaire>
+					<nomSociete>SG actions euro small cap P</nomSociete>
+					<evaluation>4455</evaluation>
+					<remuneration>inconnu</remuneration>
+					<capitalDetenu/>
+					<nombreParts>4</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>dans le cadre d&apos;un PEA g&#xe9;r&#xe9; par ma banque</commentaire>
+					<nomSociete>SG actions France</nomSociete>
+					<evaluation>10239</evaluation>
+					<remuneration>inconnu</remuneration>
+					<capitalDetenu/>
+					<nombreParts>10</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>dans le cadre d&apos;un PEA g&#xe9;r&#xe9; par la banque</commentaire>
+					<nomSociete>SG liquidites PEA</nomSociete>
+					<evaluation>1715</evaluation>
+					<remuneration>inconnu</remuneration>
+					<capitalDetenu/>
+					<nombreParts>0</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SG actions emergent</nomSociete>
+					<evaluation>6536</evaluation>
+					<remuneration>dans le cadre d&apos;un PEA g&#xe9;r&#xe9; par ma banque</remuneration>
+					<capitalDetenu/>
+					<nombreParts>55</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SG actions US</nomSociete>
+					<evaluation>19283</evaluation>
+					<remuneration>dans le cadre d&apos;un PEA g&#xe9;r&#xe9; par ma banque</remuneration>
+					<capitalDetenu/>
+					<nombreParts>43</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>advanced micro devices</nomSociete>
+					<evaluation>1292</evaluation>
+					<remuneration>inconnu. &#xe0; priori z&#xe9;ro. il s&apos;agit d&apos;actions que je g&#xe8;re en direct depuis mon compte SG</remuneration>
+					<capitalDetenu/>
+					<nombreParts>10</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>uber technologies</nomSociete>
+					<evaluation>980</evaluation>
+					<remuneration>inconnu. &#xe0; priori z&#xe9;ro. il s&apos;agit d&apos;actions que je g&#xe8;re en direct depuis mon compte SG</remuneration>
+					<capitalDetenu/>
+					<nombreParts>15</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SG actions US</nomSociete>
+					<evaluation>1299</evaluation>
+					<remuneration>inconnu. &#xe0; priori z&#xe9;ro. il s&apos;agit d&apos;actions que je g&#xe8;re en direct depuis mon compte SG</remuneration>
+					<capitalDetenu/>
+					<nombreParts>3000</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SCI 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>15</evaluation>
+					<remuneration>z&#xe9;ro</remuneration>
+					<capitalDetenu>2</capitalDetenu>
+					<nombreParts>7</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Pierre BAILLOU</nom>
+					<employeur>Mairie de La Garenne colombes o&#xf9; il est contractuel</employeur>
+					<descriptionActivite>Relation avec les &#xe9;lus Relations avec les administr&#xe9;s. Permanences parlementaires. Communication Rencontres avec les stakeholders. Accessoirement en soutien des autres assistants sur leurs missions.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Lucas Janer</nom>
+					<employeur>auto entrepreneur. le d&#xe9;ontologie de l&apos;AN a donn&#xe9; son accord</employeur>
+					<descriptionActivite>Coordination du travail parlementaire suivi du travail l&#xe9;gislatif participation aux permanences suivi des dossiers locaux accueil. Soutien aux autres collaborateurs. Communication</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Sheri DIOP</nom>
+					<employeur>n&#xe9;ant</employeur>
+					<descriptionActivite>courriers mails r&#xe9;seaux sociaux comptes AFM logistique agenda pr&#xe9;paration et CR des RDV et r&#xe9;union &#xe0; l&apos;AN ou en Circo. Soutien aux autres collaborateurs</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Celine Dominoy</nom>
+					<employeur>Mairie de La Garenne colombes</employeur>
+					<descriptionActivite>agenda mise en route du secr&#xe9;tariat organisation des circuits courrier mails etc ...</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>92</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Hauts-de-Seine(92)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Hauts-de-Seine(92)</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>JUVIN</nom>
+				<prenom>philippe</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>01/02/1964</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+<declaration>
+		<dateDepot>17/11/2024 14:57:08</dateDepot>
+		<uuid>c50aadb4-4687-4490-b9d1-44c280af8553</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<description>professeur d universit&#xe9;</description>
+					<employeur>Universit&#xe9; Paris 5</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>56306</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>55 309</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>56 502</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>47 348</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>58 897</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>34 560</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<description>chef de service m&#xe9;decin</description>
+					<employeur>Assistance Publique Paris APHP</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>61116</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>66 018</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>68 974</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>46 437</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>76 124</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>45 928</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<conservee>true</conservee>
+					<description>m&#xe9;decin pompiers</description>
+					<employeur>BSPP Pompiers paris</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>400</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<description>ecrivain</description>
+					<employeur>Gallimard</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3 066</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>3 658</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Maitrise des hauts de Seine</nomStructure>
+					<descriptionActivite>J&apos;ai int&#xe9;gr&#xe9; le CA de cette structure &#xe0; titre b&#xe9;n&#xe9;vole en juin 2024. Il n&apos;ya pas d&apos;&#xe9;l&#xe9;ment susceptible de cr&#xe9;er un conflit d&apos;int&#xe9;r&#xea;t entre cette activit&#xe9; et mon mandat</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>EJ&apos;ai quitt&#xe9; mes fonctions de maire de la garenne &#xe0; mon &#xe9;lection &#xe0; l&apos;AN en 2022 et suis rest&#xe9; conseiller municipal</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Maire puis conseiller municipal de La Garenne Colombes</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>35490</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>31 603</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>37 427</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>12 210</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J&apos;&#xe9;tais VP de SENEO et j&apos;en ai &#xe9;t&#xe9; &#xe9;lu pr&#xe9;sident en septembre 2020. J&apos;ai quitt&#xe9; ces fonctions lors de mon &#xe9;lection &#xe0; l AN en juin 2022. Depuis je ne touche plus d&apos;indemnit&#xe9;s.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Vice pr&#xe9;sident puis pr&#xe9;sident puis membre du conseil d&apos;administration du Syndicat Des eaux de la presqu&apos;ile de Gennevilliers devenu ensuite SENEO</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>6340</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7 784</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>13 902</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>6 687</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Depuis juin 2022 je ne suis plus VP mais suis seulement membre du conseil non r&#xe9;mun&#xe9;r&#xe9;</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>vice pr&#xe9;sident du territoire Paris Ouest La D&#xe9;fense puis membre du conseil</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>10268</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>15 656</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>16 109</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>8 000</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>j&apos;ai indiqu&#xe9; 0 pour 2021 et 2022 car je ne trouve pas de fiches de paye.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Membre du conseil de la M&#xe9;tropole du Grand Paris</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>4248</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4 541</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>3 999</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>2 656</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>d&#xe9;put&#xe9;</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>38 341</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>73 698</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>37 278</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>je suis le pr&#xe9;sident de la f&#xe9;d&#xe9;ration des hauts de seine des LR. 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Les Republicains f&#xe9;d&#xe9;ration des Hauts de Seine</nomSociete>
+					<activite>pr&#xe9;sident de la f&#xe9;d&#xe9;ration des Hauts de seine d&apos;un eparti politique</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>dans le cadre d&apos;un PEA g&#xe9;r&#xe9; par ma banque</commentaire>
+					<nomSociete>SG actions euro</nomSociete>
+					<evaluation>18621</evaluation>
+					<remuneration>inconnu</remuneration>
+					<capitalDetenu/>
+					<nombreParts>245</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>dans le cadre d&apos;un PEA g&#xe9;r&#xe9; Par ma banque</commentaire>
+					<nomSociete>SG actions euro small cap P</nomSociete>
+					<evaluation>4455</evaluation>
+					<remuneration>inconnu</remuneration>
+					<capitalDetenu/>
+					<nombreParts>4</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>dans le cadre d&apos;un PEA g&#xe9;r&#xe9; par ma banque</commentaire>
+					<nomSociete>SG actions France</nomSociete>
+					<evaluation>10239</evaluation>
+					<remuneration>inconnu</remuneration>
+					<capitalDetenu/>
+					<nombreParts>10</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>dans le cadre d&apos;un PEA g&#xe9;r&#xe9; par la banque</commentaire>
+					<nomSociete>SG liquidites PEA</nomSociete>
+					<evaluation>1715</evaluation>
+					<remuneration>inconnu</remuneration>
+					<capitalDetenu/>
+					<nombreParts>0</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SG actions emergent</nomSociete>
+					<evaluation>6536</evaluation>
+					<remuneration>dans le cadre d&apos;un PEA g&#xe9;r&#xe9; par ma banque</remuneration>
+					<capitalDetenu/>
+					<nombreParts>55</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SG actions US</nomSociete>
+					<evaluation>19283</evaluation>
+					<remuneration>dans le cadre d&apos;un PEA g&#xe9;r&#xe9; par ma banque</remuneration>
+					<capitalDetenu/>
+					<nombreParts>43</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>advanced micro devices</nomSociete>
+					<evaluation>1292</evaluation>
+					<remuneration>inconnu. &#xe0; priori z&#xe9;ro. il s&apos;agit d&apos;actions que je g&#xe8;re en direct depuis mon compte SG</remuneration>
+					<capitalDetenu/>
+					<nombreParts>10</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>uber technologies</nomSociete>
+					<evaluation>980</evaluation>
+					<remuneration>inconnu. &#xe0; priori z&#xe9;ro. il s&apos;agit d&apos;actions que je g&#xe8;re en direct depuis mon compte SG</remuneration>
+					<capitalDetenu/>
+					<nombreParts>15</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SG actions US</nomSociete>
+					<evaluation>1299</evaluation>
+					<remuneration>inconnu. &#xe0; priori z&#xe9;ro. il s&apos;agit d&apos;actions que je g&#xe8;re en direct depuis mon compte SG</remuneration>
+					<capitalDetenu/>
+					<nombreParts>3000</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SCI 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>15</evaluation>
+					<remuneration>z&#xe9;ro</remuneration>
+					<capitalDetenu>2</capitalDetenu>
+					<nombreParts>7</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Pierre BAILLOU</nom>
+					<employeur>Mairie de La Garenne colombes o&#xf9; il est contractuel</employeur>
+					<descriptionActivite>Relation avec les &#xe9;lus Relations avec les administr&#xe9;s. Permanences parlementaires. Communication Rencontres avec les stakeholders. Accessoirement en soutien des autres assistants sur leurs missions.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Lucas Janer</nom>
+					<employeur>auto entrepreneur. le d&#xe9;ontologie de l&apos;AN a donn&#xe9; son accord</employeur>
+					<descriptionActivite>Coordination du travail parlementaire suivi du travail l&#xe9;gislatif participation aux permanences suivi des dossiers locaux accueil. Soutien aux autres collaborateurs. Communication</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Sheri DIOP</nom>
+					<employeur>n&#xe9;ant</employeur>
+					<descriptionActivite>courriers mails r&#xe9;seaux sociaux comptes AFM logistique agenda pr&#xe9;paration et CR des RDV et r&#xe9;union &#xe0; l&apos;AN ou en Circo. Soutien aux autres collaborateurs</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Louise Baroin</nom>
+					<employeur>inconnus</employeur>
+					<descriptionActivite>stagiaire. Pre&amp;&#xe9;sente &#xe0; mi temps. Elle appuie les autres collaborateurs et participe aux RDV et conf&#xe9;rences. R&#xe9;seaux sociaux.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Sabine Rozier Deroche</nom>
+					<employeur>elle est propri&#xe9;taire d&apos;une soci&#xe9;t&#xe9; de conseil en communication (Taola Consultants)</employeur>
+					<descriptionActivite>conseil en communication</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s modificative</label>
+				<filtre/>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>92</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Hauts-de-Seine(92)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Hauts-de-Seine(92)</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>JUVIN</nom>
+				<prenom>philippe</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>01/02/1964</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+<declaration>
+		<dateDepot>27/11/2025 16:22:24</dateDepot>
+		<uuid>9d496b11-5a96-4034-a7e1-de153559be37</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<description>professeur d universit&#xe9;</description>
+					<employeur>Universit&#xe9; Paris 5</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>56306</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>55 309</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>56 502</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>47 348</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>58 897</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>34 560</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<description>chef de service m&#xe9;decin</description>
+					<employeur>Assistance Publique Paris APHP</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>61116</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>66 018</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>68 974</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>46 437</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>76 124</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>45 928</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<conservee>true</conservee>
+					<description>m&#xe9;decin pompiers</description>
+					<employeur>BSPP Pompiers paris</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>400</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<description>ecrivain</description>
+					<employeur>Gallimard</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3 066</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>3 658</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2020</dateDebut>
+					<dateFin>12/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>je suis pr&#xe9;sident de la f&#xe9;d&#xe9;ration des hauts de seine des r&#xe9;publicains</nomStructure>
+					<descriptionActivite>pr&#xe9;sidence du comit&#xe9; d&#xe9;partemental des hauts de seine du parti; je m&apos;occupe de la vie du parti dans le d&#xe9;partement</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>EJ&apos;ai quitt&#xe9; mes fonctions de maire de la garenne &#xe0; mon &#xe9;lection &#xe0; l&apos;AN en 2022 et suis rest&#xe9; conseiller municipal</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Maire puis conseiller municipal de La Garenne Colombes</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>35490</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>31 603</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>37 427</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>12 210</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J&apos;&#xe9;tais VP de SENEO et j&apos;en ai &#xe9;t&#xe9; &#xe9;lu pr&#xe9;sident en septembre 2020. J&apos;ai quitt&#xe9; ces fonctions lors de mon &#xe9;lection &#xe0; l AN en juin 2022. Depuis je ne touche plus d&apos;indemnit&#xe9;s.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Vice pr&#xe9;sident puis pr&#xe9;sident puis membre du conseil d&apos;administration du Syndicat Des eaux de la presqu&apos;ile de Gennevilliers devenu ensuite SENEO</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>6340</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>7 784</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>13 902</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>6 687</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Depuis juin 2022 je ne suis plus VP mais suis seulement membre du conseil non r&#xe9;mun&#xe9;r&#xe9;</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>vice pr&#xe9;sident du territoire Paris Ouest La D&#xe9;fense puis membre du conseil</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>10268</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>15 656</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>16 109</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>8 000</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>j&apos;ai indiqu&#xe9; 0 pour 2021 et 2022 car je ne trouve pas de fiches de paye.</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>Membre du conseil de la M&#xe9;tropole du Grand Paris</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>4248</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4 541</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>3 999</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>2 656</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>d&#xe9;put&#xe9;</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>38 341</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>73 698</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>37 278</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>je suis le pr&#xe9;sident de la f&#xe9;d&#xe9;ration des hauts de seine des LR. 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Les Republicains f&#xe9;d&#xe9;ration des Hauts de Seine</nomSociete>
+					<activite>pr&#xe9;sident de la f&#xe9;d&#xe9;ration des Hauts de seine d&apos;un eparti politique</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>dans le cadre d&apos;un PEA g&#xe9;r&#xe9; par ma banque</commentaire>
+					<nomSociete>SG actions euro</nomSociete>
+					<evaluation>18621</evaluation>
+					<remuneration>inconnu</remuneration>
+					<capitalDetenu/>
+					<nombreParts>245</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>dans le cadre d&apos;un PEA g&#xe9;r&#xe9; Par ma banque</commentaire>
+					<nomSociete>SG actions euro small cap P</nomSociete>
+					<evaluation>4455</evaluation>
+					<remuneration>inconnu</remuneration>
+					<capitalDetenu/>
+					<nombreParts>4</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>dans le cadre d&apos;un PEA g&#xe9;r&#xe9; par ma banque</commentaire>
+					<nomSociete>SG actions France</nomSociete>
+					<evaluation>10239</evaluation>
+					<remuneration>inconnu</remuneration>
+					<capitalDetenu/>
+					<nombreParts>10</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>dans le cadre d&apos;un PEA g&#xe9;r&#xe9; par la banque</commentaire>
+					<nomSociete>SG liquidites PEA</nomSociete>
+					<evaluation>1715</evaluation>
+					<remuneration>inconnu</remuneration>
+					<capitalDetenu/>
+					<nombreParts>0</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SG actions emergent</nomSociete>
+					<evaluation>6536</evaluation>
+					<remuneration>dans le cadre d&apos;un PEA g&#xe9;r&#xe9; par ma banque</remuneration>
+					<capitalDetenu/>
+					<nombreParts>55</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SG actions US</nomSociete>
+					<evaluation>19283</evaluation>
+					<remuneration>dans le cadre d&apos;un PEA g&#xe9;r&#xe9; par ma banque</remuneration>
+					<capitalDetenu/>
+					<nombreParts>43</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>advanced micro devices</nomSociete>
+					<evaluation>1292</evaluation>
+					<remuneration>inconnu. &#xe0; priori z&#xe9;ro. il s&apos;agit d&apos;actions que je g&#xe8;re en direct depuis mon compte SG</remuneration>
+					<capitalDetenu/>
+					<nombreParts>10</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>uber technologies</nomSociete>
+					<evaluation>980</evaluation>
+					<remuneration>inconnu. &#xe0; priori z&#xe9;ro. il s&apos;agit d&apos;actions que je g&#xe8;re en direct depuis mon compte SG</remuneration>
+					<capitalDetenu/>
+					<nombreParts>15</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SG actions US</nomSociete>
+					<evaluation>1299</evaluation>
+					<remuneration>inconnu. &#xe0; priori z&#xe9;ro. il s&apos;agit d&apos;actions que je g&#xe8;re en direct depuis mon compte SG</remuneration>
+					<capitalDetenu/>
+					<nombreParts>3000</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SCI 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>15</evaluation>
+					<remuneration>z&#xe9;ro</remuneration>
+					<capitalDetenu>2</capitalDetenu>
+					<nombreParts>7</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Pierre BAILLOU</nom>
+					<employeur>Mairie de La Garenne colombes o&#xf9; il est contractuel</employeur>
+					<descriptionActivite>Relation avec les &#xe9;lus Relations avec les administr&#xe9;s. Permanences parlementaires. Communication Rencontres avec les stakeholders. Accessoirement en soutien des autres assistants sur leurs missions.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Louise Baroin</nom>
+					<employeur>1) auto entrepreneur 2) b&#xe9;n&#xe9;vole &#xe0; G&#xe9;n&#xe9;ration Libre</employeur>
+					<descriptionActivite>Temps partiel. Elle appuie les autres collaborateurs et participe aux RDV et conf&#xe9;rences. R&#xe9;seaux sociaux.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Sabine Rozier Deroche</nom>
+					<employeur>elle est propri&#xe9;taire d&apos;une soci&#xe9;t&#xe9; de conseil en communication (Taola Consultants)</employeur>
+					<descriptionActivite>conseil en communication</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Julien Le Gall</nom>
+					<employeur>F&#xe9;d&#xe9;ration des Hauts de Seine des r&#xe9;publicains et autoentrepreneur</employeur>
+					<descriptionActivite>A mi temps relation avec les &#xe9;lus. Relations avec les administr&#xe9;s. Coordination des autres collaborateurs. Organisation de RDV. Courriers. Vient en support des autres collaborateurs si besoin.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Roxane BEGUET</nom>
+					<employeur>n&#xe9;ant</employeur>
+					<descriptionActivite>Cheffe du bureau l&#xe9;gislatif coordination relation avec les services de l&apos;assembl&#xe9;e affaires budg&#xe9;taires et financi&#xe8;res</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Dimitri Ferrand</nom>
+					<employeur/>
+					<descriptionActivite>secr&#xe9;tariat agenda r&#xe9;ponse courriers tenue des comptes AFM</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Emmanuelle Lecorvaisier</nom>
+					<employeur/>
+					<descriptionActivite>coordination secr&#xe9;tariat l&#xe9;gislatif courriers RDV. Agenda</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>92</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Hauts-de-Seine(92)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Hauts-de-Seine(92)</qualiteDeclarantForPDF>
+			<dateDebutMandat>01/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>JUVIN</nom>
+				<prenom>philippe</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>01/02/1964</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>

@@ -1,0 +1,679 @@
+<declaration>
+		<dateDepot>29/08/2024 16:46:28</dateDepot>
+		<uuid>189e9671-dbbb-4a6c-96d8-526525bb677d</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>YMCA 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </employeurConjoint>
+					<activiteProf>Directrice du Foyer d&apos;h&#xe9;bergement</activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>NON j&apos;ai d&#xe9;missionn&#xe9; de fait de mon poste de premier adjoint j&apos;ai conserv&#xe9; n&#xe9;anmoins le mandat de conseiller municipal</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>premier adjoint au maire de Colomiers</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>9 972</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12 810</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>15 462</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>15 846</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>9 368</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin>08/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J&apos;ai d&#xe9;missionn&#xe9; de mon poste de conseiller d&#xe9;partemental de Toulouse 7</commentaire>
+					<descriptionMandat>conseiller d&#xe9;partemental</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>24 775</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>42 722</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>44 288</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>29 924</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin>08/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>OUI je reste conseiller communautaire de Toulouse M&#xe9;tropole</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>conseiller communautaire de Toulouse M&#xe9;tropole</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>13 068</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>13 068</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>13 297</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>13 627</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>8 056</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin>08/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Martin assumera les fonctions de collaborateurs en circonscription en liaison avec l&apos;ensemble des &#xe9;lus du territoire ainsi que les services de l&apos;&#xe9;tat et institutions</commentaire>
+					<nom>OLIVO Martin</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mohamed assume les fonctions d&apos;attach&#xe9; parlementaire sur l&apos;ensemble des fonctions de communication et de lien avec le groupe PS &#xe0; l&apos;assembl&#xe9;e nationale</commentaire>
+					<nom>Mohamed BELLARBI</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>31</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Haute-Garonne(31)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Haute-Garonne(31)</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>SIMION</nom>
+				<prenom>ARNAUD</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>19/05/1968</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+<declaration>
+		<dateDepot>31/01/2025 14:12:28</dateDepot>
+		<uuid>60337db3-6e27-435e-9d90-092fee3399f6</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items/>
+			<neant>true</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items/>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>NON j&apos;ai d&#xe9;missionn&#xe9; de fait de mon poste de premier adjoint j&apos;ai conserv&#xe9; n&#xe9;anmoins le mandat de conseiller municipal</commentaire>
+					<conservee>false</conservee>
+					<descriptionMandat>premier adjoint au maire de Colomiers</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>9 972</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>12 810</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>15 462</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>15 846</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>9 368</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin>08/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J&apos;ai d&#xe9;missionn&#xe9; de mon poste de conseiller d&#xe9;partemental de Toulouse 7</commentaire>
+					<descriptionMandat>conseiller d&#xe9;partemental</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>24 775</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>42 722</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>44 288</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>29 924</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin>08/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>OUI je reste conseiller communautaire de Toulouse M&#xe9;tropole</commentaire>
+					<conservee>true</conservee>
+					<descriptionMandat>conseiller communautaire de Toulouse M&#xe9;tropole</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>13 068</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>13 068</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>13 297</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>13 627</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>8 056</montant>
+							</montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>767</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2020</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>conseiller municipal de la ville de Colomiers</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>259</montant>
+							</montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>51</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2024</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J&apos;occupais un poste au Conseil d&apos;Administration de ce Bailleur social au titre de mes fonctions de conseiller d&#xe9;partemental de Toulouse 7</commentaire>
+					<nomSociete>ALTEAL</nomSociete>
+					<activite>Membre du conseil d&apos;administrationl</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>205</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>225</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>376</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>301</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>400</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>87</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Au titre de mes fonctions de conseiller d&#xe9;partemental</commentaire>
+					<nomSociete>SDIS31</nomSociete>
+					<activite>membre du conseil d&apos;administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>MISSION LOCALE 31</nomSociete>
+					<activite>membre du bureau tr&#xe9;sorier</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2021</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Au titre de mes fonctions de vice pr&#xe9;sident du Conseil d&#xe9;partemental de Haute-Garonne d&#xe9;l&#xe9;gu&#xe9; &#xe0; l&apos;enfance et la famille j&apos;ai assur&#xe9; la Pr&#xe9;sidence du CDEF31 d&apos;avril 2015 &#xe0; juillet 2021</commentaire>
+					<nomSociete>Centre D&#xe9;partemental de l&apos;Enfance et des la Famille</nomSociete>
+					<activite>Pr&#xe9;sident du conseil d&apos;administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>07/2021</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Martin assumera les fonctions de collaborateurs en circonscription en liaison avec l&apos;ensemble des &#xe9;lus du territoire ainsi que les services de l&apos;&#xe9;tat et institutions</commentaire>
+					<nom>OLIVO Martin</nom>
+					<employeur>NEANT</employeur>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mohamed assume les fonctions d&apos;attach&#xe9; parlementaire sur l&apos;ensemble des fonctions de communication et de lien avec le groupe PS &#xe0; l&apos;assembl&#xe9;e nationale</commentaire>
+					<nom>Mohamed BELLARBI</nom>
+					<employeur>NEANT</employeur>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Monsieur Christel GAUDIBERT</nom>
+					<employeur>Ma&#xee;tre de conf&#xe9;rence &#xe0; l&apos;Institut sup&#xe9;rieur de management public de Paris</employeur>
+					<descriptionActivite>Pierre est mon collaborateur 
+        [Donn&#xe9;es non publi&#xe9;es]
+     et bas&#xe9; &#xe0; Paris - Il est en charge du suivi de la Commission des Affaires Sociales et pr&#xe9;pare en particulier mes diff&#xe9;rentes interventions parisiennes</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>31</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Haute-Garonne(31)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Haute-Garonne(31)</qualiteDeclarantForPDF>
+			<dateDebutMandat>09/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>SIMION</nom>
+				<prenom>ARNAUD</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>19/05/1968</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>

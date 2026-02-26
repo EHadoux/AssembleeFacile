@@ -1,0 +1,1099 @@
+<declaration>
+		<dateDepot>09/09/2024 22:37:30</dateDepot>
+		<uuid>ee02e1fb-d52e-4c47-bfd4-12b4956dc31a</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Business &amp; Decision  entreprise dont je suis salari&#xe9; depuis 2006  a &#xe9;t&#xe9; rachet&#xe9;e par le groupe Orange et s&apos;appelle maintenant Orange Business</commentaire>
+					<conservee>true</conservee>
+					<description>Ing&#xe9;nieur en informatique d&apos;aide &#xe0; la d&#xe9;cision</description>
+					<employeur>Orange Business (Business &amp; Decision</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>13 196</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>10 782</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>9 251</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>13 360</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>22 725</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>14 559</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin>08/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<nomStructure>Atmo Auvergne-Rh&#xf4;ne-Alpes (AASQA : Associations agr&#xe9;&#xe9;es de surveillance de la qualit&#xe9; de l&apos;air)</nomStructure>
+					<descriptionActivite>Membre du CA et du bureau (avec le titre de Pr&#xe9;sident suppl&#xe9;ant)</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je repr&#xe9;sente Atmo Auvergne-Rh&#xf4;ne-Alpes au sein de la f&#xe9;d&#xe9;ration Atmo France</commentaire>
+					<conservee>true</conservee>
+					<nomStructure>F&#xe9;d&#xe9;ration Atmo France (association f&#xe9;d&#xe9;rant les associations agr&#xe9;&#xe9;es de surveillance de la qualit&#xe9; de l&apos;air)</nomStructure>
+					<descriptionActivite>Membre du bureau</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Maire-adjoint &#xe0; l&apos;&#xe9;cologie urbaine  au d&#xe9;veloppement durable  &#xe0; l&apos;eau et &#xe0; l&apos;assainissement</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>21356</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>21460</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>9690</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<descriptionMandat>Conseiller communautaire</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>2800</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>2800</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1264</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>06/2020</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J&apos;ai d&#xe9;missionn&#xe9; de cette responsabilit&#xe9; qui &#xe9;tait incompatible avec l&apos;exercice de mon mandat de d&#xe9;put&#xe9;</commentaire>
+					<descriptionMandat>Maire-adjoint &#xe0; la nature en ville  l&apos;agriculture/alimentation/restauration  les mobilit&#xe9;s actives  la qualit&#xe9; de l&apos;air</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>8 379</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>15 053</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>15 408</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>15 766</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>8 794</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J&apos;ai d&#xe9;missionn&#xe9; de cette responsabilit&#xe9; qui &#xe9;tait incompatible avec l&apos;exercice de mon mandat de d&#xe9;put&#xe9;</commentaire>
+					<descriptionMandat>Conseiller m&#xe9;tropolitain d&#xe9;l&#xe9;gu&#xe9; en charge des &#xe9;nergies renouvelables et de r&#xe9;cup&#xe9;ration  de l&apos;&#xe9;conomie circulaire et de la gestion des d&#xe9;chets organiques</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4 784</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>8 909</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>8 499</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>9 214</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>5 450</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller municipal</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>93</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2024</dateDebut>
+					<dateFin>08/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller m&#xe9;tropolitain</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>173</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2024</dateDebut>
+					<dateFin>08/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je si&#xe8;ge au CA de cette association dans le cadre de mon mandat de conseiller municipal et m&#xe9;tropolitain comme repr&#xe9;sentant de Clermont Auvergne M&#xe9;tropole</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Atmo Auvergne-Rh&#xf4;ne-Alpes</nomSociete>
+					<activite>Association agr&#xe9;&#xe9;e de surveillance de la qualit&#xe9; de l&apos;air</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>09/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J&apos;ai d&#xe9;missionn&#xe9; de cette responsabilit&#xe9; qui &#xe9;tait incompatible avec l&apos;exercice de mon mandat de d&#xe9;put&#xe9;</commentaire>
+					<nomSociete>SMTC (Autorit&#xe9; organisatrice de la mobilit&#xe9; du territoire de Clermont Auvergne M&#xe9;tropole)</nomSociete>
+					<activite>Vice-pr&#xe9;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3 189</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>6 811</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>6 925</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>7 110</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>4 211</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J&apos;ai d&#xe9;missionn&#xe9; de cette responsabilit&#xe9; qui &#xe9;tait incompatible avec l&apos;exercice de mon mandat de d&#xe9;put&#xe9;</commentaire>
+					<nomSociete>PETR du Grand Clermont</nomSociete>
+					<activite>Vice-pr&#xe9;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1 218</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>5 088</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>5 187</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>5 363</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>2 808</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2020</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je repr&#xe9;sente Atmo Auvergne-Rh&#xf4;ne-Alpes au bureau de la f&#xe9;d&#xe9;ration Atmo France</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>F&#xe9;d&#xe9;ration Atmo France</nomSociete>
+					<activite>Membre du bureau</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin>09/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SCIC Combrailles Durables</nomSociete>
+					<evaluation>500</evaluation>
+					<remuneration>Aucune ou marginale</remuneration>
+					<capitalDetenu/>
+					<nombreParts>10</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Fonci&#xe8;re Terre de Liens</nomSociete>
+					<evaluation>2100</evaluation>
+					<remuneration>Aucune ou marginale</remuneration>
+					<capitalDetenu/>
+					<nombreParts>20</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>GRANGER Armelle</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>63</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Puy-de-D&#xf4;me(63)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Puy-de-D&#xf4;me(63)</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Bonnet</nom>
+				<prenom>Nicolas</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>11/02/1981</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+<declaration>
+		<dateDepot>05/05/2025 22:40:16</dateDepot>
+		<uuid>6c86bbe3-abb3-4dfd-892c-21acea373c11</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Business &amp; Decision entreprise dont je suis salari&#xe9; depuis 2006 a &#xe9;t&#xe9; rachet&#xe9;e par le groupe Orange et s&apos;appelle maintenant Orange Business</commentaire>
+					<conservee>true</conservee>
+					<description>Ing&#xe9;nieur en informatique d&apos;aide &#xe0; la d&#xe9;cision</description>
+					<employeur>Orange Business (Business &amp; Decision</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>13 196</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>10 782</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>9 251</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>13 360</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>22 725</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>14 559</montant>
+							</montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items/>
+			<neant>true</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J&apos;ai d&#xe9;missionn&#xe9; de cette responsabilit&#xe9; qui &#xe9;tait incompatible avec l&apos;exercice de mon mandat de d&#xe9;put&#xe9;</commentaire>
+					<descriptionMandat>Maire-adjoint &#xe0; la nature en ville l&apos;agriculture/alimentation/restauration les mobilit&#xe9;s actives la qualit&#xe9; de l&apos;air</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>8 379</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>15 053</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>15 408</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>15 766</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>8 794</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J&apos;ai d&#xe9;missionn&#xe9; de cette responsabilit&#xe9; qui &#xe9;tait incompatible avec l&apos;exercice de mon mandat de d&#xe9;put&#xe9;</commentaire>
+					<descriptionMandat>Conseiller m&#xe9;tropolitain d&#xe9;l&#xe9;gu&#xe9; en charge des &#xe9;nergies renouvelables et de r&#xe9;cup&#xe9;ration de l&apos;&#xe9;conomie circulaire et de la gestion des d&#xe9;chets organiques</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>4 784</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>8 909</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>8 499</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>9 214</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>5 450</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller municipal</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>93</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2024</dateDebut>
+					<dateFin>08/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseiller m&#xe9;tropolitain</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>173</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>08/2024</dateDebut>
+					<dateFin>08/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je si&#xe8;ge au CA de cette association dans le cadre de mon mandat de conseiller municipal et m&#xe9;tropolitain comme repr&#xe9;sentant de Clermont Auvergne M&#xe9;tropole</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Atmo Auvergne-Rh&#xf4;ne-Alpes</nomSociete>
+					<activite>Association agr&#xe9;&#xe9;e de surveillance de la qualit&#xe9; de l&apos;air</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin>09/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J&apos;ai d&#xe9;missionn&#xe9; de cette responsabilit&#xe9; qui &#xe9;tait incompatible avec l&apos;exercice de mon mandat de d&#xe9;put&#xe9;</commentaire>
+					<nomSociete>SMTC (Autorit&#xe9; organisatrice de la mobilit&#xe9; du territoire de Clermont Auvergne M&#xe9;tropole)</nomSociete>
+					<activite>Vice-pr&#xe9;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>3 189</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>6 811</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>6 925</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>7 110</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>4 211</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2020</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>J&apos;ai d&#xe9;missionn&#xe9; de cette responsabilit&#xe9; qui &#xe9;tait incompatible avec l&apos;exercice de mon mandat de d&#xe9;put&#xe9;</commentaire>
+					<nomSociete>PETR du Grand Clermont</nomSociete>
+					<activite>Vice-pr&#xe9;sident</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>1 218</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>5 088</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>5 187</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>5 363</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>2 808</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2020</dateDebut>
+					<dateFin>07/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Je repr&#xe9;sente Atmo Auvergne-Rh&#xf4;ne-Alpes au bureau de la f&#xe9;d&#xe9;ration Atmo France</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>F&#xe9;d&#xe9;ration Atmo France</nomSociete>
+					<activite>Membre du bureau</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2020</dateDebut>
+					<dateFin>09/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Membre du conseil de surveillance</commentaire>
+					<nomSociete>SAEM Clauva&#xe9;</nomSociete>
+					<activite>Gestion d&apos;un r&#xe9;seau de chaleur de la m&#xe9;tropole clermontoise</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>09/2021</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SCIC Combrailles Durables</nomSociete>
+					<evaluation>500</evaluation>
+					<remuneration>Aucune ou marginale</remuneration>
+					<capitalDetenu/>
+					<nombreParts>10</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>Fonci&#xe8;re Terre de Liens</nomSociete>
+					<evaluation>2100</evaluation>
+					<remuneration>Aucune ou marginale</remuneration>
+					<capitalDetenu/>
+					<nombreParts>20</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomSociete>SCI 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>1000</evaluation>
+					<remuneration>Aucune</remuneration>
+					<capitalDetenu>1</capitalDetenu>
+					<nombreParts>10</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>GRANGER Armelle</nom>
+					<employeur>n&#xe9;ant</employeur>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>TOURNAY Maxime</nom>
+					<employeur>n&#xe9;ant</employeur>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>CISTERNE Amaury</nom>
+					<employeur>n&#xe9;ant</employeur>
+					<descriptionActivite/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>VIGIER Bastien</nom>
+					<employeur>n&#xe9;ant</employeur>
+					<descriptionActivite/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>63</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Puy-de-D&#xf4;me(63)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Puy-de-D&#xf4;me(63)</qualiteDeclarantForPDF>
+			<dateDebutMandat>08/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Bonnet</nom>
+				<prenom>Nicolas</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>11/02/1981</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>

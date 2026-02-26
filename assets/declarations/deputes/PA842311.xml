@@ -1,0 +1,872 @@
+<declaration>
+		<dateDepot>15/08/2024 21:02:13</dateDepot>
+		<uuid>942036d1-8d8c-4941-a199-e6d2b27c81cc</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<description>Cabinet du d&#xe9;l&#xe9;gu&#xe9; g&#xe9;n&#xe9;ral</description>
+					<employeur>La R&#xe9;publique En Marche</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>11652</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2019</dateDebut>
+					<dateFin>09/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Chef de cabinet</description>
+					<employeur>Minist&#xe8;re des Transports</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>18 936</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>70 168</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>77 116</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>11 185</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2019</dateDebut>
+					<dateFin>01/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Chef de cabinet adjoint</description>
+					<employeur>La R&#xe9;publique En Marche</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>34 380</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2022</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Sont ici inscrits les sommes totales per&#xe7;ues sur l&apos;ann&#xe9;e. Pour l&apos;ann&#xe9;e 2022 il s&apos;agit l&#xe0; de l&apos;agr&#xe9;gation avec les salaires de la p&#xe9;riode janvier 2022 &#xe0; juin 2022.</commentaire>
+					<description>Chef de cabinet adjoint</description>
+					<employeur>Pr&#xe9;sidence de la R&#xe9;publique</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>89 686</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>82 377</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>14 298</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin>02/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Conseiller</description>
+					<employeur>Minist&#xe8;re de l&apos;Europe et des Affaires &#xe9;trang&#xe8;res</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>2 627 274</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2024</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>ABACA</employeurConjoint>
+					<activiteProf>Activit&#xe9; de photographe professionnelle. 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#xe9;</label>
+					</motif>
+					<commentaire>Ma fonction de Pr&#xe9;sident de l&apos;Association a pris fin &#xe0; la date du renouvellement des instances de l&apos;association (24/07/2023). Dans le cadre du mandat (2023-2025) j&apos;exerce au sein de la m&#xea;me association et toujours de fa&#xe7;on b&#xe9;n&#xe9;vole la fonction de vice-pr&#xe9;sident.</commentaire>
+					<conservee>false</conservee>
+					<nomStructure>Association des collaborateurs progressistes et r&#xe9;publicains </nomStructure>
+					<descriptionActivite>Responsabilit&#xe9; exerc&#xe9;e : pr&#xe9;sident b&#xe9;n&#xe9;vole de l&apos;association. Activit&#xe9; : mise en relation et promotion des m&#xe9;tiers des collaborateurs d&apos;&#xe9;lus et de responsables publics (promotion des m&#xe9;tiers de collaborateurs organisation d&apos;&#xe9;v&#xe9;nements festifs promotion de la formation encouragement aux mobilit&#xe9;s professionnelles et &#xe0; l&apos;&#xe9;galit&#xe9; entre les femmes et les hommes). </descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#xe9;</label>
+					</motif>
+					<commentaire>Mes fonctions au sein de Point d&apos;Orgue ont pris fin suite &#xe0; la dissolution de l&apos;association (06/07/2023)</commentaire>
+					<conservee>false</conservee>
+					<nomStructure>Point d&apos;orgue</nomStructure>
+					<descriptionActivite>Point d&apos;orgue &#xe9;tait une association ayant pour objet de participer &#xe0; la diffusion intellectuelle d&apos;id&#xe9;es progressistes en organisant principalement &#xe0; cette fin l&apos;&#xe9;mission et la publication des travaux de ses membres.</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items/>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>Corentin LUCE</nom>
+					<employeur/>
+					<descriptionActivite>Mission de gestion d&apos;agenda et du courrier. Suivi des activit&#xe9;s l&#xe9;gislatives &#xe0; Paris et des dossiers de circonscription.</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>099</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>repr&#xe9;sentant les Fran&#xe7;ais &#xe9;tablis hors de France (Assembl&#xe9;e nationale)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/repr&#xe9;sentant les Fran&#xe7;ais &#xe9;tablis hors de France (Assembl&#xe9;e nationale)</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Caure</nom>
+				<prenom>Vincent</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>31/12/1992</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+<declaration>
+		<dateDepot>15/02/2025 15:05:32</dateDepot>
+		<uuid>d7a247ab-63a6-496e-ab96-b7816634f7e9</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<description>Cabinet du d&#xe9;l&#xe9;gu&#xe9; g&#xe9;n&#xe9;ral</description>
+					<employeur>La R&#xe9;publique En Marche</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>11652</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2019</dateDebut>
+					<dateFin>09/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Chef de cabinet</description>
+					<employeur>Minist&#xe8;re des Transports</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>18 936</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>70 168</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>77 116</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>11 185</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2019</dateDebut>
+					<dateFin>01/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Chef de cabinet adjoint</description>
+					<employeur>La R&#xe9;publique En Marche</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>34 380</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2022</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Sont ici inscrits les sommes totales per&#xe7;ues sur l&apos;ann&#xe9;e. Pour l&apos;ann&#xe9;e 2022 il s&apos;agit l&#xe0; de l&apos;agr&#xe9;gation avec les salaires de la p&#xe9;riode janvier 2022 &#xe0; juin 2022.</commentaire>
+					<description>Chef de cabinet adjoint</description>
+					<employeur>Pr&#xe9;sidence de la R&#xe9;publique</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>43 353</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>82 377</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>14 298</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin>02/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Conseiller</description>
+					<employeur>Minist&#xe8;re de l&apos;Europe et des Affaires &#xe9;trang&#xe8;res</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>36 409</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2024</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>ABACA</employeurConjoint>
+					<activiteProf>Activit&#xe9; de photographe professionnelle. 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#xe9;</label>
+					</motif>
+					<commentaire>Ma fonction de Pr&#xe9;sident de l&apos;Association a pris fin &#xe0; la date du renouvellement des instances de l&apos;association (24/07/2023). Dans le cadre du mandat (2023-2025) j&apos;exerce au sein de la m&#xea;me association et toujours de fa&#xe7;on b&#xe9;n&#xe9;vole la fonction de vice-pr&#xe9;sident.</commentaire>
+					<conservee>false</conservee>
+					<nomStructure>Association des collaborateurs progressistes et r&#xe9;publicains </nomStructure>
+					<descriptionActivite>Responsabilit&#xe9; exerc&#xe9;e : pr&#xe9;sident b&#xe9;n&#xe9;vole de l&apos;association. Activit&#xe9; : mise en relation et promotion des m&#xe9;tiers des collaborateurs d&apos;&#xe9;lus et de responsables publics (promotion des m&#xe9;tiers de collaborateurs organisation d&apos;&#xe9;v&#xe9;nements festifs promotion de la formation encouragement aux mobilit&#xe9;s professionnelles et &#xe0; l&apos;&#xe9;galit&#xe9; entre les femmes et les hommes). </descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items/>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<nom>Corentin LUCE</nom>
+					<employeur/>
+					<descriptionActivite>Mission de gestion d&apos;agenda et du courrier. Suivi des activit&#xe9;s l&#xe9;gislatives &#xe0; Paris et des dossiers de circonscription.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<nom>Amandine PASQUIER</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice parlementaire &#xe0; l&apos;Assembl&#xe9;e nationale activit&#xe9; principale : travail l&#xe9;gislatif suivi de la commission des lois.</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>099</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>repr&#xe9;sentant les Fran&#xe7;ais &#xe9;tablis hors de France (Assembl&#xe9;e nationale)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/repr&#xe9;sentant les Fran&#xe7;ais &#xe9;tablis hors de France (Assembl&#xe9;e nationale)</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Caure</nom>
+				<prenom>Vincent</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>31/12/1992</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+<declaration>
+		<dateDepot>15/09/2025 15:16:42</dateDepot>
+		<uuid>75c5c60e-b4c1-44c7-8676-971dc6715350</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>false</conservee>
+					<description>Cabinet du d&#xe9;l&#xe9;gu&#xe9; g&#xe9;n&#xe9;ral</description>
+					<employeur>La R&#xe9;publique En Marche</employeur>
+					<remuneration>
+						<brutNet>Brut</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>11652</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>07/2019</dateDebut>
+					<dateFin>09/2019</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Chef de cabinet</description>
+					<employeur>Minist&#xe8;re des Transports</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>18 936</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>70 168</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>77 116</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>11 185</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>10/2019</dateDebut>
+					<dateFin>01/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Chef de cabinet adjoint</description>
+					<employeur>La R&#xe9;publique En Marche</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>34 380</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2022</dateDebut>
+					<dateFin>06/2022</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Sont ici inscrits les sommes totales per&#xe7;ues sur l&apos;ann&#xe9;e. Pour l&apos;ann&#xe9;e 2022 il s&apos;agit l&#xe0; de l&apos;agr&#xe9;gation avec les salaires de la p&#xe9;riode janvier 2022 &#xe0; juin 2022.</commentaire>
+					<description>Chef de cabinet adjoint</description>
+					<employeur>Pr&#xe9;sidence de la R&#xe9;publique</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>43 353</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>82 377</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>14 298</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2022</dateDebut>
+					<dateFin>02/2024</dateFin>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<description>Conseiller</description>
+					<employeur>Minist&#xe8;re de l&apos;Europe et des Affaires &#xe9;trang&#xe8;res</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>36 409</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>02/2024</dateDebut>
+					<dateFin>06/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>ABACA</employeurConjoint>
+					<activiteProf>Activit&#xe9; de photographe professionnelle. 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label>Nouvelle activit&#xe9;</label>
+					</motif>
+					<commentaire>Ma fonction de Pr&#xe9;sident de l&apos;Association a pris fin &#xe0; la date du renouvellement des instances de l&apos;association (24/07/2023). Dans le cadre du mandat (2023-2025) j&apos;exerce au sein de la m&#xea;me association et toujours de fa&#xe7;on b&#xe9;n&#xe9;vole la fonction de vice-pr&#xe9;sident.</commentaire>
+					<conservee>false</conservee>
+					<nomStructure>Association des collaborateurs progressistes et r&#xe9;publicains </nomStructure>
+					<descriptionActivite>Responsabilit&#xe9; exerc&#xe9;e : pr&#xe9;sident b&#xe9;n&#xe9;vole de l&apos;association. Activit&#xe9; : mise en relation et promotion des m&#xe9;tiers des collaborateurs d&apos;&#xe9;lus et de responsables publics (promotion des m&#xe9;tiers de collaborateurs organisation d&apos;&#xe9;v&#xe9;nements festifs promotion de la formation encouragement aux mobilit&#xe9;s professionnelles et &#xe0; l&apos;&#xe9;galit&#xe9; entre les femmes et les hommes). </descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items/>
+			<neant>true</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items/>
+			<neant>true</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items/>
+			<neant>true</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<nom>Amandine PASQUIER</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice parlementaire &#xe0; l&apos;Assembl&#xe9;e nationale activit&#xe9; principale : travail l&#xe9;gislatif suivi de la commission des lois.</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<nom>Pierre LE BRIGAND</nom>
+					<employeur/>
+					<descriptionActivite>Collaboratrice parlementaire &#xe0; l&apos;Assembl&#xe9;e nationale activit&#xe9; principale : travail l&#xe9;gislatif et suivi des activit&#xe9;s en circonscription.</descriptionActivite>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>099</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>repr&#xe9;sentant les Fran&#xe7;ais &#xe9;tablis hors de France (Assembl&#xe9;e nationale)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/repr&#xe9;sentant les Fran&#xe7;ais &#xe9;tablis hors de France (Assembl&#xe9;e nationale)</qualiteDeclarantForPDF>
+			<dateDebutMandat>07/07/2025</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>M.</civilite>
+				<nom>Caure</nom>
+				<prenom>Vincent</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>31/12/1992</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>

@@ -1,0 +1,987 @@
+<declaration>
+		<dateDepot>19/12/2024 11:00:12</dateDepot>
+		<uuid>95815af5-1d01-486c-96f0-a60d8be9460c</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<description>Responsable de structure petite enfance</description>
+					<employeur>CROIX ROUGE ILE DE FRANCE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>15 062</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>15 111</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2023</dateDebut>
+					<dateFin>09/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Groupe de courtage et conseil en assurance</commentaire>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>DIOTSIACI</employeurConjoint>
+					<activiteProf>Directeur G&#xe9;n&#xe9;ral 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseill&#xe8;re d&apos;arrondissement - Paris 16</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#xe9;mun&#xe9;ration = Quote-part de revenus fonciers d&#xe9;clar&#xe9;s dans la d&#xe9;claration de revenus fonciers D&#xe9;tention de 4 parts en pleine propri&#xe9;t&#xe9; et de 4004 parts en usufruit sur toute la p&#xe9;riode</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>
+        [Donn&#xe9;es non publi&#xe9;es]
+     SCI</nomSociete>
+					<activite>G&#xe9;rante</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>6 351</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>19 058</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>17 051</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>14 876</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>20 105</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>21 581</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>17 063</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mandat b&#xe9;n&#xe9;vole</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Association Les Amis du Centre Pompidou Metz</nomSociete>
+					<activite>Membre du conseil d&apos;administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2018</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2018</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#xe9;mun&#xe9;ration = dividende 2023 vers&#xe9; au titre de la participation d&#xe9;tenue en 2023 &#xe0; savoir 4 actions d&#xe9;tenues en pleine propri&#xe9;t&#xe9; et 3 868 actions d&#xe9;tenues en usufruit. Il a &#xe9;t&#xe9; recueilli par voie de donation en 2024 l&apos;usufruit de 3 872 actions.</commentaire>
+					<nomSociete>WENDEL PARTICIPATIONS SE</nomSociete>
+					<evaluation>3832840</evaluation>
+					<remuneration>145587&#x20ac;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>7744</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#xe9;tention de 4 parts en pleine propri&#xe9;t&#xe9; et de 4000 parts en usufruit</commentaire>
+					<nomSociete>SCI 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>676022</evaluation>
+					<remuneration>17063</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>4004</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#xe9;mun&#xe9;ration = dividendes D&#xe9;tention dans le cadre d&apos;un PEA</commentaire>
+					<nomSociete>AIR LIQUIDE</nomSociete>
+					<evaluation>5759</evaluation>
+					<remuneration>97.35 &#x20ac;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>36</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#xe9;mun&#xe9;ration = dividendes Participation d&#xe9;tenue dans le cadre d&apos;un PEA</commentaire>
+					<nomSociete>ESSILOR LUXOTTICA</nomSociete>
+					<evaluation>7864</evaluation>
+					<remuneration>110</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>34</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#xe9;mun&#xe9;ration = dividendes Participation d&#xe9;tenue dans le cadre d&apos;un PEA</commentaire>
+					<nomSociete>HERMES INTERNATIONAL</nomSociete>
+					<evaluation>4514</evaluation>
+					<remuneration>26 &#x20ac;</remuneration>
+					<capitalDetenu/>
+					<nombreParts>2</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#xe9;mun&#xe9;ration = dividendes Participation d&#xe9;tenue dans le cadre d&apos;un PEA</commentaire>
+					<nomSociete>L&apos;OREAL</nomSociete>
+					<evaluation>6488</evaluation>
+					<remuneration>114 &#x20ac;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>19</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#xe9;mun&#xe9;ration = dividende Participation d&#xe9;tenue dans le cadre d&apos;un PEA</commentaire>
+					<nomSociete>LEGRAND</nomSociete>
+					<evaluation>7182</evaluation>
+					<remuneration>140.60 &#x20ac;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>74</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#xe9;mun&#xe9;ration = dividende Participation d&#xe9;tenue dans le cadre d&apos;un PEA</commentaire>
+					<nomSociete>PERNOD-RICARD</nomSociete>
+					<evaluation>3358</evaluation>
+					<remuneration>141 &#x20ac;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>30</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#xe9;mun&#xe9;ration = dividende Participation d&#xe9;tenue dans le cadre d&apos;un PEA</commentaire>
+					<nomSociete>SAINT GOBAIN</nomSociete>
+					<evaluation>7616</evaluation>
+					<remuneration>170 &#x20ac;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>85</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#xe9;mun&#xe9;ration = dividende Participation d&#xe9;tenue dans le cadre d&apos;un PEA</commentaire>
+					<nomSociete>SCHNEIDER ELECTRIC SE</nomSociete>
+					<evaluation>10901</evaluation>
+					<remuneration>138.60 &#x20ac;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>44</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#xe9;mun&#xe9;ration = dividende Participation d&#xe9;tenue dans le cadre d&apos;un PEA</commentaire>
+					<nomSociete>KBC GROUPE SA</nomSociete>
+					<evaluation>4608</evaluation>
+					<remuneration>182 &#x20ac;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>65</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Participation d&#xe9;tenue dans le cadre d&apos;un PEA</commentaire>
+					<nomSociete>BNPP IND.AMNORD CL. H FCP DEC</nomSociete>
+					<evaluation>231</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>0</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>LEFIEVRE Fabian</nom>
+					<employeur>BLENDS SAS LEFIEVRE MULLER SCI</employeur>
+					<descriptionActivite>Co-directeur g&#xe9;n&#xe9;ral de BLEND SAS et Associ&#xe9; Co-g&#xe9;rant de LEFIEVRE MULLER SCI</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>LEJEUNE Claire</nom>
+					<employeur>AGENCE HOLECO SAS</employeur>
+					<descriptionActivite>Directrice G&#xe9;n&#xe9;rale</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>THOUIN Laurence</nom>
+					<employeur>Institut de la tour</employeur>
+					<descriptionActivite>enseignante / salari&#xe9;e</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>ROBINEAU Pacifique</nom>
+					<employeur/>
+					<descriptionActivite/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<contenu>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </contenu>
+				</items>
+			</items>
+			<neant>false</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s</label>
+				<filtre/>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>75</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Paris(75)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Paris(75)</qualiteDeclarantForPDF>
+			<dateDebutMandat>22/10/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>false</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Missoffe</nom>
+				<prenom>Josephine</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>24/09/1973</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
+<declaration>
+		<dateDepot>21/02/2025 17:32:48</dateDepot>
+		<uuid>5b03c6ea-7817-4802-aed2-b97932fc23e3</uuid>
+		<origine>ADEL</origine>
+		<complete>true</complete>
+		<attachedFiles>
+			<attachedFiles>
+				<fileName>VUE_PDF_DU_RECEPISSE_DU_DEPOT_XML</fileName>
+				<serverFileName/>
+				<base64EncodedContent/>
+			</attachedFiles>
+		</attachedFiles>
+		<declarationVersion>20171221</declarationVersion>
+		<activConsultantDto>
+			<items/>
+			<neant>true</neant>
+		</activConsultantDto>
+		<activProfCinqDerniereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>
+        [Donn&#xe9;es non publi&#xe9;es]
+    </commentaire>
+					<description>Responsable de structure petite enfance</description>
+					<employeur>CROIX ROUGE ILE DE FRANCE</employeur>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>15 062</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>15 111</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2023</dateDebut>
+					<dateFin>09/2024</dateFin>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfCinqDerniereDto>
+		<activProfConjointDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Groupe de courtage et conseil en assurance</commentaire>
+					<nomConjoint>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </nomConjoint>
+					<employeurConjoint>DIOTSIACI</employeurConjoint>
+					<activiteProf>Directeur G&#xe9;n&#xe9;ral 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </activiteProf>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activProfConjointDto>
+		<fonctionBenevoleDto>
+			<items/>
+			<neant>true</neant>
+		</fonctionBenevoleDto>
+		<mandatElectifDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<conservee>true</conservee>
+					<descriptionMandat>Conseill&#xe8;re d&apos;arrondissement - Paris 16</descriptionMandat>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>06/2021</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</mandatElectifDto>
+		<participationDirigeantDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#xe9;mun&#xe9;ration = Quote-part de revenus fonciers d&#xe9;clar&#xe9;s dans la d&#xe9;claration de revenus fonciers D&#xe9;tention de 4 parts en pleine propri&#xe9;t&#xe9; et de 4004 parts en usufruit sur toute la p&#xe9;riode QP du r&#xe9;sultat 2024 non encore connue</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>
+        [Donn&#xe9;es non publi&#xe9;es]
+     SCI</nomSociete>
+					<activite>G&#xe9;rante</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>19 058</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>17 051</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>14 876</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>20 105</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>21 581</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>17 063</montant>
+							</montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin/>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Mandat b&#xe9;n&#xe9;vole</commentaire>
+					<conservee>true</conservee>
+					<nomSociete>Association Les Amis du Centre Pompidou Metz</nomSociete>
+					<activite>Membre du conseil d&apos;administration</activite>
+					<remuneration>
+						<brutNet>Net</brutNet>
+						<montant>
+							<montant>
+								<annee>2019</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2020</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2021</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2022</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2023</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2024</annee>
+								<montant>0</montant>
+							</montant>
+							<montant>
+								<annee>2025</annee>
+								<montant>0</montant>
+							</montant>
+						</montant>
+					</remuneration>
+					<dateDebut>01/2019</dateDebut>
+					<dateFin/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationDirigeantDto>
+		<participationFinanciereDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#xe9;mun&#xe9;ration = dividende 2023 vers&#xe9; au titre de la participation d&#xe9;tenue en 2023 &#xe0; savoir 4 actions d&#xe9;tenues en pleine propri&#xe9;t&#xe9; et 3 868 actions d&#xe9;tenues en usufruit. Il a &#xe9;t&#xe9; recueilli par voie de donation en 2024 l&apos;usufruit de 3 872 actions.</commentaire>
+					<nomSociete>WENDEL PARTICIPATIONS SE</nomSociete>
+					<evaluation>2797028</evaluation>
+					<remuneration>145587&#x20ac;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>7744</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>D&#xe9;tention de 4 parts en pleine propri&#xe9;t&#xe9; et de 4000 parts en usufruit</commentaire>
+					<nomSociete>SCI 
+        [Donn&#xe9;es non publi&#xe9;es]
+    </nomSociete>
+					<evaluation>676022</evaluation>
+					<remuneration>17063</remuneration>
+					<capitalDetenu>100</capitalDetenu>
+					<nombreParts>4004</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#xe9;mun&#xe9;ration = dividendes D&#xe9;tention dans le cadre d&apos;un PEA</commentaire>
+					<nomSociete>AIR LIQUIDE</nomSociete>
+					<evaluation>5759</evaluation>
+					<remuneration>97.35 &#x20ac;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>36</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#xe9;mun&#xe9;ration = dividendes Participation d&#xe9;tenue dans le cadre d&apos;un PEA</commentaire>
+					<nomSociete>ESSILOR LUXOTTICA</nomSociete>
+					<evaluation>7864</evaluation>
+					<remuneration>110</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>34</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#xe9;mun&#xe9;ration = dividendes Participation d&#xe9;tenue dans le cadre d&apos;un PEA</commentaire>
+					<nomSociete>HERMES INTERNATIONAL</nomSociete>
+					<evaluation>4514</evaluation>
+					<remuneration>26 &#x20ac;</remuneration>
+					<capitalDetenu/>
+					<nombreParts>2</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#xe9;mun&#xe9;ration = dividendes Participation d&#xe9;tenue dans le cadre d&apos;un PEA</commentaire>
+					<nomSociete>L&apos;OREAL</nomSociete>
+					<evaluation>6488</evaluation>
+					<remuneration>114 &#x20ac;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>19</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#xe9;mun&#xe9;ration = dividende Participation d&#xe9;tenue dans le cadre d&apos;un PEA</commentaire>
+					<nomSociete>LEGRAND</nomSociete>
+					<evaluation>7182</evaluation>
+					<remuneration>140.60 &#x20ac;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>74</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#xe9;mun&#xe9;ration = dividende Participation d&#xe9;tenue dans le cadre d&apos;un PEA</commentaire>
+					<nomSociete>PERNOD-RICARD</nomSociete>
+					<evaluation>3358</evaluation>
+					<remuneration>141 &#x20ac;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>30</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#xe9;mun&#xe9;ration = dividende Participation d&#xe9;tenue dans le cadre d&apos;un PEA</commentaire>
+					<nomSociete>SAINT GOBAIN</nomSociete>
+					<evaluation>7616</evaluation>
+					<remuneration>170 &#x20ac;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>85</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#xe9;mun&#xe9;ration = dividende Participation d&#xe9;tenue dans le cadre d&apos;un PEA</commentaire>
+					<nomSociete>SCHNEIDER ELECTRIC SE</nomSociete>
+					<evaluation>10901</evaluation>
+					<remuneration>138.60 &#x20ac;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>44</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>R&#xe9;mun&#xe9;ration = dividende Participation d&#xe9;tenue dans le cadre d&apos;un PEA</commentaire>
+					<nomSociete>KBC GROUPE SA</nomSociete>
+					<evaluation>4608</evaluation>
+					<remuneration>182 &#x20ac;</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>65</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire>Participation d&#xe9;tenue dans le cadre d&apos;un PEA</commentaire>
+					<nomSociete>BNPP IND.AMNORD CL. H FCP DEC</nomSociete>
+					<evaluation>231</evaluation>
+					<remuneration>0</remuneration>
+					<capitalDetenu>0</capitalDetenu>
+					<nombreParts>0</nombreParts>
+					<actiConseil>Non</actiConseil>
+				</items>
+			</items>
+			<neant>false</neant>
+		</participationFinanciereDto>
+		<activCollaborateursDto>
+			<items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>LEFIEVRE Fabian</nom>
+					<employeur>BLENDS SAS LEFIEVRE MULLER SCI</employeur>
+					<descriptionActivite>Co-directeur g&#xe9;n&#xe9;ral de BLEND SAS et Associ&#xe9; Co-g&#xe9;rant de LEFIEVRE MULLER SCI</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>LEJEUNE Claire</nom>
+					<employeur>AGENCE HOLECO SAS</employeur>
+					<descriptionActivite>Directrice G&#xe9;n&#xe9;rale</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>THOUIN Laurence</nom>
+					<employeur>Institut de la tour</employeur>
+					<descriptionActivite>enseignante / salari&#xe9;e</descriptionActivite>
+				</items>
+				<items>
+					<motif>
+						<id>CREATION</id>
+						<label/>
+					</motif>
+					<commentaire/>
+					<nom>ROBINEAU Pacifique</nom>
+					<employeur>N&#xe9;ant</employeur>
+					<descriptionActivite/>
+				</items>
+			</items>
+			<neant>false</neant>
+		</activCollaborateursDto>
+		<observationInteretDto>
+			<neant>true</neant>
+		</observationInteretDto>
+		<general>
+			<typeDeclaration>
+				<id>DIA</id>
+				<label>D&#xe9;claration d&apos;int&#xe9;r&#xea;ts et d&apos;activit&#xe9;s modificative</label>
+			</typeDeclaration>
+			<mandat>
+				<label>D&#xe9;put&#xe9; ou s&#xe9;nateur</label>
+			</mandat>
+			<qualiteMandat>
+				<typeMandat>D&#xe9;put&#xe9;</typeMandat>
+				<codCategorieMandat>PAR</codCategorieMandat>
+				<nomCategorieMandat>D&#xe9;put&#xe9; ou s&#xe9;nateur</nomCategorieMandat>
+				<codTypeMandatFichier>depute</codTypeMandatFichier>
+				<labelTypeMandat>D&#xe9;put&#xe9;</labelTypeMandat>
+				<labelOrgane>D&#xe9;partement d&apos;&#xe9;lection</labelOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+			</qualiteMandat>
+			<organe>
+				<codeOrgane>75</codeOrgane>
+				<codeListeOrgane>ZEP</codeListeOrgane>
+				<nomListeOrgane>Zones d&apos;&#xe9;lection des parlementaires</nomListeOrgane>
+				<labelOrgane>Paris(75)</labelOrgane>
+				<labelDeclaration/>
+				<organeParent/>
+				<horsLoi3DS>false</horsLoi3DS>
+			</organe>
+			<qualiteDeclarant/>
+			<qualiteDeclarantForPDF>D&#xe9;put&#xe9;/Paris(75)</qualiteDeclarantForPDF>
+			<dateDebutMandat>22/10/2024</dateDebutMandat>
+			<dateFinMandat/>
+			<dateDernDeclar/>
+			<regimeMatrimonial/>
+			<regimeMatrimonialComments/>
+			<nomSociete/>
+			<nomSocieteMere/>
+			<chiffreAffaire/>
+			<nbLogements/>
+			<declarationModificative>true</declarationModificative>
+			<etablissement/>
+			<declarant>
+				<civilite>Mme</civilite>
+				<nom>Missoffe</nom>
+				<prenom>Josephine</prenom>
+				<email>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </email>
+				<dateNaissance>24/09/1973</dateNaissance>
+				<pieceIdentite/>
+				<telephoneDec>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </telephoneDec>
+				<adresseDec>
+					<voie>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </voie>
+					<complement>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </complement>
+					<codePostal>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </codePostal>
+					<ville>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </ville>
+					<pays>
+            [Donn&#xe9;es non publi&#xe9;es]
+        </pays>
+				</adresseDec>
+			</declarant>
+		</general>
+	</declaration>
