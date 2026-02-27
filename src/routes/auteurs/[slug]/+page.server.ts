@@ -1,5 +1,6 @@
 import { getAllAuteurs, getAuteurBySlug, getPostsByAuteur, slugify } from '$lib/server/content';
 import { loadDeclarations } from '$lib/server/declarations';
+import { loadElections } from '$lib/server/elections';
 import { getAllGroupes } from '$lib/server/groupes';
 import { findDeputeByNameInDb, getAuthorCounts, getTopCosignataires } from '$lib/server/queries';
 import { error } from '@sveltejs/kit';
@@ -34,8 +35,9 @@ export const load: PageServerLoad = async ({ params }) => {
   const topTags = [...tagCounts.values()].sort((a, b) => b.count - a.count).slice(0, 10);
 
   const declarations = dep ? loadDeclarations(dep.id) : [];
+  const elections = dep ? loadElections(dep.departement_code, dep.circo) : null;
 
-  return { name, posts, totalPosts, dep, groupe, topTags, cosignataires, counts, declarations };
+  return { name, posts, totalPosts, dep, groupe, topTags, cosignataires, counts, declarations, elections };
 };
 
 export function entries() {

@@ -1,5 +1,6 @@
 <script lang="ts">
   import DeputeDeclarations from '$lib/components/DeputeDeclarations.svelte';
+  import DeputeElections from '$lib/components/DeputeElections.svelte';
   import Pagination from '$lib/components/Pagination.svelte';
   import PostCard from '$lib/components/PostCard.svelte';
   import { Badge } from '$lib/components/ui/badge';
@@ -10,7 +11,7 @@
 
   let { data }: { data: PageData } = $props();
 
-  let activeTab = $state<'profil' | 'declarations'>('profil');
+  let activeTab = $state<'profil' | 'elections' | 'declarations'>('profil');
   let pageNum = $state(1);
   let photoError = $state(false);
   let cosigPhotoErrors = $state<boolean[]>([]);
@@ -273,6 +274,20 @@
         </button>
         <button
           onclick={() => {
+            activeTab = 'elections';
+          }}
+          class="relative px-4 py-2 text-xs font-semibold uppercase tracking-wider transition-colors"
+          class:text-foreground={activeTab === 'elections'}
+          class:text-muted-foreground={activeTab !== 'elections'}
+          class:hover:text-foreground={activeTab !== 'elections'}
+        >
+          Élections
+          {#if activeTab === 'elections'}
+            <span class="absolute inset-x-0 -bottom-px h-0.5" style="background-color: {groupeColour};"></span>
+          {/if}
+        </button>
+        <button
+          onclick={() => {
             activeTab = 'declarations';
           }}
           class="relative px-4 py-2 text-xs font-semibold uppercase tracking-wider transition-colors"
@@ -370,6 +385,9 @@
             </div>
           {/if}
         </div>
+      {:else if activeTab === 'elections'}
+        <!-- Tab: Élections -->
+        <DeputeElections election={data.elections} {groupeColour} />
       {:else}
         <!-- Tab: Déclarations -->
         <div class="mt-4">
