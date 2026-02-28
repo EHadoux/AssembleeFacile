@@ -12,9 +12,7 @@
 	<div class="mx-auto flex max-w-6xl items-center gap-2 sm:gap-6 px-4 py-3">
 		<!-- Logo -->
 		<a href="/" class="flex items-center gap-2.5 shrink-0">
-			<div class="flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
-				<span class="text-sm font-bold text-primary-foreground leading-none">AN</span>
-			</div>
+			<img src="/logo.svg" alt="Assemblée Facile" class="h-8 w-8" />
 			<span class="hidden sm:block text-base font-bold tracking-tight text-foreground">
 				Assemblée<span class="text-primary">Facile</span>
 			</span>
