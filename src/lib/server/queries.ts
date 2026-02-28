@@ -330,26 +330,45 @@ export function getScrutins(slug: string): Scrutin[] {
   });
 }
 
-export interface DeputeVote {
+export interface DeputeVoteRich {
   article_slug: string;
+  article_titre: string;
+  article_titre_court: string;
   scrutin_uid: string;
   date_scrutin: string;
   sort: string;
   position: string;
   par_delegation: number;
+  pour: number;
+  contre: number;
+  abstentions: number;
+  non_votants: number;
 }
 
-/** Votes d'un député sur les propositions indexées sur le site.
+/** Votes d'un député sur les propositions indexées sur le site, avec titre et résultats du scrutin.
  *  Utilisé : `routes/auteurs/[slug]/+page.server.ts`. */
-export function getDeputeVotes(deputeId: string): DeputeVote[] {
+export function getDeputeVotesRich(deputeId: string): DeputeVoteRich[] {
   const stmt = db.prepare(`
-    SELECT s.article_slug, s.uid AS scrutin_uid, s.date_scrutin, s.sort, svd.position, svd.par_delegation
+    SELECT
+      s.article_slug,
+      a.titre AS article_titre,
+      a.titre_court AS article_titre_court,
+      s.uid AS scrutin_uid,
+      s.date_scrutin,
+      s.sort,
+      svd.position,
+      svd.par_delegation,
+      s.pour,
+      s.contre,
+      s.abstentions,
+      s.non_votants
     FROM scrutin_votes_deputes svd
     JOIN scrutins s ON svd.scrutin_uid = s.uid
+    JOIN articles a ON s.article_slug = a.slug
     WHERE svd.acteur_ref = ?
-    ORDER BY s.date_scrutin ASC
+    ORDER BY s.date_scrutin DESC
   `);
-  return stmt.all(deputeId) as unknown as DeputeVote[];
+  return stmt.all(deputeId) as unknown as DeputeVoteRich[];
 }
 
 /** Députés ayant le plus souvent cosigné avec le député donné (co-occurrence sur les mêmes articles).

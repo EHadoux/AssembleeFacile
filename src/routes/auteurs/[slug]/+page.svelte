@@ -12,6 +12,7 @@
   let { data }: { data: PageData } = $props();
 
   let activeTab = $state<'profil' | 'elections' | 'declarations'>('profil');
+  let contentTab = $state<'propositions' | 'votes'>('propositions');
   let pageNum = $state(1);
   let photoError = $state(false);
   let cosigPhotoErrors = $state<boolean[]>([]);
@@ -63,11 +64,6 @@
   }
 
   const groupeColour = $derived(data.groupe?.couleur ?? '#6b7280');
-
-  // Map article_slug → vote position (keep the latest vote if multiple per article)
-  const voteMap = $derived(
-    new Map<string, string>(data.votes.map((v) => [v.article_slug, v.position]))
-  );
 
   const totalPages = $derived(Math.ceil(data.totalPosts / AUTEUR_PER_PAGE));
   const paginatedPosts = $derived(data.posts.slice((pageNum - 1) * AUTEUR_PER_PAGE, pageNum * AUTEUR_PER_PAGE));
@@ -406,42 +402,140 @@
   {#if activeTab === 'profil'}
     <div class="grid grid-cols-1 gap-8 lg:grid-cols-[1fr_240px]">
       <section>
-        <h2 class="mb-4 text-xs font-semibold uppercase tracking-widest text-muted-foreground">
-          Propositions ({data.totalPosts})
-        </h2>
-        <div class="flex flex-col gap-3">
-          {#each paginatedPosts as post}
-            {@const vote = voteMap.get(post.slug)}
-            <div class="relative">
-              <PostCard {post} />
-              {#if vote}
-                {@const voteAdopted = vote === 'pour'}
-                {@const voteAgainst = vote === 'contre'}
-                {@const voteAbst = vote === 'abstention'}
-                <span
-                  class="absolute right-3 top-3 inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-[11px] font-bold shadow-sm
-                    {voteAdopted ? 'bg-green-100 text-green-800' : voteAgainst ? 'bg-red-100 text-red-800' : voteAbst ? 'bg-amber-100 text-amber-800' : 'bg-muted text-muted-foreground'}"
-                  title="Vote de {data.name} : {vote}"
-                >
-                  {#if voteAdopted}✔ Pour
-                  {:else if voteAgainst}✖ Contre
-                  {:else if voteAbst}~ Abstention
-                  {:else}— Non-votant
-                  {/if}
-                </span>
+        <!-- Content tab bar -->
+        <div class="mb-5 flex gap-0 border-b border-border/60">
+          <button
+            onclick={() => { contentTab = 'propositions'; pageNum = 1; }}
+            class="relative px-4 py-2 text-xs font-semibold uppercase tracking-wider transition-colors"
+            class:text-foreground={contentTab === 'propositions'}
+            class:text-muted-foreground={contentTab !== 'propositions'}
+          >
+            Propositions ({data.totalPosts})
+            {#if contentTab === 'propositions'}
+              <span class="absolute inset-x-0 -bottom-px h-0.5" style="background-color: {groupeColour};"></span>
+            {/if}
+          </button>
+          {#if data.votes.length > 0}
+            <button
+              onclick={() => { contentTab = 'votes'; }}
+              class="relative px-4 py-2 text-xs font-semibold uppercase tracking-wider transition-colors"
+              class:text-foreground={contentTab === 'votes'}
+              class:text-muted-foreground={contentTab !== 'votes'}
+            >
+              Votes ({data.votes.length})
+              {#if contentTab === 'votes'}
+                <span class="absolute inset-x-0 -bottom-px h-0.5" style="background-color: {groupeColour};"></span>
               {/if}
-            </div>
-          {/each}
+            </button>
+          {/if}
         </div>
 
-        {#if totalPages > 1}
-          <Pagination
-            {pageNum}
-            {totalPages}
-            onPageChange={(page) => {
-              pageNum = page;
-            }}
-          />
+        {#if contentTab === 'propositions'}
+          <div class="flex flex-col gap-3">
+            {#each paginatedPosts as post}
+              <PostCard {post} />
+            {/each}
+          </div>
+
+          {#if totalPages > 1}
+            <Pagination
+              {pageNum}
+              {totalPages}
+              onPageChange={(page) => {
+                pageNum = page;
+              }}
+            />
+          {/if}
+        {:else}
+          <!-- Votes tab -->
+          <div class="flex flex-col gap-3">
+            {#each data.votes as vote}
+              {@const vPour = vote.position === 'pour'}
+              {@const vContre = vote.position === 'contre'}
+              {@const vAbst = vote.position === 'abstention'}
+              {@const sAdopted = vote.sort === 'adopté'}
+              {@const sRejected = vote.sort === 'rejeté'}
+              {@const totalVoted = vote.pour + vote.contre + vote.abstentions + vote.non_votants || 1}
+              {@const totalDeputeCount = 577}
+              {@const totalAbsents = Math.max(0, totalDeputeCount - totalVoted)}
+              {@const pctPour = Math.round((vote.pour / totalDeputeCount) * 100)}
+              {@const pctContre = Math.round((vote.contre / totalDeputeCount) * 100)}
+              {@const pctAbst = Math.round((vote.abstentions / totalDeputeCount) * 100)}
+              {@const pctAbsents = Math.round((totalAbsents / totalDeputeCount) * 100)}
+              <div class="rounded-xl border border-border bg-white p-4 shadow-sm">
+                <!-- Title + date row -->
+                <div class="mb-3 flex flex-wrap items-start justify-between gap-2">
+                  <a
+                    href="/posts/{vote.article_slug}"
+                    class="flex-1 text-sm font-semibold leading-snug text-foreground hover:text-primary hover:underline"
+                  >
+                    {vote.article_titre_court}
+                  </a>
+                  <span class="shrink-0 text-[11px] text-muted-foreground">
+                    {new Intl.DateTimeFormat('fr-FR', { dateStyle: 'medium' }).format(new Date(vote.date_scrutin))}
+                  </span>
+                </div>
+
+                <!-- Badges row -->
+                <div class="mb-3 flex flex-wrap items-center gap-2">
+                  <!-- Deputy's own vote -->
+                  <span
+                    class="inline-flex items-center gap-1 rounded-full px-2.5 py-0.5 text-[11px] font-bold
+                      {vPour ? 'bg-green-100 text-green-800' : vContre ? 'bg-red-100 text-red-800' : vAbst ? 'bg-amber-100 text-amber-800' : 'bg-muted text-muted-foreground'}"
+                  >
+                    {#if vPour}✔ A voté Pour
+                    {:else if vContre}✖ A voté Contre
+                    {:else if vAbst}~ {data.dep?.civilite === 'Mme' ? "S'est abstenue" : "S'est abstenu"}
+                    {:else}— Non-votant
+                    {/if}
+                    {#if vote.par_delegation}<span class="ml-0.5 opacity-60">(délégation)</span>{/if}
+                  </span>
+
+                  <!-- Result -->
+                  <span
+                    class="inline-flex items-center gap-1 rounded-full px-2.5 py-0.5 text-[11px] font-semibold
+                      {sAdopted ? 'bg-green-100 text-green-800' : sRejected ? 'bg-red-100 text-red-800' : 'bg-muted text-muted-foreground'}"
+                  >
+                    {#if sAdopted}✔ Adopté{:else if sRejected}✖ Rejeté{:else}{vote.sort}{/if}
+                  </span>
+                </div>
+
+                <!-- Vote bar -->
+                <div class="flex h-2 w-full overflow-hidden rounded-full bg-muted">
+                  {#if pctPour > 0}<div class="h-full bg-green-500" style="width:{pctPour}%"></div>{/if}
+                  {#if pctContre > 0}<div class="h-full bg-red-500" style="width:{pctContre}%"></div>{/if}
+                  {#if pctAbst > 0}<div class="h-full bg-amber-400" style="width:{pctAbst}%"></div>{/if}
+                  {#if pctAbsents > 0}<div class="h-full bg-muted-foreground/20" style="width:{pctAbsents}%"></div>{/if}
+                </div>
+
+                <!-- Vote counts -->
+                <div class="mt-2 flex flex-wrap gap-x-3 gap-y-0.5 text-xs">
+                  <span class="flex items-center gap-1">
+                    <span class="inline-block h-2 w-2 rounded-full bg-green-500"></span>
+                    <span class="font-semibold text-green-700">{vote.pour}</span>
+                    <span class="text-muted-foreground">pour</span>
+                  </span>
+                  <span class="flex items-center gap-1">
+                    <span class="inline-block h-2 w-2 rounded-full bg-red-500"></span>
+                    <span class="font-semibold text-red-700">{vote.contre}</span>
+                    <span class="text-muted-foreground">contre</span>
+                  </span>
+                  <span class="flex items-center gap-1">
+                    <span class="inline-block h-2 w-2 rounded-full bg-amber-400"></span>
+                    <span class="font-semibold text-amber-700">{vote.abstentions}</span>
+                    <span class="text-muted-foreground">abstentions</span>
+                  </span>
+                  {#if totalAbsents > 0}
+                    <span class="flex items-center gap-1 opacity-60">
+                      <span class="inline-block h-2 w-2 rounded-full bg-muted-foreground"></span>
+                      <span class="font-semibold text-muted-foreground">{totalAbsents}</span>
+                      <span class="text-muted-foreground">absents</span>
+                    </span>
+                  {/if}
+                </div>
+              </div>
+            {/each}
+          </div>
         {/if}
       </section>
 
