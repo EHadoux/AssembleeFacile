@@ -48,6 +48,8 @@
     ].filter((s) => s.value != null),
   );
 
+  const depute = $derived(data.dep?.civilite === 'Mme' ? 'députée' : 'député');
+
   const initials = $derived(
     data.name
       .split(' ')
@@ -67,23 +69,31 @@
 
   const totalPages = $derived(Math.ceil(data.totalPosts / AUTEUR_PER_PAGE));
   const paginatedPosts = $derived(data.posts.slice((pageNum - 1) * AUTEUR_PER_PAGE, pageNum * AUTEUR_PER_PAGE));
-
 </script>
 
 <svelte:head>
   <title>{data.name} | Assemblée Facile</title>
-  <meta name="description" content="Profil de {data.name}, député·e à l'Assemblée nationale. {data.totalPosts} propositions de loi." />
+  <meta
+    name="description"
+    content="Profil de {data.name}, {depute} à l'Assemblée nationale. {data.counts.count_auteur} propositions de loi."
+  />
   <meta property="og:type" content="profile" />
   <meta property="og:url" content="https://anfacile.fr/auteurs/{slugify(data.name)}" />
   <meta property="og:title" content="{data.name} — Assemblée Facile" />
-  <meta property="og:description" content="Profil de {data.name}, député·e à l'Assemblée nationale. {data.totalPosts} propositions de loi." />
+  <meta
+    property="og:description"
+    content="Profil de {data.name}, {depute} à l'Assemblée nationale. {data.counts.count_auteur} propositions de loi."
+  />
   <meta property="og:image" content="https://anfacile.fr/og/auteurs/{slugify(data.name)}.png" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
   <meta property="og:image:alt" content={data.name} />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{data.name} — Assemblée Facile" />
-  <meta name="twitter:description" content="Profil de {data.name}, député·e à l'Assemblée nationale. {data.totalPosts} propositions de loi." />
+  <meta
+    name="twitter:description"
+    content="Profil de {data.name}, {depute} à l'Assemblée nationale. {data.counts.count_auteur} propositions de loi."
+  />
   <meta name="twitter:image" content="https://anfacile.fr/og/auteurs/{slugify(data.name)}.png" />
 </svelte:head>
 
@@ -415,7 +425,10 @@
         <!-- Content tab bar -->
         <div class="mb-5 flex gap-0 border-b border-border/60">
           <button
-            onclick={() => { contentTab = 'propositions'; pageNum = 1; }}
+            onclick={() => {
+              contentTab = 'propositions';
+              pageNum = 1;
+            }}
             class="relative px-4 py-2 text-xs font-semibold uppercase tracking-wider transition-colors"
             class:text-foreground={contentTab === 'propositions'}
             class:text-muted-foreground={contentTab !== 'propositions'}
@@ -427,7 +440,9 @@
           </button>
           {#if data.votes.length > 0}
             <button
-              onclick={() => { contentTab = 'votes'; }}
+              onclick={() => {
+                contentTab = 'votes';
+              }}
               class="relative px-4 py-2 text-xs font-semibold uppercase tracking-wider transition-colors"
               class:text-foreground={contentTab === 'votes'}
               class:text-muted-foreground={contentTab !== 'votes'}
@@ -480,36 +495,54 @@
                 <div class="grid grid-cols-5 divide-x divide-border/50">
                   <div class="px-2 py-2 text-center">
                     <p class="text-2xl font-black tabular-nums text-green-700">{s.pour}</p>
-                    <p class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
+                    <p
+                      class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground"
+                    >
                       <span class="inline-block h-1.5 w-1.5 rounded-full bg-green-500"></span>Pour
                     </p>
                     <p class="mt-0.5 text-[10px] tabular-nums text-muted-foreground/70">{pctPour}%</p>
                   </div>
                   <div class="px-2 py-2 text-center">
                     <p class="text-2xl font-black tabular-nums text-red-700">{s.contre}</p>
-                    <p class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
+                    <p
+                      class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground"
+                    >
                       <span class="inline-block h-1.5 w-1.5 rounded-full bg-red-500"></span>Contre
                     </p>
                     <p class="mt-0.5 text-[10px] tabular-nums text-muted-foreground/70">{pctContre}%</p>
                   </div>
                   <div class="px-2 py-2 text-center">
                     <p class="text-2xl font-black tabular-nums text-amber-700">{s.abstention}</p>
-                    <p class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
-                      <span class="inline-block h-1.5 w-1.5 rounded-full bg-amber-400"></span>Abstention{s.abstention > 1 ? 's' : ''}
+                    <p
+                      class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground"
+                    >
+                      <span class="inline-block h-1.5 w-1.5 rounded-full bg-amber-400"></span>Abstention{s.abstention >
+                      1
+                        ? 's'
+                        : ''}
                     </p>
                     <p class="mt-0.5 text-[10px] tabular-nums text-muted-foreground/70">{pctAbst}%</p>
                   </div>
                   <div class="px-2 py-2 text-center">
                     <p class="text-2xl font-black tabular-nums text-slate-500">{s.nonVotant}</p>
-                    <p class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
-                      <span class="inline-block h-1.5 w-1.5 rounded-full bg-slate-400"></span>Non-votant{s.nonVotant > 1 ? 's' : ''}
+                    <p
+                      class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground"
+                    >
+                      <span class="inline-block h-1.5 w-1.5 rounded-full bg-slate-400"></span>Non-votant{s.nonVotant > 1
+                        ? 's'
+                        : ''}
                     </p>
                     <p class="mt-0.5 text-[10px] tabular-nums text-muted-foreground/70">{pctNonVotant}%</p>
                   </div>
                   <div class="px-2 py-2 text-center">
                     <p class="text-2xl font-black tabular-nums text-muted-foreground">{s.absent}</p>
-                    <p class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
-                      <span class="inline-block h-1.5 w-1.5 rounded-full bg-muted-foreground/40"></span>{data.dep?.civilite === 'Mme' ? 'Absente' : 'Absent'}
+                    <p
+                      class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground"
+                    >
+                      <span class="inline-block h-1.5 w-1.5 rounded-full bg-muted-foreground/40"></span>{data.dep
+                        ?.civilite === 'Mme'
+                        ? 'Absente'
+                        : 'Absent'}
                     </p>
                     <p class="mt-0.5 text-[10px] tabular-nums text-muted-foreground/70">{pctAbsent}%</p>
                   </div>
@@ -558,7 +591,13 @@
                   <!-- Deputy's own vote -->
                   <span
                     class="inline-flex items-center gap-1 rounded-full px-2.5 py-0.5 text-[11px] font-bold
-                      {vPour ? 'bg-green-100 text-green-800' : vContre ? 'bg-red-100 text-red-800' : vAbst ? 'bg-amber-100 text-amber-800' : 'bg-muted text-muted-foreground'}"
+                      {vPour
+                      ? 'bg-green-100 text-green-800'
+                      : vContre
+                        ? 'bg-red-100 text-red-800'
+                        : vAbst
+                          ? 'bg-amber-100 text-amber-800'
+                          : 'bg-muted text-muted-foreground'}"
                   >
                     {#if vPour}✔ A voté Pour
                     {:else if vContre}✖ A voté Contre
@@ -571,7 +610,11 @@
                   <!-- Result -->
                   <span
                     class="inline-flex items-center gap-1 rounded-full px-2.5 py-0.5 text-[11px] font-semibold
-                      {sAdopted ? 'bg-green-100 text-green-800' : sRejected ? 'bg-red-100 text-red-800' : 'bg-muted text-muted-foreground'}"
+                      {sAdopted
+                      ? 'bg-green-100 text-green-800'
+                      : sRejected
+                        ? 'bg-red-100 text-red-800'
+                        : 'bg-muted text-muted-foreground'}"
                   >
                     {#if sAdopted}✔ Adopté{:else if sRejected}✖ Rejeté{:else}{vote.sort}{/if}
                   </span>
