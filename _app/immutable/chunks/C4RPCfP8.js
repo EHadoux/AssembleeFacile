@@ -1,0 +1,4 @@
+const e={date:"2024-11-19",draft:!1,title:"Mesures d’urgence réformant la politique familiale afin de mieux soutenir les familles qui travaillent et les familles nombreuses - N° 582",auteurs:["Thibault Bazin"],link:"https://www.assemblee-nationale.fr/dyn/17/dossiers/mesures_urgence_politique_familiale",stepsName:["Dépôt à l'Assemblée nationale","Renvoi en commission"],stepsDate:["Mardi 19 novembre 2024","Mardi 19 novembre 2024"],stepsStatus:["","Commission des affaires sociales"],tags:["Famille","Travail","Solidarité"]},s=`<h2>Résumé</h2>
+<p>L&#39;exposé des motifs n&#39;est pas fourni dans l&#39;extrait. Il s&#39;agit d&#39;une proposition de loi visant à réformer la politique familiale pour mieux soutenir les familles où les parents travaillent et les familles nombreuses.</p>
+<h2>Liste des modifications</h2>
+`;export{s as default,e as metadata};

@@ -1,0 +1,5 @@
+const e={date:"2024-09-17",draft:!1,title:"Rendre obligatoire la photographie des candidats aux élections législatives - N° 205",auteurs:["Philippe Gosselin"],link:"https://www.assemblee-nationale.fr/dyn/17/dossiers/photo_obligatoire_candidats_elections_legislatives",stepsName:["Dépôt à l'Assemblée nationale","Renvoi en commission"],stepsDate:["Mardi 17 septembre 2024","Mardi 17 septembre 2024"],stepsStatus:["","Commission des lois"],tags:["Action publique","Intérieur"]},s=`<h2>Résumé</h2>
+<p>Cette proposition de loi vise à rendre obligatoire la photo des candidats aux élections législatives sur les documents de campagne (affiches, circulaires) et les bulletins de vote. L&#39;objectif est de clarifier l&#39;identification des candidats pour les électeurs, de réduire les confusions et de renforcer la transparence et la confiance dans le processus électoral, suite aux problèmes constatés lors des dernières élections.</p>
+<h2>Liste des modifications</h2>
+<p><strong>Affichage des candidats (Article unique)</strong>: La photo du candidat devient obligatoire sur les affiches électorales et les circulaires de campagne.</p>
+`;export{s as default,e as metadata};

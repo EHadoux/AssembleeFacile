@@ -1,0 +1,6 @@
+const e={date:"2025-05-19",draft:!1,title:"Proposition de loi visant à améliorer le dispositif de protection temporaire en France - N° 1433",auteurs:["M. Le Président du Sénat"],link:"https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51235",stepsName:["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"],stepsDate:["Jeudi 9 janvier 2025","Jeudi 9 janvier 2025","Jeudi 9 janvier 2025","Jeudi 15 mai 2025"],stepsStatus:["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois"],tags:["Intérieur","Sécurité","Droits des femmes"]},i=`<h2>Résumé</h2>
+<p>Cette proposition de loi vise à améliorer le dispositif de protection temporaire en France. Elle a été adoptée par le Sénat et transmise à l&#39;Assemblée Nationale.</p>
+<h2>Liste des modifications</h2>
+<p><strong>Accès aux professions de santé (Article 1)</strong>: Les bénéficiaires de la protection temporaire pourront exercer certaines professions de santé, comme les médecins et les pharmaciens, au même titre que les apatrides.</p>
+<p><strong>Accès à l&#39;aide sociale (Article 4)</strong>: Les bénéficiaires de la protection temporaire pourront accéder à l&#39;aide sociale départementale pour les personnes âgées et handicapées, ainsi qu&#39;à l&#39;allocation aux adultes handicapés (AAH).</p>
+`;export{i as default,e as metadata};

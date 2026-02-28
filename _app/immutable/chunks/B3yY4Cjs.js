@@ -1,0 +1,4 @@
+const e={date:"2025-05-13",draft:!1,title:"protéger l’effectivité du droit fondamental d’éligibilité - N° 1415",auteurs:["Éric Ciotti","Alexandre Allegret-Pilot","Charles Alloncle","Brigitte Barèges","Matthieu Bloch","Bernard Chaix","Marc Chavent","Christelle D'Intorni","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Maxime Michelet","Éric Michoux","Sophie Ricourt Vaginay","Vincent Trébuchet","Gérault Verny"],link:"https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_effectivite_droit_fondamental_eligibilite_17e",stepsName:["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"],stepsDate:["Mardi 13 mai 2025","Mardi 13 mai 2025","Mardi 13 mai 2025"],stepsStatus:["","Commission des lois",""],tags:["Relations parlementaires"]},i=`<h2>Résumé</h2>
+<p>L&#39;exposé des motifs n&#39;est pas inclus dans l&#39;extrait fourni.</p>
+<h2>Liste des modifications</h2>
+`;export{i as default,e as metadata};
