@@ -253,6 +253,40 @@ export function getArticleSignataires(slug: string): ArticleSignataire[] {
   return stmt.all(slug) as unknown as ArticleSignataire[];
 }
 
+export interface PostOgAuthor {
+  id: string;
+  nom: string;
+  prenom: string;
+  groupe_abrev: string | null;
+  couleur: string | null;
+  photo: string | null;
+}
+
+/** Récupère l'auteur principal d'une proposition pour les images OG.
+ *  Utilisé : `routes/og/posts/[slug].png/+server.ts`. */
+export function getPostPrimaryAuthor(slug: string): PostOgAuthor | null {
+  const stmt = db.prepare(`
+		SELECT d.id, d.nom, d.prenom, d.groupe_abrev,
+		       g.couleur, REPLACE(d.id, 'PA', '') || '.jpg' AS photo
+		FROM article_auteurs aa
+		JOIN deputes d ON d.id = aa.depute_id
+		LEFT JOIN groupes g ON g.abrev = d.groupe_abrev
+		WHERE aa.article_slug = ? AND (aa.role = 'auteur' OR (aa.role IS NULL AND aa.ordre = 0))
+		LIMIT 1
+	`);
+  return (stmt.get(slug) as PostOgAuthor | undefined) ?? null;
+}
+
+/** Compte les cosignataires d'une proposition (hors auteur principal).
+ *  Utilisé : `routes/og/posts/[slug].png/+server.ts`. */
+export function getCosignataireCount(slug: string): number {
+  const stmt = db.prepare(
+    `SELECT COUNT(*) AS count FROM article_auteurs WHERE article_slug = ? AND ordre > 0`
+  );
+  const row = stmt.get(slug) as { count: number };
+  return row.count;
+}
+
 export interface ArticleRoles {
   auteursPrincipaux: string[];
   cosignataires: string[];

@@ -185,6 +185,18 @@
 <svelte:head>
   <title>{meta.proposalTitle} | Assemblée Facile</title>
   <meta name="description" content="Proposition de loi N°{meta.proposalNum} : {meta.proposalTitle}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://anfacile.fr/posts/{meta.slug}" />
+  <meta property="og:title" content="{meta.proposalTitle} — Assemblée Facile" />
+  <meta property="og:description" content={meta.excerpt} />
+  <meta property="og:image" content="https://anfacile.fr/og/posts/{meta.slug}.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content={meta.proposalTitle} />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{meta.proposalTitle} — Assemblée Facile" />
+  <meta name="twitter:description" content={meta.excerpt} />
+  <meta name="twitter:image" content="https://anfacile.fr/og/posts/{meta.slug}.png" />
 </svelte:head>
 
 <div class="mx-auto max-w-6xl px-4 py-8">

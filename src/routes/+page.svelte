@@ -15,6 +15,18 @@
 <svelte:head>
 	<title>Assemblée Facile — Propositions de loi en clair</title>
 	<meta name="description" content="Retrouvez les propositions de loi déposées à l'Assemblée nationale, expliquées clairement." />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://anfacile.fr/" />
+	<meta property="og:title" content="Assemblée Facile — Propositions de loi en clair" />
+	<meta property="og:description" content="Retrouvez les propositions de loi déposées à l'Assemblée nationale, expliquées clairement." />
+	<meta property="og:image" content="https://anfacile.fr/og/home.png" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta property="og:image:alt" content="Assemblée Facile — Les propositions de loi en clair" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Assemblée Facile — Propositions de loi en clair" />
+	<meta name="twitter:description" content="Retrouvez les propositions de loi déposées à l'Assemblée nationale, expliquées clairement." />
+	<meta name="twitter:image" content="https://anfacile.fr/og/home.png" />
 </svelte:head>
 
 <!-- Hero -->

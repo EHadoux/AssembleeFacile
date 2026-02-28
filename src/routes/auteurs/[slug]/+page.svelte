@@ -72,10 +72,19 @@
 
 <svelte:head>
   <title>{data.name} | Assemblée Facile</title>
-  <meta
-    name="description"
-    content="Profil de {data.name}, député·e à l'Assemblée nationale. {data.totalPosts} propositions de loi."
-  />
+  <meta name="description" content="Profil de {data.name}, député·e à l'Assemblée nationale. {data.totalPosts} propositions de loi." />
+  <meta property="og:type" content="profile" />
+  <meta property="og:url" content="https://anfacile.fr/auteurs/{slugify(data.name)}" />
+  <meta property="og:title" content="{data.name} — Assemblée Facile" />
+  <meta property="og:description" content="Profil de {data.name}, député·e à l'Assemblée nationale. {data.totalPosts} propositions de loi." />
+  <meta property="og:image" content="https://anfacile.fr/og/auteurs/{slugify(data.name)}.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content={data.name} />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{data.name} — Assemblée Facile" />
+  <meta name="twitter:description" content="Profil de {data.name}, député·e à l'Assemblée nationale. {data.totalPosts} propositions de loi." />
+  <meta name="twitter:image" content="https://anfacile.fr/og/auteurs/{slugify(data.name)}.png" />
 </svelte:head>
 
 <div class="mx-auto max-w-5xl px-4 py-8">
