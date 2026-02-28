@@ -2,39 +2,98 @@ name: Build & Deploy
 
 on: workflow_dispatch
 
-jobs:
-  deploy:
-    runs-on: ubuntu-latest
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
-    permissions:
-      contents: write
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
+env:
+  DOSSIERS_URL: 'https://data.assemblee-nationale.fr/static/openData/repository/17/loi/dossiers_legislatifs/Dossiers_Legislatifs.json.zip'
+
+jobs:
+  update-db:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
           cache: 'npm'
-
-      - name: Install dependencies
-        run: npm ci
-
+      - run: npm ci
       - name: Download député CSV
         run: npm run db:download-deputes
-
       - name: Seed députés into database
         run: npm run db:seed-deputes
-
       - name: Seed articles into database
         run: npm run db:seed-articles
-
       - name: Normalise article authors
         run: npm run db:clean-authors
+      - name: Upload DB artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: db-artifacts
+          path: |
+            db/assemblee.db
+            assets/deputes-active.csv
 
+  update-etapes:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+      - run: npm ci
+      - name: Download dossiers législatifs
+        run: curl -fsSL -o /tmp/Dossiers_Legislatifs.json.zip "$DOSSIERS_URL"
+      - name: Update étapes parlementaires
+        run: npm run db:update-etapes /tmp/Dossiers_Legislatifs.json.zip
+      - name: Collect changed posts
+        id: changed
+        run: |
+          CHANGED=$(git diff --name-only HEAD -- content/posts/)
+          if [ -n "$CHANGED" ]; then
+            echo "$CHANGED" | tar czf /tmp/changed-posts.tar.gz -T -
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
+      - name: Upload changed posts
+        if: steps.changed.outputs.has_changes == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: etapes-artifacts
+          path: /tmp/changed-posts.tar.gz
+
+  commit:
+    needs: [update-db, update-etapes]
+    # Run as long as the DB job succeeded, even if étapes job failed
+    if: ${{ !cancelled() && needs.update-db.result == 'success' }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Apply DB artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: db-artifacts
+      - name: Download étapes artifacts
+        id: dl-etapes
+        uses: actions/download-artifact@v4
+        with:
+          name: etapes-artifacts
+          path: /tmp/etapes
+        continue-on-error: true
+      - name: Apply étapes changes
+        if: steps.dl-etapes.outcome == 'success'
+        run: tar xzf /tmp/etapes/changed-posts.tar.gz
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
@@ -43,12 +102,42 @@ jobs:
           git diff --staged --quiet || git commit -m "chore: update député data and article authors [skip ci]"
           git push
 
+  build:
+    needs: commit
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+      - run: npm ci
       - name: Build site
         run: npm run build
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-build
+          path: build/
 
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    if: github.ref == 'refs/heads/master'
+    steps:
+      - name: Download build artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: site-build
+          path: build/
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/master'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
