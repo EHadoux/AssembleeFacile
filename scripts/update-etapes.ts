@@ -210,17 +210,19 @@ try {
 
   const dpDir = join(tmpDir, 'json/dossierParlementaire');
 
-  // Index all dossiers by titreChemin (all legislatures — cross-legislature dossiers
+  // Index all dossiers by titreChemin and uid (all legislatures — cross-legislature dossiers
   // keep their original uid from an older legislature but contain L17 étapes)
   console.log('Building dossier index...');
   const cheminMap = new Map<string, DossierParlementaire>();
+  const uidMap = new Map<string, DossierParlementaire>();
   for (const fname of readdirSync(dpDir)) {
     const data = JSON.parse(readFileSync(join(dpDir, fname), 'utf-8')) as { dossierParlementaire: DossierParlementaire };
     const dp = data.dossierParlementaire;
     const chemin = dp.titreDossier?.titreChemin;
     if (chemin) cheminMap.set(chemin, dp);
+    uidMap.set(dp.uid, dp);
   }
-  console.log(`Indexed ${cheminMap.size} dossiers`);
+  console.log(`Indexed ${cheminMap.size} dossiers by chemin, ${uidMap.size} by uid`);
 
   // Process markdown posts
   const posts = readdirSync(postsDir).filter((f) => f.endsWith('.md'));
@@ -237,7 +239,7 @@ try {
     }
 
     const slug = linkMatch[1].split('/').at(-1)!;
-    const dp = cheminMap.get(slug);
+    const dp = cheminMap.get(slug) ?? uidMap.get(slug);
     if (!dp) {
       skippedCount++;
       continue;

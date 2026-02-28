@@ -285,6 +285,73 @@ export function getAllArticleRoles(): Map<string, ArticleRoles> {
   return map;
 }
 
+export interface ScrutinGroupe {
+  groupe_abrev: string;
+  position_majoritaire: string;
+  pour: number;
+  contre: number;
+  abstentions: number;
+  non_votants: number;
+}
+
+export interface Scrutin {
+  uid: string;
+  date_scrutin: string;
+  type_vote: string;
+  titre: string;
+  sort: string;
+  pour: number;
+  contre: number;
+  abstentions: number;
+  non_votants: number;
+  votants: number;
+  suffrages_exprimes: number;
+  groupes: ScrutinGroupe[];
+}
+
+/** Scrutins (votes finaux) associés à une proposition de loi, avec ventilation par groupe.
+ *  Utilisé : `routes/posts/[slug]/+page.server.ts`. */
+export function getScrutins(slug: string): Scrutin[] {
+  const rows = db.prepare(`
+    SELECT uid, date_scrutin, type_vote, titre, sort, pour, contre, abstentions, non_votants, votants, suffrages_exprimes
+    FROM scrutins
+    WHERE article_slug = ?
+    ORDER BY date_scrutin ASC
+  `).all(slug) as unknown as Omit<Scrutin, 'groupes'>[];
+
+  return rows.map((row) => {
+    const groupes = db.prepare(`
+      SELECT groupe_abrev, position_majoritaire, pour, contre, abstentions, non_votants
+      FROM scrutin_votes_groupes
+      WHERE scrutin_uid = ?
+      ORDER BY pour DESC
+    `).all(row.uid) as unknown as ScrutinGroupe[];
+    return { ...row, groupes };
+  });
+}
+
+export interface DeputeVote {
+  article_slug: string;
+  scrutin_uid: string;
+  date_scrutin: string;
+  sort: string;
+  position: string;
+  par_delegation: number;
+}
+
+/** Votes d'un député sur les propositions indexées sur le site.
+ *  Utilisé : `routes/auteurs/[slug]/+page.server.ts`. */
+export function getDeputeVotes(deputeId: string): DeputeVote[] {
+  const stmt = db.prepare(`
+    SELECT s.article_slug, s.uid AS scrutin_uid, s.date_scrutin, s.sort, svd.position, svd.par_delegation
+    FROM scrutin_votes_deputes svd
+    JOIN scrutins s ON svd.scrutin_uid = s.uid
+    WHERE svd.acteur_ref = ?
+    ORDER BY s.date_scrutin ASC
+  `);
+  return stmt.all(deputeId) as unknown as DeputeVote[];
+}
+
 /** Députés ayant le plus souvent cosigné avec le député donné (co-occurrence sur les mêmes articles).
  *  Utilisé : `routes/auteurs/[slug]/+page.server.ts` (bloc "cosignateurs fréquents"). */
 export function getTopCosignataires(deputeId: string, limit: number): Cosignataire[] {

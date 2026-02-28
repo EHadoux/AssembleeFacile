@@ -16,3 +16,13 @@ try {
   const migration2 = readFileSync(join(dir, '../db/002_add_authors_from_an.sql'), 'utf-8');
   db.exec(migration2);
 } catch { /* columns already exist */ }
+
+try {
+  const migration3 = readFileSync(join(dir, '../db/003_add_dossier_ref.sql'), 'utf-8');
+  db.exec(migration3);
+} catch { /* columns already exist */ }
+
+try {
+  const migration4 = readFileSync(join(dir, '../db/004_add_scrutins.sql'), 'utf-8');
+  db.exec(migration4);
+} catch { /* tables already exist */ }

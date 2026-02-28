@@ -2,7 +2,7 @@ import { getAllAuteurs, getAuteurBySlug, getPostsByAuteur, slugify } from '$lib/
 import { loadDeclarations } from '$lib/server/declarations';
 import { loadElections } from '$lib/server/elections';
 import { getAllGroupes } from '$lib/server/groupes';
-import { findDeputeByNameInDb, getAuthorCounts, getTopCosignataires } from '$lib/server/queries';
+import { findDeputeByNameInDb, getAuthorCounts, getDeputeVotes, getTopCosignataires } from '$lib/server/queries';
 import { error } from '@sveltejs/kit';
 import type { PageServerLoad } from './$types';
 
@@ -36,8 +36,9 @@ export const load: PageServerLoad = async ({ params }) => {
 
   const declarations = dep ? loadDeclarations(dep.id) : [];
   const elections = dep ? loadElections(dep.departement_code, dep.circo) : null;
+  const votes = dep ? getDeputeVotes(dep.id) : [];
 
-  return { name, posts, totalPosts, dep, groupe, topTags, cosignataires, counts, declarations, elections };
+  return { name, posts, totalPosts, dep, groupe, topTags, cosignataires, counts, declarations, elections, votes };
 };
 
 export function entries() {

@@ -19,6 +19,8 @@ npm run db:seed-deputes   # Seed députés from CSV into SQLite
 npm run db:seed-articles  # Seed markdown posts into SQLite
 npm run db:clean-authors  # Fuzzy-match and normalise author names in DB
 npm run db:update-etapes <path/to/Dossiers_Legislatifs.json.zip>  # Update étapes parlementaires in markdown frontmatter (étapes are read from markdown, not DB — no reseed needed after)
+npm run db:link-dossiers <path/to/Dossiers_Legislatifs.json.zip>  # Populate articles.dossier_ref in DB (prerequisite for import-scrutins)
+npm run db:import-scrutins <path/to/Dossiers_Legislatifs.json.zip> <path/to/Scrutins.json.zip>  # Import vote data into scrutins tables
 ```
 
 ## Architecture
@@ -36,8 +38,9 @@ This is a **fully static SvelteKit site** (adapter-static, `prerender = true` on
 `db/assemblee.db` is a SQLite file committed to the repo. It stores the relational data that markdown frontmatter cannot express cleanly:
 
 - `groupes`, `deputes`, `articles`, `article_auteurs`, `article_tags`, `article_etapes`
-- Schema: `db/001_init.sql`
+- Schema: `db/001_init.sql` + migrations `002`, `003`, `004`
 - Used **only at build time** via `$lib/server/queries.ts` (Node's built-in `node:sqlite`)
+- `scrutins`, `scrutin_votes_groupes`, `scrutin_votes_deputes` — vote data imported by `scripts/import-scrutins.ts`. Requires `articles.dossier_ref` to be populated first (`db:link-dossiers`). Group colour resolution uses `groupe_abrev` matched dynamically via the deputes table during import; unresolved organe_refs are stored raw.
 
 ### Data sources for député info
 

@@ -64,6 +64,11 @@
 
   const groupeColour = $derived(data.groupe?.couleur ?? '#6b7280');
 
+  // Map article_slug → vote position (keep the latest vote if multiple per article)
+  const voteMap = $derived(
+    new Map<string, string>(data.votes.map((v) => [v.article_slug, v.position]))
+  );
+
   const totalPages = $derived(Math.ceil(data.totalPosts / AUTEUR_PER_PAGE));
   const paginatedPosts = $derived(data.posts.slice((pageNum - 1) * AUTEUR_PER_PAGE, pageNum * AUTEUR_PER_PAGE));
 </script>
@@ -406,7 +411,26 @@
         </h2>
         <div class="flex flex-col gap-3">
           {#each paginatedPosts as post}
-            <PostCard {post} />
+            {@const vote = voteMap.get(post.slug)}
+            <div class="relative">
+              <PostCard {post} />
+              {#if vote}
+                {@const voteAdopted = vote === 'pour'}
+                {@const voteAgainst = vote === 'contre'}
+                {@const voteAbst = vote === 'abstention'}
+                <span
+                  class="absolute right-3 top-3 inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-[11px] font-bold shadow-sm
+                    {voteAdopted ? 'bg-green-100 text-green-800' : voteAgainst ? 'bg-red-100 text-red-800' : voteAbst ? 'bg-amber-100 text-amber-800' : 'bg-muted text-muted-foreground'}"
+                  title="Vote de {data.name} : {vote}"
+                >
+                  {#if voteAdopted}✔ Pour
+                  {:else if voteAgainst}✖ Contre
+                  {:else if voteAbst}~ Abstention
+                  {:else}— Non-votant
+                  {/if}
+                </span>
+              {/if}
+            </div>
           {/each}
         </div>
 
