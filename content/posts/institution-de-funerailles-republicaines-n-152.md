@@ -4,9 +4,9 @@ draft = false
 title = "Institution de funérailles républicaines - N° 152"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/institution_funerailles_republicaines"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 9 décembre 2014","Mardi 9 décembre 2014","Mercredi 30 novembre 2016","Mercredi 12 décembre 2018","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","Texte rejeté ❌","","",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Mardi 9 décembre 2014","Mardi 9 décembre 2014","Mardi 9 décembre 2014","Mercredi 30 novembre 2016","Mercredi 30 novembre 2016","Mercredi 12 décembre 2018","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)","Texte rejeté","Commission des lois","Commission des lois","Commission des lois"]
 tags = ["Action publique","Solidarité"]
 +++
 

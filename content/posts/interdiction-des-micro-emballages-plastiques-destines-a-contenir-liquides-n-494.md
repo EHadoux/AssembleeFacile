@@ -4,9 +4,9 @@ draft = false
 title = "Interdiction des micro-emballages plastiques destinés à contenir des liquides - N° 494"
 auteurs = ["Pierre Cazeneuve","Erwan Balanant","Aurore Bergé","Hervé Berville","Philippe Bolo","Anthony Brosse","Joël Bruneau","Stéphane Buchou","Eléonore Caroit","Jean-René Cazeneuve","Mickaël Cosson","Julie Delpech","Nicole Dubré-Chirat","Stella Dupont","Philippe Fait","Olivier Falorni","Jean-Marie Fiévet","Jean-Luc Fugit","Guillaume Gouffier Valente","Catherine Hervieu","Cyrille Isaac-Sibille","Jean-Michel Jacques","Brigitte Klinkert","Michel Lauzzana","Sandrine Le Feur","Constance Le Grip","Graziella Melchior","Nicolas Metzdorf","Paul Midy","Paul Molac","Louise Morel","Karl Olive","Sophie Panonacle","Sébastien Peytavie","Mereana Reid Arbelot","Stéphanie Rist","Marie-Pierre Rixain","Xavier Roseren","Jean-François Rousset","Violette Spillebout","David Taupiac","Nicolas Thierry","Frédéric Valletoux","Anne-Cécile Violland"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdiction_micro_emballages_plastiques_liquides"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 29 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 29 octobre 2024","Mardi 29 octobre 2024"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Écologie","Biodiversité","Environnement"]
 +++
 

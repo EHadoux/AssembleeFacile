@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer l’accès des personnes à mobilité réduite au logement social - N° 348"
 auteurs = ["Corentin Le Fur","Jérôme Nury","Alexandra Martin","Hubert Brigand","Fabrice Brun","Véronique Louwagie","Julien Dive","Sylvie Bonnet","Antoine Vermorel-Marques","Marie-Christine Dalloz","Jean-Pierre Vigier","Vincent Descoeur","Vincent Rolland","Ian Boucard","Nicolas Ray","Jean-Pierre Taite","Jean-Luc Bourgeaux","Alexandre Portier","Justine Gruet","Thibault Bazin","Émilie Bonnivard","Philippe Juvin","Philippe Gosselin","Éric Pauget","Michel Herbillon","Virginie Duby-Muller","Yannick Neuder","Christelle Petex","Josiane Corneloup"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ameliorer_acces_personnes_mobilite_reduite_logement_social"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Handicap","Solidarité"]
 +++
 

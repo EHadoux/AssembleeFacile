@@ -4,9 +4,9 @@ draft = false
 title = "Développement durable des territoires littoraux - N° 49"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/developpement_durable_territoires_littoraux"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mercredi 13 septembre 2017","Mercredi 13 septembre 2017","Mercredi 31 janvier 2018","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Mercredi 13 septembre 2017","Mercredi 13 septembre 2017","Mercredi 13 septembre 2017","Mercredi 31 janvier 2018","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission du développement durable (Sénat)","Texte adopté ✔️","Commission du développement durable","Commission du développement durable","Commission du développement durable"]
 tags = ["Aménagement du territoire","Écologie","Logement"]
 +++
 

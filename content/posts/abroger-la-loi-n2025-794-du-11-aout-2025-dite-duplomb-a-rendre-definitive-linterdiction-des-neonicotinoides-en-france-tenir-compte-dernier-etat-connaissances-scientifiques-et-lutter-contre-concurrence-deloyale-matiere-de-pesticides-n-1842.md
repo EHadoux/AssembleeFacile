@@ -4,9 +4,9 @@ draft = false
 title = "Abroger la loi n°2025-794 du 11 août 2025, dite loi Duplomb, à rendre définitive l’interdiction des néonicotinoïdes en France, à tenir compte du dernier état des connaissances scientifiques et à lutter contre la concurrence déloyale en matière de pesticides - N° 1842"
 auteurs = ["Delphine Batho","Benoît Biteau","Cyrielle Chatelain","Pouria Amirshahi","Christine Arrighi","Clémentine Autain","Léa Balage El Mariky","Lisa Belluco","Karim Ben Cheikh","Arnaud Bonnet","Nicolas Bonnet","Alexis Corbière","Hendrik Davi","Emmanuel Duplessy","Charles Fournier","Marie-Charlotte Garin","Damien Girard","Steevy Gustave","Catherine Hervieu","Jérémie Iordanoff","Julie Laernoes","Tristan Lahais","Benjamin Lucas-Lundy","Julie Ozenne","Sébastien Peytavie","Marie Pochon","Jean-Claude Raux","Sandra Regol","Jean-Louis Roumégas","Sandrine Rousseau","François Ruffin","Eva Sas","Sabrina Sebaihi","Danielle Simonnet","Sophie Taillé-Polian","Boris Tavernier","Nicolas Thierry","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_abroger_loi_duplomb_rendre_definitive_interdiction_des_neonicotinoides_en_france_tenir_compte_dernier_etat_des_connaissances_scientifiques_et_lutter_contre_concurrence_deloyale_en_matiere_de_pesticides_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Santé","Biodiversité","Écologie"]
 +++
 

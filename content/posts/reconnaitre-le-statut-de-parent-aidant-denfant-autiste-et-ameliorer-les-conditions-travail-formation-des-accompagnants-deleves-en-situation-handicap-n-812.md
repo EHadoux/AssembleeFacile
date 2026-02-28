@@ -4,9 +4,9 @@ draft = false
 title = "Reconnaitre le statut de parent aidant d'enfant autiste et améliorer les conditions de travail et de formation des accompagnants d'élèves en situation de handicap - N° 812"
 auteurs = ["Christelle D'Intorni","Alexandre Allegret-Pilot","Charles Alloncle","José Beaurain","Bernard Chaix","Sébastien Chenu","Yoann Gillet","Christian Girard","Marine Hamelet","Hervé de Lépinau","Serge Muller","Julien Rancoule","Antoine Villedieu","Stéphanie Galzy","Hélène Laporte","Julien Guibert","Yaël Ménaché","Catherine Rimbert","Julie Lechanteux","Marc Chavent","Emmanuel Taché de la Pagerie","Angélique Ranc","Frédéric Falcon","Emmanuel Fouquart","Bartolomé Lenoir","Philippe Lottiaux","Kévin Pfeffer","Marie-France Lorho","Sophie Ricourt Vaginay","Bryan Masson","Bruno Clavet","Emeric Salmon","Roger Chudeau","Alexandra Masson","Maxime Michelet","Laurent Jacobelli","Matthieu Marchio"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/statut_parent_aidant_enfant_autiste_17"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Famille","Handicap","Éducation"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Garantir l'accès aux soins pour toutes et tous par la mise en place de mutuelles communales - N° 2036"
 auteurs = ["Sandrine Runel"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_acces_soins_pour_toutes_tous_par_mise_place_mutuelles_communales_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 28 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Solidarité","Action publique"]
 +++
 

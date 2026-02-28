@@ -4,9 +4,9 @@ draft = false
 title = "Protéger la population des risques liés aux substances per- et polyfluoroalkylées (PFAS) - N° 161"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_population_risques_pfas"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale","Promulgation de la loi"]
-stepsDate = ["Mardi 20 février 2024","Mardi 20 février 2024","Jeudi 4 avril 2024","Jeudi 30 mai 2024","Mardi 23 juillet 2024","Jeudi 27 février 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️","","Texte adopté ✔️",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Deuxième lecture à l'Assemblée nationale","Promulgation de la loi"]
+stepsDate = ["Mardi 20 février 2024","Mardi 20 février 2024","Mardi 20 février 2024","Jeudi 4 avril 2024","Jeudi 4 avril 2024","Jeudi 30 mai 2024","Mardi 23 juillet 2024","Mardi 23 juillet 2024","Jeudi 27 février 2025"]
+stepsStatus = ["","Commission du développement durable","Texte adopté ✔️","Commission du développement durable (Sénat)","Texte modifié","Commission du développement durable","Commission du développement durable","Texte adopté ✔️",""]
 tags = ["Écologie","Santé","Industrie"]
 +++
 

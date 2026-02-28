@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la parité des mandats électoraux et des fonctions électives - N° 453"
 auteurs = ["Aurore Bergé"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_parite_conseil_municipaux_fonctions_electives"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Droits des femmes","Action publique","Décentralisation"]
 +++
 

@@ -5,9 +5,9 @@ draft = false
 title = "Instituer un mécanisme de saisie des avoirs souverains étrangers gelés en réponse aux violations du droit international - N° 1706"
 auteurs = ["Laurent Mazaury","Léa Balage El Mariky","Thierry Sother","Constance Le Grip","Laurent Panifous","Joël Bruneau","Constance de Pélichy","Michel Castellani","Jean-Didier Berger","Paul Molac","Frédéric Petit","Anne-Sophie Ronceret","Stéphane Viry","Estelle Youssouffa","Jean-Pierre Bataille","Harold Huwart","Stéphane Lenormand"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/saisie_avoirs_violations_droit_international_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 11 juillet 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 11 juillet 2025","Vendredi 11 juillet 2025"]
+stepsStatus = ["","Commission des finances"]
 +++
 
 ## Résumé

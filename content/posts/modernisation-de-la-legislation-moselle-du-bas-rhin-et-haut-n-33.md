@@ -4,9 +4,9 @@ draft = false
 title = "Modernisation de la législation de la Moselle, du Bas-Rhin et du Haut-Rhin - N° 33"
 auteurs = ["M. Le Président du Sénat","Jean-Pierre Bataille"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/modernisation_legislation_Alsace_Moselle"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Lundi 9 septembre 2013","Lundi 9 septembre 2013","Jeudi 19 juin 2014","Jeudi 6 juillet 2017","Lundi 11 juillet 2022","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","","","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Lundi 9 septembre 2013","Lundi 9 septembre 2013","Lundi 9 septembre 2013","Jeudi 19 juin 2014","Jeudi 6 juillet 2017","Lundi 11 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Commission des lois","Commission des lois","Commission des lois"]
 tags = ["Décentralisation","Vie associative","Aménagement du territoire"]
 +++
 

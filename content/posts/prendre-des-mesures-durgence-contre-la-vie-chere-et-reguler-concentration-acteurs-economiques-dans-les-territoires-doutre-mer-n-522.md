@@ -4,9 +4,9 @@ draft = false
 title = "Prendre des mesures d’urgence contre la vie chère et réguler la concentration des acteurs économiques dans les territoires d’outre-mer - N° 522"
 auteurs = ["Boris Vallaud","Christian Baptiste","Béatrice Bellay","Elie Califer","Philippe Naillet","Jiovanny William","Marie-José Allemand","Joël Aviragnet","Fabrice Barusseau","Marie-Noëlle Battistel","Laurent Baumel","Karim Benbrahim","Mickaël Bouloux","Philippe Brun","Colette Capdevielle","Paul Christophle","Pierrick Courbon","Alain David","Arthur Delaporte","Stéphane Delautrette","Dieynaba Diop","Fanny Dombre Coste","Peio Dufau","Inaki Echaniz","Romain Eskenazi","Olivier Faure","Denis Fégné","Guillaume Garot","Océane Godard","Julien Gokel","Pascale Got","Emmanuel Grégoire","Jérôme Guedj","Stéphane Hablot","Ayda Hadizadeh","Florence Herouin-Léautey","Céline Hervieu","François Hollande","Chantal Jourdan","Marietta Karamanli","Fatiha Keloua Hachi","Gérard Leseul","Laurent Lhardit","Estelle Mercier","Jacques Oberti","Sophie Pantel","Marc Pena","Anna Pic","Christine Pirès Beaune","Dominique Potier","Pierre Pribetich","Christophe Proença","Marie Récalde","Valérie Rossi","Claudia Rouaux","Aurélien Rousseau","Fabrice Roussel","Sandrine Runel","Sébastien Saint-Pasteur","Isabelle Santiago","Hervé Saulignac","Arnaud Simion","Thierry Sother","Céline Thiébault-Martinez","Mélanie Thomin","Roger Vicot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/mesures_urgence_vie_chere_outre_mer"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat"]
-stepsDate = ["Mardi 29 octobre 2024","Mardi 29 octobre 2024","Jeudi 23 janvier 2025"]
-stepsStatus = ["","Texte adopté ✔️",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 29 octobre 2024","Mardi 29 octobre 2024","Mardi 29 octobre 2024","Jeudi 23 janvier 2025"]
+stepsStatus = ["","Commission des affaires économiques","Texte adopté ✔️","Commission des affaires économiques (Sénat)"]
 tags = ["Outre-mer","Économie","Solidarité"]
 +++
 

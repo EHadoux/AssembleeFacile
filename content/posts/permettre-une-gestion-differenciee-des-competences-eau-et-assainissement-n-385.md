@@ -4,9 +4,9 @@ draft = false
 title = "Permettre une gestion différenciée des compétences « eau » et « assainissement » - N° 385"
 auteurs = ["Fabrice Brun","Thibault Bazin","Émilie Bonnivard","Jean-Yves Bony","Ian Boucard","Jean-Luc Bourgeaux","Pierre Cordier","Vincent Descoeur","Fabien Di Filippo","Virginie Duby-Muller","Nicolas Forissier","Véronique Louwagie","Alexandre Portier","Jean-Pierre Vigier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/peremettre_gestion_differenciee_eau_assainissement_brun"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Aménagement du territoire","Décentralisation","Ruralité"]
 +++
 

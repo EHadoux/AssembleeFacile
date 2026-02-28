@@ -4,9 +4,9 @@ draft = false
 title = "Application sectorisée de la loi Solidarité et renouvellement urbain - N° 2324"
 auteurs = ["Sébastien Delogu","Manuel Bompard","Mathilde Panot","Les Membres Du Groupe La France Insoumise - Nouveau Front Populaire"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_application_sectorisee_de_la_loi_solidarite_et_renouvellement_urbain_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 janvier 2026","Mardi 13 janvier 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Urbanisme","Solidarité"]
 +++
 

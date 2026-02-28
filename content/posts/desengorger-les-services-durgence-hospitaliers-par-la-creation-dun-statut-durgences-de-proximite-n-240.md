@@ -4,9 +4,9 @@ draft = false
 title = "Désengorger les services d’urgence hospitaliers par la création d’un statut d’urgences de proximité - N° 240"
 auteurs = ["Philippe Juvin","François-Xavier Ceccoli","Nicolas Forissier","Olivier Marleix","Yannick Neuder","Christelle Petex","Jean-Pierre Vigier","Justine Gruet","Michel Herbillon","Nicolas Ray"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/desengorger_hopital"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Action publique"]
 +++
 

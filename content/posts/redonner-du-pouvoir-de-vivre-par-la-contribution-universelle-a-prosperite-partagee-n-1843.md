@@ -4,9 +4,9 @@ draft = false
 title = "Redonner du pouvoir de vivre par la contribution universelle à la prospérité partagée - N° 1843"
 auteurs = ["Rodrigo Arenas"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/redonner_pouvoir_de_vivre_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Économie","Finances","Action publique"]
 +++
 

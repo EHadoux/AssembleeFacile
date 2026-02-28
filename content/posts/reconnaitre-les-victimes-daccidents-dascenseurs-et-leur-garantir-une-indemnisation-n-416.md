@@ -4,9 +4,9 @@ draft = false
 title = "Reconnaître les victimes d’accidents d’ascenseurs et leur garantir une indemnisation - N° 416"
 auteurs = ["Paul Vannier","Nadège Abomangoli","Laurent Alexandre","Gabriel Amard","Ségolène Amiot","Farida Amrani","Rodrigo Arenas","Raphaël Arnault","Clémentine Autain","Anaïs Belouassa-Cherifi","Ugo Bernalicis","Christophe Bex","Carlos Martens Bilongo","Manuel Bompard","Idir Boumertit","Louis Boyard","Pierre-Yves Cadalen","Aymeric Caron","Sylvain Carrière","Gabrielle Cathala","Bérenger Cernon","Sophia Chikirou","Hadrien Clouet","Éric Coquerel","Jean-François Coulomme","Sébastien Delogu","Aly Diouara","Alma Dufour","Emmanuel Duplessy","Karen Erodi","Mathilde Feld","Emmanuel Fernandes","Sylvie Ferrer","Perceval Gaillard","Damien Girard","Clémence Guetté","David Guiraud","Zahia Hamdane","Mathilde Hignet","Andy Kerbrat","Bastien Lachaud","Abdelkader Lahmar","Maxime Laisney","Arnaud Le Gall","Antoine Léaument","Élise Leboucher","Aurélien Le Coq","Jérôme Legavre","Sarah Legrain","Claire Lejeune","Murielle Lepvraud","Benjamin Lucas-Lundy","Élisa Martin","Damien Maudet","Marianne Maximi","Marie Mesmeur","Manon Meunier","Jean-Philippe Nilor","Sandrine Nosbé","Danièle Obono","Julie Ozenne","Nathalie Oziol","Mathilde Panot","René Pilato","François Piquemal","Thomas Portes","Loïc Prud'homme","Jean-Hugues Ratenon","Mereana Reid Arbelot","Arnaud Saint-Martin","Aurélien Saintoul","Ersilia Soudais","Anne Stambach-Terrenoir","Aurélien Taché","Andrée Taurinya","Matthias Tavel","Aurélie Trouvé","Jean-Luc Warsmann","Stéphane Peu","Olivier Falorni"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/victimes_accidents_ascenseurs_indemnisation"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Justice","Sécurité","Logement"]
 +++
 

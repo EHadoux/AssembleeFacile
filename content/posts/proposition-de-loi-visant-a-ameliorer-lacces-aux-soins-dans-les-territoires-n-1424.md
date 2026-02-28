@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à améliorer l'accès aux soins dans les territoires - N° 1424"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51795"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Vendredi 28 mars 2025","Vendredi 28 mars 2025","Mercredi 14 mai 2025"]
-stepsStatus = ["","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Vendredi 28 mars 2025","Vendredi 28 mars 2025","Vendredi 28 mars 2025","Mercredi 14 mai 2025"]
+stepsStatus = ["","Commission des affaires sociales (Sénat)","Texte adopté ✔️","Commission des affaires sociales"]
 tags = ["Santé","Ruralité","Outre-mer"]
 +++
 

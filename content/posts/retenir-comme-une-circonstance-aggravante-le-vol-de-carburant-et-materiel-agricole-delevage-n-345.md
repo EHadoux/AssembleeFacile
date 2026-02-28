@@ -4,9 +4,9 @@ draft = false
 title = "Retenir comme une circonstance aggravante le vol de carburant et de matériel agricole et d’élevage - N° 345"
 auteurs = ["Jean-Philippe Tanguy"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/retenir_circonstance_aggravante_vol_carburant"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Agriculture","Sécurité","Justice"]
 +++
 

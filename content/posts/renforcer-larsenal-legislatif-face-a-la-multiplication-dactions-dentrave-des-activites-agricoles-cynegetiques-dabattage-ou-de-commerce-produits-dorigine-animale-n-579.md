@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer l’arsenal législatif face à la multiplication d'actions d'entrave à des activités agricoles, cynégétiques, d'abattage ou de commerce de produits d'origine animale - N° 579"
 auteurs = ["Xavier Breton","Thibault Bazin","Valérie Bazin-Malgras","Anne-Laure Blin","Sylvie Bonnet","Jean-Luc Bourgeaux","Hubert Brigand","Pierre Cordier","Fabien Di Filippo","Guillaume Lepers","Véronique Louwagie","Yannick Neuder","Jérôme Nury","Nicolas Ray","Jean-Pierre Taite","Jean-Pierre Vigier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_arsenal_legislatif_entrave_activites_agricoles"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 19 novembre 2024","Mardi 19 novembre 2024"]
-stepsStatus = ["",""]
+stepsStatus = ["","Commission des lois"]
 tags = ["Agriculture","Justice","Sécurité"]
 +++
 

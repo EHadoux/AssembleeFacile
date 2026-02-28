@@ -4,9 +4,9 @@ draft = false
 title = "Harmoniser les règles relatives à la construction en zone agricole - N° 368"
 auteurs = ["Corentin Le Fur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/harmoniser_regles_construction_zone_agricole"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Agriculture","Aménagement du territoire","Économie"]
 +++
 

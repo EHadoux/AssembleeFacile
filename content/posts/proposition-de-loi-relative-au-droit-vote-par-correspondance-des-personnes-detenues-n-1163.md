@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi relative au droit de vote par correspondance des personnes détenues - N° 1163"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51052"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Conseil constitutionnel","Promulgation de la loi"]
-stepsDate = ["Jeudi 5 décembre 2024","Jeudi 5 décembre 2024","Jeudi 20 mars 2025","Mercredi 18 juin 2025","Vendredi 18 juillet 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️","Conforme",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale","Conseil constitutionnel","Promulgation de la loi"]
+stepsDate = ["Jeudi 5 décembre 2024","Jeudi 5 décembre 2024","Jeudi 5 décembre 2024","Jeudi 20 mars 2025","Jeudi 20 mars 2025","Mercredi 18 juin 2025","Vendredi 18 juillet 2025"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Texte adopté ✔️","Conforme",""]
 tags = ["Justice","Droits des femmes","Vie associative"]
 +++
 

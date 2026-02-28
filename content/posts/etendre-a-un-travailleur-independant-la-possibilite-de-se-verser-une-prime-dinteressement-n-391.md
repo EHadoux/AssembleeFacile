@@ -4,9 +4,9 @@ draft = false
 title = "Etendre à un travailleur indépendant la possibilité de se verser une prime d'intéressement - N° 391"
 auteurs = ["Jean-Pierre Taite","Corentin Le Fur","Josiane Corneloup","Jérôme Nury","Thibault Bazin","Valérie Bazin-Malgras","Ian Boucard","Jean-Luc Bourgeaux","Hubert Brigand","Vincent Descoeur","Fabien Di Filippo","Michel Herbillon","Nicolas Ray","Jean-Pierre Vigier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/prime_interessement_travailleur_independant"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Économie","Travail","Commerce"]
 +++
 

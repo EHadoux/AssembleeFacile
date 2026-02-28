@@ -4,9 +4,9 @@ draft = false
 title = "Interdire et sanctionner les contenus et discours à caractère anti-républicain - N° 1535"
 auteurs = ["Vincent Jeanbrun","Joël Bruneau","Pierre Cordier","Michel Herbillon","Frédérique Meunier","Éric Pauget","Constance de Pélichy","Nicolas Ray","Jean-Pierre Taite","Mathieu Lefèvre","Charles Rodwell","Eric Liégeon","Jean-Louis Thiériot","Josiane Corneloup","Émilie Bonnivard","Virginie Duby-Muller","Guillaume Lepers","Jean-Pierre Vigier","Laurent Wauquiez","Jean-Didier Berger","Christelle Petex"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/inyerdire_sanctionner_contenus_discours_antirepublicain_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 10 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 10 juin 2025","Mardi 10 juin 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Sécurité","Droits des femmes"]
 +++
 

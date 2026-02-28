@@ -4,9 +4,9 @@ draft = false
 title = "Limiter la vacance des locaux commerciaux - N° 1923"
 auteurs = ["Violette Spillebout"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/limiter_vacance_locaux_commerciaux_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Commerce","Urbanisme","Économie"]
 +++
 

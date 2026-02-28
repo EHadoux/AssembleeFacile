@@ -4,9 +4,9 @@ draft = false
 title = "L’ouverture avancée des données judiciaires - N° 806"
 auteurs = ["Philippe Latombe","Éric Martineau","Maud Petit","Bruno Fuchs"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ouverture_avancee_donnees_judiciaires"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
-stepsStatus = ["",""]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Action publique","Europe"]
 +++
 

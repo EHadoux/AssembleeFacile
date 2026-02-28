@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à permettre à une commune d’être intégrée, pour une partie de son territoire, à un parc national et, pour une autre partie, à un parc naturel régional (PNR) - N° 1979"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52379"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mercredi 18 juin 2025","Mercredi 18 juin 2025","Lundi 20 octobre 2025"]
-stepsStatus = ["","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Mercredi 18 juin 2025","Mercredi 18 juin 2025","Mercredi 18 juin 2025","Lundi 20 octobre 2025"]
+stepsStatus = ["","Commission du développement durable (Sénat)","Texte adopté ✔️","Commission du développement durable"]
 tags = ["Aménagement du territoire","Biodiversité","Écologie"]
 +++
 

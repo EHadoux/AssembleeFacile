@@ -4,9 +4,9 @@ draft = false
 title = "Exercice par un ressortissant communautaire des fonctions d’adjoint au maire - N° 169"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/pplc_ressortissantcommunautaire_adjointaumaire"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 27 août 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 27 août 2024","Mardi 27 août 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Europe","Action publique","Décentralisation"]
 +++
 

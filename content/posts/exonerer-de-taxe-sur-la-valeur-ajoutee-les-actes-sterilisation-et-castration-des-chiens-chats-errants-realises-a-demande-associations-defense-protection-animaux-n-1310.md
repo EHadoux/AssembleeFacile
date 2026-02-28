@@ -4,9 +4,9 @@ draft = false
 title = "Exonérer de taxe sur la valeur ajoutée les actes de stérilisation et de castration des chiens et des chats errants réalisés à la demande des associations de défense et de protection des animaux - N° 1310"
 auteurs = ["Corentin Le Fur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/exonorer_tva_castration_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Vie associative","Solidarité","Budget"]
 +++
 

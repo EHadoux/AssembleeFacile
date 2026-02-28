@@ -4,9 +4,9 @@ draft = false
 title = "Lutter contre la pédocriminalité - N° 369"
 auteurs = ["Christophe Naegelen","Jean-Pierre Bataille","Ian Boucard","Joël Bruneau","Salvatore Castiglione","Virginie Duby-Muller","Yannick Favennec-Bécot","Nicolas Forissier","Michel Herbillon","Max Mathiasin","Laurent Mazaury","Nicolas Ray","Émilie Bonnivard","Michel Castellani","Josiane Corneloup","Agnès Firmin Le Bodo","Lise Magnier","Alexandra Martin","Estelle Youssouffa","Paul Molac","Laurent Panifous","David Taupiac"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_contre_la_pedocriminalite"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat"]
-stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024","Vendredi 16 mai 2025"]
-stepsStatus = ["","Texte adopté ✔️",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024","Mardi 15 octobre 2024","Vendredi 16 mai 2025"]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)"]
 tags = ["Numérique","Justice","Sécurité"]
 +++
 

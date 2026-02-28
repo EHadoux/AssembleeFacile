@@ -4,9 +4,9 @@ draft = false
 title = "Rétablir le régime de déclaration de l’instruction en famille - N° 226"
 auteurs = ["Annie Genevard","Thibault Bazin","Anne-Laure Blin","Émilie Bonnivard","Hubert Brigand","François-Xavier Ceccoli","Josiane Corneloup","Vincent Descoeur","Fabien Di Filippo","Virginie Duby-Muller","Nicolas Forissier","Philippe Gosselin","Justine Gruet","Patrick Hetzel","Philippe Juvin","Alexandra Martin","Frédérique Meunier","Nicolas Ray","Antoine Vermorel-Marques","Jean-Pierre Vigier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/declaration_instruction_en_famille"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Famille","Éducation","Action publique"]
 +++
 

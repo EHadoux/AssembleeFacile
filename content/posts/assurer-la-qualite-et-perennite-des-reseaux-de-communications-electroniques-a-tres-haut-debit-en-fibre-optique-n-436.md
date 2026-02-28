@@ -4,9 +4,9 @@ draft = false
 title = "Assurer la qualité et la pérennité des réseaux de communications électroniques à très haut débit en fibre optique - N° 436"
 auteurs = ["Jean-Louis Thiériot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/qualite_reseaux_communications_electroniques_fibre"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Numérique","Économie","Consommation"]
 +++
 

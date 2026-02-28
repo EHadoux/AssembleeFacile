@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer la transparence de la dette extérieure de l’État - N° 425"
 auteurs = ["Kévin Mauvieux","Franck Allisio","Maxime Amblard","Philippe Ballard","Christophe Barthès","José Beaurain","Théo Bernhardt","Guillaume Bigot","Bruno Bilde","Emmanuel Blairy","Sophie Blanc","Frédéric Boccaletti","Pascale Bordes","Anthony Boulogne","Manon Bouquin","Jérôme Buisson","Sébastien Chenu","Nathalie Da Conceicao Carvalho","Jocelyn Dessigny","Edwige Diaz","Sandrine Dogor-Such","Nicolas Dragon","Alexandre Dufosset","Aurélien Dutremble","Frédéric Falcon","Emmanuel Fouquart","Thierry Frappé","Stéphanie Galzy","Jonathan Gery","Frank Giletti","Christian Girard","Antoine Golliot","José Gonzalez","Géraldine Grangier","Julien Guibert","Laurent Jacobelli","Pascal Jenft","Alexis Jolly","Tiffany Joncour","Sylvie Josserand","Laure Lavalette","Julie Lechanteux","Nadine Lechon","Gisèle Lelouis","Katiana Levavasseur","Julien Limongi","René Lioret","Philippe Lottiaux","Alexandre Loubet","David Magnier","Claire Marais-Beuil","Pascal Markowsky","Patrice Martin","Michèle Martinez","Alexandra Masson","Joëlle Mélin","Yaël Ménaché","Thierry Perez","Kévin Pfeffer","Stéphane Rambaud","Angélique Ranc","Julien Rancoule","Matthias Renault","Catherine Rimbert","Joseph Rivière","Laurence Robert-Dehault","Sophie-Laurence Roy","Anaïs Sabatini","Emeric Salmon","Philippe Schreck","Jean-Philippe Tanguy","Michaël Taverne","Lionel Tivoli","Antoine Villedieu","Frédéric-Pierre Vos","Frédéric Weber","Thomas Ménagé"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ameliorer_transparence_dette_exterieure_etat"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Finances","Économie","Action publique"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Nationalisation des sites de production sidérurgique sur le territoire national - N° 1537"
 auteurs = ["Stéphane Peu","Édouard Bénard","Soumya Bourouaha","Julien Brugerolles","Jean-Victor Castor","Elsa Faucillon","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Emmanuel Maurel","Yannick Monnet","Marcellin Nadeau","Mereana Reid Arbelot","Davy Rimane","Nicolas Sansu","Emmanuel Tjibaou","les membres du groupe Gauche Démocrate et Républicaine"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/nationalisation_production_siderurgique_territoire_national_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 10 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 10 juin 2025","Mardi 10 juin 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Industrie","Emploi","Économie"]
 +++
 

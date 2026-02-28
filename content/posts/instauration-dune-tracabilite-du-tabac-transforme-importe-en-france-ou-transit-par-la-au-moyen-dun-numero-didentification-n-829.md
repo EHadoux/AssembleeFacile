@@ -4,9 +4,9 @@ draft = false
 title = "Instauration d’une traçabilité du tabac transformé importé en France ou en transit par la France au moyen d’un numéro d’identification - N° 829"
 auteurs = ["Christophe Blanchet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/tracabilite_du_tabac_17"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Économie","Santé","Finances"]
 +++
 

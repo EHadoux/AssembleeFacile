@@ -4,9 +4,9 @@ draft = false
 title = "Permettre que les amendes non recouvrées puissent être saisies sur le revenu de solidarité active, l’allocation de solidarité spécifique ou les prestations familiales - N° 1928"
 auteurs = ["Fabien Di Filippo","Thibault Bazin","Jean-Luc Bourgeaux","Josiane Corneloup","Justine Gruet","Michel Herbillon","Thierry Liger","Frédérique Meunier","Christelle Petex","Nicolas Ray","Vincent Rolland","Patrick Hetzel","Éric Pauget","Anne-Laure Blin","Christelle Minard","Eric Liégeon"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/permettre_amendes_non_recouvrees_saisies_revenu_solidarite_active_allocation_solidarite_specifique_prestations_familiales_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Justice","Finances","Solidarité"]
 +++
 

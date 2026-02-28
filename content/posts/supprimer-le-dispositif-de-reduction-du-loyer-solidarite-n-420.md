@@ -4,9 +4,9 @@ draft = false
 title = "Supprimer le dispositif de réduction du loyer de solidarité - N° 420"
 auteurs = ["Josiane Corneloup","Justine Gruet","Sylvie Bonnet","Fabien Di Filippo","Jean-Pierre Vigier","Fabrice Brun","Yannick Neuder","Christelle Petex"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/supprimer_reduction_loyer_solidarite_dispo"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Économie","Solidarité"]
 +++
 

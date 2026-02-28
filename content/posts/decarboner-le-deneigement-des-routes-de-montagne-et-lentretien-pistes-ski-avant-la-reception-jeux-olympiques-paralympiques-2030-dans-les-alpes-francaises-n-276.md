@@ -4,9 +4,9 @@ draft = false
 title = "Décarboner le déneigement des routes de montagne et l’entretien des pistes de ski avant la réception des Jeux Olympiques et Paralympiques 2030 dans les Alpes françaises - N° 276"
 auteurs = ["Vincent Rolland","Jérôme Nury","Justine Gruet","Véronique Louwagie","François-Xavier Ceccoli","Annie Genevard","Nicolas Ray","Michel Herbillon","Alexandre Portier","Valérie Bazin-Malgras","Jean-Luc Bourgeaux","Xavier Breton","Jean-Pierre Vigier","Émilie Bonnivard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/decarboner_deneigement_jeux_olympiques"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Écologie","Énergie","Sports"]
 +++
 

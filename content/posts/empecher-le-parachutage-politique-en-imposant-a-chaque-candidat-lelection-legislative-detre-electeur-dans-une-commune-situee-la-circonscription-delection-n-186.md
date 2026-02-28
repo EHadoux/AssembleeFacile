@@ -4,9 +4,9 @@ draft = false
 title = "Empêcher le parachutage politique en imposant à chaque candidat à l’élection législative d’être électeur dans une commune située dans la circonscription d’élection - N° 186"
 auteurs = ["Jérôme Nury","Jean-Pierre Bataille","Thibault Bazin","Sylvie Bonnet","Ian Boucard","Jean-Luc Bourgeaux","Joël Bruneau","Pierre Cordier","Fabien Di Filippo","Julien Dive","Olivier Falorni","Justine Gruet","Philippe Juvin","Corentin Le Fur","Véronique Louwagie","Alexandra Martin","Yannick Neuder","Jérémie Patrier-Leitus","Christelle Petex","Maud Petit","Béatrice Piron","Christophe Plassard","Richard Ramos","Bertrand Sorre","Jean-Pierre Taite","David Taupiac","Jean-Pierre Vigier","Philippe Vigier","Stéphane Viry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/empecher_parachutage_politique_election_legislative"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mercredi 11 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mercredi 11 septembre 2024","Mercredi 11 septembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Relations parlementaires"]
 +++
 

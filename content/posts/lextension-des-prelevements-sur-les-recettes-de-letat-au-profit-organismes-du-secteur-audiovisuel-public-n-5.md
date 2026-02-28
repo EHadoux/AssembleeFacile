@@ -4,9 +4,9 @@ draft = false
 title = "L’extension des prélèvements sur les recettes de l’État au profit des organismes du secteur audiovisuel public - N° 5"
 auteurs = ["Constance Le Grip"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/extension_prelevements_audiovisuel2"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Samedi 20 juillet 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Samedi 20 juillet 2024","Samedi 20 juillet 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Économie","Finances"]
 +++
 

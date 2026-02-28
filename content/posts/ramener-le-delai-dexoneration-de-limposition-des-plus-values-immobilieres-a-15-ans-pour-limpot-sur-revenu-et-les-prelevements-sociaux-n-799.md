@@ -4,9 +4,9 @@ draft = false
 title = "Ramener le délai d’exonération de l’imposition des plus-values immobilières à 15 ans pour l’impôt sur le revenu et les prélèvements sociaux - N° 799"
 auteurs = ["Éric Pauget"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/exoneration_impots_plus_values_15_ans_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Logement","Économie","Finances"]
 +++
 

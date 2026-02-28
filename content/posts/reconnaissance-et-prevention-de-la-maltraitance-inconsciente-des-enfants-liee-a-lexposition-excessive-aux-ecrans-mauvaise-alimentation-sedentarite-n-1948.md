@@ -4,9 +4,9 @@ draft = false
 title = "Reconnaissance et prévention de la maltraitance inconsciente des enfants liée à l’exposition excessive aux écrans, à la mauvaise alimentation et à la sédentarité - N° 1948"
 auteurs = ["Justine Gruet","Josiane Corneloup","Frédérique Meunier","Michel Herbillon"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/recvonnaissance_prevention_maltraitance_inconsciente_exposition_ecrans_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Famille","Jeunesse"]
 +++
 

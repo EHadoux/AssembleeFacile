@@ -4,9 +4,9 @@ draft = false
 title = "Adapter le système de cotisations sociales à l’ère de l’automatisation du travail - N° 1930"
 auteurs = ["Christelle D'Intorni","Gisèle Lelouis","Éric Michoux","Frank Giletti","Marc Chavent"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/adapter_systeme_cotisations_sociales_automatisation_travail_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Économie","Emploi","Solidarité"]
 +++
 

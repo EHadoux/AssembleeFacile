@@ -4,9 +4,9 @@ draft = false
 title = "Libérer le crédit interentreprises - N° 370"
 auteurs = ["Christophe Naegelen"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/liberer_credit_interentreprisesdssssssss"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Économie","Finances","Industrie"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Rétablir un cumul des mandats pour les députés et sénateurs exerçant une fonction de maire dans les communes de 10 000 habitants ou moins ou une fonction d’adjoint au maire - N° 850"
 auteurs = ["Fabien Lainé","Anthony Brosse","Didier Padey","Christophe Naegelen","Nicolas Forissier","Jean-Luc Bourgeaux","Didier Lemaire"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/retablir_cumul_mandats"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 23 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 janvier 2025","Jeudi 23 janvier 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Relations parlementaires","Décentralisation","Ruralité"]
 +++
 

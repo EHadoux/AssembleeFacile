@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer la protection des commerçants grâce à l’usage d’outils numériques - N° 1142"
 auteurs = ["Paul Midy","Thibault Bazin","Ian Boucard","Joël Bruneau","Françoise Buffet","Lionel Causse","Julie Delpech","Philippe Fait","Olivier Falorni","Jean-Marie Fiévet","Agnès Firmin Le Bodo","Moerani Frébault","Jean-Luc Fugit","Jean-Michel Jacques","Brigitte Klinkert","Jean Laussucq","Christine Le Nabour","Vincent Ledoux","Pauline Levasseur","Delphine Lingemann","Brigitte Liso","Lise Magnier","Christophe Marion","Sandra Marsaud","Stéphane Mazars","Laurent Mazaury","Laure Miller","Maud Petit","Jean-François Portarrieu","Natalia Pouzyreff","Franck Riester","Anne-Sophie Ronceret","Xavier Roseren","Jean-François Rousset","Bertrand Sorre","Violette Spillebout","Prisca Thevenot","Stéphane Travert","Annie Vidal","Corinne Vignon","Lionel Vuibert","Éric Woerth"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/protection_commercants_outils_numeriques_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 18 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 mars 2025","Mardi 18 mars 2025","Mardi 18 mars 2025","Lundi 16 février 2026"]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)"]
 tags = ["Commerce","Sécurité","Numérique"]
 +++
 

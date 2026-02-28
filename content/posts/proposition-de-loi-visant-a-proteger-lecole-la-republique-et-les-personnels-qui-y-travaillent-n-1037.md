@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à protéger l’école de la République et les personnels qui y travaillent - N° 1037"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51255"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Vendredi 10 janvier 2025","Vendredi 10 janvier 2025","Jeudi 6 mars 2025"]
-stepsStatus = ["","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Vendredi 10 janvier 2025","Vendredi 10 janvier 2025","Vendredi 10 janvier 2025","Jeudi 6 mars 2025","Jeudi 6 mars 2025"]
+stepsStatus = ["","Commission des affaires étrangères (Sénat)","Texte adopté ✔️","Commission des affaires culturelles",""]
 tags = ["Éducation","Fonction publique","Sécurité"]
 +++
 

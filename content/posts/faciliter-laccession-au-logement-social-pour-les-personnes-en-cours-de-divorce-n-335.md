@@ -4,9 +4,9 @@ draft = false
 title = "Faciliter l’accession au logement social pour les personnes en cours de divorce - N° 335"
 auteurs = ["Virginie Duby-Muller","Émilie Bonnivard","Ian Boucard","Jean-Luc Bourgeaux","Hubert Brigand","Fabrice Brun","Josiane Corneloup","Julien Dive","Nicolas Forissier","Philippe Gosselin","Justine Gruet","Michel Herbillon","Philippe Juvin","Guillaume Lepers","Véronique Louwagie","Yannick Neuder","Éric Pauget","Christelle Petex","Nicolas Ray","Vincent Rolland","Antoine Vermorel-Marques","Stéphane Viry","Valérie Bazin-Malgras"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/faciliter_accession_logement_social_personnes_en_cours_divorce"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Famille","Solidarité"]
 +++
 

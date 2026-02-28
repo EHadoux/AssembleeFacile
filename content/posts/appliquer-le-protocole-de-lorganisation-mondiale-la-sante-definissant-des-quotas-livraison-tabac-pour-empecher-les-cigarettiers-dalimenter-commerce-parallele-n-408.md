@@ -4,9 +4,9 @@ draft = false
 title = "Appliquer le protocole de l’Organisation mondiale de la santé définissant des quotas de livraison de tabac pour empêcher les cigarettiers d’alimenter le commerce parallèle - N° 408"
 auteurs = ["Frédéric Valletoux"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/protocole_organisation_mondiale_sante_quotas_tabac"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Santé","Commerce","Économie"]
 +++
 

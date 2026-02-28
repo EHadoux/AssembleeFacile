@@ -4,9 +4,9 @@ draft = false
 title = "Abaisser la majorité pénale à 16 ans - N° 364"
 auteurs = ["Lionel Tivoli","Franck Allisio","Charles Alloncle","Maxime Amblard","Bénédicte Auzanot","Philippe Ballard","Christophe Barthès","Romain Baubry","José Beaurain","Théo Bernhardt","Guillaume Bigot","Bruno Bilde","Emmanuel Blairy","Frédéric Boccaletti","Pascale Bordes","Anthony Boulogne","Manon Bouquin","Jorys Bovet","Jérôme Buisson","Eddy Casterman","Marc Chavent","Sébastien Chenu","Roger Chudeau","Bruno Clavet","Caroline Colombier","Nathalie Da Conceicao Carvalho","Sandra Delannoy","Jocelyn Dessigny","Sandrine Dogor-Such","Nicolas Dragon","Alexandre Dufosset","Christine Engrand","Frédéric Falcon","Olivier Fayssat","Guillaume Florquin","Emmanuel Fouquart","Thierry Frappé","Stéphanie Galzy","Jonathan Gery","Frank Giletti","Yoann Gillet","Christian Girard","José Gonzalez","Florence Goulet","Géraldine Grangier","Julien Guibert","Jordan Guitton","Timothée Houssin","Laurent Jacobelli","Pascal Jenft","Alexis Jolly","Tiffany Joncour","Florence Joubert","Hélène Laporte","Robert Le Bourgeois","Julie Lechanteux","Hervé de Lépinau","Katiana Levavasseur","René Lioret","Christine Loir","Marie-France Lorho","Philippe Lottiaux","Alexandre Loubet","David Magnier","Hanane Mansouri","Claire Marais-Beuil","Matthieu Marchio","Michèle Martinez","Alexandra Masson","Bryan Masson","Kévin Mauvieux","Nicolas Meizonnet","Joëlle Mélin","Yaël Ménaché","Thomas Ménagé","Pierre Meurin","Thibaut Monnier","Serge Muller","Julien Odoul","Kévin Pfeffer","Lisette Pollet","Stéphane Rambaud","Angélique Ranc","Julien Rancoule","Catherine Rimbert","Joseph Rivière","Laurence Robert-Dehault","Béatrice Roullaud","Sophie-Laurence Roy","Anaïs Sabatini","Alexandre Sabatou","Emeric Salmon","Philippe Schreck","Anne Sicard","Emmanuel Taché de la Pagerie","Michaël Taverne","Flavien Termet","Romain Tonussi","Frédéric Weber","Aurélien Dutremble"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/abaisser_majorite_penale"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Jeunesse","Sécurité"]
 +++
 

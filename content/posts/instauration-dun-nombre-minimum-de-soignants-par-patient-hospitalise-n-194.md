@@ -4,9 +4,9 @@ draft = false
 title = "Instauration d’un nombre minimum de soignants par patient hospitalisé - N° 194"
 auteurs = ["Sabrina Sebaihi","Damien Maudet","Maud Petit","Jean-Paul Lecoq","Emmanuel Fernandes","Mathilde Hignet","Thomas Portes","Rodrigo Arenas","Élise Leboucher","Guillaume Garot","Karine Lebon","Marianne Maximi","Arnaud Le Gall","Paul Molac","Dominique Voynet","Sandrine Rousseau","Nicolas Bonnet","Jean-Claude Raux","Steevy Gustave","Benoît Biteau","Hendrik Davi","Julie Ozenne","Tristan Lahais","Boris Tavernier","Jean-Louis Roumégas","Sébastien Peytavie","Arnaud Bonnet","Christine Arrighi","Damien Girard","Sandra Regol","Marie-Charlotte Garin","Béatrice Bellay","Aurélien Taché","Julien Gokel","Gabrielle Cathala","Léa Balage El Mariky","Emmanuel Grégoire","Marie-Noëlle Battistel","Karim Ben Cheikh","François Ruffin","Marie-José Allemand","Mereana Reid Arbelot","Ayda Hadizadeh","Paul-André Colombani","Catherine Hervieu"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instauration_nombre_minimum_soignants_par_patient_hospitalise"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Travail","Action publique"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Simplification du droit de l'urbanisme et du logement - N° 1589"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/simplification_droit_urbanisme_logement_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Commission Mixte Paritaire"]
-stepsDate = ["Mardi 1er avril 2025","Mardi 1er avril 2025","Jeudi 15 mai 2025","Mercredi 18 juin 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️","Accord"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Commission Mixte Paritaire","Conseil constitutionnel","Promulgation de la loi"]
+stepsDate = ["Mardi 1 avril 2025","Mardi 1 avril 2025","Mardi 1 avril 2025","Jeudi 15 mai 2025","Jeudi 15 mai 2025","Mercredi 18 juin 2025","Mardi 21 octobre 2025","Mercredi 26 novembre 2025"]
+stepsStatus = ["","Commission des affaires économiques","Texte adopté ✔️","Commission des affaires économiques (Sénat)","Texte modifié","Accord","Partiellement conforme",""]
 tags = ["Urbanisme","Logement","Énergie"]
 +++
 

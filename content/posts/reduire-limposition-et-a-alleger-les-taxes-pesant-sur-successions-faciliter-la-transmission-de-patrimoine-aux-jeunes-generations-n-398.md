@@ -4,9 +4,9 @@ draft = false
 title = "Réduire l’imposition et à alléger les taxes pesant sur les successions et à faciliter la transmission de patrimoine aux jeunes générations - N° 398"
 auteurs = ["Éric Pauget","Thibault Bazin","Valérie Bazin-Malgras","Anne-Laure Blin","Jean-Yves Bony","Virginie Duby-Muller","Justine Gruet","Philippe Juvin","Corentin Le Fur","Véronique Louwagie","Christelle Petex","Vincent Rolland","Michèle Tabarot","Jean-Pierre Taite","François-Xavier Ceccoli","Nicolas Forissier","Vincent Descoeur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reduire_imposition_alleger_taxes_successions_faciliter_transmission_patrimoine_jeunes_generations"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Économie","Finances","Fiscalité"]
 +++
 

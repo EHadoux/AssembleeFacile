@@ -4,9 +4,9 @@ draft = false
 title = "Garantir l'accès à l'apprentissage de la natation - N° 2111"
 auteurs = ["Soumya Bourouaha","Édouard Bénard","Julien Brugerolles","Jean-Victor Castor","Elsa Faucillon","Émeline K/Bidi","Frédéric Maillot","Emmanuel Maurel","Yannick Monnet","Marcellin Nadeau","Stéphane Peu","Mereana Reid Arbelot","Davy Rimane","Nicolas Sansu","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/acces_apprentissage_natation_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 18 novembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Sports","Éducation","Handicap"]
 +++
 

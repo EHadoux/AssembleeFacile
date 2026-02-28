@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer et garantir la santé des femmes tout au long de leur vie - N° 445"
 auteurs = ["Prisca Thevenot","Guillaume Gouffier Valente","Véronique Riotton","Julie Delpech","Sandrine Josso","Delphine Lingemann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ameliorer_garantir_sante_femmes"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Relations parlementaires"]
 +++
 

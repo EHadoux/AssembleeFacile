@@ -4,9 +4,9 @@ draft = false
 title = "Permettre la présence d’un administré en tant que délégué au sein d’un syndicat de communes - N° 233"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/delegue_syndicatdecommunes"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Ruralité","Décentralisation","Action publique"]
 +++
 

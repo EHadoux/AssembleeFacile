@@ -4,9 +4,9 @@ draft = false
 title = "Faire du handicap une « grande cause nationale » - N° 260"
 auteurs = ["Antoine Vermorel-Marques","Valérie Bazin-Malgras","Ian Boucard","Jean-Luc Bourgeaux","Xavier Breton","Vincent Descoeur","Fabien Di Filippo","Virginie Duby-Muller","Nicolas Forissier","Annie Genevard","Justine Gruet","Michel Herbillon","Patrick Hetzel","Philippe Juvin","Guillaume Lepers","Véronique Louwagie","Olivier Marleix","Alexandra Martin","Frédérique Meunier","Yannick Neuder","Éric Pauget","Alexandre Portier","Nicolas Ray","Vincent Rolland","Jean-Pierre Taite"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/handicap_grande_cause_nationale"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Handicap","Solidarité","Éducation"]
 +++
 

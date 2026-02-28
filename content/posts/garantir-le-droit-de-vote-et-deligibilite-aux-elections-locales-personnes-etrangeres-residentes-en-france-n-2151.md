@@ -4,9 +4,9 @@ draft = false
 title = "Garantir le droit de vote et d’éligibilité aux élections locales aux personnes étrangères résidentes en France - N° 2151"
 auteurs = ["Sabrina Sebaihi","Steevy Gustave","Arnaud Bonnet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_droit_vote_eligibilite_elections_locales_personnes_etrangeres_residentes_France"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 28 novembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 28 novembre 2025","Vendredi 28 novembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Europe","Intérieur"]
 +++
 

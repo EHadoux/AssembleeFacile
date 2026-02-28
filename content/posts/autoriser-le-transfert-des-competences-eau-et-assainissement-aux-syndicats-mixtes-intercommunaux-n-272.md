@@ -4,9 +4,9 @@ draft = false
 title = "Autoriser le transfert des compétences eau et assainissement aux syndicats mixtes et intercommunaux - N° 272"
 auteurs = ["Vincent Descoeur","Jean-Yves Bony","Hubert Brigand","Sylvie Bonnet","Xavier Breton","Fabrice Brun","Pierre Cordier","Josiane Corneloup","Jean-Luc Bourgeaux","Julien Dive","Ian Boucard","Christelle Petex","Jean-Pierre Taite","Véronique Louwagie","Thibault Bazin","Émilie Bonnivard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/autoriser_transfert_competences_eau_assainissement"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Ruralité","Aménagement du territoire","Décentralisation"]
 +++
 

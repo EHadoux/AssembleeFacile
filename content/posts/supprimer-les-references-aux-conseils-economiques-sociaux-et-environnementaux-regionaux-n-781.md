@@ -4,9 +4,9 @@ draft = false
 title = "Supprimer les références aux Conseils économiques, sociaux et environnementaux régionaux - N° 781"
 auteurs = ["Blandine Brocard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/supprimer_reference_ceser"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 16 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 16 janvier 2025","Jeudi 16 janvier 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Décentralisation","Budget"]
 +++
 

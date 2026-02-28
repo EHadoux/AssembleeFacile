@@ -4,9 +4,9 @@ draft = false
 title = "Permettre à l’enfant de maintenir des liens équilibrés avec ses deux parents en cas de séparation s’il y a désaccord sur le mode de résidence - N° 819"
 auteurs = ["Christine Le Nabour","Perrine Goulet","Véronique Riotton","Laure Miller","Didier Le Gac","Violette Spillebout","Annie Vidal","Jean-Michel Jacques","Hervé Berville","Brigitte Liso","Moerani Frébault","Jean-Marie Fiévet","Julie Delpech","Céline Calvez","Lionel Causse","Freddy Sertin","Denis Masséglia","Stéphane Vojetta","Nicole Le Peih","Stéphane Mazars","Graziella Melchior","Jean-Luc Fugit","Michel Lauzzana","Annaïg Le Meur","Bertrand Sorre","Vincent Ledoux","Stéphane Buchou","Pauline Levasseur","Philippe Fait","Sébastien Huyghe","Stéphanie Rist","Stéphane Travert","Guillaume Kasbarian","Éric Bothorel","Éric Woerth","François Cormier-Bouligeon","Natalia Pouzyreff","Karl Olive","Joséphine Missoffe","Sandrine Le Feur","Prisca Thevenot","Thierry Benoit","Jérémie Patrier-Leitus","Bertrand Bouyx","Anne-Cécile Violland","François Gernigon","Béatrice Piron","Lise Magnier","Jean Moulliere","Christophe Plassard","Agnès Firmin Le Bodo","Delphine Lingemann","Laurent Croizier","Philippe Latombe","Anne Bergantz","Olivier Falorni","Sophie Mette","Emmanuel Mandon","Géraldine Bannier","Marina Ferrari","Hubert Ott","Nicole Sanquer","Charles de Courson","Laurent Mazaury","Paul Molac","Laurent Panifous","Jean-Luc Bourgeaux","Sylvie Dezarnaud","Jean-Pierre Taite","Antoine Vermorel-Marques","Nicolas Ray","Philippe Juvin","Ian Boucard","Émilie Bonnivard","Christelle Petex","Claudia Rouaux","Hervé Saulignac","Gérard Leseul","Colette Capdevielle","Chantal Jourdan","Christian Baptiste","Karim Benbrahim","Fanny Dombre Coste","Roger Vicot","Pierrick Courbon","Isabelle Santiago","Emmanuel Grégoire","Océane Godard","Fabrice Barusseau","Sandrine Runel","Christine Pirès Beaune","Valérie Rossi","Stella Dupont"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/permettre_liens_equilibres_avec_parents_desaccord_residence_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Famille","Justice","Droits des femmes"]
 +++
 

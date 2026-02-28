@@ -4,9 +4,9 @@ draft = false
 title = "Maintien de classe en milieu rural - N° 396"
 auteurs = ["Frédérique Meunier","Émilie Bonnivard","Jean-Luc Bourgeaux","Hubert Brigand","Josiane Corneloup","Corentin Le Fur","Vincent Rolland","Valérie Bazin-Malgras","Yannick Neuder","Philippe Juvin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/maintien_classe_milieu_rural_nul"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Ruralité","Handicap"]
 +++
 

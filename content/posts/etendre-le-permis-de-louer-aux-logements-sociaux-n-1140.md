@@ -4,9 +4,9 @@ draft = false
 title = "Étendre le permis de louer aux logements sociaux - N° 1140"
 auteurs = ["Alma Dufour"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/etendre_permis_louer_logements_sociaux_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 18 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 mars 2025","Mardi 18 mars 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Santé","Action publique"]
 +++
 

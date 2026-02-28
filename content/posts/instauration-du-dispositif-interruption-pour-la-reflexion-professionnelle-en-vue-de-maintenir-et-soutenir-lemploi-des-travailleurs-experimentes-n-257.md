@@ -4,9 +4,9 @@ draft = false
 title = "Instauration du dispositif « interruption pour la réflexion professionnelle » en vue de maintenir et soutenir l’emploi des travailleurs expérimentés - N° 257"
 auteurs = ["Stéphane Viry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/dispositif_interruption_reflexion_professionnelle_travailleurs_experimentes"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Emploi","Travail","Solidarité"]
 +++
 

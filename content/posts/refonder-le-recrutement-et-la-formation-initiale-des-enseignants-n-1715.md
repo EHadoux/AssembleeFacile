@@ -1,9 +1,9 @@
 +++
 tags = ["Éducation", "Enseignement supérieur", "Emploi"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_refonder_recrutement_et_formation_initiale_des_enseignants_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 11 juillet 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 11 juillet 2025","Vendredi 11 juillet 2025"]
+stepsStatus = ["","Commission des affaires culturelles"]
 date = 2025-07-11
 draft = false
 title = "Refonder le recrutement et la formation initiale des enseignants - N° 1715"

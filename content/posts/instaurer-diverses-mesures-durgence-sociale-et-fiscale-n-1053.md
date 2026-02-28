@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer diverses mesures d'urgence sociale et fiscale - N° 1053"
 auteurs = ["Nicolas Sansu","Édouard Bénard","Soumya Bourouaha","Jean-Victor Castor","André Chassaigne","Elsa Faucillon","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Yannick Monnet","Marcellin Nadeau","Stéphane Peu","Mereana Reid Arbelot","Davy Rimane","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_diverses_mesures_urgence_sociale_fiscale_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Budget","Économie","Solidarité"]
 +++
 

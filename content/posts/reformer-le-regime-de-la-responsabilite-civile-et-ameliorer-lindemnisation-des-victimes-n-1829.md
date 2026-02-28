@@ -4,9 +4,9 @@ draft = false
 title = "Réformer le régime de la responsabilité civile et améliorer l’indemnisation des victimes - N° 1829"
 auteurs = ["Sacha Houlié"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reformer_regime_responsabilite_civiles_ameliorer_indemnisation_victimes_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Solidarité","Action publique"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Suivre l’application des mesures du Comité interministériel de la mer et évaluer les politiques publiques pour l’économie bleue - N° 424"
 auteurs = ["Sophie Panonacle","Sandrine Le Feur","Mickaël Cosson","Vincent Thiébaut","Sandrine Josso","Marcellin Nadeau","Jimmy Pahun","Xavier Roseren","Jean-Michel Brard","Nicolas Metzdorf","Constance de Pélichy","Stéphane Lenormand","Agnès Firmin Le Bodo","Didier Le Gac","Karl Olive","Nicole Le Peih","Charles Sitzenstuhl","Nicole Dubré-Chirat","Stéphane Buchou","Graziella Melchior","Moerani Frébault","Véronique Riotton","Florent Boudié","Lise Magnier","Yannick Chenevard","Maud Petit","Philippe Fait","Sophie Mette","Thierry Benoit","Liliana Tanguy","Olivier Falorni","Bertrand Bouyx","Delphine Lingemann","Christophe Blanchet","Sophie Errante","Max Mathiasin","Sophie Pantel","Mereana Reid Arbelot","Anna Pic","Jean-Pierre Bataille","Mélanie Thomin","Bruno Bilde","Philippe Gosselin","Jérôme Buisson","Anchya Bamana","Marc de Fleurian","Alexandre Allegret-Pilot","Alexandra Masson","Nicolas Meizonnet","Bertrand Sorre","Christophe Plassard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/suivi_application_comite_interministeriel_mer_economie_bleue"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Mer","Économie","Action publique"]
 +++
 

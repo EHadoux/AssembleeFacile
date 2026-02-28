@@ -4,9 +4,9 @@ draft = false
 title = "Rendre obligatoire le casier vierge pour les candidats à une élection nationale - N° 323"
 auteurs = ["Olivier Marleix"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_obligatoire_casier_vierge_candidats_election_nationale"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 10 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 10 octobre 2024","Jeudi 10 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Justice","Sécurité"]
 +++
 

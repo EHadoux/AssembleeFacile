@@ -4,9 +4,9 @@ draft = false
 title = "Constitutionnaliser la sécurité sociale - N° 1782"
 auteurs = ["Yannick Monnet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/constitutionnaliser_securite_sociale"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 12 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 12 septembre 2025","Vendredi 12 septembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Solidarité","Santé","Finances"]
 +++
 

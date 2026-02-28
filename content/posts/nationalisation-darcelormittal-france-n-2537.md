@@ -4,9 +4,9 @@ draft = false
 title = "Nationalisation d'ArcelorMittal France - N° 2537"
 auteurs = ["M. Le Président Du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/nationalisation_arcelormittal_2025"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Deuxième lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025","Vendredi 28 novembre 2025","Jeudi 26 février 2026"]
-stepsStatus = ["","Texte adopté ✅","Texte rejeté ❌",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025","Mardi 14 octobre 2025","Vendredi 28 novembre 2025","Vendredi 28 novembre 2025","Jeudi 26 février 2026"]
+stepsStatus = ["","Commission des finances","Texte adopté ✔️","Commission des finances (Sénat)","Texte rejeté","Commission des finances"]
 tags = ["Industrie","Économie"]
 +++
 

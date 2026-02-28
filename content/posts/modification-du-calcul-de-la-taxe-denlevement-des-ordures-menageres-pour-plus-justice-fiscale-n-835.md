@@ -4,9 +4,9 @@ draft = false
 title = "Modification du calcul de la taxe d'enlèvement des ordures ménagères pour plus de justice fiscale - N° 835"
 auteurs = ["Éric Martineau"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/calcul_taxe_enlevement_ordures_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Finances","Action publique","Logement"]
 +++
 

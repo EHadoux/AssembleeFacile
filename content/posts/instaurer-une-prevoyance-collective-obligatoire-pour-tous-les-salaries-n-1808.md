@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer une prévoyance collective obligatoire pour tous les salariés - N° 1808"
 auteurs = ["Stéphane Viry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_prevoyance_collective_obligatoire_tous_salaries_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Travail","Solidarité","Économie"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à renforcer la lutte contre les usages détournés du protoxyde d’azote - N° 1042"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51167"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mercredi 18 décembre 2024","Mercredi 18 décembre 2024","Vendredi 7 mars 2025"]
-stepsStatus = ["","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Mercredi 18 décembre 2024","Mercredi 18 décembre 2024","Mercredi 18 décembre 2024","Vendredi 7 mars 2025"]
+stepsStatus = ["","Commission des affaires sociales (Sénat)","Texte adopté ✔️","Commission des affaires sociales"]
 tags = ["Santé","Jeunesse","Sécurité"]
 +++
 

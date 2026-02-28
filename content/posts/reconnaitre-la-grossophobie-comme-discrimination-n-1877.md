@@ -4,9 +4,9 @@ draft = false
 title = "Reconnaître la grossophobie comme discrimination - N° 1877"
 auteurs = ["Romain Daubié"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_reconnaitre_la_grossophobie_comme_discrimination_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 30 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 30 septembre 2025","Mardi 30 septembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Discriminations","Justice","Santé"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Optimiser les sanctions civiles pour contrefaçon - N° 826"
 auteurs = ["Christophe Blanchet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/optimiser_sanctions_civiles_contrefacon22"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Économie","Justice","Finances"]
 +++
 

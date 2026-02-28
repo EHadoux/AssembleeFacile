@@ -1,9 +1,9 @@
 +++
 tags = ["Culture", "Numérique", "Économie"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N47697"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Deuxième lecture au Sénat","Deuxième lecture à l'Assemblée nationale"]
-stepsDate = ["Vendredi 21 avril 2023","Vendredi 21 avril 2023","Mercredi 14 juin 2023","Mardi 23 juillet 2024","Lundi 30 juin 2025","Vendredi 11 juillet 2025"]
-stepsStatus = ["","Texte adopté ✔️","","Texte rejeté ❌","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Deuxième lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Vendredi 21 avril 2023","Vendredi 21 avril 2023","Vendredi 21 avril 2023","Mercredi 14 juin 2023","Mardi 23 juillet 2024","Mardi 23 juillet 2024","Lundi 30 juin 2025","Lundi 30 juin 2025","Vendredi 11 juillet 2025"]
+stepsStatus = ["","Commission des affaires étrangères (Sénat)","Texte adopté ✔️","Commission des affaires culturelles","Commission des affaires culturelles","Texte rejeté","Commission des affaires étrangères (Sénat)","Texte adopté ✔️","Commission des affaires culturelles"]
 date = 2025-07-18
 draft = false
 title = "Réforme de l’audiovisuel public et souveraineté audiovisuelle - N° 1754"

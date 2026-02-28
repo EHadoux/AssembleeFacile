@@ -4,9 +4,9 @@ draft = false
 title = "Réduire les conditions et délais d'expulsion dans le cadre d'occupations illicites - N° 2386"
 auteurs = ["Christophe Naegelen"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_reduire_les_conditions_et_delais_d_expulsion_dans_le_cadre_d_occupations_illicites_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 27 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 27 janvier 2026","Mardi 27 janvier 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Justice","Urbanisme"]
 +++
 

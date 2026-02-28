@@ -5,9 +5,9 @@ draft = false
 title = "Interdire la vente de chiens et de chats dans les foires et salons - N° 1707"
 auteurs = ["Bryan Masson","Franck Allisio","Philippe Ballard","Théo Bernhardt","Bruno Bilde","Emmanuel Blairy","Sophie Blanc","Matthieu Bloch","Frédéric Boccaletti","Anthony Boulogne","Bernard Chaix","Marc Chavent","Sébastien Chenu","Bruno Clavet","Nathalie Da Conceicao Carvalho","Sandra Delannoy","Jocelyn Dessigny","Alexandre Dufosset","Aurélien Dutremble","Frédéric Falcon","Stéphanie Galzy","Jonathan Gery","Frank Giletti","José Gonzalez","Florence Goulet","Géraldine Grangier","Monique Griseti","Julien Guibert","Jordan Guitton","Sébastien Humbert","Tiffany Joncour","Florence Joubert","Hélène Laporte","Julie Lechanteux","Nadine Lechon","Katiana Levavasseur","René Lioret","Marie-France Lorho","Philippe Lottiaux","Matthieu Marchio","Patrice Martin","Michèle Martinez","Alexandra Masson","Kévin Mauvieux","Yaël Ménaché","Serge Muller","Julien Odoul","Caroline Parmentier","Kévin Pfeffer","Stéphane Rambaud","Sophie Ricourt Vaginay","Catherine Rimbert","Joseph Rivière","Laurence Robert-Dehault","Béatrice Roullaud","Alexandre Sabatou","Anne Sicard","Michaël Taverne","Thierry Tesson","Lionel Tivoli","Frédéric Weber"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_interdire_vente_chiens_et_chats_dans_foires_et_salons_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 11 juillet 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 11 juillet 2025","Vendredi 11 juillet 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 +++
 
 ## Résumé

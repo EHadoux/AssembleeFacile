@@ -4,9 +4,9 @@ draft = false
 title = "Permettre l’exclusion des étrangers en situation irrégulière du bénéfice de la tarification sociale dans les transports - N° 499"
 auteurs = ["Constance Le Grip","Aurore Bergé","Jean Laussucq","Mathieu Lefèvre","Nicolas Metzdorf","Charles Rodwell","Laetitia Saint-Paul","Éric Woerth"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/exclusion_etrangers_tarification_sociale_transports"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 29 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 29 octobre 2024","Mardi 29 octobre 2024"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Transports","Intérieur","Solidarité"]
 +++
 

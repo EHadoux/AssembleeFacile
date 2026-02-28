@@ -4,9 +4,9 @@ draft = false
 title = "Modernisation de la kinésithérapie et amélioration de l'accès aux soins - N° 227"
 auteurs = ["Stéphane Viry","Laurent Mazaury","Jean-Pierre Bataille","Delphine Lingemann","Astrid Panosyan-Bouvet","Max Mathiasin","Joseph Rivière","Richard Ramos","Christophe Naegelen","Liliana Tanguy","Nicolas Meizonnet","Antoine Villedieu","Sophie Panonacle","Virginie Duby-Muller","Émilie Bonnivard","David Taupiac","Philippe Juvin","Sophie Pantel","Stéphane Lenormand","Jean-Yves Bony","Vincent Descoeur","Joël Bruneau"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/modernisation_kinesitherapie"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Autonomie","Action publique"]
 +++
 

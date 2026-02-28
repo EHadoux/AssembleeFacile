@@ -4,9 +4,9 @@ draft = false
 title = "Extension de la possibilité de préemption de baux commerciaux dans les mairies aux sociétés civiles immobilières - N° 1135"
 auteurs = ["Pierre Cazeneuve","Stéphane Delautrette","Jean-Michel Brard","Romain Daubié","Catherine Hervieu","Stéphane Peu","Nicolas Ray","David Taupiac"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/extension-possibilite_preemption_baux_commerciaux_mairies_societes_civiles_immobilieres_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 18 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 mars 2025","Mardi 18 mars 2025","Mardi 18 mars 2025","Lundi 16 février 2026"]
+stepsStatus = ["","Commission des affaires économiques","Texte adopté ✔️","Commission des affaires économiques (Sénat)"]
 tags = ["Commerce","Urbanisme","Économie"]
 +++
 

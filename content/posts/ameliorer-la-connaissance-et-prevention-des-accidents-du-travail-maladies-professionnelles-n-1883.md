@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer la connaissance et la prévention des accidents du travail et des maladies professionnelles - N° 1883"
 auteurs = ["Yannick Monnet","Édouard Bénard","Soumya Bourouaha","Julien Brugerolles","Jean-Victor Castor","Elsa Faucillon","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Emmanuel Maurel","Marcellin Nadeau","Stéphane Peu","Mereana Reid Arbelot","Davy Rimane","Nicolas Sansu"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_ameliorer_la_connaissance_et_la_prevention_des_accidents_du_travail_et_des_maladies_professionnelles_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 30 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 30 septembre 2025","Mardi 30 septembre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Travail","Santé","Sécurité"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi instituant une ordonnance de sûreté de l'enfant victime de violences - N° 557"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49788"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mercredi 10 avril 2024","Mercredi 10 avril 2024","Jeudi 14 novembre 2024"]
-stepsStatus = ["","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Mercredi 10 avril 2024","Mercredi 10 avril 2024","Mercredi 10 avril 2024","Jeudi 14 novembre 2024"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois"]
 tags = ["Justice","Famille","Droits des femmes"]
 +++
 

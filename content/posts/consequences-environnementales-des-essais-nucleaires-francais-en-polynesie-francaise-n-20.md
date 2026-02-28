@@ -4,9 +4,9 @@ draft = false
 title = "Conséquences environnementales des essais nucléaires français en Polynésie française - N° 20"
 auteurs = ["Jean-Pierre Bataille"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/essais_nucleaires_environnement_Polynesie"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mercredi 10 novembre 2010","Mercredi 10 novembre 2010","Mercredi 18 janvier 2012","Lundi 2 juillet 2012","Jeudi 6 juillet 2017","Vendredi 8 juillet 2022","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","","","","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Mercredi 10 novembre 2010","Mercredi 10 novembre 2010","Mercredi 10 novembre 2010","Mercredi 18 janvier 2012","Lundi 2 juillet 2012","Jeudi 6 juillet 2017","Vendredi 8 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","En commission","Texte adopté ✔️","Commission du développement durable","Commission du développement durable","Commission du développement durable","Commission du développement durable","Commission du développement durable"]
 tags = ["Outre-mer","Écologie","Santé"]
 +++
 

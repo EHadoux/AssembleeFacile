@@ -4,9 +4,9 @@ draft = false
 title = "Mieux protéger les animaux, améliorer leurs conditions de vie et lutter contre la maltraitance - N° 253"
 auteurs = ["Alexandra Martin","Valérie Bazin-Malgras","Ian Boucard","Michel Herbillon","Émilie Bonnivard","Philippe Juvin","François-Xavier Ceccoli","Julie Delpech"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_animaux_maltraitance"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Agriculture","Solidarité","Justice"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Modifier le régime de responsabilité applicable en matière de fêtes traditionnelles camarguaises - N° 1543"
 auteurs = ["Charles Alloncle","Emmanuel Taché de la Pagerie","Nicolas Meizonnet","Éric Ciotti","Alexandre Allegret-Pilot","Franck Allisio","Bénédicte Auzanot","Brigitte Barèges","Christophe Barthès","Romain Baubry","Emmanuel Blairy","Sophie Blanc","Matthieu Bloch","Frédéric Boccaletti","Manon Bouquin","Jorys Bovet","Jérôme Buisson","Eddy Casterman","Bernard Chaix","Marc Chavent","Sébastien Chenu","Roger Chudeau","Caroline Colombier","Christelle D'Intorni","Sandra Delannoy","Jocelyn Dessigny","Nicolas Dragon","Frédéric Falcon","Olivier Fayssat","Emmanuel Fouquart","Julien Gabarron","Stéphanie Galzy","Jonathan Gery","Yoann Gillet","Frank Giletti","Christian Girard","Antoine Golliot","Monique Griseti","Jordan Guitton","Marine Hamelet","Sylvie Josserand","Florence Joubert","Hélène Laporte","Robert Le Bourgeois","Nadine Lechon","Bartolomé Lenoir","Hervé de Lépinau","Katiana Levavasseur","Aurélien Lopez-Liguori","Marie-France Lorho","Philippe Lottiaux","Alexandre Loubet","David Magnier","Hanane Mansouri","Claire Marais-Beuil","Pascal Markowsky","Patrice Martin","Michèle Martinez","Pierre Meurin","Maxime Michelet","Éric Michoux","Thibaut Monnier","Serge Muller","Kévin Pfeffer","Stéphane Rambaud","Julien Rancoule","Sophie Ricourt Vaginay","Catherine Rimbert","Joseph Rivière","Sophie-Laurence Roy","Alexandre Sabatou","Emeric Salmon","Anne Sicard","Michaël Taverne","Thierry Tesson","Romain Tonussi","Vincent Trébuchet","Gérault Verny"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/modifier_regime_responsabilite_applicable_matiere_fetes_traditionnelles_camarguaises_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 10 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 10 juin 2025","Mardi 10 juin 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Agriculture","Économie","Culture"]
 +++
 

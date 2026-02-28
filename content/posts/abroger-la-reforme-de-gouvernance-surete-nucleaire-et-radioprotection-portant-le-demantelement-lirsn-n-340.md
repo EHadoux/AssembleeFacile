@@ -4,9 +4,9 @@ draft = false
 title = "Abroger la réforme de la gouvernance de la sûreté nucléaire et de la radioprotection portant le démantèlement de l’IRSN - N° 340"
 auteurs = ["Julie Laernoes","Delphine Batho","Dominique Voynet","Cyrielle Chatelain","Maxime Laisney","Anne Stambach-Terrenoir","Charles de Courson","Paul Molac","Mickaël Bouloux","Émeline K/Bidi","Édouard Bénard","Pouria Amirshahi","Christine Arrighi","Léa Balage El Mariky","Lisa Belluco","Karim Ben Cheikh","Benoît Biteau","Arnaud Bonnet","Nicolas Bonnet","Alexis Corbière","Hendrik Davi","Charles Fournier","Marie-Charlotte Garin","Damien Girard","Steevy Gustave","Catherine Hervieu","Jérémie Iordanoff","Tristan Lahais","Benjamin Lucas-Lundy","Julie Ozenne","Sébastien Peytavie","Marie Pochon","Jean-Claude Raux","Sandra Regol","Sandrine Rousseau","Eva Sas","Sabrina Sebaihi","Danielle Simonnet","Sophie Taillé-Polian","Boris Tavernier","Nicolas Thierry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/abroger_reforme_gouvernance_surete_nucleaire"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Énergie","Sécurité","Action publique"]
 +++
 

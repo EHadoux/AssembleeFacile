@@ -4,9 +4,9 @@ draft = false
 title = "Généralisation obligatoire du nutri-score et de l’affichage des produits ultra-transformés et instauration d’une taxe sur les boissons sucrées dite \"taxe soda\" - N° 500"
 auteurs = ["Sabrina Sebaihi","Eléonore Caroit"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/generalisation_nutri_score_taxe_soda"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 29 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 29 octobre 2024","Mardi 29 octobre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Économie","Industrie"]
 +++
 

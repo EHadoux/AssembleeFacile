@@ -4,9 +4,9 @@ draft = false
 title = "Lutter contre les déserts médicaux - N° 225"
 auteurs = ["Valérie Bazin-Malgras","Hubert Brigand","François-Xavier Ceccoli","Nicolas Forissier","Frédérique Meunier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/Lutte_desertification_medicale2"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Ruralité","Action publique"]
 +++
 

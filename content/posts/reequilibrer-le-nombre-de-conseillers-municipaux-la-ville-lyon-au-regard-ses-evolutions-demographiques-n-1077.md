@@ -4,9 +4,9 @@ draft = false
 title = "Rééquilibrer le nombre de conseillers municipaux de la ville de Lyon au regard de ses évolutions démographiques - N° 1077"
 auteurs = ["Sandrine Runel","Boris Tavernier","Marie-Charlotte Garin","Anaïs Belouassa-Cherifi","Hervé Saulignac","Paul Christophle","Céline Hervieu","Emmanuel Grégoire","Stéphane Delautrette"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reequilibrer_nombre_conseillers_municipaux_ville_lyon_regard_evolution_demographiques_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Aménagement du territoire","Décentralisation","Urbanisme"]
 +++
 

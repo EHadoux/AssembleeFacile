@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à endiguer la prolifération du frelon asiatique et à préserver la filière apicole - N° 143"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49472"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Promulgation de la loi"]
-stepsDate = ["Lundi 26 février 2024","Lundi 26 février 2024","Jeudi 11 avril 2024","Mardi 23 juillet 2024","Vendredi 14 mars 2025"]
-stepsStatus = ["","Texte adopté ✔️","","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Première lecture à l'Assemblée nationale","Promulgation de la loi"]
+stepsDate = ["Lundi 26 février 2024","Lundi 26 février 2024","Lundi 26 février 2024","Jeudi 11 avril 2024","Mardi 23 juillet 2024","Mardi 23 juillet 2024","Vendredi 14 mars 2025"]
+stepsStatus = ["","Commission du développement durable (Sénat)","Texte adopté ✔️","Commission du développement durable","Commission du développement durable","Texte adopté ✔️",""]
 tags = ["Agriculture","Biodiversité","Écologie"]
 +++
 

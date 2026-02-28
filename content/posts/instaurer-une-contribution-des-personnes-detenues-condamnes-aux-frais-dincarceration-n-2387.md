@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer une contribution des personnes détenues condamnés aux frais d’incarcération - N° 2387"
 auteurs = ["Christophe Naegelen"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/contribution_personnes_detenues_frais_incarceration_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 27 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 27 janvier 2026","Mardi 27 janvier 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Budget","Solidarité"]
 +++
 

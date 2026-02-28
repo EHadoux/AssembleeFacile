@@ -4,9 +4,9 @@ draft = false
 title = "Abaisser la taxe sur la valeur ajoutée sur les frais d'obsèques - N° 443"
 auteurs = ["Julien Dive","Valérie Bazin-Malgras","Vincent Descoeur","Nicolas Forissier","Michel Herbillon","Corentin Le Fur","Alexandra Martin","Éric Pauget","Christelle Petex","Jean-Pierre Taite","Jean-Pierre Vigier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/abaisser_tva_frais_obseques"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Finances","Solidarité","Famille"]
 +++
 

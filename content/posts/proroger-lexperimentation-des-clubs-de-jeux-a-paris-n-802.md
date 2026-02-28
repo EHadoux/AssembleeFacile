@@ -4,9 +4,9 @@ draft = false
 title = "Proroger l'expérimentation des clubs de jeux à Paris - N° 802"
 auteurs = ["Sylvain Maillard","Olivia Grégoire","Emmanuelle Hoffman","David Amiel","Joséphine Missoffe"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proroger_experimentation_clubs_jeux_paris_epr_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Économie","Emploi","Action publique"]
 +++
 

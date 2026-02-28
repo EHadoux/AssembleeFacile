@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer l’accompagnement humain des élèves en situation de handicap - N° 254"
 auteurs = ["Alexandra Martin","Pierre Cordier","Sylvie Bonnet","Justine Gruet","Jean-Pierre Taite","Yannick Neuder","Nicolas Ray","Alexandre Portier","Michèle Tabarot","Jean-Pierre Vigier","Hubert Brigand","Michel Herbillon","Valérie Bazin-Malgras","Jean-Luc Bourgeaux","Ian Boucard","Nicolas Forissier","Émilie Bonnivard","Virginie Duby-Muller","Josiane Corneloup","Philippe Gosselin","Olivier Marleix"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/accompagnement_eleves_handicap"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Handicap","Éducation","Solidarité"]
 +++
 

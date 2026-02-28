@@ -4,9 +4,9 @@ draft = false
 title = "Protéger la santé publique en luttant contre les denrées alimentaires ultra-transformées et en renforçant la transparence alimentaire - N° 2326"
 auteurs = ["Loïc Prud'homme","Chantal Jourdan","Karine Lebon","Richard Ramos","Sabrina Sebaihi","Anne Stambach-Terrenoir","Boris Tavernier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_sante_publique_denrees_alimentaires_ultra_transformees_renforcant_transparence_alimentaire_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 janvier 2026","Mardi 13 janvier 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Économie","Alimentation"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Demandes de restitution de restes humains originaires du territoire national - N° 838"
 auteurs = ["Christophe Marion","Erwan Balanant","Géraldine Bannier","Belkhir Belhaddad","Béatrice Bellamy","Béatrice Bellay","Éric Bothorel","Anthony Brosse","Joël Bruneau","Stéphane Buchou","Céline Calvez","Eléonore Caroit","Paul Christophe","Julie Delpech","Nicole Dubré-Chirat","Stella Dupont","Philippe Fait","Olivier Falorni","Yannick Favennec-Bécot","Jean-Marie Fiévet","Agnès Firmin Le Bodo","Moerani Frébault","Guillaume Garot","Anne Genetet","Olga Givernet","David Guiraud","Frantz Gumbs","Sébastien Huyghe","Fatiha Keloua Hachi","Daniel Labaronne","Jean Laussucq","Vincent Ledoux","Pauline Levasseur","Delphine Lingemann","Max Mathiasin","Stéphane Mazars","Laurent Mazaury","Graziella Melchior","Christophe Naegelen","Hubert Ott","Sophie Panonacle","Jérémie Patrier-Leitus","Constance de Pélichy","Isabelle Rauch","Jean-Claude Raux","Nicolas Ray","Stéphanie Rist","Marie-Pierre Rixain","Claudia Rouaux","Olivier Serva","Bertrand Sorre","Violette Spillebout","Sophie Taillé-Polian","Prisca Thevenot","Stéphane Travert","Annie Vidal","Corinne Vignon","Stéphane Viry","Stéphane Vojetta","Lionel Vuibert"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/demandes_restitution_restes_humains_originaires_territoire_national_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Culture","Outre-mer","Droits des femmes"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Sécuriser la production en eau et lutter contre la sécheresse dans l’Aude et les Pyrénées-Orientales - N° 2330"
 auteurs = ["Frédéric Falcon","Alexandre Allegret-Pilot","Philippe Ballard","Anchya Bamana","Christophe Barthès","Romain Baubry","Guillaume Bigot","Emmanuel Blairy","Sophie Blanc","Frédéric Boccaletti","Jérôme Buisson","Sébastien Chenu","Caroline Colombier","Christelle D'Intorni","Jocelyn Dessigny","Edwige Diaz","Nicolas Dragon","Alexandre Dufosset","Aurélien Dutremble","Auguste Evrard","Emmanuel Fouquart","Julien Gabarron","Stéphanie Galzy","Jonathan Gery","Frank Giletti","Yoann Gillet","Christian Girard","Florence Goulet","Géraldine Grangier","Monique Griseti","Julien Guibert","Michel Guiniot","Jordan Guitton","Marine Hamelet","Sébastien Humbert","Laurent Jacobelli","Alexis Jolly","Hélène Laporte","Robert Le Bourgeois","Hervé de Lépinau","Katiana Levavasseur","René Lioret","Christine Loir","Aurélien Lopez-Liguori","Marie-France Lorho","Philippe Lottiaux","Alexandre Loubet","David Magnier","Claire Marais-Beuil","Michèle Martinez","Alexandra Masson","Nicolas Meizonnet","Joëlle Mélin","Yaël Ménaché","Éric Michoux","Caroline Parmentier","Kévin Pfeffer","Julien Rancoule","Catherine Rimbert","Sophie-Laurence Roy","Anaïs Sabatini","Emeric Salmon","Thierry Tesson","Romain Tonussi","Frédéric-Pierre Vos","Frédéric Weber"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/securiser_production_eau_et_lutter_contre_secheresse_dans_Aude_et_Pyrenees_Orientales_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 janvier 2026","Mardi 13 janvier 2026"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Écologie","Aménagement du territoire","Agriculture"]
 +++
 

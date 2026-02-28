@@ -4,9 +4,9 @@ draft = false
 title = "Réduire la période obligatoire de consolidation des compétences des praticiens à diplômes hors Union européenne - N° 250"
 auteurs = ["Christelle Petex","Thibault Bazin","Valérie Bazin-Malgras","Fabien Di Filippo","Virginie Duby-Muller","Yannick Neuder","Jean-Pierre Taite","Michèle Tabarot","Vincent Descoeur","Nicolas Forissier","Olivier Marleix","Hubert Brigand"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/periode_consolid_comp_practi"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Emploi","Europe"]
 +++
 

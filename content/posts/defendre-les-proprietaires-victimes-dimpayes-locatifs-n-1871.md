@@ -4,9 +4,9 @@ draft = false
 title = "Défendre les propriétaires victimes d’impayés locatifs - N° 1871"
 auteurs = ["Corentin Le Fur","Josiane Corneloup","Julien Dive","Fabien Di Filippo","Eric Liégeon","Ian Boucard","Émilie Bonnivard","Vincent Jeanbrun","Alexandre Portier","Nicolas Ray","Jean-Pierre Taite","Virginie Duby-Muller","Sébastien Martin","Patrick Hetzel","Thibault Bazin","Vincent Rolland","Justine Gruet","Michel Herbillon","Éric Pauget","Marie-Christine Dalloz"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_defendre_proprietaires_victimes_impayes_locatifs_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 30 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 30 septembre 2025","Mardi 30 septembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Logement","Justice","Économie"]
 +++
 

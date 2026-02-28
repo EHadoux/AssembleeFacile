@@ -4,9 +4,9 @@ draft = false
 title = "Rétablir le droit à l’instruction en famille - N° 208"
 auteurs = ["Marie-France Lorho","Roger Chudeau","Théo Bernhardt","Frédéric Boccaletti","Jérôme Buisson","Caroline Colombier","Nathalie Da Conceicao Carvalho","Jocelyn Dessigny","Christine Engrand","Florence Goulet","Géraldine Grangier","Michel Guiniot","Marine Hamelet","Timothée Houssin","Sébastien Humbert","Tiffany Joncour","Laure Lavalette","Robert Le Bourgeois","Julie Lechanteux","Nadine Lechon","Katiana Levavasseur","Julien Limongi","Christine Loir","Philippe Lottiaux","Claire Marais-Beuil","Patrice Martin","Michèle Martinez","Kévin Mauvieux","Nicolas Meizonnet","Yaël Ménaché","Thomas Ménagé","Pierre Meurin","Lisette Pollet","Stéphane Rambaud","Laurence Robert-Dehault","Anaïs Sabatini","Emmanuel Taché de la Pagerie","Michaël Taverne","Frédéric Weber","Eddy Casterman","Hervé de Lépinau","Yoann Gillet","Julien Rancoule","Alexandre Loubet","Jordan Guitton","Emeric Salmon","Jonathan Gery","Anne Sicard","Thibaut Monnier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/retablir_instruction_famille"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Famille","Droits des femmes"]
 +++
 

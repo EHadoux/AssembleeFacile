@@ -4,9 +4,9 @@ draft = false
 title = "Préciser et contrôler les conditions d’ouverture du feu par la police nationale - N° 1091"
 auteurs = ["Roger Vicot","Fabrice Barusseau","Laurent Baumel","Karim Benbrahim","Mickaël Bouloux","Philippe Brun","Colette Capdevielle","Pierrick Courbon","Alain David","Stéphane Delautrette","Dieynaba Diop","Peio Dufau","Inaki Echaniz","Romain Eskenazi","Olivier Faure","Océane Godard","Julien Gokel","Pascale Got","Ayda Hadizadeh","Céline Hervieu","Chantal Jourdan","Fatiha Keloua Hachi","Philippe Naillet","Jacques Oberti","Marc Pena","Anna Pic","Dominique Potier","Pierre Pribetich","Valérie Rossi","Claudia Rouaux","Isabelle Santiago","Hervé Saulignac","Arnaud Simion","Thierry Sother","Céline Thiébault-Martinez","Mélanie Thomin","Boris Vallaud"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/conditions_ouverture_feu_police_nationale_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Justice","Droits des femmes"]
 +++
 

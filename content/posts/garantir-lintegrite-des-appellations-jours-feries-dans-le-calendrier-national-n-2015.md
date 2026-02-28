@@ -4,9 +4,9 @@ draft = false
 title = "Garantir l’intégrité des appellations des jours fériés dans le calendrier national - N° 2015"
 auteurs = ["Véronique Besse","Philippe Lottiaux","Marc Chavent","Anne-Laure Blin","Thibaut Monnier","Eddy Casterman","Anne Sicard","Maxime Michelet","Thibault Bazin","Matthieu Bloch","Joëlle Mélin","Jean-Michel Brard","Alexandre Dufosset","Christelle D'Intorni","Sylvie Bonnet","Pierre Cordier","Jérôme Buisson","Christophe Bentz","Bartolomé Lenoir","Bernard Chaix","Éric Michoux","Sébastien Chenu","Laure Lavalette"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/appellations_jours_feries_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 28 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Culture","Action publique","Fonction publique"]
 +++
 

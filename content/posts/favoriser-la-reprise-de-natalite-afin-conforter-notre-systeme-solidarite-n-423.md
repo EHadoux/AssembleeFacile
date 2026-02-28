@@ -4,9 +4,9 @@ draft = false
 title = "Favoriser la reprise de la natalité afin de conforter notre système de solidarité - N° 423"
 auteurs = ["Josiane Corneloup","Justine Gruet","Sylvie Bonnet","Jean-Pierre Vigier","Corentin Le Fur","Jean-Luc Bourgeaux","Ian Boucard","Thibault Bazin","Hubert Brigand","Fabrice Brun","Yannick Neuder","Christelle Petex"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/favoriser_reprise_natalite"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Famille","Solidarité","Budget"]
 +++
 

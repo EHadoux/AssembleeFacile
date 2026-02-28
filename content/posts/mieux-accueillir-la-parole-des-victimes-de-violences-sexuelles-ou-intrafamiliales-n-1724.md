@@ -1,9 +1,9 @@
 +++
 tags = ["Justice", "Famille", "Solidarité"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/parole_victimes_violences_sexuelles_intrafamiliales_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 11 juillet 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 11 juillet 2025","Vendredi 11 juillet 2025"]
+stepsStatus = ["","Commission des lois"]
 date = 2025-07-11
 draft = false
 title = "Mieux accueillir la parole des victimes de violences sexuelles ou intrafamiliales - N° 1724"

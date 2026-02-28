@@ -4,9 +4,9 @@ draft = false
 title = "Permettre une gestion optimisée de la production, du transport et du stockage d’eau destinée à la consommation humaine - N° 1062"
 auteurs = ["Danielle Brulebois"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/gestion_optimisee_production_transport_stockage_eau_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Eau","Décentralisation","Aménagement du territoire"]
 +++
 

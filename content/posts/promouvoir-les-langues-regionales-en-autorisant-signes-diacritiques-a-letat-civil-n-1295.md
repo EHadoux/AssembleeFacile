@@ -4,9 +4,9 @@ draft = false
 title = "Promouvoir les langues régionales en autorisant les signes diacritiques à l'état civil - N° 1295"
 auteurs = ["Corentin Le Fur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/promouvoir_langues_regionales_autorisant_signes_diacritiques_etat_civil_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Droits des femmes","Famille","Justice"]
 +++
 

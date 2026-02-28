@@ -4,9 +4,9 @@ draft = false
 title = "Protéger les travailleuses et travailleurs de la mer à terre en reconnaissant la pénibilité de leur activité et en encourageant la transmission de leur savoir-faire - N° 1947"
 auteurs = ["Damien Girard","Fabrice Barusseau","Arnaud Bonnet","Michel Castellani","Alexis Corbière","Philippe Fait","Olivier Falorni","Charles Fournier","Karine Lebon","Laurent Lhardit","Sophie Panonacle","Marie Pochon","Sandra Regol","Mereana Reid Arbelot","Claudia Rouaux","Jean-Louis Roumégas","Eva Sas","Sabrina Sebaihi","Danielle Simonnet","Sophie Taillé-Polian","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_travailleurs_mer_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Travail","Pêche","Santé"]
 +++
 

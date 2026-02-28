@@ -4,9 +4,9 @@ draft = false
 title = "Ordonnance verte - N° 258"
 auteurs = ["Sandra Regol","Christine Arrighi","Léa Balage El Mariky","Lisa Belluco","Benoît Biteau","Arnaud Bonnet","Cyrielle Chatelain","Alexis Corbière","Charles Fournier","Damien Girard","Steevy Gustave","Catherine Hervieu","Jérémie Iordanoff","Julie Laernoes","Julie Ozenne","Sébastien Peytavie","Marie Pochon","Jean-Claude Raux","Sandrine Rousseau","Sabrina Sebaihi","Sophie Taillé-Polian","Boris Tavernier","Nicolas Thierry","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ordonnance_verte"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Écologie","Agriculture"]
 +++
 

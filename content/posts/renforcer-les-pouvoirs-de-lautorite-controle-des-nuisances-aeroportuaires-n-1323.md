@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer les pouvoirs de l’Autorité de contrôle des nuisances aéroportuaires - N° 1323"
 auteurs = ["Julie Laernoes","Romain Eskenazi","Sandrine Le Feur","Maud Petit","Marie-José Allemand","Christine Arrighi","Léa Balage El Mariky","Fabrice Barusseau","Laurent Baumel","Lisa Belluco","Karim Benbrahim","Arnaud Bonnet","Nicolas Bonnet","Éric Bothorel","Mickaël Bouloux","Philippe Brun","Colette Capdevielle","Cyrielle Chatelain","Paul Christophle","Nathalie Colin-Oesterlé","Alexis Corbière","Mickaël Cosson","Pierrick Courbon","Alain David","Arthur Delaporte","Stéphane Delautrette","Dieynaba Diop","Peio Dufau","Inaki Echaniz","Olivier Falorni","Olivier Faure","Denis Fégné","Marie-Charlotte Garin","Guillaume Garot","Julien Gokel","Pascale Got","Emmanuel Grégoire","Jérôme Guedj","Steevy Gustave","Stéphane Hablot","Ayda Hadizadeh","Catherine Hervieu","Céline Hervieu","François Hollande","Sandrine Josso","Chantal Jourdan","Marietta Karamanli","Tristan Lahais","Gérard Leseul","Arnaud Le Gall","Laurent Lhardit","Emmanuel Maurel","Estelle Mercier","Jacques Oberti","Hubert Ott","Julie Ozenne","Jimmy Pahun","Sophie Pantel","Sébastien Peytavie","Anna Pic","Christine Pirès Beaune","Marie Pochon","Dominique Potier","Christophe Proença","Richard Ramos","Jean-Claude Raux","Sandra Regol","Valérie Rossi","Jean-Louis Roumégas","Aurélien Rousseau","Fabrice Roussel","Sandrine Runel","Sébastien Saint-Pasteur","Eva Sas","Hervé Saulignac","Danielle Simonnet","Thierry Sother","Matthias Tavel","Céline Thiébault-Martinez","Nicolas Thierry","Mélanie Thomin","Antoine Vermorel-Marques","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/pouvoirs_autorite_controle_nuisances_aeroportuaires_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Écologie","Santé","Transports"]
 +++
 

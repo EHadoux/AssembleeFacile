@@ -4,9 +4,9 @@ draft = false
 title = "Produire autrement, en garantissant un partage de la valeur et en réconciliant le monde agricole et la société - N° 2505"
 auteurs = ["Dominique Potier","Mélanie Thomin","Boris Vallaud","Fabrice Barusseau","Chantal Jourdan"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/produire_autrement_garantissant_partage_valeur_et_reconciliant_monde_agricole_et_societe_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 février 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 février 2026","Mardi 17 février 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Agriculture","Écologie"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Impôt plancher de 2 % sur le patrimoine des ultra riches - N° 1579"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/impot_plancher_2_pour_cent_patrimoine_ultra_riches"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Deuxième lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 7 janvier 2025","Mardi 7 janvier 2025","Jeudi 20 février 2025","Jeudi 12 juin 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte rejeté ❌",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Mardi 7 janvier 2025","Mardi 7 janvier 2025","Mardi 7 janvier 2025","Jeudi 20 février 2025","Jeudi 20 février 2025","Jeudi 12 juin 2025"]
+stepsStatus = ["","Commission des finances","Texte adopté ✔️","Commission des finances (Sénat)","Texte rejeté","Commission des finances"]
 tags = ["Finances","Économie","Budget"]
 +++
 

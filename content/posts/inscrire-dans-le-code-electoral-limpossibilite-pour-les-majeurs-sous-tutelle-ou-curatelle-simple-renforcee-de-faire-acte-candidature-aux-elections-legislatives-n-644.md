@@ -4,9 +4,9 @@ draft = false
 title = "Inscrire dans le code électoral l'impossibilité pour les majeurs sous tutelle ou sous curatelle simple ou renforcée de faire acte de candidature aux élections législatives - N° 644"
 auteurs = ["Xavier Breton","Émilie Bonnivard","Ian Boucard","Justine Gruet","Michel Herbillon","Philippe Juvin","Guillaume Lepers","Véronique Louwagie","Yannick Neuder","Vincent Rolland","Anne-Laure Blin","Jérôme Nury","Christelle Petex","Nicolas Ray","Valérie Bazin-Malgras","Vincent Descoeur","Virginie Duby-Muller","Frédérique Meunier","Michèle Tabarot","Jean-Pierre Taite","Jean-Pierre Vigier","Hubert Brigand","Pierre Cordier","Fabien Di Filippo","Philippe Gosselin","Alexandra Martin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/majeurs_tutelle_candidatures"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 29 novembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 29 novembre 2024","Vendredi 29 novembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Droits des femmes","Handicap"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Durcir les sanctions en cas de refus d’obtempérer - N° 1551"
 auteurs = ["Laurent Croizier","Olivier Falorni","Romain Daubié","Richard Ramos","Delphine Lingemann","Perrine Goulet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/durcir_sanctions_refus_obtemperer_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 10 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 10 juin 2025","Mardi 10 juin 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Justice","Intérieur"]
 +++
 

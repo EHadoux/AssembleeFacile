@@ -4,9 +4,9 @@ draft = false
 title = "Suppression du délai de carence - N° 603"
 auteurs = ["Benjamin Lucas-Lundy","Christine Arrighi","Clémentine Autain","Léa Balage El Mariky","Anaïs Belouassa-Cherifi","Karim Ben Cheikh","Christophe Bex","Benoît Biteau","Arnaud Bonnet","Nicolas Bonnet","Pierre-Yves Cadalen","Gabrielle Cathala","Bérenger Cernon","Cyrielle Chatelain","Sophia Chikirou","Alexis Corbière","Hendrik Davi","Emmanuel Duplessy","Mathilde Feld","Emmanuel Fernandes","Charles Fournier","Perceval Gaillard","Marie-Charlotte Garin","Damien Girard","Clémence Guetté","Zahia Hamdane","Céline Hervieu","Julie Laernoes","Tristan Lahais","Abdelkader Lahmar","Maxime Laisney","Karine Lebon","Murielle Lepvraud","Damien Maudet","Emmanuel Maurel","Marianne Maximi","Sandrine Nosbé","Sébastien Peytavie","René Pilato","Marie Pochon","Jean-Claude Raux","Sandra Regol","Jean-Louis Roumégas","Sandrine Rousseau","François Ruffin","Sabrina Sebaihi","Sophie Taillé-Polian","Matthias Tavel","Boris Tavernier","Paul Vannier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/suppression_delai_carence"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 19 novembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 19 novembre 2024","Mardi 19 novembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Travail","Fonction publique"]
 +++
 

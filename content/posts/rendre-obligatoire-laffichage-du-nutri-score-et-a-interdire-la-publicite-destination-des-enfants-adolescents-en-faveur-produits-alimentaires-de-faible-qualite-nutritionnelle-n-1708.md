@@ -5,9 +5,9 @@ draft = false
 title = "Rendre obligatoire l’affichage du nutri-score et à interdire la publicité à destination des enfants et adolescents en faveur des produits alimentaires de faible qualité nutritionnelle - N° 1708"
 auteurs = ["Paul Christophle","Joël Aviragnet","Fabrice Barusseau","Karim Benbrahim","Colette Capdevielle","Arthur Delaporte","Inaki Echaniz","Denis Fégné","Pascale Got","Emmanuel Grégoire","Jérôme Guedj","Ayda Hadizadeh","Céline Hervieu","Chantal Jourdan","Laurent Lhardit","Christophe Proença","Claudia Rouaux","Sandrine Runel","Roger Vicot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_nutriscore_obligatoire_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 11 juillet 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 11 juillet 2025","Vendredi 11 juillet 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 +++
 
 ## Résumé

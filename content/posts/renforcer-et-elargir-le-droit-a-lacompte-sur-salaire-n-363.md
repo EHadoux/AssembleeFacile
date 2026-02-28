@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer et élargir le droit à l’acompte sur salaire - N° 363"
 auteurs = ["Corentin Le Fur","Thibault Bazin","Émilie Bonnivard","Fabrice Brun","Josiane Corneloup","Alexandra Martin","Jérôme Nury","Nicolas Ray","Jean-Pierre Vigier","Valérie Bazin-Malgras","Nicolas Forissier","Éric Pauget","Julien Dive","Jean-Luc Bourgeaux","Ian Boucard","Xavier Breton","Philippe Gosselin","Michel Herbillon","Michèle Tabarot","Philippe Juvin","Yannick Neuder"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/droit_acompte_salaire"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Économie","Travail","Fonction publique"]
 +++
 

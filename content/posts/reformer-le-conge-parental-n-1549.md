@@ -4,9 +4,9 @@ draft = false
 title = "Réformer le congé parental - N° 1549"
 auteurs = ["Isabelle Santiago","Boris Vallaud","Guillaume Garot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_reformer_conge_parental_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 10 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 10 juin 2025","Mardi 10 juin 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Famille","Emploi","Solidarité"]
 +++
 

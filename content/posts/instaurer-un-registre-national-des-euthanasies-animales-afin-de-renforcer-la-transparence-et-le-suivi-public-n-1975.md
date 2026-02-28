@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer un registre national des euthanasies animales afin de renforcer la transparence et le suivi public - N° 1975"
 auteurs = ["Vincent Ledoux"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_registre_nationale_euthanasies_animales_renforcer_transparence_suivi_public_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 17 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 17 octobre 2025","Vendredi 17 octobre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Action publique","Europe","Santé"]
 +++
 

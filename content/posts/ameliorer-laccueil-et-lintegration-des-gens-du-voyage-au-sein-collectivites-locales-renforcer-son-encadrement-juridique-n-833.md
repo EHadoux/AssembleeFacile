@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer l’accueil et l’intégration des gens du voyage au sein des collectivités locales et renforcer son encadrement juridique - N° 833"
 auteurs = ["Bruno Fuchs","Xavier Albertini","Ludovic Mendes"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ameliorer_accueil_integration_gens_voyage_collectivites_locales_renforcer_encadrement_juridique"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Solidarité","Logement","Justice"]
 +++
 

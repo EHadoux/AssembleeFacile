@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer le partage de l’espace public, lutter contre les violences motorisées et renforcer la sécurité des usagers vulnérables de la route - N° 2016"
 auteurs = ["Thierry Sother","Florence Herouin-Léautey","Emmanuel Grégoire","Céline Hervieu","Pouria Amirshahi"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ameliorer_partage_espace_public_lutter_violences_motorisees_renforcer_securite_usagers_vulenrables_route_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 28 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Transports","Action publique"]
 +++
 

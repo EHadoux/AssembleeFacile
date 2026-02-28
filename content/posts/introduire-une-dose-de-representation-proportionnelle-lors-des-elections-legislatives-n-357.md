@@ -4,9 +4,9 @@ draft = false
 title = "Introduire une dose de représentation proportionnelle lors des élections législatives - N° 357"
 auteurs = ["Yannick Favennec-Bécot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/dose_proportionnelle_legislatives"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Relations parlementaires","Europe"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Droit de visite des parlementaires et des bâtonniers dans les lieux de privation de liberté - N° 1913"
 auteurs = ["Pouria Amirshahi","Elsa Faucillon","Clémentine Autain","Léa Balage El Mariky","Lisa Belluco","Karim Ben Cheikh","Arnaud Bonnet","Nicolas Bonnet","Mickaël Bouloux","Soumya Bourouaha","Philippe Brun","Colette Capdevielle","Michel Castellani","Jean-Victor Castor","Vincent Caure","Cyrielle Chatelain","Arthur Delaporte","Dieynaba Diop","Peio Dufau","Emmanuel Duplessy","Romain Eskenazi","Denis Fégné","Charles Fournier","Martine Froger","Marie-Charlotte Garin","Damien Girard","Guillaume Gouffier Valente","Emmanuel Grégoire","Steevy Gustave","Ayda Hadizadeh","Florence Herouin-Léautey","Catherine Hervieu","Céline Hervieu","Sacha Houlié","Jérémie Iordanoff","Julie Laernoes","Stéphane Lenormand","Pauline Levasseur","Laurent Lhardit","Benjamin Lucas-Lundy","Estelle Mercier","Marcellin Nadeau","Julie Ozenne","Anna Pic","Christine Pirès Beaune","Marie Pochon","Richard Ramos","Jean-Claude Raux","Sandra Regol","Mereana Reid Arbelot","Jean-Louis Roumégas","Sandrine Rousseau","Nicolas Sansu","Eva Sas","Hervé Saulignac","Sabrina Sebaihi","Danielle Simonnet","Thierry Sother","Sophie Taillé-Polian","Boris Tavernier","Céline Thiébault-Martinez","Nicolas Thierry","Stéphane Viry","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/droit_visite_parlementaires_batonniers_lieux_privation_liberte_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Droits des femmes","Sécurité"]
 +++
 

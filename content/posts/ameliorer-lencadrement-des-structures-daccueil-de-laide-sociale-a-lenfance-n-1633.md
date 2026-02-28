@@ -5,9 +5,9 @@ draft = false
 title = "Améliorer l'encadrement des structures d'accueil de l'aide sociale à l'enfance - N° 1633"
 auteurs = ["Sophie Pantel","Isabelle Santiago","Joël Aviragnet","Céline Hervieu","Chantal Jourdan","Valérie Rossi","Claudia Rouaux"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/encadrement_structures_accueil_ase_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 24 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 24 juin 2025","Mardi 24 juin 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 +++
 
 ## Résumé

@@ -4,9 +4,9 @@ draft = false
 title = "Restaurer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents - N° 1188"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/restaurer_autorite_justice_mineurs_delinquants_et_parents"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Commission Mixte Paritaire","Conseil constitutionnel","Promulgation de la loi"]
-stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024","Jeudi 13 février 2025","Mercredi 26 mars 2025","Mardi 20 mai 2025","Lundi 23 juin 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️","Accord","Partiellement conforme",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Commission Mixte Paritaire","Conseil constitutionnel","Promulgation de la loi"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024","Mardi 15 octobre 2024","Jeudi 13 février 2025","Jeudi 13 février 2025","Mercredi 26 mars 2025","Mardi 20 mai 2025","Lundi 23 juin 2025"]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)","Texte modifié","Accord","Partiellement conforme",""]
 tags = ["Justice","Famille","Jeunesse"]
 +++
 

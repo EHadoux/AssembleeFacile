@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer une procédure accélérée de résolution des factures impayées - N° 347"
 auteurs = ["Sylvain Maillard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/procedure_acceleree_resolution_factures_impayees"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Économie","Commerce","Justice"]
 +++
 

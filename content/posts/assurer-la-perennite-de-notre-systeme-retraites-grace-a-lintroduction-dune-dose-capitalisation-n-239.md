@@ -4,9 +4,9 @@ draft = false
 title = "Assurer la pérennité de notre système de retraites grâce à l’introduction d’une dose de capitalisation - N° 239"
 auteurs = ["Philippe Juvin","Anne-Laure Blin","François-Xavier Ceccoli","Fabien Di Filippo","Virginie Duby-Muller","Nicolas Forissier","Olivier Marleix","Alexandra Martin","Christelle Petex","Jean-Pierre Vigier","Justine Gruet","Nicolas Ray"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/perennite_retraites_capi"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Économie","Finances","Solidarité"]
 +++
 

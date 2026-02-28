@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la vigilance des partis et mouvements politiques face aux stratégies d’entrisme contraires aux principes de la République - N° 2383"
 auteurs = ["Matthieu Bloch","Jérôme Buisson","Bernard Chaix","Sébastien Chenu","Josiane Corneloup","Christelle D'Intorni","Michèle Martinez","Didier Padey"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_vigilance_partis_et_mouvements_politiques_face_strategies_entrisme_contraires_principes_Republique_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 27 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 27 janvier 2026","Mardi 27 janvier 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Justice","Relations parlementaires"]
 +++
 

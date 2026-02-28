@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi relative au financement des entreprises de la base industrielle et technologique de défense française - N° 135"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49105"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Lundi 11 décembre 2023","Lundi 11 décembre 2023","Mercredi 6 mars 2024","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Lundi 11 décembre 2023","Lundi 11 décembre 2023","Lundi 11 décembre 2023","Mercredi 6 mars 2024","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des finances (Sénat)","Texte adopté ✔️","Commission des finances","Commission des finances"]
 tags = ["Armées","Économie","Finances"]
 +++
 

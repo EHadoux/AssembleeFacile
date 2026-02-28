@@ -4,9 +4,9 @@ draft = false
 title = "Régime juridique des actions de groupe - N° 154"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/regime_juridique_actions_groupe"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale"]
-stepsDate = ["Jeudi 15 décembre 2022","Jeudi 15 décembre 2022","Jeudi 9 mars 2023","Mercredi 7 février 2024","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️","",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Jeudi 15 décembre 2022","Jeudi 15 décembre 2022","Jeudi 15 décembre 2022","Jeudi 9 mars 2023","Jeudi 9 mars 2023","Mercredi 7 février 2024","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)","Texte modifié","Commission des lois","Commission des lois"]
 tags = ["Justice","Europe","Santé"]
 +++
 

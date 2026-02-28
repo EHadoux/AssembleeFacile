@@ -4,9 +4,9 @@ draft = false
 title = "Proroger les délais de prescription des demandes d'indemnisation des ayants droit des victimes des essais nucléaires et à reconnaître leurs préjudices propres - N° 513"
 auteurs = ["Mereana Reid Arbelot","Moerani Frébault","Nicole Sanquer","Édouard Bénard","Soumya Bourouaha","Jean-Victor Castor","André Chassaigne","Elsa Faucillon","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Emmanuel Maurel","Yannick Monnet","Marcellin Nadeau","Stéphane Peu","Davy Rimane","Nicolas Sansu","Emmanuel Tjibaou","Clémentine Autain","Christian Baptiste","Fabrice Barusseau","Béatrice Bellay","Mickaël Bouloux","Idir Boumertit","Elie Califer","Alain David","Olivier Falorni","Perceval Gaillard","Clémence Guetté","Steevy Gustave","Abdelkader Lahmar","Gérard Leseul","Delphine Lingemann","Benjamin Lucas-Lundy","Max Mathiasin","Philippe Naillet","Jean-Philippe Nilor","Julie Ozenne","Marie Pochon","Jean-Louis Roumégas","Aurélien Saintoul","Mikaele Seo","Olivier Serva","Sophie Taillé-Polian","David Taupiac","Jiovanny William"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/prorogation_prescription_indemnisation_victimes_essais_nucleaires2"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 29 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 29 octobre 2024","Mardi 29 octobre 2024"]
+stepsStatus = ["","Commission de la défense"]
 tags = ["Santé","Justice","Solidarité"]
 +++
 

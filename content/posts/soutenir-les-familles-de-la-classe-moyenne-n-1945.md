@@ -4,9 +4,9 @@ draft = false
 title = "Soutenir les familles de la classe moyenne - N° 1945"
 auteurs = ["Constance de Pélichy","Joël Bruneau","Michel Castellani","Laurent Mazaury","David Taupiac","Jean-Luc Warsmann","Salvatore Castiglione","Stéphane Lenormand","Stéphane Viry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/soutenir_familles_classe_moyenne_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Famille","Budget","Économie"]
 +++
 

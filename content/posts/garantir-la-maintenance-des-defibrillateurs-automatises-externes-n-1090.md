@@ -4,9 +4,9 @@ draft = false
 title = "Garantir la maintenance des défibrillateurs automatisés externes - N° 1090"
 auteurs = ["Laurent Mazaury","Laurent Panifous","Christophe Naegelen","Max Mathiasin","Michel Castellani","Paul Molac","Constance de Pélichy","Jean-Pierre Bataille","Paul-André Colombani","Stéphane Lenormand","Salvatore Castiglione","Stéphane Viry","Joël Bruneau","Nicole Sanquer","Olivier Serva","Jean-Luc Warsmann","Harold Huwart","Martine Froger","Charles de Courson","David Taupiac","Estelle Youssouffa","Yannick Favennec-Bécot","David Habib","Christophe Plassard","Béatrice Piron","Charles Sitzenstuhl","Olivier Falorni","Lionel Vuibert","Philippe Bonnecarrère","Lise Magnier","Françoise Buffet","Philippe Fait","Alexandra Martin","Alexandre Portier","Sylvie Dezarnaud","François-Xavier Ceccoli","Anne-Sophie Ronceret","Corinne Vignon","Virginie Duby-Muller","Josiane Corneloup","Hervé Berville","Violette Spillebout","Moerani Frébault","Jean-Carles Grelier","Nicolas Ray","Damien Girard","Véronique Besse","Delphine Lingemann","Louise Morel","Marie-Agnès Poussier-Winsback","Nathalie Colin-Oesterlé","Agnès Firmin Le Bodo","Vincent Ledoux","Christine Pirès Beaune","Mereana Reid Arbelot","Freddy Sertin","Pauline Levasseur","Sandra Marsaud","Joséphine Missoffe","Sébastien Peytavie","Charles Rodwell","Michel Lauzzana","Laure Miller","Inaki Echaniz"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/maintenance_defibrillateurs_automatises_externes_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Sécurité"]
 +++
 

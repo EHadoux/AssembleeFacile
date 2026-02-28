@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer les mobilités quotidiennes des jeunes dans les territoires ruraux - N° 837"
 auteurs = ["Delphine Lingemann","Antoine Armand","Olivier Becht","Thierry Benoit","Philippe Bolo","Nicolas Bonnet","Ian Boucard","Hubert Brigand","Joël Bruneau","Françoise Buffet","Michel Castellani","Jean-René Cazeneuve","François-Xavier Ceccoli","Josiane Corneloup","Laurent Croizier","Romain Daubié","Julie Delpech","Virginie Duby-Muller","Philippe Fait","Olivier Falorni","Yannick Favennec-Bécot","Jean-Marie Fiévet","Agnès Firmin Le Bodo","Moerani Frébault","Philippe Gosselin","Olivia Grégoire","Jean-Carles Grelier","Justine Gruet","Sébastien Huyghe","Cyrille Isaac-Sibille","Jean-Michel Jacques","Sandrine Josso","Loïc Kervran","Brigitte Klinkert","Daniel Labaronne","Jean Laussucq","Constance Le Grip","Anne Le Hénanff","Pascal Lecamp","Emmanuel Mandon","Stéphane Mazars","Laurent Mazaury","Sophie Mette","Nicolas Metzdorf","Hubert Ott","Sophie Pantel","Jérémie Patrier-Leitus","Constance de Pélichy","Christophe Plassard","Dominique Potier","Richard Ramos","Nicolas Ray","Mereana Reid Arbelot","Franck Riester","Charles Rodwell","Anne-Sophie Ronceret","Xavier Roseren","Jean-François Rousset","Laetitia Saint-Paul","Stéphane Viry","Lionel Vuibert"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ameliorer_mobilites_quotidiennes_jeunes_territoires_ruraux"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Jeunesse","Ruralité","Transports"]
 +++
 

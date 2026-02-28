@@ -4,9 +4,9 @@ draft = false
 title = "Encadrer l’usage d’aéronefs sans équipage à bord pour la surveillance et la protection des infrastructures critiques - N° 1548"
 auteurs = ["Jean-Louis Thiériot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/aeronefs_sans_equipage_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 10 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 10 juin 2025","Mardi 10 juin 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Numérique","Défense"]
 +++
 

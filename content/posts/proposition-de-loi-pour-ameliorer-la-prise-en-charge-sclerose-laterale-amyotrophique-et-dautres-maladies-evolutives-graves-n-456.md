@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi pour améliorer la prise en charge de la sclérose latérale amyotrophique et d'autres maladies évolutives graves - N° 456"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49796"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Promulgation de la loi"]
-stepsDate = ["Vendredi 12 avril 2024","Vendredi 12 avril 2024","Mercredi 16 octobre 2024","Lundi 17 février 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale","Promulgation de la loi"]
+stepsDate = ["Vendredi 12 avril 2024","Vendredi 12 avril 2024","Vendredi 12 avril 2024","Mercredi 16 octobre 2024","Mercredi 16 octobre 2024","Lundi 17 février 2025"]
+stepsStatus = ["","Commission des affaires sociales (Sénat)","Texte adopté ✔️","Commission des affaires sociales","Texte adopté ✔️",""]
 tags = ["Santé","Handicap","Solidarité"]
 +++
 

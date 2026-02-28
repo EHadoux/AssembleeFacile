@@ -4,9 +4,9 @@ draft = false
 title = "Fusionner les articles 73 et 74 de la Constitution et à prendre en compte l'insularité dans la Constitution - N° 1284"
 auteurs = ["Marcellin Nadeau","Soumya Bourouaha","Karine Lebon","Frédéric Maillot","Nicolas Sansu"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/fusionner_articles_73_74_constitution_prendre_compte_insularite_constitution_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mercredi 16 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mercredi 16 avril 2025","Mercredi 16 avril 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Outre-mer","Autonomie","Décentralisation"]
 +++
 

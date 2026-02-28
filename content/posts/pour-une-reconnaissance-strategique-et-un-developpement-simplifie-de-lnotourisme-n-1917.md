@@ -4,9 +4,9 @@ draft = false
 title = "Pour une reconnaissance stratégique et un développement simplifié de l’œnotourisme - N° 1917"
 auteurs = ["Pascale Got"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconnaissance_developpement_oenotourisme_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Agriculture","Tourisme","Urbanisme"]
 +++
 

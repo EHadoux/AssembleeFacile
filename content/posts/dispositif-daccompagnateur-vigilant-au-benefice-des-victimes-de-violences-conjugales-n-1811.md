@@ -4,9 +4,9 @@ draft = false
 title = "Dispositif d’accompagnateur vigilant au bénéfice des victimes de violences conjugales - N° 1811"
 auteurs = ["Violette Spillebout"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/dispositif_accompagnateur_vigilant_benefice_victimes_violences_conjugales_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Solidarité","Droits des femmes"]
 +++
 

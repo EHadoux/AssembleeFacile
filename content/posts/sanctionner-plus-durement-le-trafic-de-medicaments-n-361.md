@@ -4,9 +4,9 @@ draft = false
 title = "Sanctionner plus durement le trafic de medicaments - N° 361"
 auteurs = ["Alexandra Martin","Ian Boucard","Alexandre Portier","Véronique Louwagie","Josiane Corneloup","Virginie Duby-Muller","Jean-Luc Bourgeaux","Nicolas Ray","Jean-Pierre Taite","Fabien Di Filippo","Philippe Gosselin","Annie Genevard","Jean-Pierre Vigier","Yannick Neuder","Nicolas Forissier","Michel Herbillon","Sophie Pantel","Jean-Pierre Bataille","Laurent Mazaury","Patrick Hetzel","Valérie Bazin-Malgras","Constance de Pélichy","Anne-Cécile Violland","Jean-Luc Warsmann","Julien Dive","Éric Pauget","Véronique Besse","Eric Liégeon","Thibault Bazin","Émilie Bonnivard","Sylvie Dezarnaud"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/sanctionner_trafic_medicaments"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Justice","Sécurité"]
 +++
 

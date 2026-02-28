@@ -4,9 +4,9 @@ draft = false
 title = "Garantir la neutralité politique des lieux de culte en interdisant la diffusion de consignes électorales par les ministres du culte - N° 2380"
 auteurs = ["Matthieu Bloch","Jérôme Buisson","Bernard Chaix","Sébastien Chenu","Josiane Corneloup","Christelle D'Intorni","Michèle Martinez"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_neutralite_politique_lieux_cultes_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 27 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 27 janvier 2026","Mardi 27 janvier 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Intérieur"]
 +++
 

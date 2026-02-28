@@ -1,9 +1,9 @@
 +++
 tags = ["Écologie", "Transports", "Finances"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/etablir_taxe_jets_prives_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 11 juillet 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 11 juillet 2025","Vendredi 11 juillet 2025"]
+stepsStatus = ["","Commission des finances"]
 date = 2025-07-11
 draft = false
 title = "Établir une taxe sur l’utilisation des jets privés - N° 1741"

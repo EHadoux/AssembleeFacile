@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la lutte contre la corruption - N° 514"
 auteurs = ["Olivier Marleix"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_lutte_contre_corruption"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 29 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 29 octobre 2024","Mardi 29 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Justice","Finances"]
 +++
 

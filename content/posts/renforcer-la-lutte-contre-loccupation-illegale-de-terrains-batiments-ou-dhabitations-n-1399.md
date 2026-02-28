@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la lutte contre l'occupation illégale de terrains, de bâtiments ou d’habitations - N° 1399"
 auteurs = ["Marc Chavent","Brigitte Barèges","Jonathan Gery","Géraldine Grangier","Sébastien Humbert","Julie Lechanteux","Thibaut Monnier","Serge Muller","Edwige Diaz","Olivier Fayssat","Stéphanie Galzy","Philippe Lottiaux","Nicolas Meizonnet","Éric Michoux","Jérôme Buisson","Christelle D'Intorni","Florence Joubert","Hélène Laporte","Julien Limongi","Emeric Salmon","Sébastien Chenu","Laurent Jacobelli","Sophie Ricourt Vaginay","Romain Baubry","Eddy Casterman","Anne Sicard","Alexandre Allegret-Pilot","Bernard Chaix","Monique Griseti","Michèle Martinez","Alexandra Masson","Emmanuel Taché de la Pagerie"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_lutte_contre_occupation_illegale_terrain_batiments_habitations_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Logement","Sécurité"]
 +++
 

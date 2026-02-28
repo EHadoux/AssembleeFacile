@@ -4,9 +4,9 @@ draft = false
 title = "Préserver le petit commerce de proximité - N° 1083"
 auteurs = ["François Piquemal","Alma Dufour","Nadège Abomangoli","Laurent Alexandre","Gabriel Amard","Ségolène Amiot","Farida Amrani","Rodrigo Arenas","Raphaël Arnault","Clémentine Autain","Béatrice Bellay","Anaïs Belouassa-Cherifi","Ugo Bernalicis","Christophe Bex","Carlos Martens Bilongo","Manuel Bompard","Arnaud Bonnet","Mickaël Bouloux","Idir Boumertit","Louis Boyard","Pierre-Yves Cadalen","Aymeric Caron","Sylvain Carrière","Gabrielle Cathala","Bérenger Cernon","Sophia Chikirou","Hadrien Clouet","Éric Coquerel","Alexis Corbière","Jean-François Coulomme","Pierrick Courbon","Sébastien Delogu","Aly Diouara","Karen Erodi","Mathilde Feld","Emmanuel Fernandes","Sylvie Ferrer","Perceval Gaillard","Damien Girard","Clémence Guetté","David Guiraud","Zahia Hamdane","Mathilde Hignet","Andy Kerbrat","Bastien Lachaud","Abdelkader Lahmar","Maxime Laisney","Arnaud Le Gall","Antoine Léaument","Élise Leboucher","Aurélien Le Coq","Jérôme Legavre","Sarah Legrain","Claire Lejeune","Murielle Lepvraud","Laurent Lhardit","Élisa Martin","Damien Maudet","Marianne Maximi","Marie Mesmeur","Manon Meunier","Jean-Philippe Nilor","Sandrine Nosbé","Danièle Obono","Nathalie Oziol","Mathilde Panot","Sébastien Peytavie","René Pilato","Thomas Portes","Loïc Prud'homme","Jean-Hugues Ratenon","Arnaud Saint-Martin","Aurélien Saintoul","Ersilia Soudais","Anne Stambach-Terrenoir","Aurélien Taché","Andrée Taurinya","Matthias Tavel","Boris Tavernier","Aurélie Trouvé","Paul Vannier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/preserver_commerce_proximite_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Commerce","Économie","Urbanisme"]
 +++
 

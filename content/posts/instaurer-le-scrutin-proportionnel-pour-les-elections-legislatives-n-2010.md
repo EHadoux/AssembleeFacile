@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer le scrutin proportionnel pour les élections législatives - N° 2010"
 auteurs = ["Erwan Balanant","Guillaume Gouffier Valente","Jérémie Iordanoff","Marie Récalde","Léa Balage El Mariky","Lisa Belluco","Nicolas Bonnet","Vincent Caure","Cyrielle Chatelain","Stella Dupont","Jérôme Guedj","Catherine Hervieu","François Hollande","Pascal Lecamp","Éric Martineau","Emmanuel Maurel","Ludovic Mendes","Frédéric Petit","Josy Poueyto","Sandra Regol","Aurélien Rousseau","Eva Sas","Sabrina Sebaihi","Thierry Sother","Nicolas Turquois"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/scrutin_proportionnel_legislatives_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 28 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Europe","Relations parlementaires"]
 +++
 

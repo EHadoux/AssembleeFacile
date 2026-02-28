@@ -4,9 +4,9 @@ draft = false
 title = "Lever les freins au développement du stockage massif d’électricité dans les zones non interconnectées, au bénéfice de la décarbonation et de la sécurisation de leur système électrique - N° 2030"
 auteurs = ["Xavier Lacombe"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/lever_freins_developpement_stockage_massif_electricite_zones_non_interconnectees_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 28 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Énergie","Outre-mer","Écologie"]
 +++
 

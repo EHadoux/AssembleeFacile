@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer le pouvoir des maires dans la lutte contre les mariages de personnes en situation irrégulière - N° 1309"
 auteurs = ["Éric Michoux","Kévin Mauvieux","Sébastien Chenu","Philippe Lottiaux","Sébastien Humbert","Edwige Diaz","Bernard Chaix","Philippe Ballard","Olivier Fayssat","Nicolas Meizonnet","Serge Muller","Marie-France Lorho","Marine Hamelet","Angélique Ranc","Michèle Martinez","René Lioret","Laurent Mazaury","Véronique Besse","Frédéric Falcon","Monique Griseti","Charles Alloncle","Emeric Salmon","Maxime Michelet","Kévin Pfeffer","Matthieu Bloch","Florence Joubert","Jocelyn Dessigny","Romain Baubry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_pouvoir_maires_lutte_mariages_personnes_situation_irregulieres_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Intérieur","Justice","Droits des femmes"]
 +++
 

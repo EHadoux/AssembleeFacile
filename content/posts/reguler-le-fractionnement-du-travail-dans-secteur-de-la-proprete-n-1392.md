@@ -4,9 +4,9 @@ draft = false
 title = "Réguler le fractionnement du travail dans le secteur de la propreté - N° 1392"
 auteurs = ["Océane Godard","Marie-José Allemand","Joël Aviragnet","Christian Baptiste","Fabrice Barusseau","Marie-Noëlle Battistel","Laurent Baumel","Béatrice Bellay","Karim Benbrahim","Mickaël Bouloux","Philippe Brun","Elie Califer","Colette Capdevielle","Paul Christophle","Pierrick Courbon","Alain David","Arthur Delaporte","Stéphane Delautrette","Dieynaba Diop","Fanny Dombre Coste","Peio Dufau","Inaki Echaniz","Romain Eskenazi","Olivier Faure","Denis Fégné","Guillaume Garot","Julien Gokel","Pascale Got","Emmanuel Grégoire","Jérôme Guedj","Stéphane Hablot","Ayda Hadizadeh","Florence Herouin-Léautey","Céline Hervieu","François Hollande","Chantal Jourdan","Marietta Karamanli","Fatiha Keloua Hachi","Gérard Leseul","Laurent Lhardit","Estelle Mercier","Philippe Naillet","Jacques Oberti","Sophie Pantel","Marc Pena","Anna Pic","Christine Pirès Beaune","Dominique Potier","Pierre Pribetich","Christophe Proença","Marie Récalde","Valérie Rossi","Claudia Rouaux","Aurélien Rousseau","Fabrice Roussel","Sandrine Runel","Sébastien Saint-Pasteur","Isabelle Santiago","Hervé Saulignac","Arnaud Simion","Thierry Sother","Céline Thiébault-Martinez","Mélanie Thomin","Boris Vallaud","Roger Vicot","Jiovanny William","Stéphane Viry","Dominique Voynet","Mereana Reid Arbelot","Olivier Falorni","Constance de Pélichy","Paul Molac","Anne-Cécile Violland","Philippe Fait","Stéphane Mazars","Sacha Houlié","Marie-Pierre Rixain"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reguler_fractionnement_travail_secteur_proprete_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Travail","Emploi","Solidarité"]
 +++
 

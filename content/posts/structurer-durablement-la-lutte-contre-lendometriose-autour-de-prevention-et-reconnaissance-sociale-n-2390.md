@@ -4,9 +4,9 @@ draft = false
 title = "Structurer durablement la lutte contre l'endométriose autour de la prévention et de la reconnaissance sociale - N° 2390"
 auteurs = ["Véronique Louwagie","Xavier Breton","Philippe Gosselin","Virginie Duby-Muller","Michel Herbillon","Alexandre Portier","Pierre Cordier","Sylvie Bonnet","Nicolas Tryzna","Josiane Corneloup","Éric Pauget","Vincent Rolland","Fabrice Brun","Alexandra Martin","Jérôme Nury","Frédérique Meunier","Justine Gruet","Ian Boucard","Valérie Bazin-Malgras","Guillaume Lepers","Émilie Bonnivard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutte_endometriose_prevention_reconnaissance_sociale"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 27 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 27 janvier 2026","Mardi 27 janvier 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Droits des femmes","Éducation"]
 +++
 

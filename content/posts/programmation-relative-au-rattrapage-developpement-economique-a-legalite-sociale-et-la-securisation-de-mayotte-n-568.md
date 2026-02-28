@@ -4,9 +4,9 @@ draft = false
 title = "Programmation relative au rattrapage, au développement économique, à l’égalité sociale et à la sécurisation de Mayotte - N° 568"
 auteurs = ["Estelle Youssouffa"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/programmation_developpement_egalite_securisation_mayotte"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 19 novembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 19 novembre 2024","Mardi 19 novembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Outre-mer","Solidarité","Sécurité"]
 +++
 

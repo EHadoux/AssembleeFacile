@@ -4,9 +4,9 @@ draft = false
 title = "Mise en œuvre de certaines recommandations de nature législative du rapport Evin – Stefanini relatif à l’aide médicale de l’État et modifications de différentes dispositions en lien avec les soins dispensés aux étrangers en situation irrégulière - N° 238"
 auteurs = ["Véronique Louwagie","Thibault Bazin","Anne-Laure Blin","Émilie Bonnivard","Hubert Brigand","Fabrice Brun","Fabien Di Filippo","Virginie Duby-Muller","Annie Genevard","Justine Gruet","Michel Herbillon","Patrick Hetzel","Philippe Juvin","Alexandra Martin","Frédérique Meunier","Jérôme Nury","Éric Pauget","Alexandre Portier","Vincent Rolland","Jean-Louis Thiériot","Antoine Vermorel-Marques","Jean-Pierre Vigier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/aide_medicale_etat_modifications_soins"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Immigration","Action publique"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Interdire l'importation des produits issus des colonies israéliennes installées dans le Territoire palestinien occupé - N° 1941"
 auteurs = ["Aymeric Caron"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdire_importation_produits_colonies_israeliennes_territoire_palestinien_occupe_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Affaires étrangères","Europe","Économie"]
 +++
 

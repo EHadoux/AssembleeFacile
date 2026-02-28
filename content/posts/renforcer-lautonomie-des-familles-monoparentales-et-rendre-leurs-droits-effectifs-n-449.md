@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer l’autonomie des familles monoparentales et rendre leurs droits effectifs - N° 449"
 auteurs = ["Aurore Bergé"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_autonomie_familles_monoparentales_et_droits"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Famille","Solidarité","Autonomie"]
 +++
 

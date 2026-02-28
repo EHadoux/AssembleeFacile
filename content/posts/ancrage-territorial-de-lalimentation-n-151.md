@@ -4,9 +4,9 @@ draft = false
 title = "Ancrage territorial de l'alimentation - N° 151"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ancrage_territorial_alimentation"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale"]
-stepsDate = ["Mercredi 25 novembre 2015","Mercredi 25 novembre 2015","Jeudi 14 janvier 2016","Jeudi 19 mai 2016","Jeudi 6 juillet 2017","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️","","","",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Mercredi 25 novembre 2015","Mercredi 25 novembre 2015","Mercredi 25 novembre 2015","Jeudi 14 janvier 2016","Jeudi 14 janvier 2016","Jeudi 19 mai 2016","Jeudi 6 juillet 2017","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des affaires économiques","Texte adopté ✔️","Commission des affaires économiques (Sénat)","Texte modifié","Commission des affaires économiques","Commission des affaires économiques","Commission des affaires économiques","Commission des affaires économiques"]
 tags = ["Agriculture","Économie","Ruralité"]
 +++
 

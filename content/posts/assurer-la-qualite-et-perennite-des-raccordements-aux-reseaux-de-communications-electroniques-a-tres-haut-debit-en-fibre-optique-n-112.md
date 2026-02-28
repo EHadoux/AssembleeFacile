@@ -4,9 +4,9 @@ draft = false
 title = "Assurer la qualité et la pérennité des raccordements aux réseaux de communications électroniques à très haut débit en fibre optique - N° 112"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N46005"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 19 juillet 2022","Mardi 19 juillet 2022","Mardi 2 mai 2023","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Mardi 19 juillet 2022","Mardi 19 juillet 2022","Mardi 19 juillet 2022","Mardi 2 mai 2023","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission du développement durable (Sénat)","Texte adopté ✔️","Commission des affaires économiques","Commission des affaires économiques"]
 tags = ["Numérique","Économie","Action publique"]
 +++
 

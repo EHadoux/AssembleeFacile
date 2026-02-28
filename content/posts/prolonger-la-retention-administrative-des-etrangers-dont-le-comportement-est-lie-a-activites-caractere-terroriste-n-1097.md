@@ -4,9 +4,9 @@ draft = false
 title = "Prolonger la rétention administrative des étrangers dont le comportement est lié à des activités à caractère terroriste - N° 1097"
 auteurs = ["Laurent Mazaury","Joël Bruneau","Christophe Naegelen","Estelle Youssouffa","Stéphane Viry","Jean-Pierre Bataille","Salvatore Castiglione","Véronique Besse","Jean-Didier Berger","Nicolas Ray","Alexandre Portier","Josiane Corneloup","Félicie Gérard","Sylvain Berrios","Anne-Sophie Ronceret","Romain Daubié","Michel Herbillon","Sylvie Dezarnaud","Béatrice Piron"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/prolonger_retention_administrative_etrangers_terrorisme_17"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Justice","Intérieur"]
 +++
 

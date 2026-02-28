@@ -4,9 +4,9 @@ draft = false
 title = "Permettre la prise en charge par l’assurance maladie des dispositifs médicaux remis en bon état d’usage - N° 2388"
 auteurs = ["Fabrice Roussel","Violette Spillebout"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/prise_charge_dispositifs_medicaux_bon_etat_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 27 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 27 janvier 2026","Mardi 27 janvier 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Écologie","Économie"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Faciliter les démarches de réquisition militaire à l'occasion d'exercices de nos forces armées - N° 222"
 auteurs = ["Valérie Bazin-Malgras","Hubert Brigand","François-Xavier Ceccoli","Philippe Juvin","Frédérique Meunier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/faciliter_requisition_militaire2"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission de la défense"]
 tags = ["Armées","Défense","Sécurité"]
 +++
 

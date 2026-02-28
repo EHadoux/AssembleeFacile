@@ -4,9 +4,9 @@ draft = false
 title = "Préciser les activités réalisées par les bénéficiaires du revenu de solidarité active - N° 1939"
 auteurs = ["Valérie Bazin-Malgras"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/preciser_activites_beneficiaires_revenu_solidarite_active_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Emploi","Solidarité","Travail"]
 +++
 

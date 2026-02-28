@@ -4,9 +4,9 @@ draft = false
 title = "Abroger la loi constitutionnelle n°2000 964 du 2 octobre 2000 relative à la durée du mandat du Président de la République et à instaurer un septennat non renouvelable - N° 1781"
 auteurs = ["Emmanuel Mandon"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/duree_mandat_president_sept"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 12 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 12 septembre 2025","Vendredi 12 septembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Relations parlementaires","Europe"]
 +++
 

@@ -5,9 +5,9 @@ draft = false
 title = "Clarification des critères d’attribution du forfait d’externat et de la gouvernance du service public de l’éducation - N° 1628"
 auteurs = ["Roger Vicot","Fabrice Barusseau","Béatrice Bellay","Mickaël Bouloux","Pierrick Courbon","Alain David","Fanny Dombre Coste","Olivier Falorni","Denis Fégné","Pascale Got","Emmanuel Grégoire","Sacha Houlié","Laurent Lhardit","Estelle Mercier","Jacques Oberti","Constance de Pélichy","Christine Pirès Beaune","Claudia Rouaux","Thierry Sother"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/clarification_critere_attribution_forfait_externat_gouvernance_service_public_education_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 24 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 24 juin 2025","Mardi 24 juin 2025"]
+stepsStatus = ["","Commission des affaires culturelles"]
 +++
 
 ## Résumé

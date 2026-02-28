@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer les mécanismes de partage de la valeur au sein des entreprises innovantes françaises - N° 1143"
 auteurs = ["Paul Midy","Thibault Bazin","Béatrice Bellay","Ian Boucard","Joël Bruneau","Françoise Buffet","Lionel Causse","Julie Delpech","Philippe Fait","Olivier Falorni","Jean-Marie Fiévet","Agnès Firmin Le Bodo","Moerani Frébault","Jean-Luc Fugit","Olivia Grégoire","Jean-Michel Jacques","Brigitte Klinkert","Jean Laussucq","Christine Le Nabour","Vincent Ledoux","Delphine Lingemann","Brigitte Liso","Lise Magnier","Christophe Marion","Sandra Marsaud","Stéphane Mazars","Laurent Mazaury","Laure Miller","Sophie Panonacle","Maud Petit","Natalia Pouzyreff","Franck Riester","Anne-Sophie Ronceret","Xavier Roseren","Jean-François Rousset","Bertrand Sorre","Violette Spillebout","Prisca Thevenot","Stéphane Travert","Annie Vidal","Corinne Vignon","Lionel Vuibert","Éric Woerth"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ameliorer_mecanismes_partage_valeur_au_sein_entreprises_innovantes_francaises_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 18 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 mars 2025","Mardi 18 mars 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Économie","Emploi","Industrie"]
 +++
 

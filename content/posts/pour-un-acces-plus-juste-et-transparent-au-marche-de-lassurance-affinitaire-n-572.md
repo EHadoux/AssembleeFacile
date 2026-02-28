@@ -4,9 +4,9 @@ draft = false
 title = "Pour un accès plus juste et plus transparent au marché de l’assurance affinitaire - N° 572"
 auteurs = ["Danielle Brulebois","Karl Olive","Jean-Luc Fugit","Julie Delpech","Michel Lauzzana","Sandra Marsaud","Annie Vidal","Natalia Pouzyreff","Henri Alfandari","Violette Spillebout","Vincent Thiébaut"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/acces_juste_transparent_marche_assurance_affinitaire"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 19 novembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 19 novembre 2024","Mardi 19 novembre 2024"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Commerce","Économie","Justice"]
 +++
 

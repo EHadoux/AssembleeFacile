@@ -4,9 +4,9 @@ draft = false
 title = "Abroger le droit du sol et le double droit du sol à Mayotte - N° 297"
 auteurs = ["Estelle Youssouffa"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/abroger_droit_sol_mayotte"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 27 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 27 septembre 2024","Vendredi 27 septembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Outre-mer","Immigration","Sécurité"]
 +++
 

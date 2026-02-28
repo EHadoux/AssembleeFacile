@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à lutter contre les fermetures abusives de comptes bancaires - N° 321"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49852"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Deuxième lecture au Sénat"]
-stepsDate = ["Lundi 8 avril 2024","Lundi 8 avril 2024","Jeudi 10 octobre 2024","Vendredi 14 mars 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Lundi 8 avril 2024","Lundi 8 avril 2024","Lundi 8 avril 2024","Jeudi 10 octobre 2024","Jeudi 10 octobre 2024","Vendredi 14 mars 2025"]
+stepsStatus = ["","Commission des finances (Sénat)","Texte adopté ✔️","Commission des finances","Texte modifié","Commission des finances (Sénat)"]
 tags = ["Économie","Finances","Action publique"]
 +++
 

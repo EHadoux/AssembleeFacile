@@ -1,9 +1,9 @@
 +++
 tags = ["Vie associative", "Retraite", "Solidarité"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_reconnaitre_valoriser_engagement_associatif_calcul_droits_retraite_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 11 juillet 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 11 juillet 2025","Vendredi 11 juillet 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 date = 2025-07-11
 draft = false
 title = "Reconnaître et valoriser l’engagement associatif dans le calcul des droits à la retraite - N° 1738"

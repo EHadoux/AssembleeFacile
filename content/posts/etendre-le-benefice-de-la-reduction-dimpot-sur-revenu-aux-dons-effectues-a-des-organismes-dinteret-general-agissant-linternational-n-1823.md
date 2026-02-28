@@ -4,9 +4,9 @@ draft = false
 title = "Etendre le bénéfice de la réduction d’impôt sur le revenu aux dons effectués à des organismes d’intérêt général agissant à l’international - N° 1823"
 auteurs = ["Christophe Naegelen"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reduction_impot_revenu_dons_organismes_IG_agissant_international_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Affaires étrangères","Solidarité","Finances"]
 +++
 

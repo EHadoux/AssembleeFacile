@@ -4,9 +4,9 @@ draft = false
 title = "Développer le contrôle exercé par le Parlement sur l'exécution budgétaire - N° 1358"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/controle_parl_budget"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mercredi 30 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mercredi 30 avril 2025","Mercredi 30 avril 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Budget","Finances","Relations parlementaires"]
 +++
 

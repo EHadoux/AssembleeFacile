@@ -18,6 +18,7 @@ npm run check         # TypeScript + Svelte type-checking
 npm run db:seed-deputes   # Seed députés from CSV into SQLite
 npm run db:seed-articles  # Seed markdown posts into SQLite
 npm run db:clean-authors  # Fuzzy-match and normalise author names in DB
+npm run db:update-etapes <path/to/Dossiers_Legislatifs.json.zip>  # Update étapes parlementaires in markdown frontmatter (étapes are read from markdown, not DB — no reseed needed after)
 ```
 
 ## Architecture
@@ -94,6 +95,26 @@ Key points:
 - `loadDeclarations(deputeId)` returns `DeclarationSnapshot[]` (oldest first). Returns `[]` on missing/corrupt files — never breaks the build.
 - The UI component `$lib/components/DeputeDeclarations.svelte` handles version navigation (prev/next) and renders 9 section types, hiding sections where `neant=true`.
 - Formatting utilities (`formatAmount`, `formatPeriod`, `isPrivate`) live in `$lib/utils/declarations.ts` (client-safe, not `$lib/server/`).
+
+### Étapes parlementaires — mise à jour depuis l'open data AN
+
+`scripts/update-etapes.ts` lit le ZIP `Dossiers_Legislatifs.json.zip` (open data AN) et met à jour les champs `stepsName`, `stepsDate`, `stepsStatus` dans le frontmatter TOML de chaque post. Remplace entièrement le scraping n8n.
+
+**Matching** : `link` frontmatter → slug final de l'URL → `titreDossier.titreChemin` dans le JSON. Indexer **tous** les fichiers (pas seulement `legislature == "17"`) car les dossiers multi-législatures sont archivés sous leur UID d'origine (ex: L13) mais contiennent des étapes L17.
+
+**Structure JSON `dossierParlementaire`** :
+- Top-level `actesLegislatifs` : codes `AN1`, `SN1`, `AN2`, `SN2`, `ANNLEC`, `SNNLEC`, `ANLDEF`, `CMP`, `CC`, `PROM`
+- Dans chaque lecture : `{CODE}-DEPOT` (date dépôt), `{CODE}-COM-FOND-SAISIE` (renvoi en commission + organeRef), `{CODE}-DEBATS-SEANCE` (séances plénières), `{CODE}-DEBATS-DEC` (décision/vote avec `statutConclusion.libelle`)
+- Pour `CMP` : décision dans `CMP-DEC` (pas `CMP-DEBATS-AN-DEC` qui est un vote intermédiaire)
+- Pour `CC` : décision dans `CC-CONCLUSION`
+- Pour `PROM` : date dans `PROM-PUB`
+
+**Règles d'extraction** :
+- Date de lecture = date du `{CODE}-DEPOT` (correspond à ce qu'affiche le site officiel)
+- "Première lecture" n'est ajoutée que si `{CODE}-DEBATS` existe (sinon seul "Dépôt" + "Renvoi en commission" apparaissent)
+- "Renvoi en commission" toujours ajouté si `{CODE}-COM-FOND-SAISIE` présent ; commission résolue via `organeRef`
+
+**Codes organeRef des commissions permanentes** (L17 AN) : `PO59051`=Lois, `PO59048`=Finances, `PO59047`=Affaires étrangères, `PO59046`=Défense, `PO419604`=Affaires culturelles, `PO419610`=Affaires économiques, `PO419865`=Développement durable, `PO420120`=Affaires sociales. Codes `PO211xxx`/`PO516xxx` = commissions du Sénat.
 
 ### Name normalisation / author matching
 

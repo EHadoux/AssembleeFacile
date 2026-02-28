@@ -4,9 +4,9 @@ draft = false
 title = "Encadrer les relations contractuelles entre les constructeurs et les distributeurs automobiles - N° 1544"
 auteurs = ["Jean-Pierre Taite","Jean-Didier Berger","Ian Boucard","Jean-Luc Bourgeaux","Josiane Corneloup","Laurent Mazaury","Alexandre Portier","Jean-Pierre Vigier","Jean-Yves Bony","Valérie Bazin-Malgras","Romain Daubié"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/relations_contractuelles_automobiles_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 10 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 10 juin 2025","Mardi 10 juin 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Économie","Industrie","Transports"]
 +++
 

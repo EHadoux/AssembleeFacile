@@ -4,9 +4,9 @@ draft = false
 title = "Sécuriser le mécanisme de purge des nullités - N° 192"
 auteurs = ["Philippe Bonnecarrère"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/securiser_mecanisme_purge_nullites"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Action publique"]
 +++
 

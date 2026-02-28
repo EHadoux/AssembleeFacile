@@ -4,9 +4,9 @@ draft = false
 title = "Indemnisation des éleveurs impactés par l’abattage sanitaire de leur cheptel - N° 1846"
 auteurs = ["Freddy Sertin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_indemnisation_des_eleveurs_impactes_par_abattage_sanitaire_de_leur_cheptel_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Agriculture","Économie","Ruralité"]
 +++
 

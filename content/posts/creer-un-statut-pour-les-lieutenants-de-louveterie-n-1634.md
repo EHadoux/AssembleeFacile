@@ -5,9 +5,9 @@ draft = false
 title = "Créer un statut pour les lieutenants de louveterie - N° 1634"
 auteurs = ["Sophie Pantel","Jean-François Rousset","Martine Froger","Marina Ferrari","Boris Vallaud","Marc Fesneau","Stéphane Peu","Laurent Panifous","Sandrine Le Feur","Antoine Armand","François Hollande","Marie Pochon","Dominique Potier","Jean-Yves Bony","Philippe Brun","Stéphane Mazars","Valérie Rossi","Marie-José Allemand","Joël Aviragnet","Marie-Noëlle Battistel","Thibault Bazin","Philippe Bonnecarrère","Sylvie Bonnet","Émilie Bonnivard","Bertrand Bouyx","Jean-Michel Brard","Hubert Brigand","Julien Brugerolles","Danielle Brulebois","Fabrice Brun","François-Xavier Ceccoli","Pierre Cordier","Laurent Croizier","Josiane Corneloup","Romain Daubié","Alain David","Stéphane Delautrette","Julie Delpech","Fanny Dombre Coste","Nicole Dubré-Chirat","Peio Dufau","Inaki Echaniz","Philippe Fait","Denis Fégné","Nicolas Forissier","Jean-Luc Fugit","Julien Gokel","Pascale Got","Perrine Goulet","Jérôme Guedj","Sacha Houlié","Sébastien Huyghe","Jean-Michel Jacques","Daniel Labaronne","Pascal Lecamp","Guillaume Lepers","Eric Liégeon","Delphine Lingemann","Emmanuel Maurel","Christophe Marion","Paul Molac","Christophe Naegelen","Jacques Oberti","Hubert Ott","Sébastien Peytavie","Christine Pirès Beaune","Christophe Proença","Nicolas Ray","Anne-Sophie Ronceret","Xavier Roseren","Claudia Rouaux","Isabelle Santiago","Hervé Saulignac","Bertrand Sorre","Jean-Pierre Taite","David Taupiac","Céline Thiébault-Martinez","Mélanie Thomin","Antoine Vermorel-Marques","Annie Vidal","Jean-Pierre Vigier","Stéphane Viry","Lionel Vuibert"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/creer_statut_lieutenants_de_louveterie_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 24 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 24 juin 2025","Mardi 24 juin 2025"]
+stepsStatus = ["","Commission du développement durable"]
 +++
 
 ## Résumé

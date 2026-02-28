@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer un repas à 1 euro pour tous les étudiants - N° 213"
 auteurs = ["Fatiha Keloua Hachi","Marie-José Allemand","Joël Aviragnet","Christian Baptiste","Fabrice Barusseau","Marie-Noëlle Battistel","Laurent Baumel","Béatrice Bellay","Karim Benbrahim","Mickaël Bouloux","Philippe Brun","Elie Califer","Colette Capdevielle","Paul Christophle","Pierrick Courbon","Alain David","Arthur Delaporte","Stéphane Delautrette","Dieynaba Diop","Fanny Dombre Coste","Peio Dufau","Inaki Echaniz","Romain Eskenazi","Olivier Faure","Denis Fégné","Guillaume Garot","Océane Godard","Julien Gokel","Pascale Got","Emmanuel Grégoire","Jérôme Guedj","Stéphane Hablot","Ayda Hadizadeh","Florence Herouin-Léautey","Céline Hervieu","François Hollande","Chantal Jourdan","Marietta Karamanli","Gérard Leseul","Laurent Lhardit","Estelle Mercier","Philippe Naillet","Jacques Oberti","Sophie Pantel","Marc Pena","Anna Pic","Christine Pirès Beaune","Dominique Potier","Pierre Pribetich","Christophe Proença","Marie Récalde","Valérie Rossi","Claudia Rouaux","Aurélien Rousseau","Fabrice Roussel","Sandrine Runel","Sébastien Saint-Pasteur","Isabelle Santiago","Hervé Saulignac","Arnaud Simion","Thierry Sother","Céline Thiébault-Martinez","Mélanie Thomin","Boris Vallaud","Roger Vicot","Jiovanny William"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/repas_1_euro_etudiants"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Jeunesse","Solidarité"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Garantir le relogement d'urgence des propriétaires occupants dont la résidence principale a fait l'objet d'un arrêté de mise en sécurité - N° 2042"
 auteurs = ["Romain Eskenazi"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_relogement_urgence_proprietaires_occupants_residence_principale_arrete_mise_securite_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 28 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Logement","Sécurité","Action publique"]
 +++
 

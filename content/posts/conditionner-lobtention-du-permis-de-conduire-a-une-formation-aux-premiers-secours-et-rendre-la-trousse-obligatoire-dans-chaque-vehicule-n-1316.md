@@ -4,9 +4,9 @@ draft = false
 title = "Conditionner l’obtention du permis de conduire à une formation aux premiers secours et rendre la trousse de secours obligatoire dans chaque véhicule - N° 1316"
 auteurs = ["Christelle D'Intorni","Alexandre Allegret-Pilot","Bernard Chaix","Éric Michoux","Sandrine Dogor-Such","Michèle Martinez"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/permis_conduire_formation_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Santé","Transports"]
 +++
 

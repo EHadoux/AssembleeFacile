@@ -4,9 +4,9 @@ draft = false
 title = "Création d'un homicide routier et visant à lutter contre la violence routière - N° 157"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/homicide_lutte_violence"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale","Deuxième lecture au Sénat","Promulgation de la loi"]
-stepsDate = ["Mardi 17 octobre 2023","Mardi 17 octobre 2023","Mercredi 31 janvier 2024","Jeudi 28 mars 2024","Mardi 23 juillet 2024","Mardi 3 juin 2025","Mercredi 9 juillet 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️","","Texte adopté ✔️","Texte adopté ✔️",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Deuxième lecture à l'Assemblée nationale","Renvoi en commission","Deuxième lecture au Sénat","Promulgation de la loi"]
+stepsDate = ["Mardi 17 octobre 2023","Mardi 17 octobre 2023","Mardi 17 octobre 2023","Mercredi 31 janvier 2024","Mercredi 31 janvier 2024","Jeudi 28 mars 2024","Mardi 23 juillet 2024","Mardi 23 juillet 2024","Mardi 3 juin 2025","Mardi 3 juin 2025","Mercredi 9 juillet 2025"]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)","Texte modifié","Commission des lois","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)","Texte modifié",""]
 tags = ["Justice","Sécurité","Transports"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Création d’une déclaration de beau-parentalité - N° 2327"
 auteurs = ["Sébastien Huyghe","Benoît Blanchard","Bertrand Bouyx","Anthony Brosse","Joël Bruneau","Yannick Chenevard","Josiane Corneloup","Lionel Duparay","Olivier Falorni","Camille Galliard-Minier","Thomas Lam","Christine Le Nabour","Lise Magnier","Joséphine Missoffe","Didier Padey","Nicolas Ray","Charles Rodwell","Anne-Sophie Ronceret","Annie Vidal","Corinne Vignon","Caroline Yadan"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/declaration_beau_parentalite_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 janvier 2026","Mardi 13 janvier 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Famille","Justice","Solidarité"]
 +++
 

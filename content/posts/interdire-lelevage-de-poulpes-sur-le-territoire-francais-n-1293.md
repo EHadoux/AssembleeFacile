@@ -4,9 +4,9 @@ draft = false
 title = "Interdire l’élevage de poulpes sur le territoire français - N° 1293"
 auteurs = ["Aymeric Caron"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdire_elevage_poulpes_territoire_francais_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Biodiversité","Écologie","Agriculture"]
 +++
 

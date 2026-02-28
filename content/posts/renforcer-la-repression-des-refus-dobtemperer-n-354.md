@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la répression des refus d’obtempérer - N° 354"
 auteurs = ["Éric Ciotti","Alexandre Allegret-Pilot","Charles Alloncle","Brigitte Barèges","Matthieu Bloch","Bernard Chaix","Marc Chavent","Christelle D'Intorni","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Maxime Michelet","Éric Michoux","Vincent Trébuchet","Sophie Vaginay","Gérault Verny"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/repression_refus_obtemperer"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Justice","Intérieur"]
 +++
 

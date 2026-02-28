@@ -4,9 +4,9 @@ draft = false
 title = "Lever des contraintes pour améliorer la recherche scientifique en France - N° 1328"
 auteurs = ["Michel Lauzzana"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/lever_contraintes_recherche_scientifique_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Recherche","Santé","Économie"]
 +++
 

@@ -5,9 +5,9 @@ draft = false
 title = "Décaler progressivement l’âge de départ à la retraite à soixante-cinq ans à l’horizon 2042 - N° 1625"
 auteurs = ["Pierre Cazeneuve"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/decaler_age_retraite_65_ans_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 24 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 24 juin 2025","Mardi 24 juin 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 +++
 
 ## Résumé

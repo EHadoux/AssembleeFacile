@@ -4,9 +4,9 @@ draft = false
 title = "Création d’un défenseur des droits du logement social départemental - N° 1868"
 auteurs = ["Christelle D'Intorni","Bernard Chaix","Éric Michoux","Nathalie Da Conceicao Carvalho","Frank Giletti","Alexis Jolly","Jérôme Buisson","Gisèle Lelouis"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_creation_defenseur_des_droits_du_logement_social_departemental_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 30 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 30 septembre 2025","Mardi 30 septembre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Solidarité","Action publique"]
 +++
 

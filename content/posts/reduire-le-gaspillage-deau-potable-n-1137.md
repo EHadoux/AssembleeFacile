@@ -4,9 +4,9 @@ draft = false
 title = "Réduire le gaspillage d'eau potable - N° 1137"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reduire_gastpillage_eau_potable_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 18 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 mars 2025","Mardi 18 mars 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Économie","Environnement","Commerce"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Moratoire des zones à faibles émissions - N° 1416"
 auteurs = ["Éric Ciotti","Alexandre Allegret-Pilot","Charles Alloncle","Brigitte Barèges","Matthieu Bloch","Bernard Chaix","Marc Chavent","Christelle D'Intorni","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Maxime Michelet","Éric Michoux","Sophie Ricourt Vaginay","Vincent Trébuchet","Gérault Verny"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/moratoire_zone_faibles_emissions"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Écologie","Transports","Solidarité"]
 +++
 

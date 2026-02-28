@@ -4,9 +4,9 @@ draft = false
 title = "Garantir le droit de vote aux élections locales aux personnes étrangères résidentes en France - N° 2153"
 auteurs = ["Sabrina Sebaihi","Steevy Gustave","Arnaud Bonnet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/PPLC_garantir_droit_vote_elections_locales_personnes_etraneres_residentes_France"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Lundi 1er décembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Lundi 1 décembre 2025","Lundi 1 décembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Intérieur","Solidarité"]
 +++
 

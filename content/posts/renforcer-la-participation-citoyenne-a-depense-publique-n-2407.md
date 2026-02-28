@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la participation citoyenne à la dépense publique - N° 2407"
 auteurs = ["Christelle D'Intorni"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_participation_citoyenne_depense_publique_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 29 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 29 janvier 2026","Jeudi 29 janvier 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Budget","Finances","Action publique"]
 +++
 

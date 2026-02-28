@@ -4,9 +4,9 @@ draft = false
 title = "Supprimer les conseils économiques, sociaux et environnementaux régionaux - N° 413"
 auteurs = ["Philippe Juvin","Thibault Bazin","Jean-Yves Bony","Hubert Brigand","Fabien Di Filippo","Véronique Louwagie","Jérôme Nury","Ian Boucard","Josiane Corneloup","Virginie Duby-Muller","Nicolas Forissier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/supprimer_conseils_economiques_sociaux_environnementaux_regionaux"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Budget","Action publique","Outre-mer"]
 +++
 

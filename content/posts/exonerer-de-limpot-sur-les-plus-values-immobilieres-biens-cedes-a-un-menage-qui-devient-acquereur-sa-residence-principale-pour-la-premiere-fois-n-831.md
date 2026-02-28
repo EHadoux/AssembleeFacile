@@ -4,9 +4,9 @@ draft = false
 title = "Exonérer de l’impôt sur les plus-values immobilières les biens cédés à un ménage qui devient acquéreur de sa résidence principale pour la première fois - N° 831"
 auteurs = ["Mickaël Cosson"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/exonerer_impot_plus_values_immobilieres_biens_cedes_menage_devient_acquereur_residence_principale_premiere_fois"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Logement","Économie","Urbanisme"]
 +++
 

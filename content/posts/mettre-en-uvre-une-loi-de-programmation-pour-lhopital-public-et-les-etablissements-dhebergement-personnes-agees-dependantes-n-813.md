@@ -4,9 +4,9 @@ draft = false
 title = "Mettre en œuvre une loi de programmation pour l'hôpital public et les établissements d'hébergement pour personnes âgées dépendantes - N° 813"
 auteurs = ["Yannick Monnet","Karine Lebon","Édouard Bénard","Soumya Bourouaha","Jean-Victor Castor","André Chassaigne","Elsa Faucillon","Émeline K/Bidi","Jean-Paul Lecoq","Frédéric Maillot","Emmanuel Maurel","Marcellin Nadeau","Stéphane Peu","Mereana Reid Arbelot","Davy Rimane","Nicolas Sansu","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/loi_programmation_hopital_public_ephad_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Budget","Fonction publique"]
 +++
 

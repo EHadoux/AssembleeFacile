@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi organique visant à reporter le renouvellement général des membres du congrès et des assemblées de province de la Nouvelle-Calédonie pour permettre la mise en oeuvre de l'accord du 12 juillet 2025 - N° 1969"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52655"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mercredi 13 août 2025","Mercredi 13 août 2025","Jeudi 16 octobre 2025"]
-stepsStatus = ["","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale","Commission Mixte Paritaire","Conseil constitutionnel","Promulgation de la loi"]
+stepsDate = ["Mercredi 13 août 2025","Mercredi 13 août 2025","Mercredi 13 août 2025","Jeudi 16 octobre 2025","Jeudi 16 octobre 2025","Mercredi 22 octobre 2025","Jeudi 30 octobre 2025","Jeudi 6 novembre 2025"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Texte rejeté","Accord","Conforme",""]
 tags = ["Outre-mer","Action publique","Relations parlementaires"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi ouvrant la possibilité de concilier une activité professionnelle avec la fonction d'assistant familial - N° 148"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49737"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 9 avril 2024","Mardi 9 avril 2024","Jeudi 30 mai 2024","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Mardi 9 avril 2024","Mardi 9 avril 2024","Mardi 9 avril 2024","Jeudi 30 mai 2024","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des affaires sociales (Sénat)","Texte adopté ✔️","Commission des affaires sociales","Commission des affaires sociales"]
 tags = ["Famille","Emploi","Solidarité"]
 +++
 

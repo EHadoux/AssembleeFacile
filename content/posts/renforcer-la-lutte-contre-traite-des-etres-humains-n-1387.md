@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la lutte contre la traite des êtres humains - N° 1387"
 auteurs = ["Guillaume Gouffier Valente","Erwan Balanant","Fabrice Barusseau","Jean-Pierre Bataille","Marie-Noëlle Battistel","Thibault Bazin","Béatrice Bellay","Jean-Didier Berger","Hervé Berville","Émilie Bonnivard","Florent Boudié","Anthony Brosse","Joël Bruneau","Stéphane Buchou","Eléonore Caroit","Michel Castellani","Vincent Caure","Nathalie Colin-Oesterlé","Julie Delpech","Stella Dupont","Denis Fégné","Nicolas Forissier","Moerani Frébault","Bruno Fuchs","Jean-Luc Fugit","Damien Girard","Olga Givernet","Jean-Michel Jacques","Sandrine Josso","Constance Le Grip","Karine Lebon","Delphine Lingemann","Brigitte Liso","Christophe Marion","Laurent Mazaury","Ludovic Mendes","Sophie Mette","Hubert Ott","Constance de Pélichy","Maud Petit","Christine Pirès Beaune","Dominique Potier","Marie-Agnès Poussier-Winsback","Nicolas Ray","Mereana Reid Arbelot","Véronique Riotton","Xavier Roseren","Claudia Rouaux","Olivier Serva","Violette Spillebout","Céline Thiébault-Martinez","Frédéric Valletoux","Roger Vicot","Anne-Cécile Violland"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_lutte_traite_humains_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Droits des femmes","Sécurité"]
 +++
 

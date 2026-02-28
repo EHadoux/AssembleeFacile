@@ -4,9 +4,9 @@ draft = false
 title = "Droit à l’objection de conscience à l’expérimentation animale pour les étudiants et encouragement à la réduction du nombre d’animaux utilisés dans la recherche et l’enseignement - N° 1294"
 auteurs = ["Aymeric Caron"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/droit_objection_conscience_experimentation_animale_xviie"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Santé","Écologie","Recherche"]
 +++
 

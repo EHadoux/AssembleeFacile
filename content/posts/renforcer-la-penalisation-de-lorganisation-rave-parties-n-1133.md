@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la pénalisation de l’organisation de rave-parties - N° 1133"
 auteurs = ["Laetitia Saint-Paul","Paul Christophe","Naïma Moutchou","Sylvain Berrios","Thomas Lam","Félicie Gérard","Christophe Plassard","Bertrand Bouyx","Béatrice Bellamy","Anne Le Hénanff","Vincent Thiébaut","Lise Magnier","Jean Moulliere","Frédéric Valletoux","Jérémie Patrier-Leitus","Thierry Benoit","Didier Lemaire","Xavier Albertini","Nathalie Colin-Oesterlé","Agnès Firmin Le Bodo","François Gernigon","Béatrice Piron","Marie-Agnès Poussier-Winsback","Loïc Kervran","Anne-Cécile Violland","Graziella Melchior","Charles Rodwell","Sébastien Huyghe","Constance Le Grip","Laure Miller","Olivier Becht","Caroline Yadan","Sylvain Maillard","Emmanuelle Hoffman","Brigitte Klinkert","Jean Laussucq","Corinne Vignon","Jean Terlier","Olivia Grégoire","Christine Le Nabour","Éric Woerth","Marc Fesneau","Éric Martineau","Delphine Lingemann","Salvatore Castiglione","Estelle Youssouffa","David Habib","Jean-Pierre Bataille","Lionel Vuibert","Vincent Ledoux","Thibault Bazin","Laurent Mazaury","Jean-Michel Jacques","Alexandre Portier","Nicolas Ray","Anne-Sophie Ronceret","Freddy Sertin","Anthony Brosse","Denis Masséglia","Constance de Pélichy","Violette Spillebout","Laurent Croizier","Julie Delpech","Olivier Serva","Yannick Favennec-Bécot","Sandrine Josso","François Jolivet","Jean-René Cazeneuve","Sylvie Dezarnaud","Joël Bruneau","Anne Bergantz","Christophe Naegelen","Olivier Marleix","Stéphane Viry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/penalisation_rave_party_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 18 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Mardi 18 mars 2025","Mardi 18 mars 2025","Mardi 18 mars 2025"]
+stepsStatus = ["","Commission des lois",""]
 tags = ["Sécurité","Justice","Intérieur"]
 +++
 

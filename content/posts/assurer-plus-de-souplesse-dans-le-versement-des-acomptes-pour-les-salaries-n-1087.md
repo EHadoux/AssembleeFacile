@@ -4,9 +4,9 @@ draft = false
 title = "Assurer plus de souplesse dans le versement des acomptes pour les salariés - N° 1087"
 auteurs = ["Jean Laussucq"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/souplesse_versement_acomptes_salaries"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Relations parlementaires"]
 +++
 

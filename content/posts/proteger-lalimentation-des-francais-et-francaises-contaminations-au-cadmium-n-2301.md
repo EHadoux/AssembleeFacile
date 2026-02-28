@@ -4,9 +4,9 @@ draft = false
 title = "Protéger l’alimentation des Français et des Françaises des contaminations au cadmium - N° 2301"
 auteurs = ["Benoît Biteau","Clémentine Autain","Marie Pochon","Lisa Belluco","François Ruffin","Nicolas Thierry","Sandrine Rousseau","Boris Tavernier","Arnaud Bonnet","Léa Balage El Mariky","Cyrielle Chatelain","Christine Arrighi","Pouria Amirshahi","Nicolas Bonnet","Alexis Corbière","Hendrik Davi","Emmanuel Duplessy","Charles Fournier","Marie-Charlotte Garin","Damien Girard","Steevy Gustave","Catherine Hervieu","Jérémie Iordanoff","Julie Laernoes","Tristan Lahais","Benjamin Lucas-Lundy","Julie Ozenne","Sébastien Peytavie","Jean-Claude Raux","Sandra Regol","Jean-Louis Roumégas","Eva Sas","Sabrina Sebaihi","Danielle Simonnet","Sophie Taillé-Polian","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_proteger_alimentation_francais_et_francaises_des_contaminations_au_cadmium_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025"]
-stepsStatus = ["",""]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Agriculture","Santé","Écologie"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Reconnaître le statut des assistants familiaux, renforcer leurs droits et consolider la protection de l’enfance - N° 508"
 auteurs = ["Christelle Petex","Josiane Corneloup","Jean-Yves Bony","Frédérique Meunier","Nicolas Ray","Pascale Bordes","Jean-Didier Berger","Fabrice Brun","Virginie Duby-Muller","Vincent Jeanbrun","Philippe Juvin","Eliane Kremer","Yannick Neuder","Jean-Pierre Vigier","Nicolas Forissier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/statut_assistants_familiaux"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 29 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 29 octobre 2024","Mardi 29 octobre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Famille","Solidarité","Travail"]
 +++
 

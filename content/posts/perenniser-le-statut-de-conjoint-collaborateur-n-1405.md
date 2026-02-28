@@ -4,9 +4,9 @@ draft = false
 title = "Pérenniser le statut de conjoint collaborateur - N° 1405"
 auteurs = ["Romain Daubié"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/perenniser_statut_conjoint_collaborateur_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Travail","Économie","Droits des femmes"]
 +++
 

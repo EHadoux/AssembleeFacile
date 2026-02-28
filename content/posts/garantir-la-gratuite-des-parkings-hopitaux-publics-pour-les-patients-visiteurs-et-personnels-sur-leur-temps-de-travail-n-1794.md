@@ -4,9 +4,9 @@ draft = false
 title = "Garantir la gratuité des parkings des hôpitaux publics pour les patients, les visiteurs et les personnels sur leur temps de travail - N° 1794"
 auteurs = ["Stéphane Hablot","Pierrick Courbon","Marie-José Allemand","Joël Aviragnet","Christian Baptiste","Fabrice Barusseau","Marie-Noëlle Battistel","Laurent Baumel","Béatrice Bellay","Karim Benbrahim","Mickaël Bouloux","Philippe Brun","Elie Califer","Colette Capdevielle","Paul Christophle","Alain David","Arthur Delaporte","Stéphane Delautrette","Dieynaba Diop","Fanny Dombre Coste","Peio Dufau","Inaki Echaniz","Romain Eskenazi","Olivier Faure","Denis Fégné","Guillaume Garot","Océane Godard","Julien Gokel","Pascale Got","Emmanuel Grégoire","Jérôme Guedj","Ayda Hadizadeh","Florence Herouin-Léautey","Céline Hervieu","François Hollande","Chantal Jourdan","Marietta Karamanli","Fatiha Keloua Hachi","Gérard Leseul","Laurent Lhardit","Estelle Mercier","Philippe Naillet","Jacques Oberti","Sophie Pantel","Marc Pena","Anna Pic","Christine Pirès Beaune","Dominique Potier","Pierre Pribetich","Christophe Proença","Marie Récalde","Valérie Rossi","Claudia Rouaux","Aurélien Rousseau","Fabrice Roussel","Sandrine Runel","Sébastien Saint-Pasteur","Isabelle Santiago","Hervé Saulignac","Arnaud Simion","Thierry Sother","Céline Thiébault-Martinez","Mélanie Thomin","Boris Vallaud","Roger Vicot","Jiovanny William","les membres du groupe Socialistes et apparentés"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/gratuite_parkings_hopitaux_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025","Mardi 16 septembre 2025","Jeudi 29 janvier 2026"]
+stepsStatus = ["","Commission des affaires sociales","Texte adopté ✔️","Commission des affaires sociales (Sénat)"]
 tags = ["Santé","Action publique","Budget"]
 +++
 

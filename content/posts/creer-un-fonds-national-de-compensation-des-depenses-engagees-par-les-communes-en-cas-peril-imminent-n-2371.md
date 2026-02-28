@@ -4,9 +4,9 @@ draft = false
 title = "Créer un fonds national de compensation des dépenses engagées par les communes en cas de péril imminent - N° 2371"
 auteurs = ["Julien Brugerolles","Yannick Monnet","Édouard Bénard","Soumya Bourouaha","Jean-Victor Castor","Elsa Faucillon","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Emmanuel Maurel","Marcellin Nadeau","Stéphane Peu","Mereana Reid Arbelot","Davy Rimane","Nicolas Sansu","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/fonds_compensation_communes_peril_imminent_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 27 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 27 janvier 2026","Mardi 27 janvier 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Action publique","Logement","Finances"]
 +++
 

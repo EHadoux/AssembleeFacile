@@ -4,9 +4,9 @@ draft = false
 title = "Relancer les investissements dans le secteur de l’hydroélectricité pour contribuer à la transition énergétique - N° 2334"
 auteurs = ["Marie-Noëlle Battistel","Philippe Bolo"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/relancer_investissements_secteur_hydroelectricite_contribuer_transition_energetique_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 janvier 2026","Mardi 13 janvier 2026","Mardi 13 janvier 2026","Jeudi 5 février 2026"]
+stepsStatus = ["","Commission des affaires économiques","Texte adopté ✔️","Commission des affaires économiques (Sénat)"]
 tags = ["Énergie","Économie","Europe"]
 +++
 

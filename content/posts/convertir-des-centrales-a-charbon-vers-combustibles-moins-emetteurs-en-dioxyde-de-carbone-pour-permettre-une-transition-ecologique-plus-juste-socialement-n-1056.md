@@ -4,9 +4,9 @@ draft = false
 title = "Convertir des centrales à charbon vers des combustibles moins émetteurs en dioxyde de carbone pour permettre une transition écologique plus juste socialement - N° 1056"
 auteurs = ["Ludovic Mendes","Belkhir Belhaddad","Nathalie Colin-Oesterlé","Fabien Di Filippo","Isabelle Rauch"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/convertir_centrales_charbon_combustibles_moins_emetteurs_dioxyde_carbone_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Énergie","Écologie","Économie"]
 +++
 

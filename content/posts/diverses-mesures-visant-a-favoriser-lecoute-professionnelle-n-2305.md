@@ -4,9 +4,9 @@ draft = false
 title = "Diverses mesures visant à favoriser l’écoute professionnelle - N° 2305"
 auteurs = ["Astrid Panosyan-Bouvet","Dominique Potier","Stéphane Viry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/mesures_favoriser_ecoute_professionnelle_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 23 décembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Travail","Économie"]
 +++
 

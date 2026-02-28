@@ -4,9 +4,9 @@ draft = false
 title = "Modification de la politique forestière pour répondre aux enjeux d’adaptation des forêts au changement climatique - N° 366"
 auteurs = ["Sophie Panonacle","Sandrine Le Feur","Stéphane Travert","Mickaël Cosson","Sandrine Josso","Jean-Michel Brard","Agnès Firmin Le Bodo","Christophe Blanchet","Stéphane Buchou","Christophe Plassard","Véronique Riotton","Frantz Gumbs","Didier Lemaire","Béatrice Bellamy","Nicole Le Peih","François Gernigon","Graziella Melchior","Paul-André Colombani","Michel Castellani","Naïma Moutchou","Liliana Tanguy","Annie Vidal","Stéphane Mazars","Didier Le Gac","Éric Bothorel","Sophie Errante","Olivier Falorni","Jean-Luc Fugit","Anne Le Hénanff","Virginie Duby-Muller","Jean-François Rousset","Bertrand Bouyx","Eléonore Caroit","Nicole Dubré-Chirat","Paul Molac","Jean-Pierre Bataille","Béatrice Piron","Karl Olive","Delphine Lingemann","Philippe Fait","Maud Petit","Nicolas Forissier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/modification_politique_forestiere_enjeux_adaptation_changement_climatique"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Forêt","Écologie","Agriculture"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Créer une croix de la valeur des sapeurs-pompiers volontaires et professionnels - N° 255"
 auteurs = ["Stéphane Viry","Jean-Pierre Bataille","Béatrice Bellamy","Anne Bergantz","Sylvie Bonnet","Jean-Michel Brard","Anthony Brosse","Joël Bruneau","Salvatore Castiglione","Jean-René Cazeneuve","Nathalie Colin-Oesterlé","Paul-André Colombani","Josiane Corneloup","Mickaël Cosson","Romain Daubié","Virginie Duby-Muller","Philippe Fait","Olivier Falorni","Agnès Firmin Le Bodo","Nicolas Forissier","Moerani Frébault","Félicie Gérard","François Gernigon","Jean-Carles Grelier","David Habib","Sandrine Josso","Xavier Lacombe","Jean Laussucq","Stéphane Lenormand","Delphine Lingemann","Christophe Marion","Olivier Marleix","Éric Martineau","Max Mathiasin","Paul Molac","Christophe Naegelen","Hubert Ott","Laurent Panifous","Éric Pauget","Constance de Pélichy","Maud Petit","Christophe Plassard","Alexandre Portier","Richard Ramos","Isabelle Rauch","Valérie Rossi","Nicolas Sansu","Olivier Serva","Charles Sitzenstuhl","David Taupiac","Annie Vidal","Corinne Vignon","Anne-Cécile Violland","Lionel Vuibert","Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/croix_valeur_sapeurs_pompiers_volontaires_professionnels"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat"]
-stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024","Jeudi 15 mai 2025"]
-stepsStatus = ["","Texte adopté ✔️",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024","Mardi 17 septembre 2024","Jeudi 15 mai 2025"]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)"]
 tags = ["Intérieur","Sécurité","Action publique"]
 +++
 

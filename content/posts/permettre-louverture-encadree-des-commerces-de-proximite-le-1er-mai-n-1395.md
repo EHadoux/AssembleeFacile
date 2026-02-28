@@ -4,9 +4,9 @@ draft = false
 title = "Permettre l’ouverture encadrée des commerces de proximité le 1er mai - N° 1395"
 auteurs = ["Olivier Marleix","Alexandre Portier","Thibault Bazin","Valérie Bazin-Malgras","Fabrice Brun","Pierre Cordier","Josiane Corneloup","Marie-Christine Dalloz","Vincent Descoeur","Virginie Duby-Muller","Nicolas Forissier","Patrick Hetzel","Alexandra Martin","Éric Pauget","Christelle Petex","Antoine Vermorel-Marques","Vincent Jeanbrun","Jean-Didier Berger","Corentin Le Fur","Jean-Luc Bourgeaux","Eric Liégeon","Émilie Bonnivard","Michel Herbillon","Jérôme Nury","Philippe Gosselin","Fabien Di Filippo"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/permettre_ouverture_encadree_commerces_proximite_1er_mai_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Commerce","Travail","Économie"]
 +++
 

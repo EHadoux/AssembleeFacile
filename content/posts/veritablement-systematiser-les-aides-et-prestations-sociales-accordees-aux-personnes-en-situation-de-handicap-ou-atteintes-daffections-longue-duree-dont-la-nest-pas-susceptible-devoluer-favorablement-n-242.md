@@ -4,9 +4,9 @@ draft = false
 title = "Véritablement systématiser les aides et prestations sociales accordées aux personnes en situation de handicap ou atteintes d’affections longue durée dont la situation n’est pas susceptible d’évoluer favorablement - N° 242"
 auteurs = ["Philippe Juvin","François-Xavier Ceccoli","Virginie Duby-Muller","Nicolas Forissier","Olivier Marleix","Christelle Petex","Jean-Pierre Vigier","Vincent Descoeur","Justine Gruet","Michel Herbillon","Nicolas Ray","Jean-Pierre Bataille","Sébastien Chenu","Nathalie Colin-Oesterlé","Philippe Fait","Didier Le Gac","Marie-Charlotte Garin","Hélène Laporte","Delphine Lingemann","Christophe Marion","Kévin Mauvieux","Michèle Martinez","Laurent Mazaury","Pierre Meurin","Laure Miller","Christophe Naegelen","Hubert Ott","Sébastien Peytavie","Kévin Pfeffer","Christophe Plassard","François Ruffin","Maxime Amblard","Joël Bruneau","Sylvain Berrios","Christelle D'Intorni","Anchya Bamana"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/systematiser_aides_prestasoc"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Handicap","Solidarité","Action publique"]
 +++
 

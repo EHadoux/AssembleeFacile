@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi relative à la raison impérative d'intérêt public majeur de la liaison autoroutière entre Castres et Toulouse - N° 1435"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51702"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Commission Mixte Paritaire"]
-stepsDate = ["Mardi 18 mars 2025","Mardi 18 mars 2025","Jeudi 15 mai 2025","Lundi 2 juin 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte rejeté ❌",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale","Commission Mixte Paritaire"]
+stepsDate = ["Mardi 18 mars 2025","Mardi 18 mars 2025","Mardi 18 mars 2025","Jeudi 15 mai 2025","Jeudi 15 mai 2025","Lundi 2 juin 2025"]
+stepsStatus = ["","Commission du développement durable (Sénat)","Texte adopté ✔️","Commission du développement durable","Texte rejeté",""]
 tags = ["Aménagement du territoire","Transports","Justice"]
 +++
 

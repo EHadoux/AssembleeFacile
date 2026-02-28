@@ -4,9 +4,9 @@ draft = false
 title = "Soumettre l’envoi de militaires à l’étranger à l’autorisation du Parlement - N° 780"
 auteurs = ["Bastien Lachaud","Aurélien Saintoul","Mathilde Panot","Les membres du groupe La France insoumise - Nouveau Front Populaire"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/soumettre_envoi_militaires_etranger_autorisation_parlement"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 16 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 16 janvier 2025","Jeudi 16 janvier 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Armées","Défense","Relations parlementaires"]
 +++
 

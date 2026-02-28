@@ -4,9 +4,9 @@ draft = false
 title = "Accélérer la transition énergétique des bâtis dégradés, en permettant leur accession et leur renovation, tout en renforcant le pouvoir des collectivites locales - N° 1870"
 auteurs = ["Stéphane Viry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/transition_energetique_batis_degrades_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 30 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 30 septembre 2025","Mardi 30 septembre 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Écologie","Logement","Économie"]
 +++
 

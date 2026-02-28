@@ -4,9 +4,9 @@ draft = false
 title = "Instauration d'un revenu de remplacement pour les artistes-auteurs temporairement privés de ressources - N° 442"
 auteurs = ["Soumya Bourouaha","Fatiha Keloua Hachi","Sarah Legrain","Sophie Taillé-Polian","Paul Molac","Joël Aviragnet","Anaïs Belouassa-Cherifi","Édouard Bénard","Mickaël Bouloux","Jean-Victor Castor","André Chassaigne","Jean-François Coulomme","Karen Erodi","Elsa Faucillon","Clémence Guetté","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Damien Maudet","Emmanuel Maurel","Marianne Maximi","Yannick Monnet","Marcellin Nadeau","Stéphane Peu","Mereana Reid Arbelot","Davy Rimane","Nicolas Sansu","Emmanuel Tjibaou","Jiovanny William","Denis Fégné","Pierrick Courbon","Steevy Gustave","Hendrik Davi","Zahia Hamdane","Abdelkader Lahmar","Céline Hervieu","Sandrine Rousseau","Jean-Claude Raux","Raphaël Arnault","Ségolène Amiot","Emmanuel Grégoire","Matthias Tavel","Christine Pirès Beaune","Thomas Portes","René Pilato","Rodrigo Arenas","Boris Tavernier","Gabrielle Cathala","Claudia Rouaux","Hervé Saulignac","Anne Stambach-Terrenoir","Damien Girard","Éric Coquerel","Sébastien Peytavie","Roger Vicot","Ayda Hadizadeh","Marie Mesmeur","Guillaume Garot","Pouria Amirshahi","Nicolas Bonnet","Christophe Proença","Florence Herouin-Léautey","Marie Pochon","Murielle Lepvraud","Inaki Echaniz","Élise Leboucher","Gérard Leseul","Valérie Rossi","Hadrien Clouet","Emmanuel Fernandes","Loïc Prud'homme","Aurélie Trouvé","Sébastien Saint-Pasteur","Tristan Lahais","Hubert Ott","Marie-Charlotte Garin","Thierry Sother","Christophe Bex","Arnaud Bonnet","Jean-Louis Roumégas","Gabriel Amard","Sophie Pantel","Laurent Lhardit","Pierre-Yves Cadalen","Romain Eskenazi","Sandra Regol","Marc Pena","Karim Benbrahim","Violette Spillebout","Julien Brugerolles","Aurélien Le Coq","Océane Godard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/revenu_remplacement_artistes_auteurssssss"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Culture","Emploi","Solidarité"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Prévenir la concentration des médias, protéger leur liberté éditoriale et renforcer le pluralisme - N° 1935"
 auteurs = ["Emmanuel Grégoire"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/prevenir_concentration_medias_proteger_liberte_editioriale_renforcer_pluralisme_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Action publique","Économie","Numérique"]
 +++
 

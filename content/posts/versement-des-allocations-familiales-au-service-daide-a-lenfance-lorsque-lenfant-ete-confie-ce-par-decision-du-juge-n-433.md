@@ -4,9 +4,9 @@ draft = false
 title = "Versement des allocations familiales au service d'aide à l'enfance lorsque l'enfant a été confié à ce service par décision du juge - N° 433"
 auteurs = ["Jean-Pierre Taite","Hubert Brigand","Fabrice Brun","Josiane Corneloup","Corentin Le Fur","Éric Pauget","Alexandra Martin","Ian Boucard","Jean-Luc Bourgeaux","Philippe Juvin","Michel Herbillon","Virginie Duby-Muller","Philippe Gosselin","Véronique Louwagie","Thibault Bazin","Yannick Neuder"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/allocations_familiales_services_aide_enfance"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Famille","Solidarité","Budget"]
 +++
 

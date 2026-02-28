@@ -4,9 +4,9 @@ draft = false
 title = "Dispositions applicables aux élections organisées à l'étranger - N° 57"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/dispositions_elections_etranger"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mercredi 17 octobre 2018","Mercredi 17 octobre 2018","Mardi 22 janvier 2019","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Mercredi 17 octobre 2018","Mercredi 17 octobre 2018","Mercredi 17 octobre 2018","Mardi 22 janvier 2019","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Commission des lois","Commission des lois"]
 tags = ["Affaires étrangères","Action publique","Europe"]
 +++
 

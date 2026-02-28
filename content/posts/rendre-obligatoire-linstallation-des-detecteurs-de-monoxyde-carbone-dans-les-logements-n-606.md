@@ -4,9 +4,9 @@ draft = false
 title = "Rendre obligatoire l'installation des détecteurs de monoxyde de carbone dans les logements - N° 606"
 auteurs = ["Karl Olive","Olivier Falorni","Jean-Marie Fiévet","Moerani Frébault","Sandrine Josso","Brigitte Klinkert","Constance Le Grip","Stéphane Mazars","Violette Spillebout","Corinne Vignon","Caroline Yadan"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_obligatoire_detecteurs_monoxyde_carbone_dans_logements"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 19 novembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 19 novembre 2024","Mardi 19 novembre 2024"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Santé","Logement","Sécurité"]
 +++
 

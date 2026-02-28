@@ -1,9 +1,9 @@
 +++
 tags = ["Santé", "Agriculture", "Écologie"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_ameliorer_reconnaissance_indemnisation_victimes_pesticides_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 11 juillet 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 11 juillet 2025","Vendredi 11 juillet 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 date = 2025-07-11
 draft = false
 title = "Améliorer la reconnaissance et l’indemnisation des victimes de pesticides - N° 1748"

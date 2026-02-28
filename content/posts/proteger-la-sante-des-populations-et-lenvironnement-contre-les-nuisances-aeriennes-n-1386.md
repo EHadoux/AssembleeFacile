@@ -4,9 +4,9 @@ draft = false
 title = "Protéger la santé des populations et l’environnement contre les nuisances aériennes - N° 1386"
 auteurs = ["Naïma Moutchou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_populations_nuisances_aeriennes_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Santé","Écologie","Transports"]
 +++
 

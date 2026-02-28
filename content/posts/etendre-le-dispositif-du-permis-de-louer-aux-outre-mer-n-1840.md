@@ -4,9 +4,9 @@ draft = false
 title = "Etendre le dispositif du permis de louer aux outre-mer - N° 1840"
 auteurs = ["Karine Lebon","Jean-Hugues Ratenon","Mereana Reid Arbelot","Alma Dufour","Isabelle Santiago","Marie-Charlotte Garin","Ayda Hadizadeh","Constance de Pélichy","Laurent Lhardit","Philippe Naillet","Damien Girard","Mickaël Bouloux","Claudia Rouaux","Inaki Echaniz","Christine Pirès Beaune","Estelle Mercier","Denis Fégné","Clémentine Autain"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/etendre_dispositif_permis_louer_OM_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Outre-mer","Action publique"]
 +++
 

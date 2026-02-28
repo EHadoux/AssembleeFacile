@@ -4,9 +4,9 @@ draft = false
 title = "Généraliser le dispositif « Oui Pub » pour réduire le gaspillage des imprimés publicitaires non sollicités - N° 1838"
 auteurs = ["Sylvie Dezarnaud","Jean-Carles Grelier","Constance de Pélichy","Pierrick Courbon","Sylvain Berrios","Nicolas Forissier","David Habib","Emmanuel Maurel","Josiane Corneloup"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/generaliser_oui_pub_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Écologie","Commerce","Action publique"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Clarifier la définition des activités agricoles pour les entrepreneurs de travaux forestiers - N° 1539"
 auteurs = ["Matthieu Bloch","Alexandre Allegret-Pilot","Brigitte Barèges","Bernard Chaix","Christelle D'Intorni","Maxime Michelet","Éric Michoux","Christophe Barthès","Stéphanie Galzy","Hervé de Lépinau","Philippe Lottiaux","Michèle Martinez","Joëlle Mélin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/clarifier_definition_activites_agricoles_entrepreneurs_travaux_forestiers_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 10 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 10 juin 2025","Mardi 10 juin 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Forêt","Agriculture","Économie"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Programmation énergie-climat - N° 251"
 auteurs = ["Julie Laernoes","Cyrielle Chatelain","Pouria Amirshahi","Christine Arrighi","Léa Balage El Mariky","Lisa Belluco","Karim Ben Cheikh","Arnaud Bonnet","Alexis Corbière","Hendrik Davi","Charles Fournier","Damien Girard","Steevy Gustave","Jérémie Iordanoff","Marie Pochon","Jean-Claude Raux","Sandra Regol","Sandrine Rousseau","Eva Sas","Sophie Taillé-Polian","Boris Tavernier","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/programme_energie_climat"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Écologie","Énergie","Climat"]
 +++
 

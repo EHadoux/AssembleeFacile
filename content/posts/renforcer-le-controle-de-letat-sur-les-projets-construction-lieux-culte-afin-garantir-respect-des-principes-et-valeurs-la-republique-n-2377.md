@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer le contrôle de l’État sur les projets de construction de lieux de culte afin de garantir le respect des principes et valeurs de la République - N° 2377"
 auteurs = ["Matthieu Bloch","Jérôme Buisson","Bernard Chaix","Sébastien Chenu","Josiane Corneloup","Christelle D'Intorni","Michèle Martinez","Didier Padey"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_controle_Etat_sur_projets_construction_lieux_culte_afin_garantir_respect_principes_et_valeurs_Republique_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 27 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 27 janvier 2026","Mardi 27 janvier 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Intérieur","Justice","Urbanisme"]
 +++
 

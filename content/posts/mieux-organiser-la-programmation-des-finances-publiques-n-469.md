@@ -4,9 +4,9 @@ draft = false
 title = "Mieux organiser la programmation des finances publiques - N° 469"
 auteurs = ["Charles Sitzenstuhl","Brigitte Klinkert","Maud Petit","Karl Olive","Xavier Roseren","Moerani Frébault","Jean-François Rousset"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/mieux_organiser_programmation_finances_publiques"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Lundi 21 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Lundi 21 octobre 2024","Lundi 21 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Finances","Budget","Action publique"]
 +++
 

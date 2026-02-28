@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi portant réparation des personnes condamnées pour homosexualité entre 1945 et 1982 - N° 1369"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N46127"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Deuxième lecture au Sénat","Deuxième lecture à l'Assemblée nationale"]
-stepsDate = ["Samedi 6 août 2022","Samedi 6 août 2022","Mercredi 22 novembre 2023","Jeudi 7 mars 2024","Mercredi 7 mai 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Deuxième lecture au Sénat","Renvoi en commission","Deuxième lecture à l'Assemblée nationale","Commission Mixte Paritaire","Renvoi en commission"]
+stepsDate = ["Samedi 6 août 2022","Samedi 6 août 2022","Samedi 6 août 2022","Mercredi 22 novembre 2023","Mercredi 22 novembre 2023","Jeudi 7 mars 2024","Jeudi 7 mars 2024","Mercredi 7 mai 2025","Mercredi 7 mai 2025","Jeudi 18 décembre 2025","Vendredi 16 janvier 2026"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Texte modifié","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Texte modifié","Désaccord","Commission des lois"]
 tags = ["Justice","Discriminations","Droits des femmes"]
 +++
 

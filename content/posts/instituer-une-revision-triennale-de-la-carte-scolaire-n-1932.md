@@ -4,9 +4,9 @@ draft = false
 title = "Instituer une révision triennale de la carte scolaire - N° 1932"
 auteurs = ["Éric Michoux","Charles Alloncle","Matthieu Bloch","Bernard Chaix","Marc Chavent","Christelle D'Intorni","Olivier Fayssat","Bartolomé Lenoir","Maxime Michelet","Vincent Trébuchet","Bénédicte Auzanot","Véronique Besse","Jérôme Buisson","Gisèle Lelouis","Laurent Mazaury","Joëlle Mélin","Ian Boucard","Alexandre Dufosset","Géraldine Grangier","Sébastien Humbert","Alexandre Sabatou","Nathalie Da Conceicao Carvalho","Daniel Grenon","Laurent Jacobelli","Guillaume Lepers","Marie-France Lorho","Eddy Casterman","Thierry Frappé","Julien Limongi","Thibaut Monnier","Anne Sicard","Romain Baubry","Frédéric Falcon","Nadine Lechon","Angélique Ranc","Robert Le Bourgeois"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instituer_revision_triennale_carte_scolaire_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Ruralité","Aménagement du territoire"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer l’accueil des jeunes enfants et revaloriser les métiers de la petite enfance - N° 1071"
 auteurs = ["Christelle D'Intorni","Bernard Chaix","Éric Michoux","Hélène Laporte","Sébastien Chenu","Antoine Villedieu","Julien Odoul","Marc Chavent","Jérôme Buisson","Serge Muller","Alexandre Allegret-Pilot","Marine Hamelet","René Lioret","Lisette Pollet","Sophie Ricourt Vaginay","Julie Lechanteux","Joseph Rivière","Emmanuel Fouquart","Thibaut Monnier","Anne Sicard","Michaël Taverne","Jonathan Gery"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ameliorer_accueil_jeunes_enfants_revaloriser_metiers_petite_enfance_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Famille","Emploi","Solidarité"]
 +++
 

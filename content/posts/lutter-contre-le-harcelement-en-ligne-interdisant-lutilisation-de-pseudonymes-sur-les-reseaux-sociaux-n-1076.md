@@ -4,9 +4,9 @@ draft = false
 title = "Lutter contre le harcèlement en ligne en interdisant l’utilisation de pseudonymes sur les réseaux sociaux - N° 1076"
 auteurs = ["Corentin Le Fur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutte_harcelement_en_ligne_17"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Numérique","Sécurité","Justice"]
 +++
 

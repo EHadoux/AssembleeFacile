@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi portant programmation nationale et simplification normative dans le secteur économique de l'énergie - N° 463"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49849"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Deuxième lecture au Sénat","Deuxième lecture à l'Assemblée nationale"]
-stepsDate = ["Vendredi 26 avril 2024","Vendredi 26 avril 2024","Jeudi 17 octobre 2024","Mardi 24 juin 2025","Mercredi 9 juillet 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte rejeté ❌","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Deuxième lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Vendredi 26 avril 2024","Vendredi 26 avril 2024","Vendredi 26 avril 2024","Jeudi 17 octobre 2024","Jeudi 17 octobre 2024","Mardi 24 juin 2025","Mardi 24 juin 2025","Mercredi 9 juillet 2025"]
+stepsStatus = ["","Commission des affaires économiques (Sénat)","Texte adopté ✔️","Commission des affaires économiques","Texte rejeté","Commission des affaires économiques (Sénat)","Texte adopté ✔️","Commission des affaires économiques"]
 tags = ["Énergie","Économie","Action publique"]
 +++
 

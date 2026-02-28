@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à interdire l'usage de l'écriture inclusive - N° 122"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L15N44968"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mercredi 26 janvier 2022","Mercredi 26 janvier 2022","Mardi 31 octobre 2023","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Mercredi 26 janvier 2022","Mercredi 26 janvier 2022","Mercredi 26 janvier 2022","Mardi 31 octobre 2023","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des affaires étrangères (Sénat)","Texte adopté ✔️","Commission des affaires culturelles","Commission des affaires culturelles"]
 tags = ["Action publique","Culture","Discriminations"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Faire la lumière historique sur les tueries ouvrières de Chalvet de 1974 et du Carbet de 1948 en Martinique en ouvrant les archives publiques et en créant un comité d'experts - N° 1081"
 auteurs = ["Marcellin Nadeau","Édouard Bénard","Soumya Bourouaha","Jean-Victor Castor","André Chassaigne","Elsa Faucillon","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Emmanuel Maurel","Yannick Monnet","Stéphane Peu","Mereana Reid Arbelot","Davy Rimane","Nicolas Sansu","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/tueries_ouvrieres_martinique_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Outre-mer","Histoire"]
 +++
 

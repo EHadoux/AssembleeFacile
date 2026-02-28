@@ -1,9 +1,9 @@
 +++
 tags = ["Santé", "Écologie", "Économie"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/obligation_climatisation_espaces_publics_prioriaires_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 11 juillet 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 11 juillet 2025","Vendredi 11 juillet 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 date = 2025-07-11
 draft = false
 title = "Obligation de climatisation des espaces publics prioritaires - N° 1728"

@@ -4,9 +4,9 @@ draft = false
 title = "Lutter contre les violences faites aux enfants dits « intersexes » - N° 1914"
 auteurs = ["Ségolène Amiot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_violences_enfants_intersexes_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Santé","Justice","Droits des femmes"]
 +++
 

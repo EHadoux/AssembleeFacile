@@ -4,9 +4,9 @@ draft = false
 title = "Pérenniser l’utilisation du ticket restaurant pour des achats de produits alimentaires non directement consommables - N° 570"
 auteurs = ["Stéphane Viry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ticket_restaurant_produits_alimentaires"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 19 novembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 19 novembre 2024","Mardi 19 novembre 2024"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Économie","Travail","Solidarité"]
 +++
 

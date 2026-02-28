@@ -4,9 +4,9 @@ draft = false
 title = "Pérenniser les haltes soins addictions - N° 1325"
 auteurs = ["Anna Pic","Stéphane Viry","Sandra Regol","Emmanuel Grégoire","Pouria Amirshahi","Thierry Sother","Paul Christophle","Marie-José Allemand","Joël Aviragnet","Léa Balage El Mariky","Fabrice Barusseau","Karim Ben Cheikh","Mickaël Bouloux","Pierre-Yves Cadalen","Colette Capdevielle","Gabrielle Cathala","Bérenger Cernon","Hendrik Davi","Alain David","Arthur Delaporte","Inaki Echaniz","Olivier Faure","Denis Fégné","Mathilde Feld","Emmanuel Fernandes","Marie-Charlotte Garin","Damien Girard","Pascale Got","Jérôme Guedj","Clémence Guetté","Ayda Hadizadeh","Catherine Hervieu","Céline Hervieu","Mathilde Hignet","Sacha Houlié","Cyrille Isaac-Sibille","Chantal Jourdan","Abdelkader Lahmar","Maxime Laisney","Élise Leboucher","Sarah Legrain","Laurent Lhardit","Ludovic Mendes","Estelle Mercier","Marie Mesmeur","Paul Molac","Sandrine Nosbé","Hubert Ott","Constance de Pélichy","René Pilato","Marie-Agnès Poussier-Winsback","Pierre Pribetich","Claudia Rouaux","Sandrine Rousseau","Isabelle Santiago","Hervé Saulignac","Danielle Simonnet","Andrée Taurinya","Céline Thiébault-Martinez","Mélanie Thomin","Stéphane Travert","Roger Vicot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/perenniser_haltes_soins_addictions"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Solidarité","Sécurité"]
 +++
 

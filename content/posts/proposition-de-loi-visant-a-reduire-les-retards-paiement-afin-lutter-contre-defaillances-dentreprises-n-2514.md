@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à réduire les retards de paiement afin de lutter contre les défaillances d'entreprises - N° 2514"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53099"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025","Jeudi 19 février 2026"]
-stepsStatus = ["","Texte adopté ✅",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025","Mardi 28 octobre 2025","Jeudi 19 février 2026"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois"]
 tags = ["Économie","Action publique","Commerce"]
 +++
 

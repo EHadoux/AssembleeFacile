@@ -4,9 +4,9 @@ draft = false
 title = "Planifier et faciliter l’hébergement des travailleurs saisonniers - N° 2020"
 auteurs = ["Pascale Got"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/planifier_et_faciliter_hebergement_des_travailleurs_saisonniers_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 28 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Emploi","Urbanisme"]
 +++
 

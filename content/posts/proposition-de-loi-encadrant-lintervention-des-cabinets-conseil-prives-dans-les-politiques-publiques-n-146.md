@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi encadrant l'intervention des cabinets de conseil privés dans les politiques publiques - N° 146"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L15N45886"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Deuxième lecture au Sénat","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 juin 2022","Mardi 21 juin 2022","Mercredi 19 octobre 2022","Jeudi 1er février 2024","Mercredi 29 mai 2024","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️","Texte adopté ✔️","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Deuxième lecture au Sénat","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Mardi 21 juin 2022","Mardi 21 juin 2022","Mardi 21 juin 2022","Mercredi 19 octobre 2022","Mercredi 19 octobre 2022","Jeudi 1 février 2024","Jeudi 1 février 2024","Mercredi 29 mai 2024","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Texte modifié","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Commission des lois"]
 tags = ["Action publique","Fonction publique","Budget"]
 +++
 

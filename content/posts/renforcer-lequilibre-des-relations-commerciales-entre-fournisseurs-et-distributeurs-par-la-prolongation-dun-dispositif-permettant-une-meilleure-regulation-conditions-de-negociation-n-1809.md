@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer l’équilibre des relations commerciales entre fournisseurs et distributeurs par la prolongation d’un dispositif permettant une meilleure régulation des conditions de négociation - N° 1809"
 auteurs = ["Stéphane Travert","Anne-Sophie Ronceret"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_equilibre_relations_commerciales_fournisseurs_distributeurs_prolongation_meilleure_regulation_negociation_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Commerce","Économie","Europe"]
 +++
 

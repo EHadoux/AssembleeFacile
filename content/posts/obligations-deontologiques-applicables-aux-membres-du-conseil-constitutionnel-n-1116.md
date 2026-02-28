@@ -4,9 +4,9 @@ draft = false
 title = "Obligations déontologiques applicables aux membres du Conseil constitutionnel - N° 1116"
 auteurs = ["Marietta Karamanli","Boris Vallaud","Colette Capdevielle","Marc Pena","Céline Thiébault-Martinez","Pouria Amirshahi","Léa Balage El Mariky","Alain David","Emmanuel Grégoire","Valérie Rossi","Charles Sitzenstuhl","Joël Aviragnet","Fabrice Barusseau","Mickaël Bouloux","Elie Califer","Pierrick Courbon","Arthur Delaporte","Fanny Dombre Coste","Inaki Echaniz","Olivier Faure","Denis Fégné","Pascale Got","Guillaume Gouffier Valente","Stéphane Hablot","Ayda Hadizadeh","Céline Hervieu","Chantal Jourdan","Emmanuel Maurel","Laurent Mazaury","Estelle Mercier","Paul Molac","Jacques Oberti","Sophie Pantel","Anna Pic","Christine Pirès Beaune","Dominique Potier","Claudia Rouaux","Sandrine Runel","Mélanie Thomin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/obligations_deontologiques_conseil_constitutionnel"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 14 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 14 mars 2025","Vendredi 14 mars 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Fonction publique","Action publique"]
 +++
 

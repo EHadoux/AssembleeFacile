@@ -4,9 +4,9 @@ draft = false
 title = "Protéger les données personnelles des entrepreneurs - N° 1621"
 auteurs = ["Paul Midy"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_donnes_personnelles_entrepreneurs_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 24 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 24 juin 2025","Mardi 24 juin 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Numérique","Sécurité","Économie"]
 +++
 

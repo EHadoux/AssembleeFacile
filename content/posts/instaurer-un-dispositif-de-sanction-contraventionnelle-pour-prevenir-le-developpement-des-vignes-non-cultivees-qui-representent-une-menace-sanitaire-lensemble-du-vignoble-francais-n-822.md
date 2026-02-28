@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer un dispositif de sanction contraventionnelle pour prévenir le développement des vignes non cultivées qui représentent une menace sanitaire pour l’ensemble du vignoble français - N° 822"
 auteurs = ["Hubert Ott"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/dispositif_sanction_contraventionnelle_prevenir_developpement_vignes_non_cultivees_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Promulgation de la loi"]
-stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025","Vendredi 7 mars 2025","Vendredi 13 juin 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Promulgation de la loi"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025","Mardi 21 janvier 2025","Vendredi 7 mars 2025","Vendredi 7 mars 2025","Vendredi 13 juin 2025"]
+stepsStatus = ["","Commission des affaires économiques","Texte adopté ✔️","Commission des affaires économiques (Sénat)","Texte modifié",""]
 tags = ["Agriculture","Économie","Santé"]
 +++
 

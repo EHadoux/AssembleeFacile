@@ -4,9 +4,9 @@ draft = false
 title = "Exonérer des droits d’auteur deux fois par an les communes de moins de 2 000 habitants pour l’organisation de manifestations gratuites destinées à l’animation territoriale - N° 235"
 auteurs = ["Stéphane Viry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/exo_droits_auteurs_petites_comm"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Action publique","Ruralité","Vie associative"]
 +++
 

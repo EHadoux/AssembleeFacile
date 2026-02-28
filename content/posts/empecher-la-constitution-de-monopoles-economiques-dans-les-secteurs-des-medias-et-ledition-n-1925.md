@@ -4,9 +4,9 @@ draft = false
 title = "Empêcher la constitution de monopoles économiques dans les secteurs des médias et de l'édition - N° 1925"
 auteurs = ["Sophie Taillé-Polian","Pouria Amirshahi","Christine Arrighi","Clémentine Autain","Léa Balage El Mariky","Lisa Belluco","Karim Ben Cheikh","Arnaud Bonnet","Nicolas Bonnet","Alexis Corbière","Hendrik Davi","Emmanuel Duplessy","Charles Fournier","Marie-Charlotte Garin","Catherine Hervieu","Jérémie Iordanoff","Julie Laernoes","Tristan Lahais","Benjamin Lucas-Lundy","Julie Ozenne","Sébastien Peytavie","Marie Pochon","Jean-Claude Raux","Sandra Regol","Jean-Louis Roumégas","Sandrine Rousseau","François Ruffin","Eva Sas","Sabrina Sebaihi","Danielle Simonnet","Boris Tavernier","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/empecher_constitution_monopoles_economiques_secteurs_medias_edition"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Économie","Action publique","Numérique"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Plafonner la revalorisation de la variation annuelle de l’indice des loyers commerciaux - N° 1936"
 auteurs = ["Violette Spillebout"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/plafonner_revalorisation_annuelle_indice_loyers_commerciaux_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Économie","Commerce","Emploi"]
 +++
 

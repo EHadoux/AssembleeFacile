@@ -4,9 +4,9 @@ draft = false
 title = "Inscrire l’écoute des travailleurs comme premier principe général de prévention de la santé au travail - N° 1833"
 auteurs = ["Thierry Sother"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_inscrire_ecoute_travailleurs_comme_premier_principe_general_de_prevention_sante_au_travail_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Travail","Santé","Action publique"]
 +++
 

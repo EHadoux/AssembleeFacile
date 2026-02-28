@@ -1,9 +1,9 @@
 +++
 tags = ["Retraite", "Solidarité", "Agriculture"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_revenu_mensuel_tout_nouveau_retraite_entree_jouissance_pension_retraite_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 11 juillet 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 11 juillet 2025","Vendredi 11 juillet 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 date = 2025-07-11
 draft = false
 title = "Garantir un revenu mensuel à tout nouveau retraité dès l’entrée en jouissance de la pension de retraite - N° 1725"

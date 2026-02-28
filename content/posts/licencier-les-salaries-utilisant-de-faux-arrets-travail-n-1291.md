@@ -4,9 +4,9 @@ draft = false
 title = "Licencier les salariés utilisant de faux arrêts de travail - N° 1291"
 auteurs = ["Antoine Vermorel-Marques","Fabien Di Filippo"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/licencier_salaries_utilisant_faux_arrets_travail_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Économie","Santé","Travail"]
 +++
 

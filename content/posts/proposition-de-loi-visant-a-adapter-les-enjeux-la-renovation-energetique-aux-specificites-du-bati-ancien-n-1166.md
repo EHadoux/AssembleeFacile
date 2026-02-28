@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à adapter les enjeux de la rénovation énergétique aux spécificités du bâti ancien - N° 1166"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50587"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 8 octobre 2024","Mardi 8 octobre 2024","Jeudi 20 mars 2025"]
-stepsStatus = ["","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Mardi 8 octobre 2024","Mardi 8 octobre 2024","Mardi 8 octobre 2024","Jeudi 20 mars 2025"]
+stepsStatus = ["","Commission des affaires économiques (Sénat)","Texte adopté ✔️","Commission des affaires économiques"]
 tags = ["Écologie","Logement","Urbanisme"]
 +++
 

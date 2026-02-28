@@ -4,9 +4,9 @@ draft = false
 title = "Nationaliser le boulevard périphérique parisien - N° 243"
 auteurs = ["Philippe Juvin","François-Xavier Ceccoli","Nicolas Forissier","Olivier Marleix","Jean-Pierre Vigier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/nationaliser_periph2"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Transports","Urbanisme","Action publique"]
 +++
 

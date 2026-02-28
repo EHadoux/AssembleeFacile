@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer un moratoire sur les démolitions de logements prévues par l’Agence nationale pour la rénovation urbaine - N° 2325"
 auteurs = ["Sébastien Delogu","Manuel Bompard","Mathilde Panot","Les membres du groupe La France insoumise - Nouveau Front Populaire"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_moratoire_demolitions_logements_agence_nationale_renovation_urbaine_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 janvier 2026","Mardi 13 janvier 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Urbanisme","Écologie"]
 +++
 

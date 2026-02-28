@@ -4,9 +4,9 @@ draft = false
 title = "La souveraineté industrielle de la France et à la protection du secteur stratégique de l’acier - N° 2024"
 auteurs = ["Julien Gokel","Boris Vallaud","Marie-José Allemand","Stéphane Delautrette","Dieynaba Diop","Fanny Dombre Coste","Peio Dufau","Inaki Echaniz","Romain Eskenazi","Olivier Faure","Denis Fégné","Martine Froger","Guillaume Garot","Océane Godard","Pascale Got","Emmanuel Grégoire","Jérôme Guedj","Stéphane Hablot","Ayda Hadizadeh","Florence Herouin-Léautey","Céline Hervieu","François Hollande","Sacha Houlié","Chantal Jourdan","Marietta Karamanli","Fatiha Keloua Hachi","Gérard Leseul","Laurent Lhardit","Estelle Mercier","Philippe Naillet","Jacques Oberti","Sophie Pantel","Marc Pena","Anna Pic","Christine Pirès Beaune","Dominique Potier","Pierre Pribetich","Christophe Proença","Marie Récalde","Valérie Rossi","Claudia Rouaux","Aurélien Rousseau","Fabrice Roussel","Sandrine Runel","Sébastien Saint-Pasteur","Isabelle Santiago","Hervé Saulignac","Arnaud Simion","Thierry Sother","Céline Thiébault-Martinez","Mélanie Thomin","Roger Vicot","Jiovanny William"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/souverainete_industrielle_France_protection_secteur_strategique_acier_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 28 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Économie","Industrie","Emploi"]
 +++
 

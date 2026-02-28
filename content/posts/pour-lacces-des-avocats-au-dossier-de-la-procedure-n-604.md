@@ -4,9 +4,9 @@ draft = false
 title = "Pour l'accès des avocats au dossier de la procédure - N° 604"
 auteurs = ["Émeline K/Bidi","Soumya Bourouaha","Jean-Victor Castor","André Chassaigne","Elsa Faucillon","Karine Lebon","Frédéric Maillot","Yannick Monnet","Marcellin Nadeau","Stéphane Peu","Mereana Reid Arbelot","Davy Rimane","Emmanuel Tjibaou","Laurent Alexandre","Farida Amrani","Ugo Bernalicis","Pierre-Yves Cadalen","Sophia Chikirou","Charles de Courson","Arthur Delaporte","Karen Erodi","Sophie Errante","Romain Eskenazi","Perceval Gaillard","Jean-Carles Grelier","Clémence Guetté","Frantz Gumbs","Céline Hervieu","Mathilde Hignet","Sacha Houlié","Jérémie Iordanoff","Philippe Juvin","Abdelkader Lahmar","Maxime Laisney","Murielle Lepvraud","Max Mathiasin","Marie Mesmeur","Manon Meunier","Paul Molac","Sandrine Nosbé","Christine Pirès Beaune","Hervé Saulignac","Sabrina Sebaihi","Jiovanny William","Nadège Abomangoli","Gabriel Amard","Léa Balage El Mariky","Fabrice Barusseau","Béatrice Bellay","Mickaël Bouloux","Colette Capdevielle","Emmanuel Fernandes","Moerani Frébault","Damien Maudet","René Pilato","Marie-Charlotte Garin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/acces_avocats_dossier_procedure"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 19 novembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 19 novembre 2024","Mardi 19 novembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Droits des femmes","Europe"]
 +++
 

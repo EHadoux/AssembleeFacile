@@ -4,9 +4,9 @@ draft = false
 title = "Garantir un renouvellement automatique des titres de séjour de longue durée - N° 1799"
 auteurs = ["Fatiha Keloua Hachi","Paul Christophle","Céline Hervieu","Marie-José Allemand","Joël Aviragnet","Fabrice Barusseau","Marie-Noëlle Battistel","Laurent Baumel","Philippe Brun","Colette Capdevielle","Pierrick Courbon","Alain David","Arthur Delaporte","Dieynaba Diop","Fanny Dombre Coste","Inaki Echaniz","Romain Eskenazi","Olivier Faure","Denis Fégné","Guillaume Garot","Pascale Got","Emmanuel Grégoire","Jérôme Guedj","Ayda Hadizadeh","Florence Herouin-Léautey","Chantal Jourdan","Marietta Karamanli","Gérard Leseul","Laurent Lhardit","Estelle Mercier","Jacques Oberti","Anna Pic","Christine Pirès Beaune","Dominique Potier","Pierre Pribetich","Christophe Proença","Valérie Rossi","Claudia Rouaux","Aurélien Rousseau","Fabrice Roussel","Sandrine Runel","Sébastien Saint-Pasteur","Isabelle Santiago","Hervé Saulignac","Thierry Sother","Céline Thiébault-Martinez","Mélanie Thomin","Boris Vallaud"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renouvellement_automatique_titres_sejour_longue_duree_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025","Mardi 16 septembre 2025","Vendredi 12 décembre 2025"]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)"]
 tags = ["Intérieur","Action publique","Solidarité"]
 +++
 

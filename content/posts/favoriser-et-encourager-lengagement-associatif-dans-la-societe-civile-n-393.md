@@ -4,9 +4,9 @@ draft = false
 title = "Favoriser et encourager l'engagement associatif dans la société civile - N° 393"
 auteurs = ["Jean-Pierre Taite","Thibault Bazin","Valérie Bazin-Malgras","Jean-Luc Bourgeaux","Hubert Brigand","Josiane Corneloup","Fabien Di Filippo","Michel Herbillon","Corentin Le Fur","Jérôme Nury","Nicolas Ray","Jean-Pierre Vigier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/favoriser_encourager_engagement_associatif_societe_civile"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Vie associative","Solidarité"]
 +++
 

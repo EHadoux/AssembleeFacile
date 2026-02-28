@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer le contrôle des structures d’accueil collectif de mineurs afin de garantir le respect des principes de la République et la protection des enfants - N° 2376"
 auteurs = ["Matthieu Bloch","Jérôme Buisson","Bernard Chaix","Sébastien Chenu","Josiane Corneloup","Christelle D'Intorni","Michèle Martinez","Didier Padey"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_controle_structures_accueil_collectif_mineurs_garantir_respect_ppes_Republique_protection_enfants_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 27 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 27 janvier 2026","Mardi 27 janvier 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Jeunesse","Action publique"]
 +++
 

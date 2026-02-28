@@ -4,9 +4,9 @@ draft = false
 title = "Étendre le pouvoir de réquisition des logements vacants aux maires pour garantir le droit fondamental au logement - N° 1092"
 auteurs = ["Sébastien Delogu","François Piquemal","Sophia Chikirou","Carlos Martens Bilongo","Idir Boumertit","Mathilde Panot","Les membres du groupe La France insoumise - Nouveau Front Populaire"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/requisitions_logements_vacants_droit_logement"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Urbanisme","Action publique"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Mieux indemniser les dégâts sur les biens immobiliers causés par le retrait-gonflement de l’argile - N° 162"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/indemniser_gonflement_argile"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 février 2023","Mardi 21 février 2023","Vendredi 7 avril 2023","Jeudi 30 mai 2024","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","Texte rejeté ❌","",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Mardi 21 février 2023","Mardi 21 février 2023","Mardi 21 février 2023","Vendredi 7 avril 2023","Vendredi 7 avril 2023","Jeudi 30 mai 2024","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des finances","Texte adopté ✔️","Commission des finances (Sénat)","Texte rejeté","Commission des finances","Commission des finances"]
 tags = ["Aménagement du territoire","Écologie","Logement"]
 +++
 

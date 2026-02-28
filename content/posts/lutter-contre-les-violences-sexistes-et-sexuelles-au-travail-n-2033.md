@@ -4,9 +4,9 @@ draft = false
 title = "Lutter contre les violences sexistes et sexuelles au travail - N° 2033"
 auteurs = ["Karim Benbrahim","Estelle Mercier","Céline Thiébault-Martinez"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_contre_violences_sexistes_sexuelles_travail_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 28 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Droits des femmes","Travail","Discriminations"]
 +++
 

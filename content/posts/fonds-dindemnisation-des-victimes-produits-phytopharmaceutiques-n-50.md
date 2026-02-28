@@ -4,9 +4,9 @@ draft = false
 title = "Fonds d'indemnisation des victimes des produits phytopharmaceutiques - N° 50"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/fonds_indemnisation_victimes_produits_phytopharmaceutiques"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mercredi 13 juillet 2016","Mercredi 13 juillet 2016","Jeudi 1er février 2018","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Mercredi 13 juillet 2016","Mercredi 13 juillet 2016","Mercredi 13 juillet 2016","Jeudi 1 février 2018","Jeudi 1 février 2018","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des affaires sociales (Sénat)","Texte adopté ✔️","Commission des affaires sociales","","Commission des affaires sociales","Commission des affaires sociales"]
 tags = ["Santé","Agriculture","Solidarité"]
 +++
 

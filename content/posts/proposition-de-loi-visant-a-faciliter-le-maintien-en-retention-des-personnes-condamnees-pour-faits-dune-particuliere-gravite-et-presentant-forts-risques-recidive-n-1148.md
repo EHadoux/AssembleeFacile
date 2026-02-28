@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à faciliter le maintien en rétention des personnes condamnées pour des faits d’une particulière gravité et présentant de forts risques de récidive - N° 1148"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51429"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Deuxième lecture au Sénat","Conseil constitutionnel","Promulgation de la loi"]
-stepsDate = ["Lundi 3 février 2025","Lundi 3 février 2025","Mercredi 19 mars 2025","Mardi 8 juillet 2025","Vendredi 18 juillet 2025","Lundi 11 août 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️","Texte adopté ✔️","Partiellement conforme",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Deuxième lecture au Sénat","Conseil constitutionnel","Promulgation de la loi"]
+stepsDate = ["Lundi 3 février 2025","Lundi 3 février 2025","Lundi 3 février 2025","Mercredi 19 mars 2025","Mercredi 19 mars 2025","Mardi 8 juillet 2025","Mardi 8 juillet 2025","Vendredi 18 juillet 2025","Lundi 11 août 2025"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Texte modifié","Commission des lois (Sénat)","Texte adopté ✔️","Partiellement conforme",""]
 tags = ["Intérieur","Sécurité","Justice"]
 +++
 

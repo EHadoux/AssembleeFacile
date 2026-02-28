@@ -4,9 +4,9 @@ draft = false
 title = "Modifier la définition pénale du viol et des agressions sexuelles - N° 842"
 auteurs = ["Marie-Charlotte Garin","Véronique Riotton","Cyrielle Chatelain","Gabriel Attal"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/definition_penale_viol_agressions_sexuelles_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Commission Mixte Paritaire"]
-stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025","Mercredi 2 avril 2025","Jeudi 19 juin 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Commission Mixte Paritaire","Promulgation de la loi"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025","Mardi 21 janvier 2025","Mercredi 2 avril 2025","Mercredi 2 avril 2025","Jeudi 19 juin 2025","Jeudi 6 novembre 2025"]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)","Texte modifié","Accord",""]
 tags = ["Justice","Droits des femmes","Sécurité"]
 +++
 

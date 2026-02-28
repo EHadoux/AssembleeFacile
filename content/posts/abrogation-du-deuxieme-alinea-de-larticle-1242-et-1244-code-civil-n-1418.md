@@ -4,9 +4,9 @@ draft = false
 title = "Abrogation du deuxième alinéa de l'article 1242 et de l'article 1244 du code civil - N° 1418"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/abrogation_deuxieme_alinea_article_1242_article1244_code_civil_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Droit"]
 +++
 

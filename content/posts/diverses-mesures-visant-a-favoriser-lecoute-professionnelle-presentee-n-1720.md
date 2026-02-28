@@ -1,9 +1,9 @@
 +++
 tags = ["Travail", "Économie", "Vie associative"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ecoute_professionnelle_presentee_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 11 juillet 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 11 juillet 2025","Vendredi 11 juillet 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 date = 2025-07-11
 draft = false
 title = "Diverses mesures visant à favoriser l’écoute professionnelle présentée - N° 1720"

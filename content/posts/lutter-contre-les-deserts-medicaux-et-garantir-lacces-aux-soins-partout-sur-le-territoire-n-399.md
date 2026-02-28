@@ -4,9 +4,9 @@ draft = false
 title = "Lutter contre les déserts médicaux et garantir l’accès aux soins partout sur le territoire - N° 399"
 auteurs = ["Corentin Le Fur","Frédérique Meunier","Josiane Corneloup","Jean-Yves Bony","Julien Dive","Alexandra Martin","Jean-Luc Bourgeaux","Hubert Brigand","Guillaume Lepers","Virginie Duby-Muller","Nicolas Forissier","Christelle Petex"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_contre_deserts_medicaux__garantir_acces_aux_soins"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Action publique","Ruralité"]
 +++
 

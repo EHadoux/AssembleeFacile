@@ -4,9 +4,9 @@ draft = false
 title = "Muter la déduction fiscale sur les frais engagés par les bénévoles en crédit d’impôt - N° 256"
 auteurs = ["Stéphane Viry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/deduction_fiscale_frais_benevoles"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Vie associative","Solidarité","Finances"]
 +++
 

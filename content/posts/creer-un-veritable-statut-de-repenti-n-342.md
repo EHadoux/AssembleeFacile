@@ -4,9 +4,9 @@ draft = false
 title = "Créer un véritable statut de repenti - N° 342"
 auteurs = ["Sacha Houlié"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/creer_veritable_statut_repenti"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Sécurité","Criminalité organisée"]
 +++
 

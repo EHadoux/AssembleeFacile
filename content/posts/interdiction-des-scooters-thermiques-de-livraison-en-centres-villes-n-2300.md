@@ -4,9 +4,9 @@ draft = false
 title = "Interdiction des scooters thermiques de livraison en centres-villes - N° 2300"
 auteurs = ["Élisabeth de Maistre"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdiction_scooters_thermiques_livraison_centres-villes_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 23 décembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Écologie","Transports","Urbanisme"]
 +++
 

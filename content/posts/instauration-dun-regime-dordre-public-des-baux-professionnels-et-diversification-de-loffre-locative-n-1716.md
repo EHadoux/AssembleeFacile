@@ -1,9 +1,9 @@
 +++
 tags = ["Économie", "Logement", "Travail"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instauration_regime_ordre_public_baux_professionnels_diversification_offre_locative_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 11 juillet 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 11 juillet 2025","Vendredi 11 juillet 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 date = 2025-07-11
 draft = false
 title = "Instauration d’un régime d’ordre public des baux professionnels et diversification de l’offre locative - N° 1716"

@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer le principe de laïcité dans les compétitions sportives en interdisant le port de tenues ou de signes ostensiblement religieux - N° 1886"
 auteurs = ["Constance Le Grip","Emmanuelle Hoffman","Brigitte Klinkert","Delphine Lingemann","Nicolas Metzdorf","Annie Vidal","Caroline Yadan"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_principe_laicite_competitions_sportives_tenues_signes_religieux_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 30 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 30 septembre 2025","Mardi 30 septembre 2025"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Sports","Discriminations","Action publique"]
 +++
 

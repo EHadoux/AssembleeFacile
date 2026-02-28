@@ -4,9 +4,9 @@ draft = false
 title = "Transformer le statut des établissements thermaux en établissements sanitaires de prévention de la perte d’autonomie - N° 1946"
 auteurs = ["Justine Gruet","Pierre Cordier","Patrick Hetzel","Jean-Pierre Taite","Josiane Corneloup"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/statut_etablissements_thermaux_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Autonomie","Ruralité"]
 +++
 

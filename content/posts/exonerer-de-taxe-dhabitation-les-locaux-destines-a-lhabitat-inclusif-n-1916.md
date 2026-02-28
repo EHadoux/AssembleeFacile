@@ -4,9 +4,9 @@ draft = false
 title = "Exonérer de taxe d’habitation les locaux destinés à l’habitat inclusif - N° 1916"
 auteurs = ["Corentin Le Fur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/exonerer_taxe_habitation_locaux_destines_habitat_inclusif_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Handicap","Solidarité","Logement"]
 +++
 

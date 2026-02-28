@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la sécurité sur les domaines skiables et créer des sanctions contre les skieurs sous l'effet de drogues et d'alcool - N° 2389"
 auteurs = ["Christelle D'Intorni","Marc Chavent","Jérôme Buisson","Bernard Chaix","Nadine Lechon","Romain Baubry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_securite_domaines_skiables_creer_sanctions_skieurs_effet_drogues_alcool_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 27 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 27 janvier 2026","Mardi 27 janvier 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Sports","Justice"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Garantir une vie étudiante plus sûre - N° 437"
 auteurs = ["Julie Delpech","Stéphane Buchou","Eléonore Caroit","Jean-Marie Fiévet","Moerani Frébault","Jean-Luc Fugit","Jean-Carles Grelier","Sandrine Josso","Graziella Melchior","Maud Petit","Violette Spillebout","Annie Vidal"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_vie_etudiante_plus_sure"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Enseignement supérieur","Santé","Discriminations"]
 +++
 

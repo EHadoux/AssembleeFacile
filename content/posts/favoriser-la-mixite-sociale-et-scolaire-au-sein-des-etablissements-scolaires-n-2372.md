@@ -4,9 +4,9 @@ draft = false
 title = "Favoriser la mixité sociale et scolaire au sein des établissements scolaires - N° 2372"
 auteurs = ["Fatiha Keloua Hachi","Boris Vallaud","Pierrick Courbon","Florence Herouin-Léautey","Emmanuel Grégoire","Claudia Rouaux","Ayda Hadizadeh","Marie-José Allemand","Joël Aviragnet","Fabrice Barusseau","Karim Benbrahim","Mickaël Bouloux","Colette Capdevielle","Alain David","Arthur Delaporte","Stéphane Delautrette","Dieynaba Diop","Fanny Dombre Coste","Inaki Echaniz","Romain Eskenazi","Denis Fégné","Guillaume Garot","Océane Godard","Pascale Got","Jérôme Guedj","Chantal Jourdan","Laurent Lhardit","Jacques Oberti","Marc Pena","Anna Pic","Christine Pirès Beaune","Dominique Potier","Pierre Pribetich","Sandrine Runel","Hervé Saulignac","Sébastien Saint-Pasteur","Arnaud Simion","Thierry Sother","Céline Thiébault-Martinez"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/favoriser_mixite_sociale_ecole_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 27 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 27 janvier 2026","Mardi 27 janvier 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Action publique","Solidarité"]
 +++
 

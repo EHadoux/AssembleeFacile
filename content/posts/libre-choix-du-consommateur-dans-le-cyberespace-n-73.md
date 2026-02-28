@@ -4,9 +4,9 @@ draft = false
 title = "Libre choix du consommateur dans le cyberespace - N° 73"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantie_libre_choix_consommateur_cyberespace"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Jeudi 10 octobre 2019","Jeudi 10 octobre 2019","Jeudi 20 février 2020","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Jeudi 10 octobre 2019","Jeudi 10 octobre 2019","Jeudi 10 octobre 2019","Jeudi 20 février 2020","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des affaires économiques (Sénat)","Texte adopté ✔️","Commission des affaires économiques","Commission des affaires économiques","Commission des affaires économiques"]
 tags = ["Numérique","Économie","Action publique"]
 +++
 

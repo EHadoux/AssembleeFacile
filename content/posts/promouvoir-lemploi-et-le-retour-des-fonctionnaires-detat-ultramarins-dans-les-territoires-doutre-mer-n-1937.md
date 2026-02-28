@@ -4,9 +4,9 @@ draft = false
 title = "Promouvoir l’emploi et le retour des fonctionnaires d’État ultramarins dans les territoires d’Outre-mer - N° 1937"
 auteurs = ["Émeline K/Bidi"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/promouvoir_emploi_retour_fonctionnaires_etat_ultramarins_territoires_outre_mer_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Outre-mer","Fonction publique","Discriminations"]
 +++
 

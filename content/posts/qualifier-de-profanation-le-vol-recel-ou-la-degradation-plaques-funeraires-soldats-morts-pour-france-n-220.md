@@ -4,9 +4,9 @@ draft = false
 title = "Qualifier de profanation le vol, le recel ou la dégradation de plaques funéraires de soldats morts pour la France - N° 220"
 auteurs = ["Valérie Bazin-Malgras","Hubert Brigand","François-Xavier Ceccoli","Fabien Di Filippo","Nicolas Forissier","Frédérique Meunier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/profanation_plaques_funeraires"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Défense","Sécurité"]
 +++
 

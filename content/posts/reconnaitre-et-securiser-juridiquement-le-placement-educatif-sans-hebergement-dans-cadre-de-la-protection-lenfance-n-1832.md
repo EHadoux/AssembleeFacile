@@ -4,9 +4,9 @@ draft = false
 title = "Reconnaître et sécuriser juridiquement le placement éducatif sans hébergement dans le cadre de la protection de l’enfance - N° 1832"
 auteurs = ["Isabelle Santiago"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_reconnaitre_et_securiser_juridiquement_placement_educatif_sans_hebergement_dans_cadre_protection_enfance_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Famille","Justice","Solidarité"]
 +++
 

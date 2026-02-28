@@ -4,9 +4,9 @@ draft = false
 title = "Modifier le régime de prescription en matière de délits de presse - N° 1060"
 auteurs = ["Christelle D'Intorni","Alexandre Allegret-Pilot","Bernard Chaix","Joseph Rivière","Éric Michoux","Michel Guiniot","Emmanuel Fouquart","Olivier Fayssat","Thierry Frappé","Marie-France Lorho","Joëlle Mélin","Marc Chavent","Jonathan Gery","Laurent Jacobelli","Brigitte Barèges","Sophie Ricourt Vaginay","Christophe Barthès","Thierry Perez"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/modifier_regime_prescription_delits_presse_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Numérique","Sécurité"]
 +++
 

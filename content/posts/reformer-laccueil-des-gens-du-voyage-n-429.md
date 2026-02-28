@@ -4,9 +4,9 @@ draft = false
 title = "Réformer l’accueil des gens du voyage - N° 429"
 auteurs = ["Xavier Albertini","Christophe Plassard","Jérémie Patrier-Leitus","Xavier Roseren","Lise Magnier","Loïc Kervran","Anne Le Hénanff","Vincent Thiébaut","Béatrice Bellamy","Félicie Gérard","Isabelle Rauch","Béatrice Piron","Pierre Henriet","François Jolivet","Anne-Cécile Violland","Laetitia Saint-Paul","Frédéric Valletoux","Agnès Firmin Le Bodo","Didier Lemaire","Nathalie Colin-Oesterlé"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reformer_accueil_gens_du_voyage"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Intérieur","Logement","Sécurité"]
 +++
 

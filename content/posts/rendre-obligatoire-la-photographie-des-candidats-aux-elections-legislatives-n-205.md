@@ -4,9 +4,9 @@ draft = false
 title = "Rendre obligatoire la photographie des candidats aux élections législatives - N° 205"
 auteurs = ["Philippe Gosselin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/photo_obligatoire_candidats_elections_legislatives"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Intérieur"]
 +++
 

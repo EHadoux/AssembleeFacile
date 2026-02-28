@@ -4,9 +4,9 @@ draft = false
 title = "Développer l'usage des médicaments biosimilaires et des médicaments hybrides substituables - N° 797"
 auteurs = ["Sophie Delorme Duret","Jean-François Rousset","Danièle Carteron","Annie Vidal","Moerani Frébault"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/medicaments_biosimilaires_hybrides_substituables_17"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Économie","Budget"]
 +++
 

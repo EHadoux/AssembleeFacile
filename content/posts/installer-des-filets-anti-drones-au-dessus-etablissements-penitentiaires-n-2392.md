@@ -4,9 +4,9 @@ draft = false
 title = "Installer des filets anti-drones au-dessus des établissements pénitentiaires - N° 2392"
 auteurs = ["Éric Michoux","Alexandre Allegret-Pilot","Christelle D'Intorni","Olivier Fayssat","Sophie Ricourt Vaginay","Sébastien Chenu","Jocelyn Dessigny","Alexandre Dufosset","Nadine Lechon","René Lioret","Philippe Lottiaux","Michèle Martinez","Thierry Perez","Sophie-Laurence Roy","Lionel Tivoli","Bénédicte Auzanot","Emmanuel Fouquart","Thierry Frappé","Jonathan Gery","Jordan Guitton","Sébastien Humbert","Gisèle Lelouis","Nicolas Meizonnet","Joëlle Mélin","Eddy Casterman","Thibaut Monnier","Anne Sicard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/filets_drones_prisons_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 27 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 27 janvier 2026","Mardi 27 janvier 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Sécurité","Action publique"]
 +++
 

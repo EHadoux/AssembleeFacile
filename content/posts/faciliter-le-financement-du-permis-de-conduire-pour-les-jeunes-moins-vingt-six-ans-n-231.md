@@ -4,9 +4,9 @@ draft = false
 title = "Faciliter le financement du permis de conduire pour les jeunes de moins de vingt-six ans - N° 231"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/financement_permisdeconduire_jeunes"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Jeunesse","Emploi","Ruralité"]
 +++
 

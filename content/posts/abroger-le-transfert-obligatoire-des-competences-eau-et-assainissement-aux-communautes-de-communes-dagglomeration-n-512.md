@@ -4,9 +4,9 @@ draft = false
 title = "Abroger le transfert obligatoire des compétences eau et assainissement aux communautés de communes et aux communautés d’agglomération - N° 512"
 auteurs = ["Valérie Bazin-Malgras"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/abroger_transfert_obligatoire_eau_assainissement"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 29 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 29 octobre 2024","Mardi 29 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Décentralisation","Action publique","Ruralité"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Favoriser la pratique des activités physiques et sportives par les jeunes et à rendre ces activités accessibles à tous - N° 269"
 auteurs = ["Gabriel Amard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/favoriser_pratique_activites_physiques_sportives"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Jeunesse","Sports","Handicap"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Relancer la natalité - N° 1402"
 auteurs = ["Christelle D'Intorni","Serge Muller","Sébastien Humbert","Bartolomé Lenoir","Sandrine Dogor-Such","Alexandre Allegret-Pilot","Nicolas Meizonnet","Joseph Rivière","Julie Lechanteux","Hélène Laporte","Alexis Jolly","Michèle Martinez","Nathalie Da Conceicao Carvalho","Edwige Diaz","Jérôme Buisson","Roger Chudeau","Romain Baubry","Pierre Meurin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/relancer_natalite_2_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Famille","Économie","Travail"]
 +++
 

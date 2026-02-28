@@ -4,9 +4,9 @@ draft = false
 title = "renforcer la prise en compte de la souveraineté européenne dans les actions de financement public impliquant l’Agence Française de Développement - N° 1534"
 auteurs = ["Jean-Louis Thiériot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_souverainete_europeenne_agence_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 10 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 10 juin 2025","Mardi 10 juin 2025"]
+stepsStatus = ["","Commission des affaires étrangères"]
 tags = ["Europe","Économie","Action publique"]
 +++
 

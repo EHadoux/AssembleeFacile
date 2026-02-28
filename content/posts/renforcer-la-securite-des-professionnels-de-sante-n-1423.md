@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la sécurité des professionnels de santé - N° 1423"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_securite_professionnels_sante"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Commission Mixte Paritaire","Promulgation de la loi"]
-stepsDate = ["Mardi 23 janvier 2024","Mardi 23 janvier 2024","Jeudi 14 mars 2024","Mercredi 14 mai 2025","Mercredi 9 juillet 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️","Accord",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Commission Mixte Paritaire","Promulgation de la loi"]
+stepsDate = ["Mardi 23 janvier 2024","Mardi 23 janvier 2024","Mardi 23 janvier 2024","Jeudi 14 mars 2024","Jeudi 14 mars 2024","Mercredi 14 mai 2025","Mercredi 9 juillet 2025"]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)","Texte modifié","Accord",""]
 tags = ["Santé","Sécurité","Justice"]
 +++
 

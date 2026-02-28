@@ -4,9 +4,9 @@ draft = false
 title = "Mesures d’urgence réformant la politique familiale afin de mieux soutenir les familles qui travaillent et les familles nombreuses - N° 582"
 auteurs = ["Thibault Bazin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/mesures_urgence_politique_familiale"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 19 novembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 19 novembre 2024","Mardi 19 novembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Famille","Travail","Solidarité"]
 +++
 

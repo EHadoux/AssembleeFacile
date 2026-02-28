@@ -4,9 +4,9 @@ draft = false
 title = "Préserver la biodiversité en régulant l'importation et l'exportation de trophées de chasse d'espèces protégées - N° 1320"
 auteurs = ["Sandra Regol","Cyrielle Chatelain","Anne Stambach-Terrenoir","Anne-Cécile Violland","Corinne Vignon","Antoine Vermorel-Marques","Colette Capdevielle","Mereana Reid Arbelot","Paul Molac","Philippe Fait","Olivier Falorni","Maud Petit","Sandrine Le Feur","Jimmy Pahun","Béatrice Piron","Mickaël Bouloux","Emmanuel Grégoire","Damien Girard","Constance de Pélichy","Estelle Mercier","Emmanuel Fernandes","Fabrice Barusseau","Christine Pirès Beaune","Denis Fégné","Chantal Jourdan","David Taupiac","Peio Dufau","Aymeric Caron","Arthur Delaporte","Fabrice Roussel","Pierre-Yves Cadalen","Christophe Bex","Gabrielle Cathala","Abdelkader Lahmar","Claudia Rouaux","Matthias Tavel","Maxime Laisney","Sandrine Nosbé","Julie Laernoes","Christine Arrighi","Léa Balage El Mariky","Lisa Belluco","Benoît Biteau","Arnaud Bonnet","Nicolas Bonnet","Hendrik Davi","Emmanuel Duplessy","Charles Fournier","Marie-Charlotte Garin","Steevy Gustave","Catherine Hervieu","Jérémie Iordanoff","Benjamin Lucas-Lundy","Julie Ozenne","Sébastien Peytavie","Marie Pochon","Jean-Claude Raux","Jean-Louis Roumégas","Sophie Taillé-Polian","Boris Tavernier","Nicolas Thierry","Dominique Voynet","Sabrina Sebaihi","François Ruffin","Sandrine Rousseau","Marie Mesmeur","Jean-François Coulomme","Paul-André Colombani","Isabelle Santiago","Jiovanny William","Valérie Rossi","Emmanuel Maurel","Pascale Got","Céline Thiébault-Martinez","Sarah Legrain","Marianne Maximi","David Guiraud","Sophia Chikirou","Hubert Ott","Michel Castellani","Romain Eskenazi","Édouard Bénard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/preserver_biodiversite_reguler_importation_exportation_trophees_chasse_especes_protegees_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Biodiversité","Écologie","Commerce"]
 +++
 

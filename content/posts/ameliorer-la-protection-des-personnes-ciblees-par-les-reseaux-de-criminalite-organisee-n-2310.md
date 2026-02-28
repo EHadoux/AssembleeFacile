@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer la protection des personnes ciblées par les réseaux de criminalité organisée - N° 2310"
 auteurs = ["Sandra Regol","Sabrina Sebaihi","Cyrielle Chatelain","Pouria Amirshahi","Christine Arrighi","Clémentine Autain","Léa Balage El Mariky","Lisa Belluco","Karim Ben Cheikh","Benoît Biteau","Arnaud Bonnet","Nicolas Bonnet","Alexis Corbière","Hendrik Davi","Emmanuel Duplessy","Charles Fournier","Marie-Charlotte Garin","Damien Girard","Steevy Gustave","Catherine Hervieu","Jérémie Iordanoff","Julie Laernoes","Tristan Lahais","Benjamin Lucas-Lundy","Julie Ozenne","Sébastien Peytavie","Marie Pochon","Jean-Claude Raux","Jean-Louis Roumégas","Sandrine Rousseau","François Ruffin","Eva Sas","Danielle Simonnet","Sophie Taillé-Polian","Boris Tavernier","Nicolas Thierry","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ameliorer_protection_personnes_ciblees_reseaux_criminalite_organisee_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025"]
-stepsStatus = ["","Texte adopté ✅"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025","Mardi 23 décembre 2025"]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️"]
 tags = ["Justice","Sécurité"]
 +++
 

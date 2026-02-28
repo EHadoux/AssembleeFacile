@@ -4,9 +4,9 @@ draft = false
 title = "Réguler l’installation des consignes automatiques de livraison dans les communes et à soutenir les commerces de proximité - N° 2038"
 auteurs = ["Mélanie Thomin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reguler_installation_consignes_automatiques_livraison_dans_communes_et_soutenir_commerces_proximite_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 28 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Commerce","Urbanisme","Économie"]
 +++
 

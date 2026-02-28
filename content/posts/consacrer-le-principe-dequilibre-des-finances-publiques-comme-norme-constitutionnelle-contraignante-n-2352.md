@@ -4,9 +4,9 @@ draft = false
 title = "Consacrer le principe d'équilibre des finances publiques comme norme constitutionnelle contraignante - N° 2352"
 auteurs = ["Véronique Louwagie"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/consacrer_principe_equilibre_finances_publiques_comme_norme_constitutionnelle_contraignante_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Lundi 19 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Lundi 19 janvier 2026","Lundi 19 janvier 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Budget","Économie","Finances"]
 +++
 

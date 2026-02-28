@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi organique visant à rétablir la réserve parlementaire en faveur des communes et des associations - N° 126"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N48768"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Vendredi 13 octobre 2023","Vendredi 13 octobre 2023","Vendredi 15 décembre 2023","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Vendredi 13 octobre 2023","Vendredi 13 octobre 2023","Vendredi 13 octobre 2023","Vendredi 15 décembre 2023","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des finances (Sénat)","Texte adopté ✔️","Commission des lois","Commission des lois"]
 tags = ["Action publique","Budget","Vie associative"]
 +++
 

@@ -1,9 +1,9 @@
 +++
 tags = ["Relations parlementaires", "Justice", "Défense"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/modifier_conditions-maintien_candidatures_second_tour_elections_legislatives_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 11 juillet 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 11 juillet 2025","Vendredi 11 juillet 2025"]
+stepsStatus = ["","Commission des lois"]
 date = 2025-07-11
 draft = false
 title = "Modifier les conditions de maintien des candidatures au second tour des élections législatives - N° 1709"

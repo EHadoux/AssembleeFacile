@@ -4,9 +4,9 @@ draft = false
 title = "Refonte et codification des dispositions relatives à l’enfance - N° 1873"
 auteurs = ["Isabelle Santiago"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/refonte_codification_dispositions_relatives_enfance_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 30 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 30 septembre 2025","Mardi 30 septembre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Action publique","Famille","Justice"]
 +++
 

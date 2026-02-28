@@ -4,9 +4,9 @@ draft = false
 title = "Âge de la conduite supervisée à dix-sept ans - N° 1912"
 auteurs = ["Pierre Cordier","Sylvie Bonnet","Jean-Yves Bony","Josiane Corneloup","Corentin Le Fur","Valérie Bazin-Malgras","Vincent Rolland","Thibault Bazin","Ian Boucard","Justine Gruet","Sylvie Dezarnaud","Virginie Duby-Muller","Jean-Luc Bourgeaux","Éric Pauget"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/age_conduite_supervisee_dix_sept_ans_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Transports","Jeunesse","Emploi"]
 +++
 

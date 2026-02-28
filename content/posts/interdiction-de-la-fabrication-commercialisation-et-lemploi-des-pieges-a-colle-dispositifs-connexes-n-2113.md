@@ -4,9 +4,9 @@ draft = false
 title = "Interdiction de la fabrication, de la commercialisation et de l’emploi des pièges à colle et dispositifs connexes - N° 2113"
 auteurs = ["Emmanuel Mandon","Pierrick Courbon","Corinne Vignon","Olivier Falorni","Sandrine Rousseau","Gabriel Amard","Ian Boucard","Michel Castellani","Mickaël Cosson","Arthur Delaporte","Marie-Charlotte Garin","Emmanuel Grégoire","Cyrille Isaac-Sibille","Chantal Jourdan","Sophie Mette","Joséphine Missoffe","Louise Morel","Jacques Oberti","Christine Pirès Beaune","Richard Ramos"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdiction_pieges_a_colle_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 18 novembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Biodiversité","Écologie","Justice"]
 +++
 

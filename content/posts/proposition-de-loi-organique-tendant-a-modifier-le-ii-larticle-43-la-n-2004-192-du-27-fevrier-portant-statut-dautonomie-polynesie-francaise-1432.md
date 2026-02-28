@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi organique tendant à modifier le II de l’article 43 de la loi organique n° 2004-192 du 27 février 2004 portant statut d’autonomie de la Polynésie française - N° 1432"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51173"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Vendredi 20 décembre 2024","Vendredi 20 décembre 2024","Jeudi 15 mai 2025"]
-stepsStatus = ["","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale","Conseil constitutionnel","Promulgation de la loi"]
+stepsDate = ["Vendredi 20 décembre 2024","Vendredi 20 décembre 2024","Vendredi 20 décembre 2024","Jeudi 15 mai 2025","Jeudi 15 mai 2025","Vendredi 12 décembre 2025","Mercredi 7 janvier 2026"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Texte adopté ✔️","Conforme",""]
 tags = ["Décentralisation","Outre-mer","Action publique"]
 +++
 

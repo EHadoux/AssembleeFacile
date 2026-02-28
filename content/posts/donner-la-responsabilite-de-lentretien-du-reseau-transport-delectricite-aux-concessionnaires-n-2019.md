@@ -4,9 +4,9 @@ draft = false
 title = "Donner la responsabilité de l’entretien du réseau de transport d’électricité aux concessionnaires - N° 2019"
 auteurs = ["Vincent Rolland","Thibault Bazin","Émilie Bonnivard","Josiane Corneloup","Virginie Duby-Muller","Fabien Di Filippo","Christelle Minard","Vincent Descoeur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/donner_responsabilite_entretien_reseau_transport_electricite_concessionnaires_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 28 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Énergie","Aménagement du territoire","Action publique"]
 +++
 

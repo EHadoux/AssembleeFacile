@@ -4,9 +4,9 @@ draft = false
 title = "Création d'une taxe sur les déchets touristiques - N° 1538"
 auteurs = ["François-Xavier Ceccoli","Brigitte Barèges","Thibault Bazin","Jean-Yves Bony","Ian Boucard","Joël Bruneau","Michel Castellani","Paul-André Colombani","Josiane Corneloup","Michel Herbillon","Xavier Lacombe","Eric Liégeon","Élisabeth de Maistre","Emmanuel Mandon","Constance de Pélichy","Anne-Sophie Ronceret","Stéphane Viry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/taxe_dechets_touristiques_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 10 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 10 juin 2025","Mardi 10 juin 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Tourisme","Écologie","Finances"]
 +++
 

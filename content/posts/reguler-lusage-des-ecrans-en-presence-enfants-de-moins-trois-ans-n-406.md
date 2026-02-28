@@ -4,9 +4,9 @@ draft = false
 title = "Réguler l’usage des écrans en présence des enfants de moins de trois ans - N° 406"
 auteurs = ["Antoine Vermorel-Marques"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reguler_ecrans_enfants"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Famille","Santé","Éducation"]
 +++
 

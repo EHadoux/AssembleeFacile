@@ -4,9 +4,9 @@ draft = false
 title = "Reprendre en main et moderniser le système du titre-restaurant en s’inspirant du chèque-vacances - N° 1389"
 auteurs = ["Boris Tavernier","Christine Arrighi","Léa Balage El Mariky","Delphine Batho","Lisa Belluco","Nicolas Bonnet","Jérémie Iordanoff","Julie Laernoes","Marie Pochon","Jean-Claude Raux","Sandra Regol","Eva Sas","Nicolas Thierry","Dominique Voynet","Christine Pirès Beaune"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/moderniser_titre_restaurant_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Économie","Solidarité","Alimentation"]
 +++
 

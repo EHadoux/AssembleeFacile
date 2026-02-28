@@ -4,9 +4,9 @@ draft = false
 title = "Réforme de l’article 375 du code civil et création d’un référentiel national opposable pour la protection de l’enfance - N° 1552"
 auteurs = ["Isabelle Santiago","Boris Vallaud","Pierrick Courbon","Pascale Got","Fabrice Barusseau","Emmanuel Grégoire","Alain David","Christian Baptiste","Béatrice Bellay","Denis Fégné","Arnaud Simion","Christine Pirès Beaune","Chantal Jourdan","Claudia Rouaux","Marietta Karamanli","Anna Pic","Valérie Rossi","Mélanie Thomin","Laurent Lhardit","Dominique Potier","Thierry Sother","Guillaume Garot","Karim Benbrahim","Estelle Mercier","Océane Godard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reforme_code_civil_protection_enfance_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 10 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 10 juin 2025","Mardi 10 juin 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Famille","Droits des femmes"]
 +++
 

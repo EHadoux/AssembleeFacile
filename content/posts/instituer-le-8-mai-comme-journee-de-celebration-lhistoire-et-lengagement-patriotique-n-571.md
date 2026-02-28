@@ -4,9 +4,9 @@ draft = false
 title = "Instituer le 8 mai comme journée de célébration de l’histoire et de l’engagement patriotique - N° 571"
 auteurs = ["Christophe Blanchet","Louise Morel","Delphine Lingemann","Philippe Vigier","Olivier Falorni","Frédéric Petit","Josy Poueyto","Laurent Croizier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/huit_mai_journee_celebration_engagement_patriotique"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 19 novembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 19 novembre 2024","Mardi 19 novembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Éducation","Armées","Vie associative"]
 +++
 

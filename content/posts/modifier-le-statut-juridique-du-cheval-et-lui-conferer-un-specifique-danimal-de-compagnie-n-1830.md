@@ -4,9 +4,9 @@ draft = false
 title = "Modifier le statut juridique du cheval et lui conférer un statut spécifique d’animal de compagnie - N° 1830"
 auteurs = ["Éric Pauget"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/modifier_statut_juridique_cheval_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Agriculture","Solidarité","Justice"]
 +++
 

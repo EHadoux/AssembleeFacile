@@ -4,9 +4,9 @@ draft = false
 title = "Révision de la procédure de désignation des évaluateurs externes des établissements ou services sociaux et médico-sociaux - N° 834"
 auteurs = ["Cyrille Isaac-Sibille"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/revision_procedure_designation_essms_17"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Action publique","Solidarité"]
 +++
 

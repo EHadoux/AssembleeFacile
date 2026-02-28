@@ -4,9 +4,9 @@ draft = false
 title = "Instituer, dans les entreprises et établissements dépourvus de représentants du personnel, une information préalable des salariés concernés par un transfert de contrat de travail - N° 1407"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instituer_entreprises_etablissements_representants_personnel_information_salaries_concernes_transfert_contrat_travail_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Travail","Europe","Droits des femmes"]
 +++
 

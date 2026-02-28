@@ -4,9 +4,9 @@ draft = false
 title = "Garantir le droit d’accès aux origines personnelles - N° 2312"
 auteurs = ["Natalia Pouzyreff"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/droit_acces_origines_personnelles_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 23 décembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Santé","Numérique"]
 +++
 

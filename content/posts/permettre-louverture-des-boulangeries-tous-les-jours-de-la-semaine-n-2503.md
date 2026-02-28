@@ -4,9 +4,9 @@ draft = false
 title = "Permettre l'ouverture des boulangeries tous les jours de la semaine - N° 2503"
 auteurs = ["Jean-Marie Fiévet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/permettre_ouverture_boulangeries_jours_semaine_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 février 2026","Mardi 17 février 2026"]
-stepsStatus = ["",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Mardi 17 février 2026","Mardi 17 février 2026","Mardi 17 février 2026"]
+stepsStatus = ["","Commission des affaires sociales",""]
 tags = ["Artisanat","Commerce","Travail"]
 +++
 

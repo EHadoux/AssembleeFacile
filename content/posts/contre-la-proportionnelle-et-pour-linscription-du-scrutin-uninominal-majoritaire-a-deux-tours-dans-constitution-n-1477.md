@@ -4,9 +4,9 @@ draft = false
 title = "Contre la proportionnelle et pour l’inscription du scrutin uninominal majoritaire à deux tours dans la Constitution - N° 1477"
 auteurs = ["Alexandre Portier","Laurent Wauquiez","Thibault Bazin","Jean-Didier Berger","Sylvie Bonnet","Émilie Bonnivard","Jean-Yves Bony","Ian Boucard","Jean-Luc Bourgeaux","Xavier Breton","Hubert Brigand","Fabrice Brun","François-Xavier Ceccoli","Pierre Cordier","Josiane Corneloup","Marie-Christine Dalloz","Sylvie Dezarnaud","Fabien Di Filippo","Michel Herbillon","Patrick Hetzel","Vincent Jeanbrun","Philippe Juvin","Corentin Le Fur","Eric Liégeon","Thierry Liger","Sébastien Martin","Alexandra Martin","Christelle Petex","Nicolas Ray","Vincent Rolland","Michèle Tabarot","Jean-Pierre Taite","Jean-Louis Thiériot","Antoine Vermorel-Marques","Jean-Pierre Vigier","Valérie Bazin-Malgras","Vincent Descoeur","Julien Dive","Virginie Duby-Muller","Nicolas Forissier","Philippe Gosselin","Justine Gruet","Guillaume Lepers","Élisabeth de Maistre","Frédérique Meunier","Jérôme Nury","Éric Pauget","Philippe Fait","Agnès Firmin Le Bodo","Marc Chavent","Charles Rodwell"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/contre_proportionnelle_inscription_scrutin_uninominal_majoritaire_deux_tours"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mercredi 28 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mercredi 28 mai 2025","Mercredi 28 mai 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Relations parlementaires","Justice","Action publique"]
 +++
 

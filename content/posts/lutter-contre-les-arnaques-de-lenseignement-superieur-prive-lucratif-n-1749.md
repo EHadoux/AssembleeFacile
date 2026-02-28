@@ -1,9 +1,9 @@
 +++
 tags = ["Enseignement supérieur", "Éducation", "Économie"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/arnaque_enseignement_superieur_prive_lucratif_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 11 juillet 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 11 juillet 2025","Vendredi 11 juillet 2025"]
+stepsStatus = ["","Commission des affaires culturelles"]
 date = 2025-07-11
 draft = false
 title = "Lutter contre les arnaques de l’enseignement supérieur privé lucratif - N° 1749"

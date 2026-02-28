@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la sécurité et encadrer l’usage des engins de déplacement personnel motorisés - N° 1398"
 auteurs = ["Marc Chavent"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_securite_encadrer_usage_engins_deplacement_motorises_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Transports","Sécurité","Action publique"]
 +++
 

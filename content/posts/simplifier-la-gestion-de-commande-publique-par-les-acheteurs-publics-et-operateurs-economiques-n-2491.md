@@ -4,9 +4,9 @@ draft = false
 title = "Simplifier la gestion de la commande publique par les acheteurs publics et les opérateurs économiques - N° 2491"
 auteurs = ["Thomas Lam","Paul Christophe","Xavier Albertini","Henri Alfandari","Béatrice Bellamy","Thierry Benoit","Sylvain Berrios","Benoît Blanchard","Bertrand Bouyx","Jean-Michel Brard","Nathalie Colin-Oesterlé","Michel Criaud","Philippe Fait","Agnès Firmin Le Bodo","Félicie Gérard","François Gernigon","Pierre Henriet","François Jolivet","Loïc Kervran","Didier Lemaire","Lise Magnier","Laurent Marcangeli","Jean Moulliere","Jérémie Patrier-Leitus","Béatrice Piron","Christophe Plassard","Jean-François Portarrieu","Marie-Agnès Poussier-Winsback","Isabelle Rauch","Xavier Roseren","Laetitia Saint-Paul","Vincent Thiébaut","Frédéric Valletoux","Anne-Cécile Violland"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/simplifier_gestion_commande_publique_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 février 2026","Mardi 17 février 2026"]
-stepsStatus = ["",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Mardi 17 février 2026","Mardi 17 février 2026","Mardi 17 février 2026"]
+stepsStatus = ["","Commission des lois",""]
 tags = ["Action publique","Économie","Décentralisation"]
 +++
 

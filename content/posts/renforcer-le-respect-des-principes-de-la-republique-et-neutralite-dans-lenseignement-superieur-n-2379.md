@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer le respect des principes de la République et de la neutralité dans l’enseignement supérieur - N° 2379"
 auteurs = ["Matthieu Bloch","Jérôme Buisson","Bernard Chaix","Sébastien Chenu","Josiane Corneloup","Christelle D'Intorni","Michèle Martinez","Didier Padey"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_renforcer_le_respect_des_principes_de_la_republique_et_de_la_neutralite_dans_enseignement_superieur_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 27 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 27 janvier 2026","Mardi 27 janvier 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Enseignement supérieur","Éducation","Justice"]
 +++
 

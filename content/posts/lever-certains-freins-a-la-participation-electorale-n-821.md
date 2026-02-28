@@ -4,9 +4,9 @@ draft = false
 title = "Lever certains freins à la participation électorale - N° 821"
 auteurs = ["Frédéric Petit"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/lever_freins_participation_electorale_17"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Démocratie","Vie associative"]
 +++
 

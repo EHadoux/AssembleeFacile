@@ -4,9 +4,9 @@ draft = false
 title = "Supprimer les dispositifs de défiscalisation immobilière pour les investissements dans les établissements d'hébergement pour personnes âgées dépendantes et autres établissements et services sociaux et médico-sociaux - N° 279"
 auteurs = ["Laurent Panifous","Michel Castellani","Paul-André Colombani","Martine Froger","Stéphane Lenormand","Max Mathiasin","Laurent Mazaury","Paul Molac","Christophe Naegelen","Constance de Pélichy"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/suppression_defiscalisation_immobiliere_EHPAD_etablissements"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Santé","Économie","Logement"]
 +++
 

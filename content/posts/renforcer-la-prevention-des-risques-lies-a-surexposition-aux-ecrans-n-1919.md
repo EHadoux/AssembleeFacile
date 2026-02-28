@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la prévention des risques liés à la surexposition aux écrans - N° 1919"
 auteurs = ["Philippe Fait"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/prevention_surexposition_ecrans_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Numérique","Jeunesse"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Garantir l'accompagnement des jeunes majeurs confiés à l'aide sociale à l'enfance, sans discrimination liée à leur situation administrative - N° 1089"
 auteurs = ["Marie-Charlotte Garin","Sébastien Peytavie","Arnaud Bonnet","Jean-Claude Raux","Sandra Regol","Léa Balage El Mariky","Danielle Simonnet","Pouria Amirshahi","Christine Arrighi","Lisa Belluco","Karim Ben Cheikh","Benoît Biteau","Nicolas Bonnet","Cyrielle Chatelain","Hendrik Davi","Emmanuel Duplessy","Charles Fournier","Catherine Hervieu","Julie Laernoes","Benjamin Lucas-Lundy","Julie Ozenne","Marie Pochon","Sandrine Rousseau","François Ruffin","Eva Sas","Sophie Taillé-Polian"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/accompagnement_jeunes_majeurs_aide_sociale_enfance_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Jeunesse","Solidarité","Droits des femmes"]
 +++
 

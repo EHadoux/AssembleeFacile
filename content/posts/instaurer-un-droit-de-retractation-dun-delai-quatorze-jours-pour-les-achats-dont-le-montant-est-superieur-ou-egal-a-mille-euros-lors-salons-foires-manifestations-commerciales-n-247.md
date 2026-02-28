@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer un droit de rétractation d’un délai de quatorze jours pour les achats dont le montant est supérieur ou égal à mille euros lors de salons, foires ou manifestations commerciales - N° 247"
 auteurs = ["Christelle Petex","Valérie Bazin-Malgras","Virginie Duby-Muller","Philippe Juvin","Vincent Rolland","Jean-Pierre Taite","Jean-Pierre Vigier","Michèle Tabarot","Nicolas Ray","Vincent Descoeur","Nicolas Forissier","Olivier Marleix","Hubert Brigand"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/droit_retract_salons"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Commerce","Europe","Économie"]
 +++
 

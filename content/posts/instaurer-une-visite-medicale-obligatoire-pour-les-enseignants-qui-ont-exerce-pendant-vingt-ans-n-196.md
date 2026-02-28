@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer une visite médicale obligatoire pour les enseignants qui ont exercé pendant vingt ans - N° 196"
 auteurs = ["Géraldine Bannier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/visite_medicale_obligatoire_enseignants_vingt_ans"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Travail","Éducation"]
 +++
 

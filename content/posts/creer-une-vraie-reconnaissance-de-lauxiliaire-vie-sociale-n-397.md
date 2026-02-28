@@ -4,9 +4,9 @@ draft = false
 title = "Créer une vraie reconnaissance de l'auxiliaire de vie sociale - N° 397"
 auteurs = ["Julien Dive","Valérie Bazin-Malgras","Ian Boucard","Hubert Brigand","Vincent Descoeur","Fabien Di Filippo","Michel Herbillon","Olivier Marleix","Alexandre Portier","Jean-Pierre Taite","Jean-Pierre Vigier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/vraie_reconnaissance_auxiliaire"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Solidarité","Travail","Droits des femmes"]
 +++
 

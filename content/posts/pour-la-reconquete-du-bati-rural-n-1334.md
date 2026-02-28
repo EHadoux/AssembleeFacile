@@ -4,9 +4,9 @@ draft = false
 title = "Pour la reconquête du bâti rural - N° 1334"
 auteurs = ["Dominique Potier","Boris Vallaud"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconquete_bati_rural_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Relations parlementaires"]
 +++
 

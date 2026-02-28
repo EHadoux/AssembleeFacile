@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer l’autorité des maires en matière d’expulsion des locataires délinquants du parc social - N° 2012"
 auteurs = ["Marc Chavent"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_autorite_maires_expulsion_locataires_delinquants_parc_social_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 28 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Intérieur","Action publique"]
 +++
 

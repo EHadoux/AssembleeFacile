@@ -4,9 +4,9 @@ draft = false
 title = "Préciser le périmètre de l’interdiction des produits phytopharmaceutiques contenant des substances actives de la famille des néonicotinoïdes - N° 383"
 auteurs = ["Lise Magnier","Xavier Albertini","Henri Alfandari","Nathalie Colin-Oesterlé","Félicie Gérard","Anne Le Hénanff","Jérémie Patrier-Leitus","Christophe Plassard","Marie-Agnès Poussier-Winsback","Agnès Firmin Le Bodo"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdiction_produits_phytopharmaceutiques"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Agriculture","Économie","Europe"]
 +++
 

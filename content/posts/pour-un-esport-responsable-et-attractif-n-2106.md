@@ -4,9 +4,9 @@ draft = false
 title = "Pour un esport responsable et attractif - N° 2106"
 auteurs = ["Denis Masséglia"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_pour_un_esport_responsable_et_attractif_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 18 novembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Numérique","Sports","Économie"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Établir un meilleur équilibre entre pouvoirs constitutionnels - N° 2001"
 auteurs = ["Marietta Karamanli"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/etablir_meilleur_equilibre_entre_pouvoirs_constitutionnels_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 23 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 octobre 2025","Jeudi 23 octobre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Relations parlementaires","Autonomie"]
 +++
 

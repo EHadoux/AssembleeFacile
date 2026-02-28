@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à renforcer le rôle des maires dans l’attribution des logements sociaux - N° 121"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N47518"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 4 avril 2023","Mardi 4 avril 2023","Mardi 10 octobre 2023","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Mardi 4 avril 2023","Mardi 4 avril 2023","Mardi 4 avril 2023","Mardi 10 octobre 2023","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des affaires économiques (Sénat)","Texte adopté ✔️","Commission des affaires économiques","Commission des affaires économiques"]
 tags = ["Logement","Action publique","Urbanisme"]
 +++
 

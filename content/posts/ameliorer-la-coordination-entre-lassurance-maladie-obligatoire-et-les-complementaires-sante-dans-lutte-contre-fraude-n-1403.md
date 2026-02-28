@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer la coordination entre l’assurance maladie obligatoire et les complémentaires santé dans la lutte contre la fraude - N° 1403"
 auteurs = ["Cyrille Isaac-Sibille","Thibault Bazin","Anne Bergantz","Philippe Bonnecarrère","Danielle Brulebois","Joël Bruneau","Lionel Causse","Paul Christophe","Nathalie Colin-Oesterlé","Josiane Corneloup","Charles de Courson","Laurent Croizier","Romain Daubié","Virginie Duby-Muller","Philippe Fait","Marina Ferrari","Agnès Firmin Le Bodo","Nicolas Forissier","Jean-Carles Grelier","Justine Gruet","Sébastien Huyghe","Philippe Juvin","Michel Lauzzana","Pascal Lecamp","Guillaume Lepers","Eric Liégeon","Delphine Lingemann","Lise Magnier","Christophe Marion","Laurent Mazaury","Jimmy Pahun","Jérémie Patrier-Leitus","Constance de Pélichy","Béatrice Piron","Marie-Agnès Poussier-Winsback","Nicolas Ray","Anne-Sophie Ronceret","Xavier Roseren","Jean-François Rousset","Charles Sitzenstuhl","Céline Thiébault-Martinez","Nicolas Turquois","Corinne Vignon","Anne-Cécile Violland","Lionel Vuibert"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ameliorer_coordination_entre_assurance_maladie_obligatoire_complementaires_sante_lutte_contre_fraude_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Sécurité","Finances"]
 +++
 

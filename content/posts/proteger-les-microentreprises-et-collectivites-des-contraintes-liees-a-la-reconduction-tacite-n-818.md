@@ -4,9 +4,9 @@ draft = false
 title = "Protéger les microentreprises et les collectivités des contraintes liées à la reconduction tacite - N° 818"
 auteurs = ["Blandine Brocard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_microentreprises_reconduction_tacite_17"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Économie","Action publique","Commerce"]
 +++
 

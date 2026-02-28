@@ -4,9 +4,9 @@ draft = false
 title = "Désenclavement des territoires - N° 60"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/desenclavement_territoires"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Vendredi 21 décembre 2018","Vendredi 21 décembre 2018","Mercredi 20 février 2019","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Vendredi 21 décembre 2018","Vendredi 21 décembre 2018","Vendredi 21 décembre 2018","Mercredi 20 février 2019","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission du développement durable (Sénat)","Texte adopté ✔️","Commission du développement durable","Commission du développement durable","Commission du développement durable"]
 tags = ["Transports","Ruralité","Aménagement du territoire"]
 +++
 

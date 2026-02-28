@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer le dispositif d'aide financière à l'insonorisation à destination des riverains exposés aux nuisances sonores aériennes - N° 2041"
 auteurs = ["Romain Eskenazi"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ameliorer_dispositif_aide_financiere_insonorisation_riverains_nuisances_sonores_aeriennes_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 28 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Santé","Transports","Urbanisme"]
 +++
 

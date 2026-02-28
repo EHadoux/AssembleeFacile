@@ -4,9 +4,9 @@ draft = false
 title = "Renforcement de la parité dans les fonctions électives et exécutives du bloc communal - N° 1105"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcement_parite_fonctions_electives_communes"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Deuxième lecture à l'Assemblée nationale","Conseil constitutionnel","Promulgation de la loi"]
-stepsDate = ["Mardi 19 octobre 2021","Mardi 19 octobre 2021","Jeudi 3 février 2022","Mercredi 12 mars 2025","Mardi 15 avril 2025","Mercredi 21 mai 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️","Texte adopté ✔️","Conforme",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Deuxième lecture à l'Assemblée nationale","Conseil constitutionnel","Promulgation de la loi"]
+stepsDate = ["Mardi 19 octobre 2021","Mardi 19 octobre 2021","Mardi 19 octobre 2021","Jeudi 3 février 2022","Jeudi 3 février 2022","Mercredi 12 mars 2025","Mercredi 12 mars 2025","Mardi 15 avril 2025","Mercredi 21 mai 2025"]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)","Texte modifié","Commission des lois","Texte adopté ✔️","Conforme",""]
 tags = ["Action publique","Décentralisation","Droits des femmes"]
 +++
 

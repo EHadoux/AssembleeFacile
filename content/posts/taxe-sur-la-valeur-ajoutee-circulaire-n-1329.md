@@ -4,9 +4,9 @@ draft = false
 title = "Taxe sur la valeur ajoutée circulaire - N° 1329"
 auteurs = ["Stéphane Delautrette","Véronique Riotton","David Taupiac","Nicolas Thierry","Anne-Cécile Violland","Farida Amrani","Fabrice Barusseau","Béatrice Bellay","Karim Benbrahim","Christophe Bex","Mickaël Bouloux","Joël Bruneau","Pierre-Yves Cadalen","Michel Castellani","Sophia Chikirou","Mickaël Cosson","Pierrick Courbon","Alain David","Arthur Delaporte","Inaki Echaniz","Denis Fégné","Emmanuel Fernandes","Pascale Got","Emmanuel Grégoire","David Guiraud","Ayda Hadizadeh","Catherine Hervieu","Chantal Jourdan","Marietta Karamanli","Sandrine Le Feur","Karine Lebon","Élise Leboucher","Stéphane Lenormand","Gérard Leseul","Delphine Lingemann","Damien Maudet","Emmanuel Maurel","Marianne Maximi","Estelle Mercier","Sandrine Nosbé","Jacques Oberti","Laurent Panifous","Sophie Panonacle","Sophie Pantel","Constance de Pélichy","René Pilato","François Piquemal","Christine Pirès Beaune","Dominique Potier","Nicolas Ray","Valérie Rossi","Claudia Rouaux","Sandrine Runel","Isabelle Santiago","Thierry Sother","Andrée Taurinya","Matthias Tavel","Mélanie Thomin","Boris Vallaud","Corinne Vignon","Jean-François Coulomme","Mathilde Hignet","Hubert Ott","Eva Sas","Maxime Laisney","Sarah Legrain","Boris Tavernier","Damien Girard","Dominique Voynet","Pierre Pribetich","Laurent Alexandre","Christophe Proença","Jean-Louis Roumégas","Sébastien Saint-Pasteur","Marie Mesmeur","Océane Godard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/taxe_valeur_ajoutee_circulaire_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Économie","Commerce","Artisanat"]
 +++
 

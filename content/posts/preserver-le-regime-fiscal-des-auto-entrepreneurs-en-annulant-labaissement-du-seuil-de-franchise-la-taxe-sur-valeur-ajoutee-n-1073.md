@@ -4,9 +4,9 @@ draft = false
 title = "Préserver le régime fiscal des auto-entrepreneurs en annulant l'abaissement du seuil de franchise de la taxe sur la valeur ajoutée - N° 1073"
 auteurs = ["Philippe Juvin","Romain Daubié","Violette Spillebout","Charles de Courson","Antoine Vermorel-Marques","Xavier Lacombe","Gérault Verny","Olivier Marleix","Jean-Carles Grelier","Éric Pauget","Hubert Brigand","Michel Herbillon","Jean-Luc Bourgeaux","Laurent Mazaury","Ian Boucard","Michel Guiniot","Yannick Favennec-Bécot","Sandrine Josso","Philippe Gosselin","Alexandre Portier","Mereana Reid Arbelot","Vincent Descoeur","Laure Miller","Josiane Corneloup","Alexandra Martin","Eric Liégeon","Maud Petit","Philippe Latombe","Philippe Lottiaux","Jean-Pierre Taite","Éric Woerth","Christelle Petex"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/preserver_regime_fiscal_autoentrepreneurs_17"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Économie","Finances","Travail"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Permettre que toutes les périodes de chômage immédiatement postérieures à l'accomplissement du service militaire ouvrent droit à validation de trimestres - N° 389"
 auteurs = ["Corentin Le Fur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/periodes_chomages_posterieures_service_militaire_validation_trimestres"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Armées","Retraite","Solidarité"]
 +++
 

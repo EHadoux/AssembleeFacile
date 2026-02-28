@@ -4,9 +4,9 @@ draft = false
 title = "La création d’une carte famille ouverte dès le deuxième enfant - N° 2495"
 auteurs = ["Jérémie Patrier-Leitus","Paul Christophe","Xavier Albertini","Henri Alfandari","Béatrice Bellamy","Thierry Benoit","Sylvain Berrios","Benoît Blanchard","Bertrand Bouyx","Jean-Michel Brard","Nathalie Colin-Oesterlé","Michel Criaud","Philippe Fait","Agnès Firmin Le Bodo","Félicie Gérard","François Gernigon","Pierre Henriet","François Jolivet","Loïc Kervran","Thomas Lam","Didier Lemaire","Lise Magnier","Laurent Marcangeli","Jean Moulliere","Béatrice Piron","Christophe Plassard","Jean-François Portarrieu","Marie-Agnès Poussier-Winsback","Isabelle Rauch","Xavier Roseren","Laetitia Saint-Paul","Vincent Thiébaut","Frédéric Valletoux","Anne-Cécile Violland"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/creation_carte_famille_ouverte_des_deuxieme_enfant_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 février 2026","Mardi 17 février 2026"]
-stepsStatus = ["",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Mardi 17 février 2026","Mardi 17 février 2026","Mardi 17 février 2026"]
+stepsStatus = ["","Commission des affaires sociales",""]
 tags = ["Famille","Transports","Économie"]
 +++
 

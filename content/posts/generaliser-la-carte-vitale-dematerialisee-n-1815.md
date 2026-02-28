@@ -4,9 +4,9 @@ draft = false
 title = "Généraliser la carte vitale dématérialisée - N° 1815"
 auteurs = ["Thibault Bazin","Sylvie Bonnet","Pierre Cordier","Sylvie Dezarnaud","Valérie Bazin-Malgras","Eric Liégeon","Jean-Didier Berger","Laurent Wauquiez","Nicolas Forissier","Anne-Laure Blin","Patrick Hetzel","Jean-Pierre Taite","Thierry Liger","Jean-Luc Bourgeaux","Fabrice Brun","Josiane Corneloup","Fabien Di Filippo","Michel Herbillon","Jean-Yves Bony","Nicolas Ray","Hubert Brigand","Virginie Duby-Muller"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/carte_vitale_dematerialisee"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Numérique","Action publique"]
 +++
 

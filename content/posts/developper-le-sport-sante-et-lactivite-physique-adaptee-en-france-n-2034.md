@@ -4,9 +4,9 @@ draft = false
 title = "Développer le sport-santé et l’activité physique adaptée en France - N° 2034"
 auteurs = ["Belkhir Belhaddad"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/developper_sport_sante_activite_physique_adaptee_France_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 28 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Sports","Action publique"]
 +++
 

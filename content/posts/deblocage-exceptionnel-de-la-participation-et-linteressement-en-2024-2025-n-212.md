@@ -4,9 +4,9 @@ draft = false
 title = "Déblocage exceptionnel de la participation et de l’intéressement en 2024 et 2025 - N° 212"
 auteurs = ["Sylvie Bonnet","Thibault Bazin","Xavier Breton","François-Xavier Ceccoli","Pierre Cordier","Vincent Descoeur","Fabien Di Filippo","Julien Dive","Virginie Duby-Muller","Michel Herbillon","Patrick Hetzel","Alexandra Martin","Yannick Neuder","Alexandre Portier","Nicolas Ray","Michèle Tabarot","Jean-Pierre Taite","Jean-Pierre Vigier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/deblocage_participation_interessement_2024_2025"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Économie","Finances","Travail"]
 +++
 

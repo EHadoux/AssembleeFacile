@@ -5,9 +5,9 @@ draft = false
 title = "Unifier les délais de dépôt des déclarations fiscales de succession - N° 1622"
 auteurs = ["Émilie Bonnivard","Valérie Bazin-Malgras","Sylvie Bonnet","Pierre Cordier","Josiane Corneloup","Marie-Christine Dalloz","Corentin Le Fur","Eric Liégeon","Éric Pauget","Christelle Petex","Jean-Pierre Taite","Thibault Bazin","Philippe Juvin","Virginie Duby-Muller","Michel Herbillon"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/unifier_delais_depot_declarations_fiscales_succession_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 24 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 24 juin 2025","Mardi 24 juin 2025"]
+stepsStatus = ["","Commission des finances"]
 +++
 
 ## Résumé

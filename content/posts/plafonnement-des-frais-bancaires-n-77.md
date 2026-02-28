@@ -4,9 +4,9 @@ draft = false
 title = "Plafonnement des frais bancaires - N° 77"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/effectivite_renforcement_plafonnement_frais_bancaires"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mercredi 19 février 2020","Mercredi 19 février 2020","Jeudi 28 mai 2020","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Mercredi 19 février 2020","Mercredi 19 février 2020","Mercredi 19 février 2020","Jeudi 28 mai 2020","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des finances (Sénat)","Texte adopté ✔️","Commission des finances","Commission des finances","Commission des finances"]
 tags = ["Économie","Finances","Solidarité"]
 +++
 

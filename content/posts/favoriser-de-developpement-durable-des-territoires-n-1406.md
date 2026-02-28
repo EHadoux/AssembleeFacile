@@ -4,9 +4,9 @@ draft = false
 title = "Favoriser de développement durable des territoires - N° 1406"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/favoriser_developpement_durable_territoires_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Agriculture","Aménagement du territoire","Urbanisme"]
 +++
 

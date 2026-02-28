@@ -4,9 +4,9 @@ draft = false
 title = "Protéger les éducateurs sportifs des atteintes qu’ils subissent dans l’exercice de leurs fonctions - N° 1068"
 auteurs = ["Bernard Chaix","Alexandre Allegret-Pilot","Charles Alloncle","Anchya Bamana","Brigitte Barèges","José Beaurain","Matthieu Bloch","Marc Chavent","Sébastien Chenu","Bruno Clavet","Caroline Colombier","Christelle D'Intorni","Edwige Diaz","Emmanuel Fouquart","Florence Goulet","Monique Griseti","Laurent Jacobelli","Florence Joubert","Bartolomé Lenoir","Philippe Lottiaux","Alexandra Masson","Nicolas Meizonnet","Yaël Ménaché","Éric Michoux","Thibaut Monnier","Serge Muller","Kévin Pfeffer","Sophie Ricourt Vaginay","Laurence Robert-Dehault","Emeric Salmon","Lionel Tivoli"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_educateurs_sportifs_atteintes_exercices_fonctions_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Sports","Sécurité","Éducation"]
 +++
 

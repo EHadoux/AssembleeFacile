@@ -4,9 +4,9 @@ draft = false
 title = "Réparations aux harkis et leurs familles ainsi qu'aux membres des autres formations supplétives et assimilées de l'armée française - N° 1330"
 auteurs = ["Zahia Hamdane","Sylvain Carrière","Alma Dufour","Karen Erodi","Emmanuel Fernandes","Damien Girard","David Guiraud","Florence Herouin-Léautey","Aurélien Le Coq","Alexandra Martin","Richard Ramos","Mereana Reid Arbelot","Jean-Louis Roumégas","François Ruffin","Aurélien Saintoul","Roger Vicot","Paul Christophle","Chantal Jourdan","Christophe Bex","Gabrielle Cathala","Olivier Faure"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reparations_harkis_familles_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission de la défense"]
 tags = ["Justice","Droits des femmes","Solidarité"]
 +++
 

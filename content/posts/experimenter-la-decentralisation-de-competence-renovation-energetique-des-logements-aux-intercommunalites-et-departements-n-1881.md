@@ -4,9 +4,9 @@ draft = false
 title = "Expérimenter la décentralisation de la compétence rénovation énergétique des logements aux intercommunalités et aux départements - N° 1881"
 auteurs = ["Sébastien Martin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_experimenter_decentralisation_competence_renovation_energetique_logements_intercommunalites_et_departements_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 30 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 30 septembre 2025","Mardi 30 septembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Énergie","Logement","Décentralisation"]
 +++
 

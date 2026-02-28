@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer des sessions de remplacement pour chaque passage d’examen conduisant à l’obtention d’un diplôme national - N° 214"
 auteurs = ["Laurent Croizier","Erwan Balanant","Géraldine Bannier","Jean-Pierre Bataille","Béatrice Bellamy","Ian Boucard","Mickaël Bouloux","Joël Bruneau","Mickaël Cosson","Julie Delpech","Stella Dupont","Philippe Fait","Philippe Gosselin","Frantz Gumbs","Philippe Juvin","Jean Laussucq","Delphine Lingemann","Lise Magnier","Max Mathiasin","Laurent Mazaury","Sophie Mette","Louise Morel","Christophe Naegelen","Hubert Ott","Constance de Pélichy","Maud Petit","Béatrice Piron","Richard Ramos","Nicolas Ray","Claudia Rouaux","François Ruffin","Violette Spillebout","David Taupiac","Boris Tavernier","Vincent Thiébaut","Stéphane Peu","Christine Pirès Beaune"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/sessions_remplacement_examens_diplome_national"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Enseignement supérieur","Discriminations"]
 +++
 

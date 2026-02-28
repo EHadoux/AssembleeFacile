@@ -4,9 +4,9 @@ draft = false
 title = "Rétablir le délit de séjour irrégulier - N° 373"
 auteurs = ["Éric Pauget","Valérie Bazin-Malgras","Hubert Brigand","Josiane Corneloup","Fabien Di Filippo","Michel Herbillon","Corentin Le Fur","Véronique Louwagie","Yannick Neuder","Christelle Petex","Jean-Pierre Taite","Jean-Pierre Vigier","Anne-Laure Blin","Virginie Duby-Muller","Thibault Bazin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/delit_sejour_irregulier2"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Intérieur","Sécurité","Justice"]
 +++
 

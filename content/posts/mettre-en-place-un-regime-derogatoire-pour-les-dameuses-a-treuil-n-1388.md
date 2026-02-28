@@ -4,9 +4,9 @@ draft = false
 title = "Mettre en place un régime dérogatoire pour les dameuses à treuil - N° 1388"
 auteurs = ["Romain Daubié"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/mettre_place_regime_derogatoire_dameuses_treuil_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Sécurité","Sports"]
 +++
 

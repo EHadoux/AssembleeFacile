@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à permettre une gestion différenciée de la compétence \"Eau et Assainissement\" - N° 108"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N46374"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Jeudi 29 septembre 2022","Jeudi 29 septembre 2022","Jeudi 16 mars 2023","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 29 septembre 2022","Jeudi 29 septembre 2022","Jeudi 29 septembre 2022","Jeudi 16 mars 2023","Jeudi 16 mars 2023","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","","Commission des lois"]
 tags = ["Action publique","Aménagement du territoire","Décentralisation"]
 +++
 

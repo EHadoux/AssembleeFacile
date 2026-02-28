@@ -4,9 +4,9 @@ draft = false
 title = "Pour une génération sans sucre - N° 2307"
 auteurs = ["Sabrina Sebaihi","Paul-André Colombani","Agnès Pannier-Runacher","Émeline K/Bidi","Yannick Neuder","Maud Petit","Frédéric Valletoux","Cyrielle Chatelain","Boris Tavernier","Pouria Amirshahi","Christine Arrighi","Clémentine Autain","Léa Balage El Mariky","Delphine Batho","Laurent Baumel","Lisa Belluco","Karim Ben Cheikh","Benoît Biteau","Arnaud Bonnet","Nicolas Bonnet","Soumya Bourouaha","Philippe Brun","Colette Capdevielle","Michel Castellani","Alexis Corbière","Hendrik Davi","Dieynaba Diop","Peio Dufau","Emmanuel Duplessy","Elsa Faucillon","Charles Fournier","Bruno Fuchs","Marie-Charlotte Garin","Damien Girard","Olga Givernet","Guillaume Gouffier Valente","Steevy Gustave","Catherine Hervieu","Jérémie Iordanoff","Fatiha Keloua Hachi","Julie Laernoes","Tristan Lahais","Amélia Lakrafi","Karine Lebon","Benjamin Lucas-Lundy","Frédéric Maillot","Christophe Mongardien","Hubert Ott","Julie Ozenne","Sébastien Peytavie","Christine Pirès Beaune","Marie Pochon","Richard Ramos","Jean-Claude Raux","Sandra Regol","Jean-Louis Roumégas","Aurélien Rousseau","Sandrine Rousseau","François Ruffin","Sandrine Runel","Eva Sas","Danielle Simonnet","Sophie Taillé-Polian","Nicolas Thierry","Dominique Voynet","Estelle Youssouffa"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/generation_sans_sucres_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025"]
-stepsStatus = ["",""]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Éducation","Commerce"]
 +++
 

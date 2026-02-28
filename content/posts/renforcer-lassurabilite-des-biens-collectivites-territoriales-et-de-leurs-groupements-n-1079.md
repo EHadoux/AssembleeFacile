@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer l'assurabilité des biens des collectivités territoriales et de leurs groupements - N° 1079"
 auteurs = ["Christelle D'Intorni","Sébastien Chenu","Éric Michoux","Bernard Chaix","Jérôme Buisson","Julie Lechanteux","Sébastien Humbert","Marine Hamelet","Alexandra Masson","Brigitte Barèges","Marc Chavent","Michèle Martinez","Joseph Rivière","Romain Baubry","Christophe Barthès","Thibaut Monnier","Eddy Casterman","Anne Sicard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/assurabilite_biens_collectivites_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Écologie","Finances"]
 +++
 

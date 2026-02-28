@@ -4,9 +4,9 @@ draft = false
 title = "Permettre la délégation des compétences eau et assainissement aux syndicats intercommunaux créés avant ou après 2019 - N° 270"
 auteurs = ["Vincent Descoeur","Jean-Yves Bony","Hubert Brigand","Xavier Breton","Fabrice Brun","Sylvie Bonnet","Pierre Cordier","Josiane Corneloup","Jean-Luc Bourgeaux","Julien Dive","Ian Boucard","Christelle Petex","Philippe Juvin","Jean-Pierre Taite","Véronique Louwagie","Virginie Duby-Muller","Nicolas Ray","Thibault Bazin","Émilie Bonnivard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/permettre_delegation_competences_eau_assainissement_2019"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Ruralité","Décentralisation","Aménagement du territoire"]
 +++
 

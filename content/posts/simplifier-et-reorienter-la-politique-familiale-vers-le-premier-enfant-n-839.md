@@ -4,9 +4,9 @@ draft = false
 title = "Simplifier et réorienter la politique familiale vers le premier enfant - N° 839"
 auteurs = ["Anne Bergantz","Erwan Balanant","Géraldine Bannier","Christophe Blanchet","Philippe Bolo","Blandine Brocard","Mickaël Cosson","Laurent Croizier","Geneviève Darrieussecq","Romain Daubié","Olivier Falorni","Marina Ferrari","Marc Fesneau","Bruno Fuchs","Perrine Goulet","Jean-Carles Grelier","Frantz Gumbs","Cyrille Isaac-Sibille","Sandrine Josso","Philippe Latombe","Pascal Lecamp","Delphine Lingemann","Emmanuel Mandon","Éric Martineau","Jean-Paul Mattei","Sophie Mette","Louise Morel","Hubert Ott","Jimmy Pahun","Frédéric Petit","Maud Petit","Josy Poueyto","Richard Ramos","Sabine Thillaye","Nicolas Turquois","Philippe Vigier","Béatrice Piron"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/simplifier_et_reorienter_politique_familiale_vers_1er_enfant_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
-stepsStatus = ["",""]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Famille","Solidarité","Budget"]
 +++
 

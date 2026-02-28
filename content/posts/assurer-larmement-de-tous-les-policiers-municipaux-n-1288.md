@@ -4,9 +4,9 @@ draft = false
 title = "Assurer l’armement de tous les policiers municipaux - N° 1288"
 auteurs = ["Valérie Bazin-Malgras"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/armement_policiers_municipaux_17"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Intérieur","Action publique"]
 +++
 

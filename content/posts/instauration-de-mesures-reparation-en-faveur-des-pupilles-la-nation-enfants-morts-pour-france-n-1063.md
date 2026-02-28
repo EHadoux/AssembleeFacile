@@ -4,9 +4,9 @@ draft = false
 title = "Instauration de mesures de réparation en faveur des pupilles de la Nation, enfants de « Morts pour la France » - N° 1063"
 auteurs = ["Danielle Brulebois"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/mesures_reparation_pupilles_nation_17"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission de la défense"]
 tags = ["Solidarité","Justice","Action publique"]
 +++
 

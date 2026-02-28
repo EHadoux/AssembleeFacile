@@ -4,9 +4,9 @@ draft = false
 title = "Élargir les compétences judiciaires des polices municipales - N° 236"
 auteurs = ["Éric Pauget","Valérie Bazin-Malgras","Émilie Bonnivard","Hubert Brigand","Fabrice Brun","Marie-Christine Dalloz","Virginie Duby-Muller","Annie Genevard","Patrick Hetzel","Philippe Juvin","Guillaume Lepers","Olivier Marleix","Alexandra Martin","Frédérique Meunier","Yannick Neuder","Alexandre Portier","Nicolas Ray","Michèle Tabarot","Jean-Pierre Taite","Anne-Laure Blin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/elargir_competences_pol_munip"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Justice","Action publique"]
 +++
 

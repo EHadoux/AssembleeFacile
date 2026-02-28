@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à aménager la prévention des risques liés aux bruits - N° 125"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N48579"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Lundi 4 septembre 2023","Lundi 4 septembre 2023","Jeudi 23 novembre 2023","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Lundi 4 septembre 2023","Lundi 4 septembre 2023","Lundi 4 septembre 2023","Jeudi 23 novembre 2023","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission du développement durable (Sénat)","Texte adopté ✔️","Commission du développement durable","Commission du développement durable"]
 tags = ["Sports","Santé","Action publique"]
 +++
 

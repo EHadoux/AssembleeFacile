@@ -4,9 +4,9 @@ draft = false
 title = "Faciliter la transmission de l’épargne aux jeunes générations - N° 1911"
 auteurs = ["Pierre Cordier","Sylvie Bonnet","Jean-Yves Bony","Josiane Corneloup","Corentin Le Fur","Valérie Bazin-Malgras","Vincent Rolland","Thibault Bazin","Fabien Di Filippo","Justine Gruet","Alexandre Portier","Sylvie Dezarnaud","Virginie Duby-Muller","Philippe Juvin","Jean-Luc Bourgeaux","Éric Pauget"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_faciliter_transmission_epargne_jeunes_generations_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Économie","Finances","Famille"]
 +++
 

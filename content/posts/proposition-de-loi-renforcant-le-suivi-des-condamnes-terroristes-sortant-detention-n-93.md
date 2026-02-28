@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi renforçant le suivi des condamnés terroristes sortant de détention - N° 93"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L15N42085"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 23 mars 2021","Mardi 23 mars 2021","Mercredi 26 mai 2021","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Mardi 23 mars 2021","Mardi 23 mars 2021","Mardi 23 mars 2021","Mercredi 26 mai 2021","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Commission des lois","Commission des lois"]
 tags = ["Sécurité","Justice","Intérieur"]
 +++
 

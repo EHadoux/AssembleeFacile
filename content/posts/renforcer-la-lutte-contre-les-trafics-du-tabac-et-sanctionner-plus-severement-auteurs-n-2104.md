@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la lutte contre les trafics du tabac et sanctionner plus sévèrement les auteurs - N° 2104"
 auteurs = ["Christophe Blanchet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_lutte_contre_trafics_tabacs_sanctionner_severement_auteurs_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 18 novembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Justice","Économie"]
 +++
 

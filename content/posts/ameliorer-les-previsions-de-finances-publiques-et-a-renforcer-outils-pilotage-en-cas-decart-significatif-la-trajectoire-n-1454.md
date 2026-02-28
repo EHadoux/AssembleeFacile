@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer les prévisions de finances publiques et à renforcer les outils de pilotage en cas d’écart significatif à la trajectoire - N° 1454"
 auteurs = ["Mathieu Lefèvre"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ameliorer_finances_publiques_trajectoire"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 22 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 22 mai 2025","Jeudi 22 mai 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Finances","Budget","Action publique"]
 +++
 

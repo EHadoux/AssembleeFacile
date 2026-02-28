@@ -5,9 +5,9 @@ draft = false
 title = "Pérenniser et sécuriser le statut de conjoint collaborateur - N° 1705"
 auteurs = ["Stéphane Viry","Romain Baubry","Thibault Bazin","Valérie Bazin-Malgras","Jean-Luc Bourgeaux","Joël Bruneau","Michel Castellani","Salvatore Castiglione","Josiane Corneloup","Julien Dive","Nicole Dubré-Chirat","Virginie Duby-Muller","Stella Dupont","Olivier Falorni","Jean-Carles Grelier","Thomas Lam","Constance Le Grip","Delphine Lingemann","Lise Magnier","Max Mathiasin","Laurent Mazaury","Constance de Pélichy","Christophe Plassard","Alexandre Portier","Marie-Agnès Poussier-Winsback","Nicolas Ray","Sophie Ricourt Vaginay","Véronique Riotton","Vincent Rolland","Anne-Sophie Ronceret","Sophie-Laurence Roy","Freddy Sertin","Anne-Cécile Violland","Lionel Vuibert","Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/perenniser_securiser_statut_conjoint_collaborateur_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 11 juillet 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 11 juillet 2025","Vendredi 11 juillet 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 +++
 
 ## Résumé

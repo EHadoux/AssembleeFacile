@@ -4,9 +4,9 @@ draft = false
 title = "Faciliter l'accès aux soins ophtalmiques - N° 1404"
 auteurs = ["Romain Daubié","Véronique Besse","Philippe Bonnecarrère","Ian Boucard","Anthony Brosse","Virginie Duby-Muller","Marina Ferrari","Moerani Frébault","Bruno Fuchs","Jean-Michel Jacques","Constance Le Grip","Emmanuel Mandon","Christophe Marion","Laurent Mazaury","Paul Molac","Constance de Pélichy","Alexandre Portier","Richard Ramos","Isabelle Rauch","Anne-Sophie Ronceret","Claudia Rouaux","Corinne Vignon","Lionel Vuibert"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/faciliter_acces_soins_ophtalmiques_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Ruralité","Action publique"]
 +++
 

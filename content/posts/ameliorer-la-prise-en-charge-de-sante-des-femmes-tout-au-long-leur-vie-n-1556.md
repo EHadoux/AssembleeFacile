@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer la prise en charge de la santé des femmes tout au long de leur vie - N° 1556"
 auteurs = ["Prisca Thevenot","Céline Calvez","Romain Daubié","Julie Delpech","Nicole Dubré-Chirat","Virginie Duby-Muller","Olivier Falorni","Jean-Marie Fiévet","Moerani Frébault","Jean-Luc Fugit","Guillaume Gouffier Valente","Emmanuelle Hoffman","Jean-Michel Jacques","Vincent Jeanbrun","Sandrine Josso","Sandrine Le Feur","Constance Le Grip","Vincent Ledoux","Delphine Lingemann","Sandra Marsaud","Sophie Panonacle","Natalia Pouzyreff","Isabelle Rauch","Véronique Riotton","Stéphanie Rist","Anne-Sophie Ronceret","Charles Sitzenstuhl","Violette Spillebout","Liliana Tanguy","Vincent Thiébaut","Annie Vidal","Corinne Vignon"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/prise_charge_sante_femmes_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 10 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 10 juin 2025","Mardi 10 juin 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Droits des femmes","Discriminations"]
 +++
 

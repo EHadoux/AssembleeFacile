@@ -4,9 +4,9 @@ draft = false
 title = "Pour plus de sport et moins de sucre - N° 558"
 auteurs = ["Thierry Sother","Christophe Proença","Marie-José Allemand","Joël Aviragnet","Christian Baptiste","Fabrice Barusseau","Marie-Noëlle Battistel","Laurent Baumel","Béatrice Bellay","Karim Benbrahim","Mickaël Bouloux","Philippe Brun","Elie Califer","Colette Capdevielle","Paul Christophle","Pierrick Courbon","Alain David","Arthur Delaporte","Stéphane Delautrette","Dieynaba Diop","Fanny Dombre Coste","Peio Dufau","Inaki Echaniz","Romain Eskenazi","Olivier Faure","Denis Fégné","Guillaume Garot","Océane Godard","Julien Gokel","Pascale Got","Emmanuel Grégoire","Jérôme Guedj","Stéphane Hablot","Ayda Hadizadeh","Florence Herouin-Léautey","Céline Hervieu","François Hollande","Chantal Jourdan","Marietta Karamanli","Fatiha Keloua Hachi","Gérard Leseul","Laurent Lhardit","Estelle Mercier","Philippe Naillet","Jacques Oberti","Sophie Pantel","Marc Pena","Anna Pic","Christine Pirès Beaune","Dominique Potier","Pierre Pribetich","Marie Récalde","Valérie Rossi","Claudia Rouaux","Aurélien Rousseau","Fabrice Roussel","Sandrine Runel","Sébastien Saint-Pasteur","Isabelle Santiago","Hervé Saulignac","Arnaud Simion","Céline Thiébault-Martinez","Mélanie Thomin","Boris Vallaud","Roger Vicot","Jiovanny William","Pouria Amirshahi","Clémentine Autain","Véronique Besse","Steevy Gustave","Sandrine Le Feur","Karine Lebon","Delphine Lingemann","Maud Petit","Mereana Reid Arbelot","François Ruffin","Boris Tavernier","Nicolas Bonnet","Yannick Neuder","Louise Morel","Damien Girard","Agnès Firmin Le Bodo","Françoise Buffet","Eléonore Caroit","Philippe Fait","Olivier Falorni","Moerani Frébault"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/plus_sport_moins_sucre"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 29 octobre 2024","Mardi 29 octobre 2024"]
-stepsStatus = ["",""]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Sports","Santé","Économie"]
 +++
 

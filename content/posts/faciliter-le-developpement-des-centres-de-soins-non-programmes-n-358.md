@@ -4,9 +4,9 @@ draft = false
 title = "Faciliter le développement des centres de soins non programmés - N° 358"
 auteurs = ["Thibault Bazin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/faciliter_developpement_centres_soins_non_programmes"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Action publique","Emploi"]
 +++
 

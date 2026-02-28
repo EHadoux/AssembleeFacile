@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer les conditions d'accès à la nationalité française à Mayotte - N° 1176"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_conditions_acces_nationalite_francaise_mayotte"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Commission Mixte Paritaire","Conseil constitutionnel","Promulgation de la loi"]
-stepsDate = ["Mardi 3 décembre 2024","Mardi 3 décembre 2024","Jeudi 6 février 2025","Mercredi 26 mars 2025","Jeudi 10 avril 2025","Lundi 12 mai 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️","Accord","Conforme avec réserve",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Commission Mixte Paritaire","Conseil constitutionnel","Promulgation de la loi"]
+stepsDate = ["Mardi 3 décembre 2024","Mardi 3 décembre 2024","Mardi 3 décembre 2024","Jeudi 6 février 2025","Jeudi 6 février 2025","Mercredi 26 mars 2025","Jeudi 10 avril 2025","Lundi 12 mai 2025"]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)","Texte modifié","Accord","Conforme avec réserve",""]
 tags = ["Intérieur","Droits des femmes","Outre-mer"]
 +++
 

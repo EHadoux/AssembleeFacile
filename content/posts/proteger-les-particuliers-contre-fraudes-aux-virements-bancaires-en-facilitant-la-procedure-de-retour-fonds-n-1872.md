@@ -4,9 +4,9 @@ draft = false
 title = "Protéger les particuliers contre les fraudes aux virements bancaires en facilitant la procédure de retour de fonds - N° 1872"
 auteurs = ["Corentin Le Fur","Josiane Corneloup","Jean-Pierre Vigier","Éric Pauget","Fabrice Brun","Émilie Bonnivard","Vincent Jeanbrun","Valérie Bazin-Malgras","Eric Liégeon","Alexandre Portier","Jean-Pierre Taite","Xavier Breton","Sébastien Martin","Virginie Duby-Muller","Patrick Hetzel","Vincent Rolland","Justine Gruet","Michel Herbillon","Guillaume Lepers","Jean-Luc Bourgeaux","Nicolas Forissier","Vincent Descoeur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_particuliers_fraude_virements_bancaires_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 30 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 30 septembre 2025","Mardi 30 septembre 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Sécurité","Finances","Action publique"]
 +++
 

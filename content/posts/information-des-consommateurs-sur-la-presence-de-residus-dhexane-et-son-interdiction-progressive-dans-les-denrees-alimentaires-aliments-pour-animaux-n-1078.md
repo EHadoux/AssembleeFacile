@@ -4,9 +4,9 @@ draft = false
 title = "Information des consommateurs sur la présence de résidus d’hexane et son interdiction progressive dans les denrées alimentaires et les aliments pour animaux - N° 1078"
 auteurs = ["Richard Ramos"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/information_consommateurs_hexane_interdiction_progressive_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Santé","Écologie","Consommation"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Autoriser la procréation médicalement assistée de volonté survivante - N° 1942"
 auteurs = ["Arthur Delaporte","Fabrice Barusseau","Mickaël Bouloux","Colette Capdevielle","Alain David","Pascale Got","Christine Pirès Beaune","Marie Récalde","Thierry Sother"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/procreation_medicalement_assistee_volonte_survivante"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Droits des femmes","Famille","Santé"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Sécuriser les droits des personnes qui se prostituent pour garantir un exercice plus sûr - N° 411"
 auteurs = ["Philippe Juvin","Josiane Corneloup","Virginie Duby-Muller","Nicolas Ray","Delphine Lingemann","Laurent Mazaury","Christophe Naegelen","Sébastien Chenu","José Gonzalez","Alexis Jolly"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/securiser_droits_personnes_prostitution"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Discriminations","Solidarité","Logement"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Fin de vie - N° 1100"
 auteurs = ["Olivier Falorni"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/fin_de_vie_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat"]
-stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025","Mardi 27 mai 2025"]
-stepsStatus = ["","Texte adopté ✔️",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Deuxième lecture à l'Assemblée nationale"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025","Mardi 11 mars 2025","Mardi 27 mai 2025","Mardi 27 mai 2025","Mercredi 28 janvier 2026","Mercredi 28 janvier 2026"]
+stepsStatus = ["","Commission des affaires sociales","Texte adopté ✔️","Commission des affaires sociales (Sénat)","Texte rejeté","Commission des affaires sociales","Texte adopté ✔️"]
 tags = ["Santé","Droits des femmes","Solidarité"]
 +++
 

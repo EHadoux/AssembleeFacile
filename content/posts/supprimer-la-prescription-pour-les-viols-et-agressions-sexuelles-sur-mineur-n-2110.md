@@ -4,9 +4,9 @@ draft = false
 title = "Supprimer la prescription pour les viols et agressions sexuelles sur mineur - N° 2110"
 auteurs = ["Maud Petit"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_supprimer_prescription_viols_et_agressions_sexuelles_sur_mineur_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 18 novembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Famille","Droits des femmes"]
 +++
 

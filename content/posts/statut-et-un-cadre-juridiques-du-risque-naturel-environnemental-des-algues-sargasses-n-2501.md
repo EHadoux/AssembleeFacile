@@ -4,9 +4,9 @@ draft = false
 title = "Statut et un cadre juridiques du risque naturel environnemental des algues sargasses - N° 2501"
 auteurs = ["Marcellin Nadeau","Julien Brugerolles","Jean-Paul Lecoq","Frédéric Maillot","Mereana Reid Arbelot","Nicolas Sansu","Édouard Bénard","Soumya Bourouaha","Jean-Victor Castor","Elsa Faucillon","Karine Lebon","Emmanuel Maurel","Yannick Monnet","Stéphane Peu","Davy Rimane","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/statut_et_cadre_juridiques_risque_naturel_sargasses_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 février 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 février 2026","Mardi 17 février 2026"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Outre-mer","Écologie","Santé"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Encourager et à mieux rémunérer le travail en réduisant de 15 % la contribution sociale généralisée sur les revenus du travail et sur les pensions de retraite - N° 259"
 auteurs = ["Corentin Le Fur","Fabrice Brun"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/travail_reduire_contribution_sociale_generalisee"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Économie","Emploi","Finances"]
 +++
 

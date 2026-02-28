@@ -4,9 +4,9 @@ draft = false
 title = "Instauration de conventions citoyennes - N° 779"
 auteurs = ["Hendrik Davi","Léa Balage El Mariky","Mickaël Bouloux","Colette Capdevielle","Michel Castellani","Elsa Faucillon","Charles Fournier","Élise Leboucher","Sébastien Peytavie","Boris Tavernier","Céline Thiébault-Martinez","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instauration_conventions_citoyennes"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mercredi 15 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mercredi 15 janvier 2025","Mercredi 15 janvier 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Démocratie","Vie associative"]
 +++
 

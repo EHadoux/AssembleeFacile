@@ -4,9 +4,9 @@ draft = false
 title = "Renforcement des outils de contrôle des cessions en nue-propriété - N° 2486"
 auteurs = ["Claudia Rouaux"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcement_outil_controle_cessions_nue_propriete_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 février 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 février 2026","Mardi 17 février 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Agriculture","Aménagement du territoire"]
 +++
 

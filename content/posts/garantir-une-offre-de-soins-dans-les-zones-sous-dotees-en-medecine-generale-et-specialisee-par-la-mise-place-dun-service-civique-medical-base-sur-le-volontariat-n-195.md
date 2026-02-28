@@ -4,9 +4,9 @@ draft = false
 title = "Garantir une offre de soins dans les zones sous dotées en médecine générale et spécialisée par la mise en place d’un service civique médical basé sur le volontariat - N° 195"
 auteurs = ["Géraldine Bannier","Thierry Benoit","Anne Bergantz","Véronique Besse","Christophe Blanchet","Philippe Bolo","Jean-Yves Bony","Éric Bothorel","Jean-Luc Bourgeaux","Hubert Brigand","Danielle Brulebois","Joël Bruneau","Françoise Buffet","Danièle Carteron","Salvatore Castiglione","Nathalie Colin-Oesterlé","Mickaël Cosson","Romain Daubié","Stella Dupont","Sophie Errante","Philippe Fait","Olivier Falorni","Yannick Favennec-Bécot","Jean-Marie Fiévet","Bruno Fuchs","Harold Huwart","Cyrille Isaac-Sibille","Sandrine Josso","Philippe Juvin","Brigitte Klinkert","Thomas Lam","Didier Le Gac","Nicole Le Peih","Pascal Lecamp","Stéphane Lenormand","Pauline Levasseur","Eric Liégeon","Delphine Lingemann","Christophe Marion","Éric Martineau","Sophie Mette","Christophe Naegelen","Hubert Ott","Didier Padey","Constance de Pélichy","Maud Petit","Béatrice Piron","Christophe Plassard","Alexandre Portier","Josy Poueyto","Natalia Pouzyreff","Richard Ramos","Nicolas Ray","Mereana Reid Arbelot","Claudia Rouaux","Nicole Sanquer","Bertrand Sorre","Violette Spillebout","Stéphane Travert","Nicolas Turquois","Stéphane Viry","Lionel Vuibert"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_offre_soins_zones_sous_dotees"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Action publique","Aménagement du territoire"]
 +++
 

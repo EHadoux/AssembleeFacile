@@ -4,9 +4,9 @@ draft = false
 title = "Moderniser et simplifier la protection juridique des majeurs - N° 1943"
 auteurs = ["Annie Vidal","Pieyre-Alexandre Anglade","Olivier Becht","Éric Bothorel","Anthony Brosse","Danielle Brulebois","Stéphane Buchou","Jean-René Cazeneuve","François Cormier-Bouligeon","Josiane Corneloup","Julie Delpech","Nicole Dubré-Chirat","Moerani Frébault","Jean-Luc Fugit","Camille Galliard-Minier","Guillaume Gouffier Valente","Olivia Grégoire","Jean-Carles Grelier","Patrick Hetzel","Sébastien Huyghe","Jean-Michel Jacques","Brigitte Klinkert","Thomas Lam","Sandrine Le Feur","Christine Le Nabour","Vincent Ledoux","Pauline Levasseur","Delphine Lingemann","Brigitte Liso","Ludovic Mendes","Paul Midy","Laure Miller","Joséphine Missoffe","Maud Petit","Natalia Pouzyreff","Franck Riester","Véronique Riotton","Stéphanie Rist","Charles Rodwell","Anne-Sophie Ronceret","Marie-Ange Rousselot","Jean-François Rousset","Freddy Sertin","Bertrand Sorre","Violette Spillebout","Liliana Tanguy","Prisca Thevenot","Philippe Vigier","Éric Woerth","Caroline Yadan"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_moderniser_simplifier_protection_juridique_majeurs_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Solidarité","Famille"]
 +++
 

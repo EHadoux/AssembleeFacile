@@ -4,9 +4,9 @@ draft = false
 title = "Harmoniser l’abattement de prélèvements sociaux sur les plus-values immobilières avec l’abattement sur l’impôt sur le revenu - N° 828"
 auteurs = ["Christophe Blanchet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/harmoniser_abattement_prelevements_sociaux_sur_plus_values_immobilieres_abattement_IR_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Économie","Logement","Finances"]
 +++
 

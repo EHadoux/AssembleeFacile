@@ -4,9 +4,9 @@ draft = false
 title = "Suspendre les droits aux prestations et aux aides publiques pour les personnes reconnues coupables d’exactions lors de rassemblements ou de manifestations - N° 1550"
 auteurs = ["Corentin Le Fur","Thibault Bazin","Valérie Bazin-Malgras","Jean-Didier Berger","Anne-Laure Blin","Sylvie Bonnet","Émilie Bonnivard","Jean-Yves Bony","Ian Boucard","Jean-Luc Bourgeaux","Xavier Breton","Hubert Brigand","Fabrice Brun","François-Xavier Ceccoli","Pierre Cordier","Josiane Corneloup","Marie-Christine Dalloz","Vincent Descoeur","Sylvie Dezarnaud","Fabien Di Filippo","Julien Dive","Virginie Duby-Muller","Nicolas Forissier","Philippe Gosselin","Justine Gruet","Michel Herbillon","Patrick Hetzel","Vincent Jeanbrun","Philippe Juvin","Guillaume Lepers","Eric Liégeon","Thierry Liger","Élisabeth de Maistre","Olivier Marleix","Sébastien Martin","Alexandra Martin","Frédérique Meunier","Jérôme Nury","Éric Pauget","Christelle Petex","Alexandre Portier","Nicolas Ray","Vincent Rolland","Michèle Tabarot","Jean-Pierre Taite","Jean-Louis Thiériot","Antoine Vermorel-Marques","Jean-Pierre Vigier","Laurent Wauquiez"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/suspendre_droits_prestations_casseurs_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 10 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 10 juin 2025","Mardi 10 juin 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Justice","Solidarité"]
 +++
 

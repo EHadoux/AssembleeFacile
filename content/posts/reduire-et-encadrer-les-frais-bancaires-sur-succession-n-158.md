@@ -4,9 +4,9 @@ draft = false
 title = "Réduire et encadrer les frais bancaires sur succession - N° 158"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reduction_frais_bancaires_succession"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale","Deuxième lecture au Sénat","Promulgation de la loi"]
-stepsDate = ["Mardi 16 janvier 2024","Mardi 16 janvier 2024","Vendredi 1er mars 2024","Jeudi 16 mai 2024","Mardi 23 juillet 2024","Mercredi 4 décembre 2024","Mardi 13 mai 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️","","Texte adopté ✔️","Texte adopté ✔️",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Deuxième lecture à l'Assemblée nationale","Renvoi en commission","Deuxième lecture au Sénat","Promulgation de la loi"]
+stepsDate = ["Mardi 16 janvier 2024","Mardi 16 janvier 2024","Mardi 16 janvier 2024","Vendredi 1 mars 2024","Vendredi 1 mars 2024","Jeudi 16 mai 2024","Mardi 23 juillet 2024","Mardi 23 juillet 2024","Mercredi 4 décembre 2024","Mercredi 4 décembre 2024","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission des finances","Texte adopté ✔️","Commission des finances (Sénat)","Texte modifié","Commission des finances","Commission des finances","Texte adopté ✔️","Commission des finances (Sénat)","Texte modifié",""]
 tags = ["Économie","Finances","Solidarité"]
 +++
 

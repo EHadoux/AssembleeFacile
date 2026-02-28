@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi organique visant à reporter le renouvellement général des membres du congrès et des assemblées de province de la Nouvelle-Calédonie - N° 483"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50450"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Conseil constitutionnel","Promulgation de la loi"]
-stepsDate = ["Lundi 16 septembre 2024","Lundi 16 septembre 2024","Jeudi 24 octobre 2024","Jeudi 7 novembre 2024","Vendredi 15 novembre 2024"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️","Conforme",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale","Conseil constitutionnel","Promulgation de la loi"]
+stepsDate = ["Lundi 16 septembre 2024","Lundi 16 septembre 2024","Lundi 16 septembre 2024","Jeudi 24 octobre 2024","Jeudi 24 octobre 2024","Jeudi 7 novembre 2024","Vendredi 15 novembre 2024"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Texte adopté ✔️","Conforme",""]
 tags = ["Outre-mer","Décentralisation","Action publique"]
 +++
 

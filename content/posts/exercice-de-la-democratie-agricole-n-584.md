@@ -4,9 +4,9 @@ draft = false
 title = "Exercice de la démocratie agricole - N° 584"
 auteurs = ["Nicole Le Peih","Alexandre Allegret-Pilot","Anthony Brosse","Danielle Brulebois","Joël Bruneau","Françoise Buffet","Nicole Dubré-Chirat","Philippe Fait","Moerani Frébault","Jean-Michel Jacques","Didier Le Gac","Constance Le Grip","Anne Le Hénanff","Christine Le Nabour","Pascal Lecamp","Paul Molac","Xavier Roseren","Frédéric Valletoux","David Taupiac","Erwan Balanant"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/exercice_democratie_agricole"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Commission Mixte Paritaire","Promulgation de la loi"]
-stepsDate = ["Mardi 19 novembre 2024","Mardi 19 novembre 2024","Mercredi 22 janvier 2025","Jeudi 6 février 2025","Vendredi 14 février 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️","Accord",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Commission Mixte Paritaire","Promulgation de la loi"]
+stepsDate = ["Mardi 19 novembre 2024","Mardi 19 novembre 2024","Mardi 19 novembre 2024","Mercredi 22 janvier 2025","Mercredi 22 janvier 2025","Jeudi 6 février 2025","Vendredi 14 février 2025"]
+stepsStatus = ["","Commission des affaires économiques","Texte adopté ✔️","Commission des affaires économiques (Sénat)","Texte modifié","Accord",""]
 tags = ["Agriculture","Démocratie","Économie"]
 +++
 

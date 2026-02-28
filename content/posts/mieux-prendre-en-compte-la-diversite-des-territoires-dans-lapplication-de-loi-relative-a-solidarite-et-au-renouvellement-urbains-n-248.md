@@ -4,9 +4,9 @@ draft = false
 title = "Mieux prendre en compte la diversité des territoires dans l'application de la loi relative à la solidarité et au renouvellement urbains - N° 248"
 auteurs = ["Alexandra Martin","Nicolas Ray","Véronique Louwagie","Yannick Neuder","Jean-Pierre Vigier","Hubert Brigand","Sylvie Bonnet","Jean-Pierre Taite","Pierre Cordier","Annie Genevard","Alexandre Portier","Virginie Duby-Muller","Josiane Corneloup","Olivier Marleix","Philippe Juvin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/application_loi_sru_diversite"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Urbanisme","Aménagement du territoire"]
 +++
 

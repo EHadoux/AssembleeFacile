@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la sécurité des utilisateurs d’engin de déplacement personnel motorisé - N° 1973"
 auteurs = ["Danielle Brulebois"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_securite_utilisateurs_engin_deplacement_personnel_motorise_17ebis"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 17 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 17 octobre 2025","Vendredi 17 octobre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Transports","Santé"]
 +++
 

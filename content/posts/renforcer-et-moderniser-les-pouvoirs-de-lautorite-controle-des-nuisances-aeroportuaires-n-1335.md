@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer et moderniser les pouvoirs de l'Autorité de contrôle des nuisances aéroportuaires - N° 1335"
 auteurs = ["Naïma Moutchou","Xavier Albertini","Thibault Bazin","Béatrice Bellamy","Thierry Benoit","Sylvain Berrios","Philippe Bonnecarrère","Philippe Fait","Olivier Falorni","Sandrine Josso","Xavier Lacombe","Vincent Ledoux","Didier Lemaire","Lise Magnier","Emmanuel Maurel","Jean Moulliere","Sophie Pantel","Constance de Pélichy","Maud Petit","Alexandre Portier","Violette Spillebout","David Taupiac","Stéphane Viry","Estelle Youssouffa"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_pouvoirs_autorite_nuisances_aeroportuaires"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Santé","Écologie","Transports"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Inscrire l’adaptation au changement climatique et la trajectoire de réchauffement de référence dans la loi - N° 1536"
 auteurs = ["Nicolas Bonnet","Christine Arrighi","Arnaud Bonnet","Charles Fournier","Marie Pochon","Jean-Claude Raux","Eva Sas","Sabrina Sebaihi"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/inscrire_adaptation_changement_climatique_trajectoire_rechauffement_reference_loi_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 10 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 10 juin 2025","Mardi 10 juin 2025"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Écologie","Action publique","Aménagement du territoire"]
 +++
 

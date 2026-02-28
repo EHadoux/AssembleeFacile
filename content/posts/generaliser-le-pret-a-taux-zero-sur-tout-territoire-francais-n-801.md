@@ -4,9 +4,9 @@ draft = false
 title = "Généraliser le prêt à taux zéro sur tout le territoire français - N° 801"
 auteurs = ["François Jolivet","Xavier Albertini","Henri Alfandari","Béatrice Bellamy","Sylvain Berrios","Bertrand Bouyx","Jean-Michel Brard","Nathalie Colin-Oesterlé","Agnès Firmin Le Bodo","Félicie Gérard","François Gernigon","David Guiraud","Pierre Henriet","Loïc Kervran","Thomas Lam","Anne Le Hénanff","Didier Lemaire","Lise Magnier","Laurent Marcangeli","Pierre Meurin","Christelle Minard","Jean Moulliere","Naïma Moutchou","Jérémie Patrier-Leitus","Béatrice Piron","Christophe Plassard","Jean-François Portarrieu","Isabelle Rauch","Xavier Roseren","Laetitia Saint-Paul","Vincent Thiébaut","Frédéric Valletoux","Anne-Cécile Violland"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/generalisation_pret_taux_zero_territoire2"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Économie","Finances"]
 +++
 

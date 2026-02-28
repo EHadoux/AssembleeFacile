@@ -4,9 +4,9 @@ draft = false
 title = "L’illectronisme et la double authentification dans les relations entre le public et l’administration et entre les clients et les organismes privés de banques et d’assurances - N° 1333"
 auteurs = ["Mickaël Bouloux","Marie-José Allemand","Joël Aviragnet","Fabrice Barusseau","Béatrice Bellay","Karim Benbrahim","Colette Capdevielle","Pierrick Courbon","Alain David","Arthur Delaporte","Peio Dufau","Inaki Echaniz","Romain Eskenazi","Olivier Faure","Denis Fégné","Guillaume Garot","Océane Godard","Julien Gokel","Pascale Got","Emmanuel Grégoire","Jérôme Guedj","Ayda Hadizadeh","Céline Hervieu","Chantal Jourdan","Marietta Karamanli","Laurent Lhardit","Philippe Naillet","Sophie Pantel","Anna Pic","Christine Pirès Beaune","Dominique Potier","Valérie Rossi","Sandrine Runel","Sébastien Saint-Pasteur","Isabelle Santiago","Arnaud Simion","Thierry Sother","Mélanie Thomin","Roger Vicot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/illectronisme_double_authentification_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Numérique","Solidarité","Handicap"]
 +++
 

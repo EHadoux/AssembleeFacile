@@ -4,9 +4,9 @@ draft = false
 title = "Information et assistance juridiques en rétention administrative et en zone d’attente - N° 1384"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51744"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Jeudi 20 mars 2025","Jeudi 20 mars 2025","Mardi 13 mai 2025"]
-stepsStatus = ["","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Jeudi 20 mars 2025","Jeudi 20 mars 2025","Jeudi 20 mars 2025","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois"]
 tags = ["Justice","Droits des femmes","Solidarité"]
 +++
 

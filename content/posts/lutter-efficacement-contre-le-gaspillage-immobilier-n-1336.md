@@ -4,9 +4,9 @@ draft = false
 title = "Lutter efficacement contre le gaspillage immobilier - N° 1336"
 auteurs = ["Lionel Causse","Cyrielle Chatelain","Emmanuel Grégoire","Joël Aviragnet","Fabrice Barusseau","Belkhir Belhaddad","Éric Bothorel","Florent Boudié","Stéphane Buchou","Pierrick Courbon","Arthur Delaporte","Stéphane Delautrette","Stella Dupont","Inaki Echaniz","Philippe Fait","Olivier Falorni","Moerani Frébault","Martine Froger","Camille Galliard-Minier","Guillaume Gouffier Valente","Ayda Hadizadeh","Céline Hervieu","Sacha Houlié","Christine Le Nabour","Laurent Lhardit","Sandra Marsaud","Jacques Oberti","Constance de Pélichy","Christophe Proença","Marie Récalde","Véronique Riotton","Valérie Rossi","Claudia Rouaux","Sébastien Saint-Pasteur","Hervé Saulignac","Violette Spillebout"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_efficacement_gaspillage_immobilier_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Urbanisme","Économie sociale et solidaire"]
 +++
 

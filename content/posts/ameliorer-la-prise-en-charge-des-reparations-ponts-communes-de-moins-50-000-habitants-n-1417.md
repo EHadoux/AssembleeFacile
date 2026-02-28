@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer la prise en charge des réparations des ponts des communes de moins de 50 000 habitants - N° 1417"
 auteurs = ["Pascal Jenft","Alexandre Allegret-Pilot","Romain Baubry","Bruno Bilde","Emmanuel Blairy","Sophie Blanc","Frédéric Boccaletti","Anthony Boulogne","Jérôme Buisson","Sébastien Chenu","Caroline Colombier","Sandra Delannoy","Alexandre Dufosset","Olivier Fayssat","Emmanuel Fouquart","Stéphanie Galzy","Jonathan Gery","Frank Giletti","Christian Girard","Antoine Golliot","Géraldine Grangier","Monique Griseti","Sébastien Humbert","Alexis Jolly","Sylvie Josserand","Florence Joubert","Laure Lavalette","Robert Le Bourgeois","Gisèle Lelouis","Hervé de Lépinau","Katiana Levavasseur","Julien Limongi","René Lioret","Aurélien Lopez-Liguori","David Magnier","Michèle Martinez","Alexandra Masson","Yaël Ménaché","Julien Odoul","Caroline Parmentier","Thierry Perez","Kévin Pfeffer","Angélique Ranc","Lionel Tivoli","Frédéric Weber","Brigitte Barèges","Théo Bernhardt","Manon Bouquin","Marc Chavent","Edwige Diaz","Sandrine Dogor-Such","Auguste Evrard","Thierry Frappé","Julien Gabarron","Michel Guiniot","Marine Hamelet","Laurent Jacobelli","Julie Lechanteux","Bartolomé Lenoir","Matthieu Marchio","Patrice Martin","Joëlle Mélin","Thomas Ménagé","Pierre Meurin","Lisette Pollet","Julien Rancoule","Catherine Rimbert","Laurence Robert-Dehault","Béatrice Roullaud","Anaïs Sabatini","Emeric Salmon","Thierry Tesson","Frédéric-Pierre Vos","Christophe Barthès"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ameliorer_prise_charge_reparations_ponts_communes_50000_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Aménagement du territoire","Finances","Sécurité"]
 +++
 

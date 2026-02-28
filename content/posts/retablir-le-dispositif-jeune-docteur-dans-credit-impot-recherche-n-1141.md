@@ -4,9 +4,9 @@ draft = false
 title = "Rétablir le dispositif « Jeune Docteur » dans le crédit impôt recherche - N° 1141"
 auteurs = ["Paul Midy","Thibault Bazin","Béatrice Bellay","Ian Boucard","Joël Bruneau","Fabrice Brun","Françoise Buffet","Céline Calvez","Michel Castellani","Lionel Causse","François Cormier-Bouligeon","Julie Delpech","Sylvie Dezarnaud","Philippe Fait","Olivier Falorni","Jean-Marie Fiévet","Agnès Firmin Le Bodo","Nicolas Forissier","Moerani Frébault","Jean-Luc Fugit","Camille Galliard-Minier","Olga Givernet","Olivia Grégoire","Jean-Michel Jacques","Guillaume Kasbarian","Brigitte Klinkert","Amélia Lakrafi","Jean Laussucq","Michel Lauzzana","Constance Le Grip","Christine Le Nabour","Vincent Ledoux","Pauline Levasseur","Delphine Lingemann","Brigitte Liso","Lise Magnier","Christophe Marion","Sandra Marsaud","Stéphane Mazars","Laurent Mazaury","Joséphine Missoffe","Louise Morel","Sophie Panonacle","Maud Petit","Natalia Pouzyreff","Isabelle Rauch","Mereana Reid Arbelot","Franck Riester","Marie-Pierre Rixain","Charles Rodwell","Anne-Sophie Ronceret","Xavier Roseren","Jean-François Rousset","Charles Sitzenstuhl","Bertrand Sorre","Violette Spillebout","Prisca Thevenot","Vincent Thiébaut","Stéphane Travert","Annie Vidal","Corinne Vignon","Stéphane Viry","Lionel Vuibert","Éric Woerth","Caroline Yadan","Estelle Youssouffa"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/retablir_CIR_jeune_docteur_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 18 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 mars 2025","Mardi 18 mars 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Économie","Recherche","Emploi"]
 +++
 

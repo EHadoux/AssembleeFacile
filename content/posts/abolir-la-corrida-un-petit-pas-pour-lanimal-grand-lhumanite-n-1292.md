@@ -4,9 +4,9 @@ draft = false
 title = "Abolir la corrida : un petit pas pour l’animal, un grand pas pour l’humanité - N° 1292"
 auteurs = ["Aymeric Caron"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/abolir_corrida_petit_pas_animal_grand_pas_humanite_xvii"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Solidarité","Vie associative"]
 +++
 

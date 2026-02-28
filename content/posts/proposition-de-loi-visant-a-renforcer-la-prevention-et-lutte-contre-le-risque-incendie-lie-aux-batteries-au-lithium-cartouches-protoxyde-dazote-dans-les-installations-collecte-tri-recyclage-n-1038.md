@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à renforcer la prévention et la lutte contre le risque incendie lié aux batteries au lithium et aux cartouches de protoxyde d'azote dans les installations de collecte, de tri et de recyclage - N° 1038"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50751"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Jeudi 24 octobre 2024","Jeudi 24 octobre 2024","Jeudi 6 mars 2025"]
-stepsStatus = ["","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Jeudi 24 octobre 2024","Jeudi 24 octobre 2024","Jeudi 24 octobre 2024","Jeudi 6 mars 2025"]
+stepsStatus = ["","Commission du développement durable (Sénat)","Texte adopté ✔️","Commission du développement durable"]
 tags = ["Écologie","Industrie","Sécurité"]
 +++
 

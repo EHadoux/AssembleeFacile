@@ -4,9 +4,9 @@ draft = false
 title = "Uniformiser les procédures de vacations funéraires - N° 1313"
 auteurs = ["Christophe Plassard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/uniformiser_procedures_vacations_funeraires_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Fonction publique","Intérieur","Décentralisation"]
 +++
 

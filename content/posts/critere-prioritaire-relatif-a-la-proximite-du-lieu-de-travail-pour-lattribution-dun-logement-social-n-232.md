@@ -4,9 +4,9 @@ draft = false
 title = "Critère prioritaire relatif à la proximité du lieu de travail pour l’attribution d’un logement social - N° 232"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/criterelogementsocial_proximitetravail"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Transports","Écologie"]
 +++
 

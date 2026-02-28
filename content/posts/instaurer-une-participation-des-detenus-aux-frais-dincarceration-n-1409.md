@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer une participation des détenus aux frais d'incarcération - N° 1409"
 auteurs = ["Éric Ciotti","Alexandre Allegret-Pilot","Charles Alloncle","Brigitte Barèges","Matthieu Bloch","Bernard Chaix","Marc Chavent","Christelle D'Intorni","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Maxime Michelet","Éric Michoux","Sophie Ricourt Vaginay","Vincent Trébuchet","Gérault Verny"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_participation_detenus_frais_incarceration_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
-stepsStatus = ["",""]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Finances","Droits des détenus"]
 +++
 

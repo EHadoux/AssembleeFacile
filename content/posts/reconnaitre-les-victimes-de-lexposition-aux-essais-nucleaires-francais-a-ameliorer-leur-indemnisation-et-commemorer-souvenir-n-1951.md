@@ -4,9 +4,9 @@ draft = false
 title = "Reconnaître les victimes de l'exposition aux essais nucléaires français, à améliorer leur indemnisation et à commémorer leur souvenir - N° 1951"
 auteurs = ["Mereana Reid Arbelot","Didier Le Gac"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_reconnaitre_victimes_exposition_aux_essais_nucleaires_francais_ameliorer_indemnisation_et_commemorer_leur_souvenir_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission de la défense"]
 tags = ["Armées","Santé","Outre-mer"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Fonds d'urgence pour les Français de l'étranger - N° 80"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/fonds_urgence_francais_etranger"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Lundi 10 février 2020","Lundi 10 février 2020","Mercredi 1er juillet 2020","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Lundi 10 février 2020","Lundi 10 février 2020","Lundi 10 février 2020","Mercredi 1 juillet 2020","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des finances (Sénat)","Texte adopté ✔️","Commission des finances","Commission des finances","Commission des finances"]
 tags = ["Affaires étrangères","Solidarité","Action publique"]
 +++
 

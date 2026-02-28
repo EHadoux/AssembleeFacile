@@ -4,9 +4,9 @@ draft = false
 title = "Garantir l’accès aux origines pour les enfants nés de procréation médicalement assistée - N° 825"
 auteurs = ["Géraldine Bannier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_acces_origine_enfants_nes_PMA_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Santé","Justice","Bioéthique"]
 +++
 

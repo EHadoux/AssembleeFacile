@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer un fonds de solidarité pour la gestion des milieux aquatiques et la prévention des inondations - N° 1882"
 auteurs = ["Marie-José Allemand"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_instaurer_fonds_de_solidarite_pour_gestion_milieux_aquatiques_prevention_inondation_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 30 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 30 septembre 2025","Mardi 30 septembre 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Aménagement du territoire","Écologie","Solidarité"]
 +++
 

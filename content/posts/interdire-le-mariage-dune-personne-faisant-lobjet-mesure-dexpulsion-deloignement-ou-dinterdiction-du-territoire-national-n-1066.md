@@ -4,9 +4,9 @@ draft = false
 title = "Interdire le mariage d’une personne faisant l’objet d’une mesure d’expulsion, d’éloignement ou d’interdiction du territoire national - N° 1066"
 auteurs = ["Hanane Mansouri"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdire_mariage_mesure_expulsion_17"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Intérieur","Droits des femmes"]
 +++
 

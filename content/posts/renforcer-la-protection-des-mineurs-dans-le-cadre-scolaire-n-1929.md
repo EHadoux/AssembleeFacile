@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la protection des mineurs dans le cadre scolaire - N° 1929"
 auteurs = ["Christelle D'Intorni","Alexandre Allegret-Pilot","Laure Lavalette","Gisèle Lelouis","Éric Michoux","Frank Giletti","Marc Chavent"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_protection_mineurs_cadre_scolaire_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Sécurité","Justice"]
 +++
 

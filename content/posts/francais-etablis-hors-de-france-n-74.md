@@ -4,9 +4,9 @@ draft = false
 title = "Français établis hors de France - N° 74"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/francais_etablis_hors_de_france"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Jeudi 5 décembre 2019","Jeudi 5 décembre 2019","Mercredi 20 mai 2020","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Jeudi 5 décembre 2019","Jeudi 5 décembre 2019","Jeudi 5 décembre 2019","Mercredi 20 mai 2020","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Commission des lois","Commission des lois"]
 tags = ["Affaires étrangères","Droits des femmes","Fiscalité"]
 +++
 

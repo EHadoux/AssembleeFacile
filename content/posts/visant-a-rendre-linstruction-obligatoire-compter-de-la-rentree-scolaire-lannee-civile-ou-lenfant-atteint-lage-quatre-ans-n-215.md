@@ -4,9 +4,9 @@ draft = false
 title = "visant à rendre l’instruction obligatoire à compter de la rentrée scolaire de l’année civile où l’enfant atteint l’âge de quatre ans - N° 215"
 auteurs = ["Christelle Petex","Xavier Breton"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instruction_obligatoire_quatre_ans"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Famille","Jeunesse"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Produire autrement, en garantissant un partage de la valeur et en réconciliant le monde agricole et la société - N° 2311"
 auteurs = ["Dominique Potier","Mélanie Thomin","Boris Vallaud","Fabrice Barusseau","Chantal Jourdan","Marie-José Allemand","Joël Aviragnet","Christian Baptiste","Marie-Noëlle Battistel","Laurent Baumel","Belkhir Belhaddad","Béatrice Bellay","Karim Benbrahim","Mickaël Bouloux","Philippe Brun","Elie Califer","Colette Capdevielle","Paul Christophle","Pierrick Courbon","Alain David","Arthur Delaporte","Stéphane Delautrette","Dieynaba Diop","Fanny Dombre Coste","Peio Dufau","Inaki Echaniz","Romain Eskenazi","Olivier Faure","Denis Fégné","Martine Froger","Guillaume Garot","Océane Godard","Julien Gokel","Pascale Got","Emmanuel Grégoire","Jérôme Guedj","Stéphane Hablot","Ayda Hadizadeh","Florence Herouin-Léautey","Céline Hervieu","François Hollande","Sacha Houlié","Marietta Karamanli","Fatiha Keloua Hachi","Gérard Leseul","Laurent Lhardit","Estelle Mercier","Philippe Naillet","Jacques Oberti","Sophie Pantel","Marc Pena","Anna Pic","Christine Pirès Beaune","Pierre Pribetich","Christophe Proença","Marie Récalde","Valérie Rossi","Claudia Rouaux","Aurélien Rousseau","Fabrice Roussel","Sandrine Runel","Sébastien Saint-Pasteur","Isabelle Santiago","Hervé Saulignac","Arnaud Simion","Thierry Sother","Céline Thiébault-Martinez","Roger Vicot","Jiovanny William"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/produire_autrement_partage_valeur_ajoutee_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 23 décembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Agriculture","Économie","Écologie"]
 +++
 

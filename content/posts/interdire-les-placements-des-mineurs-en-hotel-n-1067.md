@@ -4,9 +4,9 @@ draft = false
 title = "interdire les placements des mineurs en hôtel - N° 1067"
 auteurs = ["Marianne Maximi"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdire_placements_mineurs_hotel_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Enfance","Solidarité","Justice"]
 +++
 

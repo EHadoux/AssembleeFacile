@@ -4,9 +4,9 @@ draft = false
 title = "Création d'un Défenseur de la laïcité et définition de ce principe - N° 2000"
 auteurs = ["Jérôme Guedj"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/creation_defenseur_laicite_et_definition_de_ce_principe_17e_"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 23 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 octobre 2025","Jeudi 23 octobre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Justice","Droits des femmes"]
 +++
 

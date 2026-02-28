@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi créant une condition de durée de résidence pour le versement de certaines prestations sociales - N° 1149"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51458"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Lundi 3 février 2025","Lundi 3 février 2025","Mercredi 19 mars 2025"]
-stepsStatus = ["","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Lundi 3 février 2025","Lundi 3 février 2025","Lundi 3 février 2025","Mercredi 19 mars 2025"]
+stepsStatus = ["","Commission des affaires sociales (Sénat)","Texte adopté ✔️","Commission des affaires sociales"]
 tags = ["Solidarité","Immigration","Justice"]
 +++
 

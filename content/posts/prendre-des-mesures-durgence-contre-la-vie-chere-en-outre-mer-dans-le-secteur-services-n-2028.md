@@ -4,9 +4,9 @@ draft = false
 title = "Prendre des mesures d’urgence contre la vie chère en outre-mer dans le secteur des services - N° 2028"
 auteurs = ["Philippe Naillet","Christian Baptiste","Béatrice Bellay","Elie Califer","Jiovanny William"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/prendre_mesures_urgence_contre_vie_chere_outre_mer_secteur_services_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 28 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025","Mardi 28 octobre 2025","Vendredi 12 décembre 2025"]
+stepsStatus = ["","Commission des affaires économiques","Texte adopté ✔️","Commission des affaires économiques (Sénat)"]
 tags = ["Outre-mer","Économie","Solidarité"]
 +++
 

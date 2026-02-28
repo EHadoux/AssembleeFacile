@@ -4,9 +4,9 @@ draft = false
 title = "Plusieurs mesures de justice pour limiter les frais bancaires - N° 1345"
 auteurs = ["Yannick Monnet","Julien Brugerolles","Édouard Bénard","Soumya Bourouaha","Jean-Victor Castor","Elsa Faucillon","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Emmanuel Maurel","Marcellin Nadeau","Stéphane Peu","Mereana Reid Arbelot","Nicolas Sansu","Davy Rimane","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/plusieurs_mesures_justice_limiter_frais_bancaires_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 22 avril 2025","Mardi 22 avril 2025"]
-stepsStatus = ["",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Mardi 22 avril 2025","Mardi 22 avril 2025","Mardi 22 avril 2025"]
+stepsStatus = ["","Commission des finances",""]
 tags = ["Économie","Finances","Solidarité"]
 +++
 

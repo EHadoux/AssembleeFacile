@@ -4,9 +4,9 @@ draft = false
 title = "Conditionner le versement du revenu de solidarité active à l'aide active aux vendanges et récoltes agricoles saisonnières - N° 219"
 auteurs = ["Valérie Bazin-Malgras","Hubert Brigand","François-Xavier Ceccoli","Fabien Di Filippo","Frédérique Meunier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/RSA_vendanges"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Agriculture","Emploi","Solidarité"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Supprimer le Conseil économique, social et environnemental - N° 485"
 auteurs = ["Philippe Juvin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/supprimer_le_cese_nouveau"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 24 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 24 octobre 2024","Jeudi 24 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Budget","Économie","Action publique"]
 +++
 

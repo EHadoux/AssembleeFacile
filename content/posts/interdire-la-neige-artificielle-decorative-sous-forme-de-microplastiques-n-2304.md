@@ -4,9 +4,9 @@ draft = false
 title = "Interdire la neige artificielle décorative sous forme de microplastiques - N° 2304"
 auteurs = ["Philippe Bolo"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdire_neige_artificielle_microplastique_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 23 décembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Écologie","Biodiversité"]
 +++
 

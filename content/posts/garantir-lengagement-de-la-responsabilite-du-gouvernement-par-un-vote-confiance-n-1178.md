@@ -4,9 +4,9 @@ draft = false
 title = "Garantir l'engagement de la responsabilité du Gouvernement par un vote de confiance - N° 1178"
 auteurs = ["Harold Huwart","Charles de Courson","Constance de Pélichy","Martine Froger","Paul Molac","Olivier Serva","David Taupiac","Stella Dupont","Aurélien Pradié","Laurent Mazaury","Stéphane Viry","Jérémie Iordanoff","Thierry Sother"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/engagement_responsabilite_vote_confiance"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mercredi 26 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mercredi 26 mars 2025","Mercredi 26 mars 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Relations parlementaires","Justice"]
 +++
 

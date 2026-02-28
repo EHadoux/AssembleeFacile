@@ -4,9 +4,9 @@ draft = false
 title = "Supprimer l'exonération de la taxe annuelle sur les véhicules lourds de transport de marchandises dont bénéficient les véhicules de 12 tonnes ou plus immatriculés dans un État de l'Union européenne - N° 372"
 auteurs = ["Christophe Naegelen"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/supprimer_exoneration_vehicules"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Transports","Europe","Économie"]
 +++
 

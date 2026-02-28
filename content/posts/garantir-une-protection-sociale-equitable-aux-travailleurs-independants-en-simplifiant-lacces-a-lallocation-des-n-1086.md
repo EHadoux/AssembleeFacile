@@ -4,9 +4,9 @@ draft = false
 title = "Garantir une protection sociale équitable aux travailleurs indépendants en simplifiant l’accès à l’allocation des travailleurs indépendants - N° 1086"
 auteurs = ["Stéphane Viry","Thierry Benoit","Philippe Bonnecarrère","Michel Castellani","Sophie Errante","Constance de Pélichy","Béatrice Piron","Olivier Falorni","Laurent Mazaury","Joël Bruneau","Jean-Carles Grelier","Delphine Lingemann","Salvatore Castiglione","Philippe Gosselin","Vincent Rolland","Nicolas Ray","Violette Spillebout","Virginie Duby-Muller","Sandrine Josso","Richard Ramos","Christine Pirès Beaune","François Ruffin","Vincent Descoeur","Claudia Rouaux"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/simplifier_acces_allocation_travailleurs_independants"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Travail","Économie","Solidarité"]
 +++
 

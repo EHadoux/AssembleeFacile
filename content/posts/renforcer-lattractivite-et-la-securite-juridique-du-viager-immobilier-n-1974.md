@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer l'attractivité et la sécurité juridique du viager immobilier - N° 1974"
 auteurs = ["Vincent Ledoux"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/attractivite_securite_juridique_viager_immobilier_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 17 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 17 octobre 2025","Vendredi 17 octobre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Économie","Solidarité"]
 +++
 

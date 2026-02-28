@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la responsabilité des opérateurs d'infrastructures de réseaux de communications électroniques à très haut débit en fibre optique - N° 1339"
 auteurs = ["Emmanuel Maurel","Édouard Bénard","Soumya Bourouaha","Julien Brugerolles","Elsa Faucillon","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Yannick Monnet","Marcellin Nadeau","Stéphane Peu","Mereana Reid Arbelot","Davy Rimane","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_responsabilite_operateurs_infrastructures_reseaux_communications_electroniques_tres_haut_debit_fibre_optique_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 22 avril 2025","Mardi 22 avril 2025"]
-stepsStatus = ["",""]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Numérique","Décentralisation","Économie"]
 +++
 

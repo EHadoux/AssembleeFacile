@@ -4,9 +4,9 @@ draft = false
 title = "Garantir la possibilité de déposer une demande papier auprès de l’administration - N° 197"
 auteurs = ["Géraldine Bannier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_demande_papier_administration"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Numérique","Action publique","Handicap"]
 +++
 

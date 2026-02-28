@@ -4,9 +4,9 @@ draft = false
 title = "Exonérer d’impôt les primes versées par l’État aux athlètes français aux jeux Olympiques et Paralympiques - N° 217"
 auteurs = ["Olivier Marleix"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/exoneration_impot_primes_athletes_jop"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Sports","Budget","Action publique"]
 +++
 

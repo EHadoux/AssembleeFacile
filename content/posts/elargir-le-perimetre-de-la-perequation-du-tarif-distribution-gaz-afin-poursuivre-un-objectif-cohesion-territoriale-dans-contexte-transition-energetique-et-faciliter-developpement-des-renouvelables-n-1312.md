@@ -4,9 +4,9 @@ draft = false
 title = "Élargir le périmètre de la péréquation du tarif de la distribution de gaz afin de poursuivre un objectif de cohésion territoriale dans un contexte de transition énergétique et faciliter le développement des gaz renouvelables - N° 1312"
 auteurs = ["Olivier Marleix","Thibault Bazin","Valérie Bazin-Malgras","Jean-Yves Bony","Hubert Brigand","Josiane Corneloup","Julien Dive","Pascale Got","Louise Morel","Hubert Ott","Raphaël Schellenberger","Philippe Vigier","Joël Bruneau","Stéphane Viry","Roger Vicot","Xavier Roseren","Jean-Pierre Taite","Vincent Rolland","David Taupiac","Brigitte Klinkert","Xavier Breton","Alexandre Portier","Eric Liégeon","Patrick Hetzel","Ian Boucard","Jean-Luc Bourgeaux","Anne-Laure Blin","Fabrice Barusseau","Justine Gruet","Sylvie Bonnet","Philippe Gosselin","Laurent Mazaury","Alexandra Martin","Guillaume Lepers","Virginie Duby-Muller","Émilie Bonnivard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/elargir_perimetre_distribution_gaz_objectif_cohesion_territoriale_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Énergie","Économie","Action publique"]
 +++
 

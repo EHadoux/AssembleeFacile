@@ -5,9 +5,9 @@ draft = false
 title = "Garantir le bénéfice des prestations familiales et des pensions alimentaires aux enfants confiés à un tiers - N° 1629"
 auteurs = ["Nathalie Colin-Oesterlé","Paul Christophe","Frédéric Valletoux","Marie-Agnès Poussier-Winsback","Xavier Albertini","Henri Alfandari","Béatrice Bellamy","Thierry Benoit","Bertrand Bouyx","Jean-Michel Brard","Agnès Firmin Le Bodo","Félicie Gérard","François Gernigon","François Jolivet","Loïc Kervran","Xavier Lacombe","Thomas Lam","Anne Le Hénanff","Didier Lemaire","Jean Moulliere","Naïma Moutchou","Jérémie Patrier-Leitus","Xavier Roseren","Laetitia Saint-Paul","Anne-Cécile Violland","Béatrice Piron","Sylvain Berrios","Pierre Henriet","Lise Magnier","Christophe Plassard","Isabelle Rauch","Vincent Thiébaut"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/prestations_familiales_enfants_tiers_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 24 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 24 juin 2025","Mardi 24 juin 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 +++
 
 ## Résumé

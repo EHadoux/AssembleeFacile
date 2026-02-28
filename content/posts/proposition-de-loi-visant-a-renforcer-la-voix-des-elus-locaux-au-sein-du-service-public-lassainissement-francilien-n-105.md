@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à renforcer la voix des élus locaux au sein du service public de l'assainissement francilien - N° 105"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N46694"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Lundi 14 novembre 2022","Lundi 14 novembre 2022","Jeudi 2 mars 2023","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Lundi 14 novembre 2022","Lundi 14 novembre 2022","Lundi 14 novembre 2022","Jeudi 2 mars 2023","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Commission des lois"]
 tags = ["Action publique","Décentralisation","Urbanisme"]
 +++
 

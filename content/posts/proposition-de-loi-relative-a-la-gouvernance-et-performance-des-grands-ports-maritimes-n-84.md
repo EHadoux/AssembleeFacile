@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi relative à la gouvernance et à la performance des grands ports maritimes - N° 84"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L15N40574"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Jeudi 24 septembre 2020","Jeudi 24 septembre 2020","Mercredi 9 décembre 2020","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Jeudi 24 septembre 2020","Jeudi 24 septembre 2020","Jeudi 24 septembre 2020","Mercredi 9 décembre 2020","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission du développement durable (Sénat)","Texte adopté ✔️","Commission du développement durable","Commission du développement durable","Commission du développement durable"]
 tags = ["Mer","Économie","Transports"]
 +++
 

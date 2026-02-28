@@ -4,9 +4,9 @@ draft = false
 title = "Soutenir et valoriser les commerces de proximité - N° 1961"
 auteurs = ["Laurent Lhardit"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/soutenir_valoriser_commerces_proximite_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Commerce","Économie","Urbanisme"]
 +++
 

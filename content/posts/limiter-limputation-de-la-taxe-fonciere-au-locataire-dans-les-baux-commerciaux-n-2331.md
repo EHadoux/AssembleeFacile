@@ -4,9 +4,9 @@ draft = false
 title = "Limiter l’imputation de la taxe foncière au locataire dans les baux commerciaux - N° 2331"
 auteurs = ["Violette Spillebout"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_limiter_imputation_taxe_fonciere_au_locataire_dans_les_baux_commerciaux_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 janvier 2026","Mardi 13 janvier 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Commerce","Économie","Logement"]
 +++
 

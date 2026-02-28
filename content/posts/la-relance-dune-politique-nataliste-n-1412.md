@@ -4,9 +4,9 @@ draft = false
 title = "La relance d'une politique nataliste - N° 1412"
 auteurs = ["Éric Ciotti","Alexandre Allegret-Pilot","Charles Alloncle","Brigitte Barèges","Matthieu Bloch","Bernard Chaix","Marc Chavent","Christelle D'Intorni","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Maxime Michelet","Éric Michoux","Sophie Ricourt Vaginay","Vincent Trébuchet","Gérault Verny"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/relance_politique_nataliste_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
-stepsStatus = ["",""]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Famille","Économie","Budget"]
 +++
 

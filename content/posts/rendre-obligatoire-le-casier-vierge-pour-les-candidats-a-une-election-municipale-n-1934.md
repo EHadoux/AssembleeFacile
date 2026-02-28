@@ -4,9 +4,9 @@ draft = false
 title = "Rendre obligatoire le casier vierge pour les candidats à une élection municipale - N° 1934"
 auteurs = ["Emmanuel Grégoire"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_obligatoire_casier_vierge_candidats_election_municipale_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Justice","Intérieur"]
 +++
 

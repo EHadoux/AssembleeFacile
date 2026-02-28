@@ -4,9 +4,9 @@ draft = false
 title = "Déportés du camp de Rawa-Ruska - N° 8"
 auteurs = ["Alain Poher"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/8600348687"
-stepsName = ["Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mercredi 17 juillet 2002","Mercredi 4 juillet 2007","Lundi 2 juillet 2012","Jeudi 6 juillet 2017","Vendredi 8 juillet 2022","Mardi 23 juillet 2024"]
-stepsStatus = ["","","","","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission","Renvoi en commission","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Mercredi 29 octobre 1986","Mercredi 29 octobre 1986","Mercredi 29 octobre 1986","Mardi 26 mai 1987","Mercredi 17 juillet 2002","Mercredi 4 juillet 2007","Lundi 2 juillet 2012","Jeudi 6 juillet 2017","Vendredi 8 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des affaires sociales (Sénat)","Texte adopté ✔️","Commission de la défense","Commission de la défense","Commission de la défense","Commission de la défense","Commission de la défense","Commission de la défense","Commission de la défense"]
 tags = ["Armées","Solidarité","Droits des femmes"]
 +++
 

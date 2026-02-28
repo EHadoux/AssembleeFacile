@@ -4,9 +4,9 @@ draft = false
 title = "Adapter la législation relative à l’affichage électoral aux réalités de terrain - N° 1940"
 auteurs = ["Sébastien Huyghe","Jean-Pierre Bataille","Thibault Bazin","Béatrice Bellamy","Véronique Besse","Émilie Bonnivard","Anthony Brosse","Salvatore Castiglione","Nathalie Colin-Oesterlé","Josiane Corneloup","Emmanuelle Hoffman","Brigitte Klinkert","Brigitte Liso","Alexandra Martin","Éric Martineau","Laurent Mazaury","Maud Petit","Christophe Plassard","Nicolas Ray","Liliana Tanguy","Corinne Vignon","Caroline Yadan","Romain Daubié","Éric Bothorel","Danielle Brulebois","Vincent Ledoux","Lise Magnier","Jean-Luc Bourgeaux","Lionel Vuibert","Olivier Becht","Joël Bruneau","Karl Olive"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_adapter_legislation_affichage_electoral_realites_de_terrain_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Intérieur","Relations parlementaires"]
 +++
 

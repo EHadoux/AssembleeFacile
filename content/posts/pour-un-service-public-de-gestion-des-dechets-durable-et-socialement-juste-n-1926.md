@@ -4,9 +4,9 @@ draft = false
 title = "Pour un service public de gestion des déchets durable et socialement juste - N° 1926"
 auteurs = ["Sébastien Peytavie","Pouria Amirshahi","Christine Arrighi","Léa Balage El Mariky","Lisa Belluco","Benoît Biteau","Arnaud Bonnet","Nicolas Bonnet","Mickaël Bouloux","Alexis Corbière","Hendrik Davi","Stéphane Delautrette","Emmanuel Duplessy","Charles Fournier","Marie-Charlotte Garin","Damien Girard","Steevy Gustave","Ayda Hadizadeh","Catherine Hervieu","Julie Laernoes","Tristan Lahais","Julie Ozenne","Marie Pochon","Jean-Claude Raux","Sandra Regol","Mereana Reid Arbelot","Sandrine Rousseau","Eva Sas","Sabrina Sebaihi","Danielle Simonnet","Boris Tavernier","Nicolas Thierry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/service_public_gestion_dechets_durable_socialement_juste_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Écologie","Action publique","Économie"]
 +++
 

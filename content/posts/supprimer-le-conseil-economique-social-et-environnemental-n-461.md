@@ -4,9 +4,9 @@ draft = false
 title = "Supprimer le Conseil économique, social et environnemental - N° 461"
 auteurs = ["Philippe Juvin","Thibault Bazin","Jean-Yves Bony","Ian Boucard","Hubert Brigand","Josiane Corneloup","Marie-Christine Dalloz","Fabien Di Filippo","Nicolas Forissier","Virginie Duby-Muller","Véronique Louwagie","Jérôme Nury","Nicolas Ray"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/supprimer_conseil_economique_social_environnemental"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mercredi 16 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mercredi 16 octobre 2024","Mercredi 16 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Budget","Économie","Action publique"]
 +++
 

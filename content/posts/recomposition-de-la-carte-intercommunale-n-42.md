@@ -4,9 +4,9 @@ draft = false
 title = "Recomposition de la carte intercommunale - N° 42"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/recomposition_carte_intercommunale"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mercredi 25 mai 2016","Mercredi 25 mai 2016","Jeudi 27 octobre 2016","Jeudi 6 juillet 2017","Lundi 11 juillet 2022","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","","","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Mercredi 25 mai 2016","Mercredi 25 mai 2016","Mercredi 25 mai 2016","Jeudi 27 octobre 2016","Jeudi 6 juillet 2017","Lundi 11 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Commission des lois","Commission des lois","Commission des lois"]
 tags = ["Décentralisation","Aménagement du territoire","Action publique"]
 +++
 

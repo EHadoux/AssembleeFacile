@@ -4,9 +4,9 @@ draft = false
 title = "Soins palliatifs et d’accompagnement - N° 2406"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/soins_palliatifs_et_accompagnement_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Deuxième lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025","Mardi 27 mai 2025","Mercredi 28 janvier 2026"]
-stepsStatus = ["","Texte adopté ✅","Texte adopté ✅",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Deuxième lecture à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025","Mardi 11 mars 2025","Mardi 27 mai 2025","Mardi 27 mai 2025","Mercredi 28 janvier 2026","Mercredi 28 janvier 2026","Mercredi 25 février 2026"]
+stepsStatus = ["","Commission des affaires sociales","Texte adopté ✔️","Commission des affaires sociales (Sénat)","Texte modifié","Commission des affaires sociales","Texte adopté ✔️","Commission des affaires sociales (Sénat)"]
 tags = ["Santé","Solidarité","Action publique"]
 +++
 

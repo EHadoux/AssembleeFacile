@@ -4,9 +4,9 @@ draft = false
 title = "Créer un choc d'attractivité du marché de la location - N° 515"
 auteurs = ["Justine Gruet","Valérie Bazin-Malgras","Fabrice Brun","Josiane Corneloup","Corentin Le Fur","Yannick Neuder","Éric Pauget","Jean-Pierre Vigier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/choc_attractivite_location"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 29 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 29 octobre 2024","Mardi 29 octobre 2024"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Urbanisme","Économie","Ruralité"]
 +++
 

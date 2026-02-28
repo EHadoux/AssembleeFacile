@@ -4,9 +4,9 @@ draft = false
 title = "Réprimer pénalement les pratiques de surenchère d’intéressement dans les offres de reprise d’entreprises - N° 593"
 auteurs = ["Olivier Marleix","Thibault Bazin","Émilie Bonnivard","Ian Boucard","Fabrice Brun","Fabien Di Filippo","Julien Dive","Michel Herbillon","Véronique Louwagie","Frédérique Meunier","Josiane Corneloup","Christelle Petex","Eric Liégeon","Valérie Bazin-Malgras","Vincent Descoeur","Vincent Jeanbrun","Jean-Luc Bourgeaux"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reprimer_surenchere_interessement_reprise_entreprises"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 19 novembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 19 novembre 2024","Mardi 19 novembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Économie","Finances","Travail"]
 +++
 

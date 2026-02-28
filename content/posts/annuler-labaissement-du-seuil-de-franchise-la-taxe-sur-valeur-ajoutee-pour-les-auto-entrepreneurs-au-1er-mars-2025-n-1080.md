@@ -4,9 +4,9 @@ draft = false
 title = "Annuler l'abaissement du seuil de franchise de la taxe sur la valeur ajoutée pour les auto-entrepreneurs au 1er mars 2025 - N° 1080"
 auteurs = ["Thomas Lam","Xavier Albertini","Henri Alfandari","Béatrice Bellamy","Thierry Benoit","Sylvain Berrios","Bertrand Bouyx","Jean-Michel Brard","Paul Christophe","Nathalie Colin-Oesterlé","Agnès Firmin Le Bodo","Félicie Gérard","Pierre Henriet","François Jolivet","Loïc Kervran","Anne Le Hénanff","Didier Lemaire","Lise Magnier","Jean Moulliere","Naïma Moutchou","Jérémie Patrier-Leitus","Béatrice Piron","Christophe Plassard","Marie-Agnès Poussier-Winsback","Isabelle Rauch","Xavier Roseren","Laetitia Saint-Paul","Frédéric Valletoux","Anne-Cécile Violland","François Gernigon","Xavier Lacombe"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/annuler_abaissement_seuil_franchise_taxe_valeur_ajoutee_auto_entrepreneurs_mars_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Économie","Finances","Travail"]
 +++
 

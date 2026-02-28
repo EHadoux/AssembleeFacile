@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à renforcer l’indépendance des médias et à mieux protéger les journalistes - N° 464"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50208"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mercredi 24 juillet 2024","Mercredi 24 juillet 2024","Jeudi 17 octobre 2024"]
-stepsStatus = ["","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Mercredi 24 juillet 2024","Mercredi 24 juillet 2024","Mercredi 24 juillet 2024","Jeudi 17 octobre 2024"]
+stepsStatus = ["","Commission des affaires étrangères (Sénat)","Texte adopté ✔️","Commission des affaires culturelles"]
 tags = ["Médias","Justice","Droits de l'Homme"]
 +++
 

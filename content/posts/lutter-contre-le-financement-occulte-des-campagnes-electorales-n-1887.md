@@ -4,9 +4,9 @@ draft = false
 title = "Lutter contre le financement occulte des campagnes électorales - N° 1887"
 auteurs = ["Emmanuel Duplessy","Cyrielle Chatelain","Pouria Amirshahi","Christine Arrighi","Clémentine Autain","Léa Balage El Mariky","Lisa Belluco","Karim Ben Cheikh","Benoît Biteau","Arnaud Bonnet","Nicolas Bonnet","Alexis Corbière","Hendrik Davi","Charles Fournier","Marie-Charlotte Garin","Damien Girard","Steevy Gustave","Catherine Hervieu","Jérémie Iordanoff","Julie Laernoes","Tristan Lahais","Benjamin Lucas-Lundy","Julie Ozenne","Sébastien Peytavie","Marie Pochon","Jean-Claude Raux","Sandra Regol","Jean-Louis Roumégas","Sandrine Rousseau","François Ruffin","Eva Sas","Sabrina Sebaihi","Danielle Simonnet","Sophie Taillé-Polian","Boris Tavernier","Nicolas Thierry","Dominique Voynet","Ayda Hadizadeh","Karine Lebon","Mereana Reid Arbelot","Constance de Pélichy","Christine Pirès Beaune"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_lutter_contre_le_financement_occulte_des_campagnes_electorales_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 30 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 30 septembre 2025","Mardi 30 septembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Justice","Économie"]
 +++
 

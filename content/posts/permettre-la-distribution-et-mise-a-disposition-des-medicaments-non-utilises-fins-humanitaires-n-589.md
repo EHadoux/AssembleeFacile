@@ -4,9 +4,9 @@ draft = false
 title = "Permettre la distribution et la mise à disposition des médicaments non utilisés à des fins humanitaires - N° 589"
 auteurs = ["Thibault Bazin","Valérie Bazin-Malgras","Sylvie Bonnet","Émilie Bonnivard","Ian Boucard","Jean-Luc Bourgeaux","Xavier Breton","Fabrice Brun","Pierre Cordier","Josiane Corneloup","Vincent Descoeur","Fabien Di Filippo","Virginie Duby-Muller","Justine Gruet","Michel Herbillon","Corentin Le Fur","Alexandra Martin","Yannick Neuder","Jérôme Nury","Éric Pauget","Christelle Petex","Nicolas Ray","Jean-Pierre Taite"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/distribution_medicaments_fins_humanitaires"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 19 novembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 19 novembre 2024","Mardi 19 novembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Solidarité","Vie associative"]
 +++
 

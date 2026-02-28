@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer la prise en charge des victimes d'accidents médicaux - N° 1408"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ameliorer_prise_en_charge_victimes_accidents_medicaux_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Justice","Solidarité"]
 +++
 

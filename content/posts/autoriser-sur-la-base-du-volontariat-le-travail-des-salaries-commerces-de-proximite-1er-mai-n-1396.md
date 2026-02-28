@@ -4,9 +4,9 @@ draft = false
 title = "Autoriser, sur la base du volontariat, le travail des salariés des commerces de proximité le 1er mai - N° 1396"
 auteurs = ["Julien Dive","Thibault Bazin","Valérie Bazin-Malgras","Jean-Didier Berger","Sylvie Bonnet","Émilie Bonnivard","Ian Boucard","Jean-Luc Bourgeaux","Pierre Cordier","Josiane Corneloup","Marie-Christine Dalloz","Vincent Descoeur","Sylvie Dezarnaud","Fabien Di Filippo","Virginie Duby-Muller","Nicolas Forissier","Patrick Hetzel","Vincent Jeanbrun","Corentin Le Fur","Guillaume Lepers","Eric Liégeon","Alexandra Martin","Jérôme Nury","Éric Pauget","Nicolas Ray","Jean-Pierre Taite","Antoine Vermorel-Marques","Jean-Pierre Vigier","Stéphane Viry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/autoriser_volontariat_travail_commerces_proximite_1er_mai_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Commerce","Emploi","Travail"]
 +++
 

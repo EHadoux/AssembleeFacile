@@ -4,9 +4,9 @@ draft = false
 title = "Donner un véritable droit de prescription aux médecins coordonnateurs d’établissements d’hébergement pour personnes âgées dépendantes - N° 427"
 auteurs = ["Josiane Corneloup","Justine Gruet","Sylvie Bonnet","Fabien Di Filippo","Jean-Pierre Vigier","Frédérique Meunier","Corentin Le Fur","Virginie Duby-Muller","Philippe Juvin","Jean-Luc Bourgeaux","Alexandra Martin","Nicolas Ray","Valérie Bazin-Malgras","Fabrice Brun","Yannick Neuder","Jean-Pierre Taite","Christelle Petex"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/droit_prescription_medecins_coordonnateurs_EHPAD"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Solidarité","Vie associative"]
 +++
 

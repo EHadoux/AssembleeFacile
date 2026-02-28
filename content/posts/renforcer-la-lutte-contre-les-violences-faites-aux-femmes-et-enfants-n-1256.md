@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la lutte contre les violences faites aux femmes et aux enfants - N° 1256"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_lutte_contre_violences_faites_femmes_enfants"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Deuxième lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 3 décembre 2024","Mardi 3 décembre 2024","Mercredi 29 janvier 2025","Vendredi 4 avril 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Mardi 3 décembre 2024","Mardi 3 décembre 2024","Mardi 3 décembre 2024","Mercredi 29 janvier 2025","Mercredi 29 janvier 2025","Vendredi 4 avril 2025"]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)","Texte modifié","Commission des lois"]
 tags = ["Justice","Sécurité","Droits des femmes"]
 +++
 

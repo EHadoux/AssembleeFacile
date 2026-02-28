@@ -4,9 +4,9 @@ draft = false
 title = "Accompagner les communes dans la lutte contre les incivilités en leur rétrocédant le produit des amendes de police afférentes - N° 375"
 auteurs = ["Éric Pauget","Valérie Bazin-Malgras","Anne-Laure Blin","Ian Boucard","Jean-Luc Bourgeaux","Hubert Brigand","Josiane Corneloup","Vincent Descoeur","Fabien Di Filippo","Virginie Duby-Muller","Justine Gruet","Michel Herbillon","Philippe Juvin","Corentin Le Fur","Guillaume Lepers","Véronique Louwagie","Alexandra Martin","Yannick Neuder","Christelle Petex","Nicolas Ray","Jean-Pierre Taite","Jean-Pierre Vigier","Thibault Bazin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutte_incivilites_communes_amendes"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Action publique","Intérieur","Urbanisme"]
 +++
 

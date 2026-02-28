@@ -4,9 +4,9 @@ draft = false
 title = "Sanctionner les absences injustifiées à un rendez-vous médical - N° 1296"
 auteurs = ["Corentin Le Fur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/sanctionner_absences_injustifiees_rdv_medical_17"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Économie","Action publique"]
 +++
 

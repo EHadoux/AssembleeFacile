@@ -4,9 +4,9 @@ draft = false
 title = "Simplifier le millefeuille territorial par la collectivité unique - N° 1800"
 auteurs = ["Brigitte Klinkert","Olivier Becht","Françoise Buffet","Bruno Fuchs","Patrick Hetzel","Didier Lemaire","Hubert Ott","Raphaël Schellenberger","Charles Sitzenstuhl"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/simplifier_millefeuille_territorial_collectivite_unique_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
+stepsStatus = ["","Commission des lois",""]
 tags = ["Décentralisation","Aménagement du territoire","Action publique"]
 +++
 

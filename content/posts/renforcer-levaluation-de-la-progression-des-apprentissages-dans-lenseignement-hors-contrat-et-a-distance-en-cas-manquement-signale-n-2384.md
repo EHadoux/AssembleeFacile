@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer l’évaluation de la progression des apprentissages dans l’enseignement hors contrat et l’enseignement à distance en cas de manquement signalé - N° 2384"
 auteurs = ["Matthieu Bloch","Jérôme Buisson","Bernard Chaix","Sébastien Chenu","Josiane Corneloup","Christelle D'Intorni","Michèle Martinez","Didier Padey"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_evaluation_progression_apprentissage_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 27 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 27 janvier 2026","Mardi 27 janvier 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Action publique"]
 +++
 

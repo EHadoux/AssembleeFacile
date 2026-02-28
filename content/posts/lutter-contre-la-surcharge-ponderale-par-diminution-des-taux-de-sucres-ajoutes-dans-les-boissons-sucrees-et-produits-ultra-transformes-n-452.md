@@ -4,9 +4,9 @@ draft = false
 title = "Lutter contre la surcharge pondérale par la diminution des taux de sucres ajoutés dans les boissons sucrées et les produits ultra-transformés - N° 452"
 auteurs = ["Cyrille Isaac-Sibille"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_surcharge_ponderale_diminution_taux_sucres"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Économie","Action publique"]
 +++
 

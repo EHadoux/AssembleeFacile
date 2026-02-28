@@ -4,9 +4,9 @@ draft = false
 title = "Généraliser le réemploi des emballages sur le territoire français - N° 1812"
 auteurs = ["Stéphane Delautrette","Philippe Bolo","Charles Fournier","David Taupiac","Marie-José Allemand","Joël Aviragnet","Christian Baptiste","Fabrice Barusseau","Marie-Noëlle Battistel","Laurent Baumel","Béatrice Bellay","Karim Benbrahim","Benoît Biteau","Nicolas Bonnet","Arnaud Bonnet","Mickaël Bouloux","Philippe Brun","Elie Califer","Colette Capdevielle","Paul Christophe","Alexis Corbière","Pierrick Courbon","Alain David","Arthur Delaporte","Dieynaba Diop","Fanny Dombre Coste","Peio Dufau","Emmanuel Duplessy","Inaki Echaniz","Romain Eskenazi","Olivier Falorni","Olivier Faure","Denis Fégné","Guillaume Garot","Damien Girard","Océane Godard","Julien Gokel","Pascale Got","Emmanuel Grégoire","Jérôme Guedj","Steevy Gustave","Stéphane Hablot","Ayda Hadizadeh","Florence Herouin-Léautey","Céline Hervieu","Catherine Hervieu","François Hollande","Chantal Jourdan","Marietta Karamanli","Fatiha Keloua Hachi","Tristan Lahais","Gérard Leseul","Laurent Lhardit","Estelle Mercier","Philippe Naillet","Jacques Oberti","Julie Ozenne","Laurent Panifous","Sophie Pantel","Marc Pena","Sébastien Peytavie","Anna Pic","Christine Pirès Beaune","Marie Pochon","Dominique Potier","Pierre Pribetich","Christophe Proença","Marie Récalde","Valérie Rossi","Claudia Rouaux","Jean-Louis Roumégas","Aurélien Rousseau","Fabrice Roussel","Sandrine Runel","Sébastien Saint-Pasteur","Isabelle Santiago","Hervé Saulignac","Arnaud Simion","Thierry Sother","Boris Tavernier","Céline Thiébault-Martinez","Mélanie Thomin","Boris Vallaud","Roger Vicot","Stéphane Viry","Dominique Voynet","Jiovanny William","Paul Christophle","Hubert Ott"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/generaliser_reemploi_emballages_territoire_francais_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Écologie","Économie","Environnement"]
 +++
 

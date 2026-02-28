@@ -4,9 +4,9 @@ draft = false
 title = "Indemniser systématiquement les propriétaires de biens immobiliers impactés par l’implantation d’éoliennes terrestres - N° 586"
 auteurs = ["Corentin Le Fur","Thibault Bazin","Alexandra Martin","Jérôme Nury","Josiane Corneloup","Christelle Petex","Véronique Louwagie","Virginie Duby-Muller","Nicolas Ray","Nicolas Forissier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/indemniser_proprietaires_biens_immobilers_implantations_eoliennes_terrestres"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 19 novembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 19 novembre 2024","Mardi 19 novembre 2024"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Énergie","Ruralité","Logement"]
 +++
 

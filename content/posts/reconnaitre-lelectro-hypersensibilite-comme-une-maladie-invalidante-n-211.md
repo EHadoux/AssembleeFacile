@@ -4,9 +4,9 @@ draft = false
 title = "Reconnaître l'électro-hypersensibilité comme une maladie invalidante - N° 211"
 auteurs = ["Sylvie Bonnet","Thibault Bazin","François-Xavier Ceccoli","Nicolas Forissier","Alexandre Portier","Jean-Pierre Taite","Jean-Pierre Vigier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconnaissance_electro_hypersensibilite_maladie_invalidante"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Handicap","Recherche"]
 +++
 

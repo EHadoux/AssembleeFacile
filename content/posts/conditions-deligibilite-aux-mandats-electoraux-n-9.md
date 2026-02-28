@@ -4,9 +4,9 @@ draft = false
 title = "Conditions d'éligibilité aux mandats électoraux - N° 9"
 auteurs = ["M. Le Président du Sénat","Christian Poncelet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/0000070001"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mercredi 4 octobre 2000","Mercredi 4 octobre 2000","Jeudi 17 mai 2001","Mercredi 17 juillet 2002","Mercredi 4 juillet 2007","Lundi 2 juillet 2012","Jeudi 6 juillet 2017","Vendredi 8 juillet 2022","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","","","","","","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission","Renvoi en commission","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Mercredi 4 octobre 2000","Mercredi 4 octobre 2000","Mercredi 4 octobre 2000","Jeudi 17 mai 2001","Mercredi 17 juillet 2002","Mercredi 4 juillet 2007","Lundi 2 juillet 2012","Jeudi 6 juillet 2017","Vendredi 8 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Commission des lois","Commission des lois","Commission des lois","Commission des lois","Commission des lois","Commission des lois"]
 tags = ["Action publique","Fonction publique","Intérieur"]
 +++
 

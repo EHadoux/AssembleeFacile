@@ -4,9 +4,9 @@ draft = false
 title = "Lutter contre la persistance des rodeos urbains - N° 355"
 auteurs = ["Christelle D'Intorni","Alexandre Allegret-Pilot","Franck Allisio","Charles Alloncle","Maxime Amblard","Philippe Ballard","Anchya Bamana","Christophe Barthès","José Beaurain","Véronique Besse","Guillaume Bigot","Bruno Bilde","Emmanuel Blairy","Sophie Blanc","Matthieu Bloch","Jérôme Buisson","Eddy Casterman","Marc Chavent","Sébastien Chenu","Bruno Clavet","Caroline Colombier","Josiane Corneloup","Sandra Delannoy","Jocelyn Dessigny","Edwige Diaz","Sandrine Dogor-Such","Frédéric Falcon","Olivier Fayssat","Guillaume Florquin","Antoine Golliot","Géraldine Grangier","Julien Guibert","Timothée Houssin","Florence Joubert","Hélène Laporte","Laure Lavalette","Robert Le Bourgeois","Julie Lechanteux","Bartolomé Lenoir","Hervé de Lépinau","Valérie Létard","Katiana Levavasseur","Julien Limongi","René Lioret","Marie-France Lorho","Pascal Markowsky","Patrice Martin","Alexandra Masson","Bryan Masson","Kévin Mauvieux","Nicolas Meizonnet","Joëlle Mélin","Yaël Ménaché","Pierre Meurin","Maxime Michelet","Thibaut Monnier","Serge Muller","Stéphane Rambaud","Julien Rancoule","Catherine Rimbert","Joseph Rivière","Laurence Robert-Dehault","Sophie-Laurence Roy","Emeric Salmon","Anne Sicard","Antoine Villedieu"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_persistance_rodeos_urbains"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Justice","Intérieur"]
 +++
 

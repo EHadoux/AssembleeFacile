@@ -4,9 +4,9 @@ draft = false
 title = "Étendre le contrôle d'honorabilité à toutes les associations en contact avec des mineurs - N° 218"
 auteurs = ["Valérie Bazin-Malgras","Hubert Brigand","François-Xavier Ceccoli","Philippe Juvin","Frédérique Meunier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/honorabilite_associations_mineurs"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Vie associative","Jeunesse","Sécurité"]
 +++
 

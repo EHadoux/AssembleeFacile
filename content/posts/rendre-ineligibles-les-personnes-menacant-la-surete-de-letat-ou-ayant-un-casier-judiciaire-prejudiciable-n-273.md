@@ -4,9 +4,9 @@ draft = false
 title = "Rendre inéligibles les personnes menaçant la sûreté de l’État ou ayant un casier judiciaire préjudiciable - N° 273"
 auteurs = ["Virginie Duby-Muller","Christelle Petex","Thibault Bazin","Sylvie Bonnet","Hubert Brigand","Fabrice Brun","Josiane Corneloup","Vincent Descoeur","Véronique Louwagie","Alexandra Martin","Frédérique Meunier","Jérôme Nury","Éric Pauget","Jean-Pierre Taite","Jean-Pierre Vigier","Yannick Neuder","Michel Herbillon"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ineligibilite_personnes_menacant_surete_etat"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Justice","Sécurité"]
 +++
 

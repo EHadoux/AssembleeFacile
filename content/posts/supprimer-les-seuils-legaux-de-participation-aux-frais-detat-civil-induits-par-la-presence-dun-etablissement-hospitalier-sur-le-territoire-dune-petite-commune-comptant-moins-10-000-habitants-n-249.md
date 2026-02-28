@@ -4,9 +4,9 @@ draft = false
 title = "Supprimer les seuils légaux de participation aux frais d’état civil induits par la présence d’un établissement hospitalier sur le territoire d’une petite commune comptant moins de 10 000 habitants - N° 249"
 auteurs = ["Christelle Petex","Valérie Bazin-Malgras","Virginie Duby-Muller","Yannick Neuder","Jean-Pierre Taite","Jean-Pierre Vigier","Nicolas Ray","Michèle Tabarot","Vincent Descoeur","Hubert Brigand"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/seuils_legaux_etat_civil"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Santé","Ruralité"]
 +++
 

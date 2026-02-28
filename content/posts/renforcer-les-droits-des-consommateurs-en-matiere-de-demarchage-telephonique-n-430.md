@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer les droits des consommateurs en matière de démarchage téléphonique - N° 430"
 auteurs = ["Pierre Cordier","Fabien Di Filippo","Christelle Petex","Nicolas Ray","Valérie Bazin-Malgras","Sylvie Bonnet","Ian Boucard","Virginie Duby-Muller","Michel Herbillon","Philippe Juvin","Olivier Marleix","Vincent Rolland","Thibault Bazin","Jean-Luc Bourgeaux","Fabrice Brun","Nicolas Forissier","Corentin Le Fur","Véronique Louwagie","Frédérique Meunier","Michèle Tabarot","Jean-Pierre Taite","Émilie Bonnivard","Justine Gruet","Yannick Neuder"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_droits_consommateurs_demarchage_telephonique"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Commerce","Numérique","Justice"]
 +++
 

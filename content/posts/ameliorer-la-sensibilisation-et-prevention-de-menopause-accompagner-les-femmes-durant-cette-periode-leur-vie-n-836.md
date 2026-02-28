@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer la sensibilisation et la prévention de la ménopause et accompagner les femmes durant cette période de leur vie - N° 836"
 auteurs = ["Delphine Lingemann","Olivier Falorni","Sandrine Josso","Jean-Marie Fiévet","Maud Petit","Constance Le Grip","Jean-Carles Grelier","Julie Delpech","Pascal Lecamp","Jean-Michel Jacques","Romain Daubié"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/sensibilisation_prevention_menopause_17"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Droits des femmes","Travail"]
 +++
 

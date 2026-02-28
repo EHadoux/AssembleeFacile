@@ -4,9 +4,9 @@ draft = false
 title = "Rétablir l’universalité des allocations familiales - N° 421"
 auteurs = ["Josiane Corneloup","Justine Gruet","Sylvie Bonnet","Fabien Di Filippo","Jean-Pierre Vigier","Corentin Le Fur","Thibault Bazin","Alexandra Martin","Valérie Bazin-Malgras","Fabrice Brun","Yannick Neuder","Christelle Petex"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_retablir_universalite_allocations_familiales"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Famille","Solidarité","Économie"]
 +++
 

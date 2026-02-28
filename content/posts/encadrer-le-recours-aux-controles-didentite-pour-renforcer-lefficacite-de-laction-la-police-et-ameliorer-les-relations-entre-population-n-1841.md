@@ -4,9 +4,9 @@ draft = false
 title = "Encadrer le recours aux contrôles d’identité pour renforcer l’efficacité de l’action de la police et améliorer les relations entre la police et la population - N° 1841"
 auteurs = ["Paul Christophle","Fatiha Keloua Hachi","François Ruffin","Léa Balage El Mariky","Marie-José Allemand","Colette Capdevielle","Arthur Delaporte","Stéphane Delautrette","Inaki Echaniz","Denis Fégné","Emmanuel Grégoire","Ayda Hadizadeh","Laurent Lhardit","Estelle Mercier","Philippe Naillet","Marc Pena","Anna Pic","Pierre Pribetich","Sandrine Runel","Hervé Saulignac","Céline Thiébault-Martinez"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/encadrer_recours_controle_identite_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Discriminations","Action publique"]
 +++
 

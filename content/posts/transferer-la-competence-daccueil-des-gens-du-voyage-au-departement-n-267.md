@@ -4,9 +4,9 @@ draft = false
 title = "Transférer la compétence d’accueil des gens du voyage au département - N° 267"
 auteurs = ["Stéphane Viry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/transferer_competence_accueil_gens_du_voyage2"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Aménagement du territoire","Solidarité"]
 +++
 

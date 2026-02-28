@@ -4,9 +4,9 @@ draft = false
 title = "Réguler les activités de courtage en énergie et renforcer la protection des consommateurs - N° 1845"
 auteurs = ["Hervé Saulignac"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reguler_activites_courtage_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Énergie","Économie","Consommation"]
 +++
 

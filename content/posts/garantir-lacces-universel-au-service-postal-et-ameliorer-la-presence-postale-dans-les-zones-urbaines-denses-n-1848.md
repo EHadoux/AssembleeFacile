@@ -4,9 +4,9 @@ draft = false
 title = "Garantir l’accès universel au service postal et améliorer la présence postale dans les zones urbaines denses - N° 1848"
 auteurs = ["Sandrine Runel"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_garantir_acces_universel_au_service_postal_et_ameliorer_la_presence_postale_dans_les_zones_urbaines_denses_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Action publique","Économie","Urbanisme"]
 +++
 

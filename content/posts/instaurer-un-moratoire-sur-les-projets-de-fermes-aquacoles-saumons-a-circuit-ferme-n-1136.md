@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer un moratoire sur les projets de fermes aquacoles de saumons à circuit fermé - N° 1136"
 auteurs = ["Anne Stambach-Terrenoir","Damien Girard","Eléonore Caroit","Corentin Le Fur","Stéphane Buchou","Paul Molac","Sandrine Le Feur","Olivier Falorni","Hubert Ott","Fabrice Barusseau","Jimmy Pahun","Corinne Vignon","Murielle Lepvraud","Peio Dufau","Loïc Prud'homme","Benoît Biteau","Mickaël Bouloux","Stéphane Hablot","Karine Lebon","Richard Ramos","Thomas Gassilloud","Benjamin Lucas-Lundy","Marie Pochon","Marie-Charlotte Garin","Sophie Taillé-Polian","Julie Laernoes","Cyrielle Chatelain","Nicolas Bonnet","Boris Tavernier","Laurent Mazaury","Gérard Leseul","Nadège Abomangoli","Laurent Alexandre","Gabriel Amard","Ségolène Amiot","Farida Amrani","Rodrigo Arenas","Raphaël Arnault","Anaïs Belouassa-Cherifi","Ugo Bernalicis","Christophe Bex","Carlos Martens Bilongo","Manuel Bompard","Idir Boumertit","Louis Boyard","Pierre-Yves Cadalen","Aymeric Caron","Sylvain Carrière","Gabrielle Cathala","Bérenger Cernon","Sophia Chikirou","Hadrien Clouet","Éric Coquerel","Jean-François Coulomme","Sébastien Delogu","Aly Diouara","Alma Dufour","Karen Erodi","Mathilde Feld","Emmanuel Fernandes","Sylvie Ferrer","Perceval Gaillard","Clémence Guetté","David Guiraud","Zahia Hamdane","Mathilde Hignet","Andy Kerbrat","Bastien Lachaud","Abdelkader Lahmar","Maxime Laisney","Arnaud Le Gall","Antoine Léaument","Élise Leboucher","Aurélien Le Coq","Jérôme Legavre","Sarah Legrain","Claire Lejeune","Élisa Martin","Damien Maudet","Marianne Maximi","Marie Mesmeur","Manon Meunier","Jean-Philippe Nilor","Sandrine Nosbé","Danièle Obono","Nathalie Oziol","Mathilde Panot","René Pilato","François Piquemal","Thomas Portes","Jean-Hugues Ratenon","Arnaud Saint-Martin","Aurélien Saintoul","Ersilia Soudais","Aurélien Taché","Andrée Taurinya","Matthias Tavel","Aurélie Trouvé","Paul Vannier","Dominique Voynet","Jérémie Iordanoff","Catherine Hervieu","Danielle Simonnet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/moratoire_ferme_aquacoles_saumons_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 18 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 mars 2025","Mardi 18 mars 2025"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Écologie","Pêche","Biodiversité"]
 +++
 

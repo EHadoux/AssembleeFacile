@@ -4,9 +4,9 @@ draft = false
 title = "Inscrire dans la loi la notion de harcèlement moral institutionnel et les sanctions pénales afférentes - N° 1322"
 auteurs = ["Julien Brugerolles","Édouard Bénard","Soumya Bourouaha","Jean-Victor Castor","Elsa Faucillon","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Emmanuel Maurel","Yannick Monnet","Marcellin Nadeau","Stéphane Peu","Mereana Reid Arbelot","Davy Rimane","Nicolas Sansu","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/inscrire_loi_notion_harcelement_moral_institutionnel_sanctions_penales_afferentes_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Travail","Justice","Santé"]
 +++
 

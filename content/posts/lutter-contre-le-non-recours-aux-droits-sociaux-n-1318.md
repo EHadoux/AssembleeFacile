@@ -4,9 +4,9 @@ draft = false
 title = "Lutter contre le non-recours aux droits sociaux - N° 1318"
 auteurs = ["Sandrine Runel","Martine Froger","Marie-José Allemand","Pouria Amirshahi","Joël Aviragnet","Léa Balage El Mariky","Fabrice Barusseau","Béatrice Bellay","Karim Benbrahim","Mickaël Bouloux","Elie Califer","Colette Capdevielle","Jean-Victor Castor","Lionel Causse","Paul Christophle","Pierrick Courbon","Alain David","Stéphane Delautrette","Fanny Dombre Coste","Peio Dufau","Stella Dupont","Inaki Echaniz","Romain Eskenazi","Philippe Fait","Olivier Falorni","Olivier Faure","Denis Fégné","Julien Gokel","Pascale Got","Emmanuel Grégoire","Jérôme Guedj","Ayda Hadizadeh","Florence Herouin-Léautey","Céline Hervieu","Sacha Houlié","Cyrille Isaac-Sibille","Chantal Jourdan","Émeline K/Bidi","Karine Lebon","Stéphane Lenormand","Laurent Lhardit","Delphine Lingemann","Benjamin Lucas-Lundy","Christophe Marion","Max Mathiasin","Emmanuel Maurel","Estelle Mercier","Yannick Monnet","Philippe Naillet","Jacques Oberti","Hubert Ott","Sophie Pantel","Constance de Pélichy","Marc Pena","Anna Pic","Christine Pirès Beaune","Dominique Potier","Christophe Proença","Mereana Reid Arbelot","Davy Rimane","Valérie Rossi","Claudia Rouaux","Jean-Louis Roumégas","Sébastien Saint-Pasteur","Isabelle Santiago","Hervé Saulignac","Arnaud Simion","Thierry Sother","Céline Thiébault-Martinez","Mélanie Thomin","Anne-Cécile Violland","Stéphane Viry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_contre_non_recours_droits_sociaux_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Solidarité","Action publique","Numérique"]
 +++
 

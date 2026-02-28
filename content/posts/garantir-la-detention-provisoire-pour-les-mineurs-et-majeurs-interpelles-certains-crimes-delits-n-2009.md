@@ -4,9 +4,9 @@ draft = false
 title = "Garantir la détention provisoire pour les mineurs et majeurs interpellés pour certains crimes et délits - N° 2009"
 auteurs = ["Laurent Mazaury"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/detention_provisoire_mineurs_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 28 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Justice","Action publique"]
 +++
 

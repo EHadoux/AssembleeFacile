@@ -4,9 +4,9 @@ draft = false
 title = "Versement des allocations familiales et de l’allocation de rentrée scolaire au service d'aide sociale à l'enfance pour les enfants placés par décision du juge - N° 434"
 auteurs = ["Fabien Di Filippo","Thibault Bazin","Valérie Bazin-Malgras","Sylvie Bonnet","Jean-Yves Bony","Hubert Brigand","Fabrice Brun","Pierre Cordier","Josiane Corneloup","Justine Gruet","Alexandra Martin","Jérôme Nury","Éric Pauget","Jean-Pierre Taite","Jean-Luc Bourgeaux","Émilie Bonnivard","Véronique Louwagie","Anne-Laure Blin","Christelle Petex","Nicolas Ray","Jean-Didier Berger","Michel Herbillon","Jean-Pierre Vigier","Frédérique Meunier","Virginie Duby-Muller","Philippe Juvin","Yannick Neuder"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/allocations_familiales_rentree_scolaire_service_aide_sociale_enfance"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Famille","Solidarité","Action publique"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Protéger la langue française en interdisant l’écriture dite inclusive - N° 2332"
 auteurs = ["Corentin Le Fur","Valérie Bazin-Malgras","Philippe Gosselin","Alexandra Martin","Fabien Di Filippo","Lionel Duparay","Fabrice Brun","Sylvie Bonnet","Jérôme Nury","Jean-Didier Berger","Nicolas Tryzna","Véronique Louwagie","Justine Gruet","Josiane Corneloup","Ian Boucard","Hubert Brigand","Marie-Christine Dalloz","Thibault Bazin","Éric Pauget"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_langue_francaise_en_interdisant_ecriture_dite_inclusive_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 janvier 2026","Mardi 13 janvier 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Culture","Action publique","Droits des femmes"]
 +++
 

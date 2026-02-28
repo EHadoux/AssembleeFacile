@@ -4,9 +4,9 @@ draft = false
 title = "Introduire une dose de capitalisation dans le système de retraite - N° 576"
 auteurs = ["Christelle D'Intorni","Charles Alloncle","Bernard Chaix","Marc Chavent","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Maxime Michelet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/dose_capitalisation_systeme_retraite"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 19 novembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 19 novembre 2024","Mardi 19 novembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Économie","Travail","Solidarité"]
 +++
 

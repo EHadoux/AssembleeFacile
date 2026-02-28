@@ -4,9 +4,9 @@ draft = false
 title = "Lutter contre la haine affectant les harkis et les membres des autres formations supplétives et assimilées de l'armée française ainsi que leurs descendants - N° 497"
 auteurs = ["Alexandre Allegret-Pilot","José Beaurain","Véronique Besse","Jérôme Buisson","Marc Chavent","Sébastien Chenu","Éric Ciotti","Bruno Clavet","Christelle D'Intorni","Jocelyn Dessigny","Nicolas Dragon","Frédéric Falcon","Jonathan Gery","Yoann Gillet","Géraldine Grangier","Laurent Jacobelli","Alexis Jolly","Sylvie Josserand","René Lioret","Philippe Lottiaux","Hanane Mansouri","Claire Marais-Beuil","Nicolas Meizonnet","Pierre Meurin","Maxime Michelet","Serge Muller","Mereana Reid Arbelot","Joseph Rivière","Anaïs Sabatini","Frédéric-Pierre Vos","Frédéric Weber"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_haine_affectant_harkis"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 29 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 29 octobre 2024","Mardi 29 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Discriminations","Armées"]
 +++
 

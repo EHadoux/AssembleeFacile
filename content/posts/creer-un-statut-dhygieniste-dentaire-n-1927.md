@@ -4,9 +4,9 @@ draft = false
 title = "Créer un statut d’hygiéniste dentaire - N° 1927"
 auteurs = ["Fabien Di Filippo","Thibault Bazin","Sylvie Bonnet","Émilie Bonnivard","Pierre Cordier","Josiane Corneloup","Virginie Duby-Muller","Christelle Minard","Christelle Petex","Nicolas Ray","Jean-Pierre Vigier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/creer_statut_hygieniste_dentaire_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Emploi","Ruralité"]
 +++
 

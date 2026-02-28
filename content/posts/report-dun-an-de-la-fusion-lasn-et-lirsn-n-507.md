@@ -4,9 +4,9 @@ draft = false
 title = "Report d'un an de la fusion de l'ASN et de l'IRSN - N° 507"
 auteurs = ["Gérard Leseul","Christine Arrighi","Marie-Noëlle Battistel","Julie Laernoes","Maxime Laisney","Hubert Ott","Laurent Panifous","Mereana Reid Arbelot","Anne Stambach-Terrenoir"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/report_fusion_ASN_IRSN"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 29 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 29 octobre 2024","Mardi 29 octobre 2024"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Énergie","Sécurité","Fonction publique"]
 +++
 

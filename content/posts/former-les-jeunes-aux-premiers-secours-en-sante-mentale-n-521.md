@@ -4,9 +4,9 @@ draft = false
 title = "Former les jeunes aux premiers secours en santé mentale - N° 521"
 auteurs = ["Joël Aviragnet","Chantal Jourdan","Boris Vallaud","Océane Godard","Céline Hervieu","Marie-José Allemand","Christian Baptiste","Fabrice Barusseau","Marie-Noëlle Battistel","Laurent Baumel","Béatrice Bellay","Karim Benbrahim","Mickaël Bouloux","Philippe Brun","Elie Califer","Colette Capdevielle","Paul Christophle","Pierrick Courbon","Alain David","Arthur Delaporte","Stéphane Delautrette","Dieynaba Diop","Fanny Dombre Coste","Peio Dufau","Inaki Echaniz","Romain Eskenazi","Olivier Faure","Denis Fégné","Guillaume Garot","Julien Gokel","Pascale Got","Emmanuel Grégoire","Jérôme Guedj","Stéphane Hablot","Ayda Hadizadeh","Florence Herouin-Léautey","François Hollande","Marietta Karamanli","Fatiha Keloua Hachi","Gérard Leseul","Laurent Lhardit","Estelle Mercier","Philippe Naillet","Jacques Oberti","Sophie Pantel","Marc Pena","Anna Pic","Christine Pirès Beaune","Dominique Potier","Pierre Pribetich","Christophe Proença","Marie Récalde","Valérie Rossi","Claudia Rouaux","Aurélien Rousseau","Fabrice Roussel","Sandrine Runel","Sébastien Saint-Pasteur","Isabelle Santiago","Hervé Saulignac","Arnaud Simion","Thierry Sother","Céline Thiébault-Martinez","Mélanie Thomin","Roger Vicot","Jiovanny William","les membres du groupe Socialistes et apparentés"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/formation_jeunes_premiers_secours_sante_mentale"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 29 octobre 2024","Mardi 29 octobre 2024"]
-stepsStatus = ["",""]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Jeunesse","Éducation"]
 +++
 

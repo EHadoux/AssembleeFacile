@@ -1,9 +1,9 @@
 +++
 tags = ["Jeunesse", "Solidarité", "Famille"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/versement_allocations_rentree_scolaires_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 11 juillet 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 11 juillet 2025","Vendredi 11 juillet 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 date = 2025-07-11
 draft = false
 title = "Instaurer un versement automatique des allocations de rentrée scolaire aux enfants placés à leur majorité et instituer un versement de la part des allocations familiales et du revenu de solidarité active concernée aux enfants placés à leur majorité - N° 1733"

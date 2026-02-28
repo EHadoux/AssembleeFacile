@@ -4,9 +4,9 @@ draft = false
 title = "Réaliser des économies budgétaires par la suppression d'organismes - N° 814"
 auteurs = ["Blandine Brocard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/realiser_economies_budgetaires_suppression_organismes"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Budget","Décentralisation","Action publique"]
 +++
 

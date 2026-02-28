@@ -4,9 +4,9 @@ draft = false
 title = "Conforter le régime d’indemnisation des catastrophes naturelles et lutter contre la vulnérabilité des biens causée par les événements climatiques extrêmes - N° 1074"
 auteurs = ["Antoine Vermorel-Marques"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/conforter_regime_indemnisation_catastrophes_naturelles_lutter_contre_vulnerabilite_biens_causee_evenements_climatiques_extremes_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Écologie","Finances","Sécurité"]
 +++
 

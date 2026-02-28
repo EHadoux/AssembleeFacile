@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi relative à la lutte contre les installations illicites des gens du voyage - N° 2463"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53358"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Jeudi 11 décembre 2025","Jeudi 11 décembre 2025","Mercredi 11 février 2026"]
-stepsStatus = ["","Texte adopté ✅",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Jeudi 11 décembre 2025","Jeudi 11 décembre 2025","Jeudi 11 décembre 2025","Mercredi 11 février 2026"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois"]
 tags = ["Intérieur","Justice","Aménagement du territoire"]
 +++
 

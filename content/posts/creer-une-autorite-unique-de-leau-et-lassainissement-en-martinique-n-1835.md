@@ -4,9 +4,9 @@ draft = false
 title = "Créer une autorité unique de l’eau et de l'assainissement en Martinique - N° 1835"
 auteurs = ["Jean-Philippe Nilor"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/autorite_unique_eau_assainissement_martinique_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Outre-mer","Aménagement du territoire","Écologie"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Appréhender la diversité des violences faites aux femmes - N° 450"
 auteurs = ["Aurore Bergé"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/apprehender_diversite_violences_faites_aux_femmes"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Relations parlementaires"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Sanctionner plus sévèrement les installations illégales des gens du voyage, faciliter l’évacuation des terrains illégalement occupés et créer un délit d’habitude - N° 1413"
 auteurs = ["Éric Pauget"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/sanctionner_installations_illegales_gens_voyage_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Justice","Urbanisme"]
 +++
 

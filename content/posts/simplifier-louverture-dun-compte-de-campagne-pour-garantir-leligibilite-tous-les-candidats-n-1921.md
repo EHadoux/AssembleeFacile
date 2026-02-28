@@ -4,9 +4,9 @@ draft = false
 title = "Simplifier l’ouverture d’un compte de campagne pour garantir l’éligibilité de tous les candidats - N° 1921"
 auteurs = ["Sylvie Ferrer","Olivier Becht","Christophe Bex","Colette Capdevielle","Gabrielle Cathala","Bérenger Cernon","Sophia Chikirou","Jean-François Coulomme","Karen Erodi","Denis Fégné","Emmanuel Fernandes","Arnaud Le Gall","Stéphane Lenormand","Emmanuel Maurel","Constance de Pélichy","René Pilato","Marie Pochon","Richard Ramos","Fabrice Roussel","Danielle Simonnet","Andrée Taurinya"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/simplifier_ouverture_compte_campagne_garantir_eligibilite_tous_candidats_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Économie","Justice"]
 +++
 

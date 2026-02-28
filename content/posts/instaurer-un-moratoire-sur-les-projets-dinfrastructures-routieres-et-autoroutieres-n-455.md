@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer un moratoire sur les projets d’infrastructures routières et autoroutières - N° 455"
 auteurs = ["Christine Arrighi","Marie Pochon","Léa Balage El Mariky","Lisa Belluco","Arnaud Bonnet","Nicolas Bonnet","Emmanuel Duplessy","Marie-Charlotte Garin","Damien Girard","Steevy Gustave","Jérémie Iordanoff","Tristan Lahais","Julie Ozenne","Eva Sas","Sabrina Sebaihi","Boris Tavernier","Nicolas Thierry","Catherine Hervieu"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_moratoire_projets_autoroutes"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Écologie","Transports","Aménagement du territoire"]
 +++
 

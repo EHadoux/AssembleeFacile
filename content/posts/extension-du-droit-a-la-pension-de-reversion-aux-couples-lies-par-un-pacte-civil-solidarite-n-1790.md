@@ -4,9 +4,9 @@ draft = false
 title = "Extension du droit à la pension de réversion aux couples liés par un pacte civil de solidarité - N° 1790"
 auteurs = ["Julien Dive","Danielle Brulebois","Joël Bruneau","Hubert Brigand","Jean-Pierre Bataille","Pierre Cordier","Maud Petit","Richard Ramos","Karl Olive","Pierrick Courbon","Louise Morel","Agnès Firmin Le Bodo","Moerani Frébault","Ian Boucard","Constance de Pélichy","Karine Lebon","Véronique Riotton","Julie Delpech","Pouria Amirshahi","Claudia Rouaux","Nicolas Forissier","Anne-Sophie Ronceret","Valérie Bazin-Malgras","Virginie Duby-Muller","Violette Spillebout","Christine Pirès Beaune","Nicolas Ray","Éric Pauget","Jean-Luc Bourgeaux","Xavier Roseren","Michel Herbillon"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_extension_droit_pension_reversion_couples_pacte_civil_de_solidarite_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Solidarité","Famille","Justice"]
 +++
 

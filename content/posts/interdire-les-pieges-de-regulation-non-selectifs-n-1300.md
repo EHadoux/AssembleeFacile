@@ -4,9 +4,9 @@ draft = false
 title = "Interdire les pièges de régulation non-sélectifs - N° 1300"
 auteurs = ["Aymeric Caron","Marie-Charlotte Garin","Julie Ozenne"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdire_pieges_regulation_non_selectifs_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Biodiversité","Écologie","Justice"]
 +++
 

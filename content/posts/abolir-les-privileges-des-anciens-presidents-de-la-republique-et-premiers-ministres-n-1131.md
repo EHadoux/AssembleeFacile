@@ -4,9 +4,9 @@ draft = false
 title = "Abolir les privilèges des anciens présidents de la République et premiers ministres - N° 1131"
 auteurs = ["Gabrielle Cathala"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/abolir_privileges_anciens_presidents_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 18 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 mars 2025","Mardi 18 mars 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Finances","Fonction publique"]
 +++
 

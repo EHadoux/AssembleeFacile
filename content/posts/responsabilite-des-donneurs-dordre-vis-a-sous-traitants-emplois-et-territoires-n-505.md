@@ -4,9 +4,9 @@ draft = false
 title = "Responsabilité des donneurs d’ordre vis-à-vis des sous-traitants, des emplois et des territoires - N° 505"
 auteurs = ["Matthias Tavel","Aurélie Trouvé","Nicolas Sansu","Charles Fournier","Mickaël Bouloux","Nadège Abomangoli","Laurent Alexandre","Gabriel Amard","Ségolène Amiot","Pouria Amirshahi","Farida Amrani","Rodrigo Arenas","Raphaël Arnault","Clémentine Autain","Léa Balage El Mariky","Anaïs Belouassa-Cherifi","Édouard Bénard","Ugo Bernalicis","Christophe Bex","Carlos Martens Bilongo","Manuel Bompard","Arnaud Bonnet","Idir Boumertit","Louis Boyard","Pierre-Yves Cadalen","Aymeric Caron","Sylvain Carrière","Gabrielle Cathala","Bérenger Cernon","Sophia Chikirou","Hadrien Clouet","Éric Coquerel","Alexis Corbière","Jean-François Coulomme","Hendrik Davi","Sébastien Delogu","Aly Diouara","Peio Dufau","Alma Dufour","Karen Erodi","Romain Eskenazi","Mathilde Feld","Emmanuel Fernandes","Sylvie Ferrer","Perceval Gaillard","Marie-Charlotte Garin","Damien Girard","Clémence Guetté","David Guiraud","Zahia Hamdane","Mathilde Hignet","Émeline K/Bidi","Andy Kerbrat","Bastien Lachaud","Abdelkader Lahmar","Maxime Laisney","Arnaud Le Gall","Antoine Léaument","Élise Leboucher","Aurélien Le Coq","Jérôme Legavre","Sarah Legrain","Claire Lejeune","Murielle Lepvraud","Élisa Martin","Damien Maudet","Emmanuel Maurel","Marianne Maximi","Marie Mesmeur","Manon Meunier","Jean-Philippe Nilor","Sandrine Nosbé","Danièle Obono","Nathalie Oziol","Mathilde Panot","Stéphane Peu","René Pilato","François Piquemal","Christine Pirès Beaune","Marie Pochon","Thomas Portes","Dominique Potier","Loïc Prud'homme","Jean-Hugues Ratenon","Jean-Claude Raux","Sandra Regol","Valérie Rossi","Claudia Rouaux","François Ruffin","Arnaud Saint-Martin","Aurélien Saintoul","Eva Sas","Danielle Simonnet","Ersilia Soudais","Anne Stambach-Terrenoir","Aurélien Taché","Andrée Taurinya","Boris Tavernier","Paul Vannier","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/responsabilite_donneur_ordre_sous_traitants"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 29 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 29 octobre 2024","Mardi 29 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Économie","Travail","Industrie"]
 +++
 

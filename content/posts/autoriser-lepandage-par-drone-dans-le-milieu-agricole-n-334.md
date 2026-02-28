@@ -4,9 +4,9 @@ draft = false
 title = "Autoriser l’épandage par drone dans le milieu agricole - N° 334"
 auteurs = ["Virginie Duby-Muller","Thibault Bazin","Anne-Laure Blin","Jean-Luc Bourgeaux","Hubert Brigand","Fabrice Brun","Josiane Corneloup","Vincent Descoeur","Fabien Di Filippo","Julien Dive","Justine Gruet","Michel Herbillon","Guillaume Lepers","Véronique Louwagie","Yannick Neuder","Jérôme Nury","Christelle Petex","Nicolas Ray","Raphaël Schellenberger"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/autoriser_epandage_drone_milieu_agricole"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Agriculture","Écologie","Ruralité"]
 +++
 

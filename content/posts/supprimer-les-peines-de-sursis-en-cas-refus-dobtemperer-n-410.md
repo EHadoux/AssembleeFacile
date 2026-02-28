@@ -4,9 +4,9 @@ draft = false
 title = "Supprimer les peines de sursis en cas de refus d’obtempérer - N° 410"
 auteurs = ["Ian Boucard","Justine Gruet","Virginie Duby-Muller","Fabien Di Filippo","Éric Pauget","Pierre Cordier","Valérie Bazin-Malgras","Fabrice Brun","Corentin Le Fur","Hubert Brigand","Josiane Corneloup","Jean-Pierre Taite","Christelle Petex","Sylvie Bonnet","Jean-Luc Bourgeaux","Émilie Bonnivard","Nicolas Ray","Michel Herbillon","Jean-Didier Berger","Jean-Pierre Vigier","Thibault Bazin","Yannick Neuder","Véronique Louwagie","Vincent Descoeur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/supprimer_sursis_refus_obtemperer"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Justice","Action publique"]
 +++
 

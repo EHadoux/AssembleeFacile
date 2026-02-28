@@ -4,9 +4,9 @@ draft = false
 title = "L’intérêt des enfants - N° 1085"
 auteurs = ["Perrine Goulet","Nicole Dubré-Chirat","Béatrice Piron","Isabelle Santiago","Sophie Mette","Philippe Fait","Laure Miller","Christine Le Nabour","Stéphane Vojetta","Nathalie Colin-Oesterlé","Alexandra Martin","Ayda Hadizadeh","Olivier Serva","Soumya Bourouaha","Erwan Balanant","Anne Bergantz","Christophe Blanchet","Blandine Brocard","Laurent Croizier","Geneviève Darrieussecq","Olivier Falorni","Marina Ferrari","Jean-Carles Grelier","Sandrine Josso","Philippe Latombe","Pascal Lecamp","Delphine Lingemann","Éric Martineau","Hubert Ott","Frédéric Petit","Nicolas Turquois","Hervé Berville","Françoise Buffet","Jean-René Cazeneuve","Julie Delpech","Jean-Marie Fiévet","Moerani Frébault","Guillaume Gouffier Valente","Joséphine Missoffe","Brigitte Klinkert","Mathieu Lefèvre","Brigitte Liso","Sophie Panonacle","Véronique Riotton","Marie-Pierre Rixain","Anne-Sophie Ronceret","Violette Spillebout","Annie Vidal","Paul Christophe","Lise Magnier","Xavier Lacombe","Naïma Moutchou","Isabelle Rauch","Nicolas Ray","Jean-Pierre Taite","Joël Bruneau","Constance de Pélichy","Salvatore Castiglione","Paul Molac","David Taupiac","Stéphane Viry","Michel Castellani","Colette Capdevielle","Romain Eskenazi","Denis Fégné","Christine Pirès Beaune","Claudia Rouaux","Karine Lebon","Mereana Reid Arbelot","Sacha Houlié"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interet_des_enfants_17"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025","Mardi 11 mars 2025","Jeudi 29 janvier 2026"]
+stepsStatus = ["","Commission des affaires sociales","Texte adopté ✔️","Commission des affaires sociales (Sénat)"]
 tags = ["Famille","Justice","Solidarité"]
 +++
 

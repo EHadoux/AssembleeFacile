@@ -4,9 +4,9 @@ draft = false
 title = "Verser l’allocation de rentrée scolaire sous forme d’un titre spécial de paiement - N° 202"
 auteurs = ["Pierre Cordier","Anne-Laure Blin","Sylvie Bonnet","Émilie Bonnivard","Hubert Brigand","François-Xavier Ceccoli","Fabien Di Filippo","Annie Genevard","Philippe Gosselin","Justine Gruet","Michel Herbillon","Véronique Louwagie","Alexandra Martin","Frédérique Meunier","Yannick Neuder","Éric Pauget","Christelle Petex","Nicolas Ray","Michèle Tabarot","Jean-Pierre Taite","Jean-Pierre Vigier","Thibault Bazin","Guillaume Lepers"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/verser_allocation_rentree_titre_special_paiement"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Famille","Éducation","Solidarité"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi expérimentant l’encadrement des loyers et améliorant l’habitat dans les outre-mer - N° 1034"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51115"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Promulgation de la loi"]
-stepsDate = ["Mardi 10 décembre 2024","Mardi 10 décembre 2024","Jeudi 6 mars 2025","Vendredi 13 juin 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale","Promulgation de la loi"]
+stepsDate = ["Mardi 10 décembre 2024","Mardi 10 décembre 2024","Mardi 10 décembre 2024","Jeudi 6 mars 2025","Jeudi 6 mars 2025","Vendredi 13 juin 2025"]
+stepsStatus = ["","Commission des affaires économiques (Sénat)","Texte adopté ✔️","Commission des affaires économiques","Texte adopté ✔️",""]
 tags = ["Logement","Outre-mer","Urbanisme"]
 +++
 

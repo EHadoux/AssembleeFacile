@@ -4,9 +4,9 @@ draft = false
 title = "Mieux accompagner les trois premiers mois de grossesse - N° 804"
 auteurs = ["Christelle D'Intorni","Alexandre Allegret-Pilot","Charles Alloncle","Bernard Chaix","Marc Chavent","Hanane Mansouri","Sophie Ricourt Vaginay"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/mieux_accompagner_premiers_mois_grossesse"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Droits des femmes","Travail"]
 +++
 

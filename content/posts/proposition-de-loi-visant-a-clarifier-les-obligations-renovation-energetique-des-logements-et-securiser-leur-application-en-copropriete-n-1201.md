@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à clarifier les obligations de rénovation énergétique des logements et à sécuriser leur application en copropriété - N° 1201"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51486"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 11 février 2025","Mardi 11 février 2025","Mardi 1er avril 2025"]
-stepsStatus = ["","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Mardi 11 février 2025","Mardi 11 février 2025","Mardi 11 février 2025","Mardi 1 avril 2025"]
+stepsStatus = ["","Commission des affaires économiques (Sénat)","Texte adopté ✔️","Commission des affaires économiques"]
 tags = ["Logement","Écologie","Urbanisme"]
 +++
 

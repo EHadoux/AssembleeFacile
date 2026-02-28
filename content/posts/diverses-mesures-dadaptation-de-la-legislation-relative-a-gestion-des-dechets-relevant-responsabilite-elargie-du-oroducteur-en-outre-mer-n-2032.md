@@ -4,9 +4,9 @@ draft = false
 title = "Diverses mesures d'adaptation de la législation relative à la gestion des déchets relevant de la responsabilité élargie du oroducteur en outre-mer - N° 2032"
 auteurs = ["Jiovanny William"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/mesures_adaptation_legislation_gestion_dechets_responsabilite_elargie_oroducteur_outre_mer_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 28 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Outre-mer","Écologie","Santé"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Pour diagnostiquer et soigner plus tôt et plus vite les troubles psychiatriques - N° 1918"
 auteurs = ["Philippe Fait"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/diagnostic_soins_troubles_psychiatriques_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Action publique"]
 +++
 

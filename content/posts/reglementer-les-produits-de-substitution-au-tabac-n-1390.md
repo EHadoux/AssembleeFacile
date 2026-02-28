@@ -4,9 +4,9 @@ draft = false
 title = "Réglementer les produits de substitution au tabac - N° 1390"
 auteurs = ["Ludovic Mendes"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reglementer_produits_substitution_tabac"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Économie","Commerce"]
 +++
 

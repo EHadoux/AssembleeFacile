@@ -4,9 +4,9 @@ draft = false
 title = "Réduire la non exécution et les délais d'exécution des mesures de protection des enfants en danger - N° 1145"
 auteurs = ["Alma Dufour","Ugo Bernalicis","Marianne Maximi"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reduire_non_execution_delais_execution_mesures_protection_enfants_en_danger_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 18 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 mars 2025","Mardi 18 mars 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Famille","Solidarité"]
 +++
 

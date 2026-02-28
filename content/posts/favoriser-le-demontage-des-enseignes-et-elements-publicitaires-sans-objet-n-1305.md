@@ -4,9 +4,9 @@ draft = false
 title = "Favoriser le démontage des enseignes et des éléments publicitaires sans objet - N° 1305"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/demontage_enseignes_publicitaires_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Urbanisme","Aménagement du territoire","Économie"]
 +++
 

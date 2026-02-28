@@ -1,9 +1,9 @@
 +++
 tags = ["Santé", "Handicap", "Vie associative"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/valoriser_bienfaits_liens_animaux_humains_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 11 juillet 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 11 juillet 2025","Vendredi 11 juillet 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 date = 2025-07-11
 draft = false
 title = "Valoriser les bienfaits du lien animaux-humains - N° 1726"

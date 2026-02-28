@@ -4,9 +4,9 @@ draft = false
 title = "Rendre le processus d'évaluation des compétences médicales des praticiens à diplôme hors Union européenne plus juste et transparent - N° 1308"
 auteurs = ["Romain Eskenazi"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/evaluation_competences_medicales_hors_ue_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Emploi","Discriminations"]
 +++
 

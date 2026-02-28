@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer l’enseignement à la défense nationale dans le cadre du parcours de citoyenneté - N° 2385"
 auteurs = ["Christophe Blanchet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_enseignement_defense_nationale_dans_parcours_citoyennete_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 27 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Mardi 27 janvier 2026","Mardi 27 janvier 2026","Mardi 27 janvier 2026"]
+stepsStatus = ["","Commission des affaires culturelles",""]
 tags = ["Défense","Éducation","Sécurité"]
 +++
 

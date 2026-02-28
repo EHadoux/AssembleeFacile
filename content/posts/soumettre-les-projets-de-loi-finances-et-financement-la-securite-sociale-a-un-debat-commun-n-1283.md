@@ -4,9 +4,9 @@ draft = false
 title = "Soumettre les projets de loi de finances et de loi de financement de la sécurité sociale à un débat commun - N° 1283"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/soumettre_projets_loi_finances_et_loi_financement_securite_sociale_debat_commun_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mercredi 16 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mercredi 16 avril 2025","Mercredi 16 avril 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Budget","Finances","Relations parlementaires"]
 +++
 

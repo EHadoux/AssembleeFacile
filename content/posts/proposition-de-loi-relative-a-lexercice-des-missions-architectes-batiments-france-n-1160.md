@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi relative à l’exercice des missions des architectes des Bâtiments de France - N° 1160"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51077"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Lundi 9 décembre 2024","Lundi 9 décembre 2024","Jeudi 20 mars 2025"]
-stepsStatus = ["","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Lundi 9 décembre 2024","Lundi 9 décembre 2024","Lundi 9 décembre 2024","Jeudi 20 mars 2025"]
+stepsStatus = ["","Commission des affaires étrangères (Sénat)","Texte adopté ✔️","Commission des affaires culturelles"]
 tags = ["Urbanisme","Patrimoine","Action publique"]
 +++
 

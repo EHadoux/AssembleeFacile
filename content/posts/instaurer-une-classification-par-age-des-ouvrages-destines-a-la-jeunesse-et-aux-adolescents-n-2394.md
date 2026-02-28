@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer une classification par âge des ouvrages destinés à la jeunesse et aux adolescents - N° 2394"
 auteurs = ["Julien Guibert","Philippe Ballard","Christophe Barthès","Guillaume Bigot","Emmanuel Blairy","Sophie Blanc","Pascale Bordes","Manon Bouquin","Jérôme Buisson","Christelle D'Intorni","Alexandre Dufosset","Auguste Evrard","Frédéric Falcon","Emmanuel Fouquart","Julien Gabarron","Stéphanie Galzy","Jonathan Gery","Florence Goulet","Géraldine Grangier","Monique Griseti","Michel Guiniot","Jordan Guitton","Marine Hamelet","Sébastien Humbert","Laurent Jacobelli","Alexis Jolly","Tiffany Joncour","Florence Joubert","Julie Lechanteux","Nadine Lechon","Hervé de Lépinau","René Lioret","David Magnier","Patrice Martin","Michèle Martinez","Kévin Mauvieux","Yaël Ménaché","Julien Odoul","Kévin Pfeffer","Lisette Pollet","Angélique Ranc","Julien Rancoule","Catherine Rimbert","Emeric Salmon","Emmanuel Taché de la Pagerie","Thierry Tesson","Antoine Villedieu","Frédéric-Pierre Vos","Frédéric Weber"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_classification_par_age_ouvrages_destines_jeunesse_adolescents_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 27 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 27 janvier 2026","Mardi 27 janvier 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Jeunesse","Culture"]
 +++
 

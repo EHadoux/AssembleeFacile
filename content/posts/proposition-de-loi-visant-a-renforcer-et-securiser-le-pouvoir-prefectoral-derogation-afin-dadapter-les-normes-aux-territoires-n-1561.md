@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à renforcer et sécuriser le pouvoir préfectoral de dérogation afin d'adapter les normes aux territoires - N° 1561"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51796"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Jeudi 27 mars 2025","Jeudi 27 mars 2025","Mercredi 11 juin 2025"]
-stepsStatus = ["","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Jeudi 27 mars 2025","Jeudi 27 mars 2025","Jeudi 27 mars 2025","Mercredi 11 juin 2025"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois"]
 tags = ["Action publique","Décentralisation","Aménagement du territoire"]
 +++
 

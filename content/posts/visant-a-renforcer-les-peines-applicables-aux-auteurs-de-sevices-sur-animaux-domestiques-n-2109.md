@@ -4,9 +4,9 @@ draft = false
 title = "visant à renforcer les peines applicables aux auteurs de sévices sur les animaux domestiques - N° 2109"
 auteurs = ["François-Xavier Ceccoli"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_peines_applicables_auteurs_sevices_animaux_domestiques_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 18 novembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Sécurité","Action publique"]
 +++
 

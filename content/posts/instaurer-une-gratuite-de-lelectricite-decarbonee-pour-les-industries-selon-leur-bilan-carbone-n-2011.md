@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer une gratuité de l’électricité décarbonée pour les industries selon leur bilan carbone - N° 2011"
 auteurs = ["Marc Chavent"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/gratuite_electricite_decarbonnee_industries_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 28 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Écologie","Industrie","Énergie"]
 +++
 

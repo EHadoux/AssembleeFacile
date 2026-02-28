@@ -4,9 +4,9 @@ draft = false
 title = "Autoriser l'épandage de produits phytopharmaceutiques par drone - N° 223"
 auteurs = ["Valérie Bazin-Malgras","Hubert Brigand","François-Xavier Ceccoli","Fabien Di Filippo","Frédérique Meunier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/epandage_drone2"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Agriculture","Écologie","Numérique"]
 +++
 

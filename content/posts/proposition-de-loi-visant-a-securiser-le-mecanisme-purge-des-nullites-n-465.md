@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à sécuriser le mécanisme de purge des nullités - N° 465"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N50082"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Promulgation de la loi"]
-stepsDate = ["Mardi 4 juin 2024","Mardi 4 juin 2024","Jeudi 17 octobre 2024","Mardi 26 novembre 2024"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale","Promulgation de la loi"]
+stepsDate = ["Mardi 4 juin 2024","Mardi 4 juin 2024","Mardi 4 juin 2024","Jeudi 17 octobre 2024","Jeudi 17 octobre 2024","Mardi 26 novembre 2024"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Texte adopté ✔️",""]
 tags = ["Justice","Droits des femmes","Sécurité"]
 +++
 

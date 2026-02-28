@@ -4,9 +4,9 @@ draft = false
 title = "Rendre obligatoire le casier vierge pour les candidats à une élection locale - N° 454"
 auteurs = ["Olivier Marleix","Thibault Bazin","Hubert Brigand","Michel Herbillon","Véronique Louwagie","Alexandra Martin","Nicolas Ray"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_obligatoire_casier_vierge_candidats_election_locale"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Action publique","Relations parlementaires"]
 +++
 

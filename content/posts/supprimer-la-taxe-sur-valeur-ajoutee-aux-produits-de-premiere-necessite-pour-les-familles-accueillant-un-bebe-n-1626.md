@@ -5,9 +5,9 @@ draft = false
 title = "Supprimer la taxe sur la valeur ajoutée aux produits de première nécessité pour les familles accueillant un bébé - N° 1626"
 auteurs = ["Caroline Parmentier","Frédéric Boccaletti","Sandra Delannoy","Marine Hamelet","Tiffany Joncour","Angélique Ranc","Catherine Rimbert","Béatrice Roullaud"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/supprimer_taxe_sur_la_valeur_ajoutee_produits_premiere_necessite_pour_familles_accueillant_un_bebe_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 24 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 24 juin 2025","Mardi 24 juin 2025"]
+stepsStatus = ["","Commission des finances"]
 +++
 
 ## Résumé

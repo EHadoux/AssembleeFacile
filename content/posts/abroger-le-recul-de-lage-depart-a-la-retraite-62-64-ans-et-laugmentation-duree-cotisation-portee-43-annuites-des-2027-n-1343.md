@@ -4,9 +4,9 @@ draft = false
 title = "Abroger le recul de l’âge de départ à la retraite de 62 à 64 ans et l’augmentation de la durée de cotisation portée à 43 annuités dès 2027 - N° 1343"
 auteurs = ["Stéphane Peu"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/abroger_recul_depart_retraite_62_64_augmentation_duree_cotisation_portee_43_annuites_2027_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 22 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 22 avril 2025","Mardi 22 avril 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Travail","Solidarité","Finances"]
 +++
 

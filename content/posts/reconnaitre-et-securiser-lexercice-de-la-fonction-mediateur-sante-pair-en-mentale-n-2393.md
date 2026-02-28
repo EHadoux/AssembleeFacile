@@ -4,9 +4,9 @@ draft = false
 title = "Reconnaître et sécuriser l’exercice de la fonction de médiateur de santé-pair en santé mentale - N° 2393"
 auteurs = ["Sébastien Saint-Pasteur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconnaitre_securiser_exercice_fonction_mediateur_sante_pair_sante_mentale_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 27 janvier 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 27 janvier 2026","Mardi 27 janvier 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Solidarité","Travail"]
 +++
 

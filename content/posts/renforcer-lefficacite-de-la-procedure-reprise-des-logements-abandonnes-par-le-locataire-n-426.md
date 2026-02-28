@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer l’efficacité de la procédure de reprise des logements abandonnés par le locataire - N° 426"
 auteurs = ["Romain Daubié","Didier Le Gac","Thibault Bazin","Yannick Favennec-Bécot","Violette Spillebout","Delphine Lingemann","Christophe Blanchet","Graziella Melchior","Philippe Bolo","Xavier Roseren","Jean-Pierre Bataille","Josiane Corneloup","Anne Le Hénanff","Nicolas Ray","Richard Ramos","Laurent Croizier","Ian Boucard","Charles Rodwell","Béatrice Piron","Jean Laussucq","Mereana Reid Arbelot","Christophe Naegelen","Isabelle Rauch","Hubert Ott","Jean-François Rousset","Louise Morel","Pascal Lecamp","Lise Magnier","Sylvain Berrios","Henri Alfandari","Félicie Gérard","Laurent Mazaury","Caroline Yadan","les membres du groupe Les Démocrates","Stéphane Viry","Virginie Duby-Muller","Vincent Thiébaut","Erwan Balanant"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_efficacite_procedure_reprise_logements_abandonnes_locataire"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Économie","Justice"]
 +++
 

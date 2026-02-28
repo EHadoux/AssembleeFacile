@@ -5,9 +5,9 @@ draft = false
 title = "Rendre le plan d’épargne en action plus attractif - N° 1627"
 auteurs = ["Éric Ciotti","Alexandre Allegret-Pilot","Charles Alloncle","Brigitte Barèges","Matthieu Bloch","Bernard Chaix","Marc Chavent","Christelle D'Intorni","Olivier Fayssat","Bartolomé Lenoir","Maxime Michelet","Éric Michoux","Vincent Trébuchet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_PEA_attractif_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 24 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 24 juin 2025","Mardi 24 juin 2025"]
+stepsStatus = ["","Commission des finances"]
 +++
 
 ## Résumé

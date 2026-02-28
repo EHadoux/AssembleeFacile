@@ -4,9 +4,9 @@ draft = false
 title = "Interdire les euthanasies dites de convenance des chiens et des chats - N° 1299"
 auteurs = ["Aymeric Caron"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdire_euthanasie_convenance_17"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Santé","Écologie","Vie associative"]
 +++
 

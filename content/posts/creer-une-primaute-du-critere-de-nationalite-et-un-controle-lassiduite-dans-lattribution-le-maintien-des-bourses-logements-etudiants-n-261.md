@@ -4,9 +4,9 @@ draft = false
 title = "Créer une primauté du critère de nationalité et un contrôle de l’assiduité dans l’attribution et le maintien des bourses et logements étudiants - N° 261"
 auteurs = ["Philippe Ballard","Franck Allisio","Anchya Bamana","Romain Baubry","José Beaurain","Frédéric Boccaletti","Jérôme Buisson","Sébastien Chenu","Jocelyn Dessigny","Edwige Diaz","Sandrine Dogor-Such","Gaëtan Dussausaye","Christine Engrand","Emmanuel Fouquart","Stéphanie Galzy","Christian Girard","Marine Hamelet","Sébastien Humbert","Sylvie Josserand","Florence Joubert","Hélène Laporte","Laure Lavalette","Robert Le Bourgeois","Julie Lechanteux","Nadine Lechon","Hervé de Lépinau","Julien Limongi","René Lioret","David Magnier","Claire Marais-Beuil","Michèle Martinez","Alexandra Masson","Joëlle Mélin","Yaël Ménaché","Pierre Meurin","Julien Rancoule","Catherine Rimbert","Philippe Schreck","Lionel Tivoli","Frédéric Weber","Bénédicte Auzanot","Emmanuel Blairy","Sophie Blanc","Pascale Bordes","Roger Chudeau","Nathalie Da Conceicao Carvalho","Frédéric Falcon","Frank Giletti","Jordan Guitton","Timothée Houssin","Laurent Jacobelli","Gisèle Lelouis","Katiana Levavasseur","Christine Loir","Marie-France Lorho","Matthieu Marchio","Bryan Masson","Julien Odoul","Kévin Pfeffer","Lisette Pollet","Stéphane Rambaud","Laurence Robert-Dehault","Emeric Salmon","Antoine Villedieu","Christophe Barthès","Christophe Bentz","Caroline Colombier","Thierry Frappé","José Gonzalez","Florence Goulet","Géraldine Grangier","Michel Guiniot","Alexis Jolly","Aurélien Lopez-Liguori","Kévin Mauvieux","Nicolas Meizonnet","Thomas Ménagé","Serge Muller","Angélique Ranc","Alexandre Sabatou","Emmanuel Taché de la Pagerie","Michaël Taverne","Marc Chavent","Aurélien Dutremble","Olivier Fayssat","Pascal Jenft","Sophie-Laurence Roy","Théo Bernhardt","Patrice Martin","Manon Bouquin","Bruno Clavet","Antoine Golliot","Anthony Boulogne","Alexandre Dufosset","Eddy Casterman","Thibaut Monnier","Anne Sicard","Béatrice Roullaud","Auguste Evrard","Sandra Delannoy","Christelle D'Intorni","Marc de Fleurian","Thierry Perez"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/nationalite_assiduite_bourses_logements_etudiants"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Jeunesse","Solidarité"]
 +++
 

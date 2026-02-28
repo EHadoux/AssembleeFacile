@@ -4,9 +4,9 @@ draft = false
 title = "Permettre le développement des installations photovoltaïques en milieu rural et sur l'ensemble du territoire - N° 816"
 auteurs = ["Blandine Brocard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/permettre_developpement_installations_photovoltaiques_rural_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Énergie","Ruralité","Urbanisme"]
 +++
 

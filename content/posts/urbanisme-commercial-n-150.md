@@ -4,9 +4,9 @@ draft = false
 title = "Urbanisme commercial - N° 150"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/urbanisme_commercial"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale","Deuxième lecture à l'Assemblée nationale"]
-stepsDate = ["Lundi 3 mai 2010","Lundi 3 mai 2010","Mercredi 16 juin 2010","Vendredi 1er avril 2011","Lundi 2 juillet 2012","Jeudi 6 juillet 2017","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
-stepsStatus = ["","","Texte adopté ✔️","","","","",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Lundi 3 mai 2010","Lundi 3 mai 2010","Lundi 3 mai 2010","Mercredi 16 juin 2010","Mercredi 16 juin 2010","Vendredi 1 avril 2011","Lundi 2 juillet 2012","Jeudi 6 juillet 2017","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des affaires économiques","Texte adopté ✔️","En commission","Texte modifié","Commission des affaires économiques","Commission des affaires économiques","Commission des affaires économiques","Commission des affaires économiques","Commission des affaires économiques"]
 tags = ["Urbanisme","Commerce","Aménagement du territoire"]
 +++
 

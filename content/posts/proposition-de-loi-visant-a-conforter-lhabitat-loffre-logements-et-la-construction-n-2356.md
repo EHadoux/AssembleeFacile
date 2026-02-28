@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à conforter l’habitat, l’offre de logements et la construction - N° 2356"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53292"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Vendredi 28 novembre 2025","Vendredi 28 novembre 2025","Mardi 20 janvier 2026"]
-stepsStatus = ["","Texte adopté ✅",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Vendredi 28 novembre 2025","Vendredi 28 novembre 2025","Vendredi 28 novembre 2025","Mardi 20 janvier 2026"]
+stepsStatus = ["","Commission des affaires économiques (Sénat)","Texte adopté ✔️","Commission des affaires économiques"]
 tags = ["Logement","Urbanisme","Décentralisation"]
 +++
 

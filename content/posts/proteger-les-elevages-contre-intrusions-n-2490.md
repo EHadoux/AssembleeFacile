@@ -4,9 +4,9 @@ draft = false
 title = "Protéger les élevages contre les intrusions - N° 2490"
 auteurs = ["Corentin Le Fur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_elevages_contre_intrusions_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 février 2026"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 février 2026","Mardi 17 février 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Agriculture","Justice","Sécurité"]
 +++
 

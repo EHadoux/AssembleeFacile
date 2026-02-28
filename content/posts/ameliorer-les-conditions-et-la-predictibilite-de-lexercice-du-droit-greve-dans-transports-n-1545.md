@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer les conditions et la prédictibilité de l’exercice du droit de grève dans les transports - N° 1545"
 auteurs = ["Mathieu Lefèvre"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ameliorer_exercice_droit_de_greve_dans_transports_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 10 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 10 juin 2025","Mardi 10 juin 2025"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Transports","Fonction publique","Travail"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Maintien des compétences « eau » et « assainissement » dans les compétences facultatives des communautés de communes situées en zone de montagne - N° 346"
 auteurs = ["Jean-Pierre Vigier","Thibault Bazin","Sylvie Bonnet","Émilie Bonnivard","Jean-Luc Bourgeaux","Hubert Brigand","François-Xavier Ceccoli","Josiane Corneloup","Vincent Descoeur","Virginie Duby-Muller","Annie Genevard","Michel Herbillon","Alexandre Portier","Jean-Pierre Taite"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/competences_eau_assainissement_communes_montagne"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Aménagement du territoire","Ruralité","Décentralisation"]
 +++
 

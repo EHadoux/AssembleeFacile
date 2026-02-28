@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi organique visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité - N° 1106"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50579"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Conseil constitutionnel","Promulgation de la loi"]
-stepsDate = ["Lundi 7 octobre 2024","Lundi 7 octobre 2024","Mercredi 12 mars 2025","Mardi 15 avril 2025","Mercredi 21 mai 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️","Conforme",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale","Conseil constitutionnel","Promulgation de la loi"]
+stepsDate = ["Lundi 7 octobre 2024","Lundi 7 octobre 2024","Lundi 7 octobre 2024","Mercredi 12 mars 2025","Mercredi 12 mars 2025","Mardi 15 avril 2025","Mercredi 21 mai 2025"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Texte adopté ✔️","Conforme",""]
 tags = ["Action publique","Décentralisation","Droits des femmes"]
 +++
 

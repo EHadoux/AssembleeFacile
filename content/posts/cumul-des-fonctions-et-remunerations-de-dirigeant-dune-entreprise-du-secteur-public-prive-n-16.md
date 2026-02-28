@@ -4,9 +4,9 @@ draft = false
 title = "Cumul des fonctions et rémunérations de dirigeant d'une entreprise du secteur public et privé - N° 16"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/cumul_remunerations_entreprises"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 6 octobre 2009","Mardi 6 octobre 2009","Jeudi 19 novembre 2009","Lundi 2 juillet 2012","Jeudi 6 juillet 2017","Vendredi 8 juillet 2022","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","","","","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Mardi 6 octobre 2009","Mardi 6 octobre 2009","Mardi 6 octobre 2009","Jeudi 19 novembre 2009","Lundi 2 juillet 2012","Jeudi 6 juillet 2017","Vendredi 8 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des finances","Commission des finances","Commission des finances","Commission des finances","Commission des finances"]
 tags = ["Action publique","Économie","Fonction publique"]
 +++
 

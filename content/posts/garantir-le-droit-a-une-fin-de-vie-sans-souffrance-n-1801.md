@@ -4,9 +4,9 @@ draft = false
 title = "Garantir le droit à une fin de vie sans souffrance - N° 1801"
 auteurs = ["Philippe Juvin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_droit_fin_de_vie_sans_souffrance_XVIIe"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 septembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Solidarité","Droits des femmes"]
 +++
 

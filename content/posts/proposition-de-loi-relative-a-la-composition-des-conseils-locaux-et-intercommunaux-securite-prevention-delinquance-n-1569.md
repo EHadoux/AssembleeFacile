@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi relative à la composition des conseils locaux et intercommunaux de sécurité et de prévention de la délinquance - N° 1569"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50209"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Jeudi 25 juillet 2024","Jeudi 25 juillet 2024","Jeudi 12 juin 2025"]
-stepsStatus = ["","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Jeudi 25 juillet 2024","Jeudi 25 juillet 2024","Jeudi 25 juillet 2024","Jeudi 12 juin 2025"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois"]
 tags = ["Sécurité","Décentralisation","Action publique"]
 +++
 

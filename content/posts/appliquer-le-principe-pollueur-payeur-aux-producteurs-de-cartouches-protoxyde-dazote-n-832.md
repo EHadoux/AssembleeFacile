@@ -4,9 +4,9 @@ draft = false
 title = "Appliquer le principe « pollueur payeur » aux producteurs de cartouches de protoxyde d’azote - N° 832"
 auteurs = ["Laurent Croizier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/pollueur_payeur_protoxyde_azote_17"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Écologie","Environnement","Déchets"]
 +++
 

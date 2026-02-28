@@ -4,9 +4,9 @@ draft = false
 title = "Modifier l’article 8 de la Constitution afin d’encadrer la nomination des membres du Gouvernement - N° 293"
 auteurs = ["Farida Amrani"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/modifier_article8_constitution_encadrer_nomination_gouvernement"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mercredi 25 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mercredi 25 septembre 2024","Mercredi 25 septembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Relations parlementaires","Justice"]
 +++
 

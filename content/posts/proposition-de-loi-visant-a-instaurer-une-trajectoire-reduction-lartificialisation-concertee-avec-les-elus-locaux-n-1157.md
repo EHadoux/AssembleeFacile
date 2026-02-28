@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à instaurer une trajectoire de réduction de l'artificialisation concertée avec les élus locaux - N° 1157"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50850"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Jeudi 7 novembre 2024","Jeudi 7 novembre 2024","Mercredi 19 mars 2025"]
-stepsStatus = ["","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Jeudi 7 novembre 2024","Jeudi 7 novembre 2024","Jeudi 7 novembre 2024","Mercredi 19 mars 2025"]
+stepsStatus = ["","Commission des affaires économiques (Sénat)","Texte adopté ✔️","Commission du développement durable"]
 tags = ["Aménagement du territoire","Écologie","Urbanisme"]
 +++
 

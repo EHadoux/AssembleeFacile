@@ -4,9 +4,9 @@ draft = false
 title = "Création d'un statut de vétéran - N° 1391"
 auteurs = ["Jean-Pierre Taite","Sylvie Bonnet","Fabrice Brun","Josiane Corneloup","Marie-Christine Dalloz","Sylvie Dezarnaud","Julien Dive","Michel Herbillon","Corentin Le Fur","Alexandre Portier","Nicolas Ray","Vincent Rolland","Jean-Pierre Vigier","Thibault Bazin","Vincent Descoeur","Hubert Brigand"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/creation_statut_veteran_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 13 mai 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 mai 2025","Mardi 13 mai 2025"]
+stepsStatus = ["","Commission de la défense"]
 tags = ["Armées","Solidarité","Fonction publique"]
 +++
 

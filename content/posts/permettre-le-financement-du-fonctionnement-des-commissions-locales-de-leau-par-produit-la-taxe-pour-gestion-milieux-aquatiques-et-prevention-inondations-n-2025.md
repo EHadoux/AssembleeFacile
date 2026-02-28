@@ -4,9 +4,9 @@ draft = false
 title = "Permettre le financement du fonctionnement des commissions locales de l’eau par le produit de la taxe pour la gestion des milieux aquatiques et la prévention des inondations - N° 2025"
 auteurs = ["Marie-Noëlle Battistel"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/permettre_financement_fonctionnement_commissions_locales_eau_par_produit_taxe_GEMAPI_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 28 octobre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Écologie","Aménagement du territoire","Finances"]
 +++
 

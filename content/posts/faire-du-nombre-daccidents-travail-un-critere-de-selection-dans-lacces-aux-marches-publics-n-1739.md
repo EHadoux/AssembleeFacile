@@ -1,9 +1,9 @@
 +++
 tags = ["Travail", "Sécurité", "Économie"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/accidents_travail_critere_selection_acces_marches_publics_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 11 juillet 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 11 juillet 2025","Vendredi 11 juillet 2025"]
+stepsStatus = ["","Commission des lois"]
 date = 2025-07-11
 draft = false
 title = "Faire du nombre d’accidents du travail un critère de sélection dans l’accès aux marchés publics - N° 1739"

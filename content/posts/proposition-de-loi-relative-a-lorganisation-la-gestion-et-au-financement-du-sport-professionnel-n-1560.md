@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi relative à l'organisation, à la gestion et au financement du sport professionnel - N° 1560"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51732"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 18 mars 2025","Mardi 18 mars 2025","Mercredi 11 juin 2025"]
-stepsStatus = ["","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Mardi 18 mars 2025","Mardi 18 mars 2025","Mardi 18 mars 2025","Mercredi 11 juin 2025"]
+stepsStatus = ["","Commission des affaires étrangères (Sénat)","Texte adopté ✔️","Commission des affaires culturelles"]
 tags = ["Sports","Économie","Numérique"]
 +++
 

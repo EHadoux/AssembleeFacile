@@ -4,9 +4,9 @@ draft = false
 title = "Permettre aux salariées et aux agents publics de bénéficier d’une autorisation d’absence annuelle pour réaliser une mammographie de dépistage du cancer du sein - N° 590"
 auteurs = ["Thibault Bazin","Sylvie Bonnet","Émilie Bonnivard","Ian Boucard","Jean-Luc Bourgeaux","Fabrice Brun","Pierre Cordier","Josiane Corneloup","Vincent Descoeur","Virginie Duby-Muller","Justine Gruet","Michel Herbillon","Corentin Le Fur","Alexandra Martin","Yannick Neuder","Jérôme Nury","Éric Pauget","Nicolas Ray","Jean-Pierre Taite"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/autorisation_absence_annuelle_mammographie_cancer_sein"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 19 novembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 19 novembre 2024","Mardi 19 novembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Droits des femmes","Travail"]
 +++
 

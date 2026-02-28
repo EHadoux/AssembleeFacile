@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à expérimenter le transfert de la compétence « médecine scolaire » aux départements volontaires - N° 138"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49005"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Jeudi 30 novembre 2023","Jeudi 30 novembre 2023","Jeudi 21 mars 2024","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Jeudi 30 novembre 2023","Jeudi 30 novembre 2023","Jeudi 30 novembre 2023","Jeudi 21 mars 2024","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Commission des lois"]
 tags = ["Santé","Éducation","Décentralisation"]
 +++
 

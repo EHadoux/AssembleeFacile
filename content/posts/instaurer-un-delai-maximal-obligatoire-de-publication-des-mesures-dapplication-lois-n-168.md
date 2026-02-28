@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer un délai maximal obligatoire de publication des mesures d'application des lois - N° 168"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/delai_application_lois"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 27 août 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 27 août 2024","Mardi 27 août 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Relations parlementaires"]
 +++
 

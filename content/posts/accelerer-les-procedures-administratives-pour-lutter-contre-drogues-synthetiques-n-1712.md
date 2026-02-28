@@ -1,9 +1,9 @@
 +++
 tags = ["Sécurité", "Justice", "Numérique"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/accelerer_procedures_administratives_lutte_drogues_synthetiques_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 11 juillet 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 11 juillet 2025","Vendredi 11 juillet 2025"]
+stepsStatus = ["","Commission des lois"]
 date = 2025-07-11
 draft = false
 title = "Accélérer les procédures administratives pour lutter contre les drogues synthétiques - N° 1712"

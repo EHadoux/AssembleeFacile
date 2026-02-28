@@ -4,9 +4,9 @@ draft = false
 title = "Promouvoir l’interconnexion ferroviaire des plateformes logistiques, le transfert modal et la transition écologique - N° 381"
 auteurs = ["Thomas Portes","Bérenger Cernon","Nadège Abomangoli","Laurent Alexandre","Gabriel Amard","Ségolène Amiot","Farida Amrani","Rodrigo Arenas","Raphaël Arnault","Anaïs Belouassa-Cherifi","Ugo Bernalicis","Christophe Bex","Carlos Martens Bilongo","Manuel Bompard","Idir Boumertit","Louis Boyard","Pierre-Yves Cadalen","Aymeric Caron","Sylvain Carrière","Gabrielle Cathala","Bérenger Cernon","Sophia Chikirou","Hadrien Clouet","Éric Coquerel","Jean-François Coulomme","Sébastien Delogu","Aly Diouara","Alma Dufour","Karen Erodi","Mathilde Feld","Emmanuel Fernandes","Sylvie Ferrer","Perceval Gaillard","Clémence Guetté","David Guiraud","Zahia Hamdane","Mathilde Hignet","Andy Kerbrat","Bastien Lachaud","Abdelkader Lahmar","Maxime Laisney","Arnaud Le Gall","Aurélien Le Coq","Antoine Léaument","Élise Leboucher","Jérôme Legavre","Sarah Legrain","Claire Lejeune","Murielle Lepvraud","Élisa Martin","Damien Maudet","Marianne Maximi","Marie Mesmeur","Manon Meunier","Jean-Philippe Nilor","Sandrine Nosbé","Danièle Obono","Nathalie Oziol","Mathilde Panot","René Pilato","François Piquemal","Thomas Portes","Hugo Prevost","Loïc Prud'homme","Jean-Hugues Ratenon","Arnaud Saint-Martin","Aurélien Saintoul","Ersilia Soudais","Anne Stambach-Terrenoir","Aurélien Taché","Andrée Taurinya","Matthias Tavel","Aurélie Trouvé","Paul Vannier","Christine Arrighi","Édouard Bénard","Arnaud Bonnet","Pierrick Courbon","Charles Fournier","Damien Girard","Jean-Paul Lecoq","Benjamin Lucas-Lundy","Sébastien Peytavie","Mereana Reid Arbelot","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interconnexion_transfert_transition"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Transports","Écologie","Économie"]
 +++
 

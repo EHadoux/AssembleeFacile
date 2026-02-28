@@ -4,9 +4,9 @@ draft = false
 title = "Réformer le mode d'élection des membres du Conseil de Paris et des conseils municipaux de Lyon et Marseille - N° 451"
 auteurs = ["Sylvain Maillard","David Amiel","Olivia Grégoire","Jean Laussucq"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reformer_mode_election_membres_Conseil_Paris"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Commission Mixte Paritaire","Nouvelle lecture à l'Assemblée nationale","Nouvelle lecture au Sénat","Lecture définitive à l'Assemblée nationale","Conseil constitutionnel","Promulgation de la loi"]
-stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024","Mercredi 9 avril 2025","Mercredi 4 juin 2025","Mardi 3 juin 2025","Mardi 8 juillet 2025","Jeudi 10 juillet 2025","Mardi 15 juillet 2025","Lundi 11 août 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte rejeté ❌","adoptée","","Texte rejeté ❌","Texte adopté ✔️","Conforme",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Commission Mixte Paritaire","Renvoi en commission","Nouvelle lecture à l'Assemblée nationale","Renvoi en commission","Nouvelle lecture au Sénat","Renvoi en commission","Lecture définitive à l'Assemblée nationale","Conseil constitutionnel","Promulgation de la loi"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024","Mardi 15 octobre 2024","Mercredi 9 avril 2025","Mercredi 9 avril 2025","Mercredi 4 juin 2025","Mardi 3 juin 2025","Mardi 3 juin 2025","Mardi 8 juillet 2025","Mardi 8 juillet 2025","Jeudi 10 juillet 2025","Jeudi 10 juillet 2025","Mardi 15 juillet 2025","Lundi 11 août 2025"]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)","Texte rejeté","Désaccord","Commission des lois","","Commission des lois (Sénat)","Texte rejeté","Commission des lois","Texte adopté ✔️","Conforme",""]
 tags = ["Décentralisation","Urbanisme","Action publique"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer l'accès au logement des travailleurs des services publics - N° 1332"
 auteurs = ["David Amiel","Antoine Armand","Hervé Berville","Florent Boudié","Lionel Causse","Jean-René Cazeneuve","Julie Delpech","Moerani Frébault","Jean-Luc Fugit","Olga Givernet","Jean Laussucq","Michel Lauzzana","Constance Le Grip","Nicole Le Peih","Marie-Pierre Rixain","Charles Sitzenstuhl","Violette Spillebout","Prisca Thevenot","Annie Vidal","Corinne Vignon","Éric Woerth","Pieyre-Alexandre Anglade","Gabriel Attal","Olivier Becht","Éric Bothorel","Maud Bregeon","Anthony Brosse","Danielle Brulebois","Stéphane Buchou","Françoise Buffet","Céline Calvez","Eléonore Caroit","Vincent Caure","Thomas Cazenave","Pierre Cazeneuve","Yannick Chenevard","François Cormier-Bouligeon","Benjamin Dirx","Nicole Dubré-Chirat","Philippe Fait","Jean-Marie Fiévet","Camille Galliard-Minier","Thomas Gassilloud","Anne Genetet","Guillaume Gouffier Valente","Olivia Grégoire","Emmanuelle Hoffman","Sébastien Huyghe","Jean-Michel Jacques","Guillaume Kasbarian","Brigitte Klinkert","Daniel Labaronne","Amélia Lakrafi","Sandrine Le Feur","Didier Le Gac","Annaïg Le Meur","Christine Le Nabour","Marie Lebec","Vincent Ledoux","Mathieu Lefèvre","Roland Lescure","Pauline Levasseur","Brigitte Liso","Sylvain Maillard","Bastien Marchive","Christophe Marion","Sandra Marsaud","Denis Masséglia","Stéphane Mazars","Graziella Melchior","Ludovic Mendes","Nicolas Metzdorf","Paul Midy","Laure Miller","Joséphine Missoffe","Karl Olive","Sophie Panonacle","Natalia Pouzyreff","Franck Riester","Véronique Riotton","Stéphanie Rist","Charles Rodwell","Anne-Sophie Ronceret","Marie-Ange Rousselot","Jean-François Rousset","Mikaele Seo","Freddy Sertin","Bertrand Sorre","Liliana Tanguy","Jean Terlier","Stéphane Travert","Stéphane Vojetta","Caroline Yadan"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/acces_logement_travailleurs_services_publics_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
-stepsStatus = ["",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025","Jeudi 17 avril 2025","Lundi 12 janvier 2026"]
+stepsStatus = ["","Commission des affaires économiques","Texte adopté ✔️","Commission des affaires économiques (Sénat)"]
 tags = ["Logement","Fonction publique","Action publique"]
 +++
 

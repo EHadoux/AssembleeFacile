@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la démocratie locale - N° 840"
 auteurs = ["Emmanuel Mandon","Erwan Balanant","Anne Bergantz","Stéphane Buchou","Julie Delpech","Philippe Fait","Olivier Falorni","Moerani Frébault","Jean-Carles Grelier","Céline Hervieu","Pascal Lecamp","Pauline Levasseur","Delphine Lingemann","Éric Martineau","Laurent Mazaury","Hubert Ott","Frédéric Petit","Béatrice Piron","Richard Ramos","Laetitia Saint-Paul","Nicole Sanquer","David Taupiac","Stéphane Viry","Lionel Vuibert"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_democratie_locale_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Décentralisation","Jeunesse","Vie associative"]
 +++
 

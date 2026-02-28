@@ -4,9 +4,9 @@ draft = false
 title = "Port des insignes de la République - N° 200"
 auteurs = ["Blandine Brocard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/port_insignes_republique"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique"]
 +++
 

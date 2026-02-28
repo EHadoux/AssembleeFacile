@@ -4,9 +4,9 @@ draft = false
 title = "Protéger la société des étrangers clandestins dangereux et faciliter leur expulsion - N° 378"
 auteurs = ["Laurent Wauquiez","Fabien Di Filippo","Thibault Bazin","Valérie Bazin-Malgras","Jean-Didier Berger","Anne-Laure Blin","Sylvie Bonnet","Émilie Bonnivard","Jean-Yves Bony","Ian Boucard","Jean-Luc Bourgeaux","Xavier Breton","Hubert Brigand","Fabrice Brun","François-Xavier Ceccoli","Pierre Cordier","Josiane Corneloup","Vincent Descoeur","Julien Dive","Virginie Duby-Muller","Nicolas Forissier","Philippe Gosselin","Justine Gruet","Michel Herbillon","Vincent Jeanbrun","Philippe Juvin","Corentin Le Fur","Guillaume Lepers","Véronique Louwagie","Olivier Marleix","Alexandra Martin","Frédérique Meunier","Yannick Neuder","Jérôme Nury","Éric Pauget","Christelle Petex","Nicolas Ray","Vincent Rolland","Michèle Tabarot","Jean-Pierre Taite","Jean-Louis Thiériot","Antoine Vermorel-Marques","Jean-Pierre Vigier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/etrangers_clandestins_expulsion"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Intérieur","Sécurité","Justice"]
 +++
 

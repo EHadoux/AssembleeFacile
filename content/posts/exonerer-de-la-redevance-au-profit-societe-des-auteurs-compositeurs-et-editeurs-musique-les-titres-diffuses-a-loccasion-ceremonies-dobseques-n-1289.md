@@ -4,9 +4,9 @@ draft = false
 title = "Exonérer de la redevance au profit de la Société des auteurs, compositeurs et éditeurs de musique, les titres diffusés à l'occasion de cérémonies d'obsèques - N° 1289"
 auteurs = ["Corentin Le Fur","Christelle Petex","Nicolas Forissier","François-Xavier Ceccoli","Fabrice Brun","Josiane Corneloup","Michel Herbillon","Alexandra Martin","Jérôme Nury","Valérie Bazin-Malgras","Ian Boucard","Nicolas Ray","Sylvie Dezarnaud","Thibault Bazin","Éric Pauget","Alexandre Portier","Virginie Duby-Muller","Eric Liégeon","Vincent Descoeur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/exonerer_redevance_profit_societe_auteurs_compositeurs_editeurs_musique_titres_diffuses_occasion_ceremonies_obseques_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Justice","Famille","Culture"]
 +++
 

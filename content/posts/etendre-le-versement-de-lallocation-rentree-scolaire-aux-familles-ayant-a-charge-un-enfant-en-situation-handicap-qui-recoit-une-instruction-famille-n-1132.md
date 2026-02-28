@@ -4,9 +4,9 @@ draft = false
 title = "Étendre le versement de l’allocation de rentrée scolaire aux familles ayant à charge un enfant en situation de handicap qui reçoit une instruction en famille - N° 1132"
 auteurs = ["Thibault Bazin","Anne-Laure Blin","Sylvie Bonnet","Ian Boucard","Jean-Luc Bourgeaux","Xavier Breton","Hubert Brigand","Pierre Cordier","Josiane Corneloup","Vincent Descoeur","Vincent Jeanbrun","Thierry Liger","Élisabeth de Maistre","Alexandra Martin","Alexandre Portier","Nicolas Ray","Antoine Vermorel-Marques","Sylvie Dezarnaud","Justine Gruet","Patrick Hetzel","Virginie Duby-Muller"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/etendre_versement-allocation_rentree_scolaire_familles_ayant_charge_enfant_situation_handicap_recoit_instruction_famille_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 18 mars 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 mars 2025","Mardi 18 mars 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Handicap","Famille","Éducation"]
 +++
 

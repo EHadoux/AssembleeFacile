@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la solidarité envers les retraités pauvres - N° 1344"
 auteurs = ["Émeline K/Bidi","Édouard Bénard","Soumya Bourouaha","Julien Brugerolles","Jean-Victor Castor","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Emmanuel Maurel","Yannick Monnet","Marcellin Nadeau","Stéphane Peu","Mereana Reid Arbelot","Davy Rimane","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_solidarite_envers_retraites_pauvres_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 22 avril 2025","Mardi 22 avril 2025"]
-stepsStatus = ["",""]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Solidarité","Outre-mer","Famille"]
 +++
 

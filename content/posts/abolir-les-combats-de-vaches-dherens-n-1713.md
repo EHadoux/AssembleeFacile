@@ -1,9 +1,9 @@
 +++
 tags = ["Agriculture", "Solidarité", "Justice"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/abolir_combats_vaches_herens_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Vendredi 11 juillet 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 11 juillet 2025","Vendredi 11 juillet 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 date = 2025-07-11
 draft = false
 title = "Abolir les combats de vaches d’Hérens - N° 1713"

@@ -4,9 +4,9 @@ draft = false
 title = "Préserver les élevages des nuisances des éoliennes - N° 585"
 auteurs = ["Corentin Le Fur","Thibault Bazin","Alexandra Martin","Jérôme Nury","Josiane Corneloup","Christelle Petex","Véronique Louwagie","Virginie Duby-Muller","Nicolas Ray","Nicolas Forissier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/preserver_elevages_nuisances_eoliennes"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 19 novembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 19 novembre 2024","Mardi 19 novembre 2024"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Agriculture","Énergie","Écologie"]
 +++
 

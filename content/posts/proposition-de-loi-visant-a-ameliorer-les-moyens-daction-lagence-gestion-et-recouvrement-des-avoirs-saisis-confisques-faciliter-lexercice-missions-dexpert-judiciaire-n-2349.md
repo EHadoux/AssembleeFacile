@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à améliorer les moyens d'action de l'Agence de gestion et de recouvrement des avoirs saisis et confisqués et à faciliter l'exercice des missions d'expert judiciaire - N° 2349"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53159"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Vendredi 14 novembre 2025","Vendredi 14 novembre 2025","Mercredi 14 janvier 2026"]
-stepsStatus = ["","Texte adopté ✅",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Vendredi 14 novembre 2025","Vendredi 14 novembre 2025","Vendredi 14 novembre 2025","Mercredi 14 janvier 2026"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois"]
 tags = ["Justice","Économie","Finances"]
 +++
 

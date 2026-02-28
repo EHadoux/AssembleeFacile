@@ -4,9 +4,9 @@ draft = false
 title = "Revenir au régime de base de l'imposition des plus-values latentes lors du transfert par les contribuables de leur domicile fiscal hors de France - N° 407"
 auteurs = ["Fabrice Brun"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/imposition_plus_values_latentes"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Budget","Finances","Économie"]
 +++
 

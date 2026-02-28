@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi portant diverses dispositions en matière de gestion des milieux aquatiques et de prévention des inondations (GEMAPI) - N° 1570"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51675"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Lundi 10 mars 2025","Lundi 10 mars 2025","Jeudi 12 juin 2025"]
-stepsStatus = ["","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Lundi 10 mars 2025","Lundi 10 mars 2025","Lundi 10 mars 2025","Jeudi 12 juin 2025"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois"]
 tags = ["Écologie","Aménagement du territoire","Décentralisation"]
 +++
 

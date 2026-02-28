@@ -4,9 +4,9 @@ draft = false
 title = "Assurer la compatibilité du statut de réserviste avec l'ensemble des dispositifs de retour à l'emploi - N° 795"
 auteurs = ["Alexandre Allegret-Pilot","Charles Alloncle","Brigitte Barèges","Sophie Blanc","Eddy Casterman","Bernard Chaix","Marc Chavent","Jocelyn Dessigny","Laurent Jacobelli","Bartolomé Lenoir","Philippe Lottiaux","Michèle Martinez","Alexandra Masson","Kévin Mauvieux","Didier Padey","Sophie Ricourt Vaginay","Joseph Rivière"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/assurer_compatibilite_reserviste_dispositifs_retour_emploi"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Emploi","Défense","Travail"]
 +++
 

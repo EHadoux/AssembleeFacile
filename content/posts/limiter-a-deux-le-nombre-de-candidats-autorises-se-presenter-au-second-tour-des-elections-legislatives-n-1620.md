@@ -4,9 +4,9 @@ draft = false
 title = "Limiter à deux le nombre de candidats autorisés à se présenter au second tour des élections législatives - N° 1620"
 auteurs = ["Jean-Louis Thiériot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/limiter_deux_candidats_legislatives_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 24 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 24 juin 2025","Mardi 24 juin 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Relations parlementaires","Justice","Action publique"]
 +++
 

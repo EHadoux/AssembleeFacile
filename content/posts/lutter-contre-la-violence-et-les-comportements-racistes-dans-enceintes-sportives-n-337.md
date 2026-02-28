@@ -4,9 +4,9 @@ draft = false
 title = "Lutter contre la violence et les comportements racistes dans les enceintes sportives - N° 337"
 auteurs = ["Virginie Duby-Muller","Jean-Luc Bourgeaux","Fabrice Brun","Josiane Corneloup","Julien Dive","Nicolas Forissier","Philippe Gosselin","Patrick Hetzel","Philippe Juvin","Guillaume Lepers","Véronique Louwagie","Olivier Marleix","Yannick Neuder","Éric Pauget","Christelle Petex","Nicolas Ray","Jean-Pierre Vigier","Ian Boucard","Valérie Bazin-Malgras","Michel Herbillon"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_contre_violence_comportements_racistes_enceintes_sportives"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 15 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sports","Sécurité","Discriminations"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Sanctionner plus lourdement les refus d'obtempérer - N° 245"
 auteurs = ["Alexandra Martin","Fabrice Brun","Alexandre Portier","Yannick Neuder","Véronique Louwagie","Valérie Bazin-Malgras","Sylvie Bonnet","Vincent Rolland","Michèle Tabarot","Nicolas Ray","Frédérique Meunier","Jean-Pierre Vigier","Fabien Di Filippo","François-Xavier Ceccoli","Thibault Bazin","Virginie Duby-Muller","Michel Herbillon","Émilie Bonnivard","Corentin Le Fur","Jean-Pierre Taite","Philippe Gosselin","Josiane Corneloup","Olivier Marleix","Philippe Juvin","Hubert Brigand"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/sanction_refus_obtemperer"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Sécurité","Action publique"]
 +++
 

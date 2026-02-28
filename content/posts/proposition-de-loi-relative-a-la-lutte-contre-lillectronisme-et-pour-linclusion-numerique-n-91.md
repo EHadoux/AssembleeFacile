@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi relative à la lutte contre l'illectronisme et pour l'inclusion numérique - N° 91"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L15N41727"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 février 2021","Mardi 16 février 2021","Jeudi 15 avril 2021","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Mardi 16 février 2021","Mardi 16 février 2021","Mardi 16 février 2021","Jeudi 15 avril 2021","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Commission des lois","Commission des lois"]
 tags = ["Numérique","Action publique","Solidarité"]
 +++
 

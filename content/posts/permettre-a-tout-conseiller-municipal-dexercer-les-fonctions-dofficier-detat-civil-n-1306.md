@@ -4,9 +4,9 @@ draft = false
 title = "Permettre à tout conseiller municipal d'exercer les fonctions d'officier d'état civil - N° 1306"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/permettre-tout_conseiller_municipal_exercer_fonctions_officier_etat_civil_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Jeudi 17 avril 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Décentralisation","Fonction publique"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Soutien plus juste aux communes rurales face aux coûts de l'archéologie préventive - N° 1619"
 auteurs = ["Lionel Vuibert"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_soutien_communes_rurales_archeologie_preventive_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 24 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 24 juin 2025","Mardi 24 juin 2025"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Ruralité","Finances","Action publique"]
 +++
 

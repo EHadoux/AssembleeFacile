@@ -4,9 +4,9 @@ draft = false
 title = "Obligations dans le domaine du service public d'eau potable - N° 48"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/service_public_eau_potable_collectivites"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 1er août 2017","Mardi 1er août 2017","Vendredi 27 octobre 2017","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Mardi 1 août 2017","Mardi 1 août 2017","Mardi 1 août 2017","Vendredi 27 octobre 2017","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission du développement durable (Sénat)","Texte adopté ✔️","Commission des lois","Commission des lois","Commission des lois"]
 tags = ["Action publique","Décentralisation","Écologie"]
 +++
 

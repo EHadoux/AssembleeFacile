@@ -4,9 +4,9 @@ draft = false
 title = "Reconnaître la responsabilité de l’État et indemniser les victimes du chlordécone - N° 1578"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/responsabilite_indemnisation_chlordecone"
-stepsName = ["Dépôt à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture au Sénat","Deuxième lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 16 janvier 2024","Mardi 16 janvier 2024","Vendredi 1er mars 2024","Jeudi 12 juin 2025"]
-stepsStatus = ["","Texte adopté ✔️","Texte adopté ✔️",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Mardi 16 janvier 2024","Mardi 16 janvier 2024","Mardi 16 janvier 2024","Vendredi 1 mars 2024","Vendredi 1 mars 2024","Jeudi 12 juin 2025"]
+stepsStatus = ["","Commission des affaires sociales","Texte adopté ✔️","Commission du développement durable (Sénat)","Texte modifié","Commission des affaires sociales"]
 tags = ["Outre-mer","Santé","Écologie"]
 +++
 

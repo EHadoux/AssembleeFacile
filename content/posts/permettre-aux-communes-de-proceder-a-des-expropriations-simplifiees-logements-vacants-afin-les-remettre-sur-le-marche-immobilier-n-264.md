@@ -4,9 +4,9 @@ draft = false
 title = "Permettre aux communes de procéder à des expropriations simplifiées des logements vacants afin de les remettre sur le marché immobilier - N° 264"
 auteurs = ["Stéphane Viry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/permettre_commune_expropriations_logements_vacants"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Logement","Ruralité","Aménagement du territoire"]
 +++
 

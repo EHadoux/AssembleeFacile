@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à la création d'une vignette « collection » pour le maintien de la circulation des véhicules d'époque - N° 89"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L15N41044"
-stepsName = ["Dépôt au Sénat","Première lecture au Sénat","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mercredi 2 décembre 2020","Mercredi 2 décembre 2020","Vendredi 12 mars 2021","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
-stepsStatus = ["","Texte adopté ✔️","","",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
+stepsDate = ["Mercredi 2 décembre 2020","Mercredi 2 décembre 2020","Mercredi 2 décembre 2020","Vendredi 12 mars 2021","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]
+stepsStatus = ["","Commission du développement durable (Sénat)","Texte adopté ✔️","Commission du développement durable","Commission du développement durable","Commission du développement durable"]
 tags = ["Transports","Écologie","Urbanisme"]
 +++
 

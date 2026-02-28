@@ -5,9 +5,9 @@ draft = false
 title = "Rendre obligatoire le port d’une arme par les policiers municipaux pour les communes de plus de 5 000 habitants - N° 1632"
 auteurs = ["Hanane Mansouri","Jonathan Gery","Kévin Mauvieux","Julie Lechanteux","Bartolomé Lenoir","Sophie Ricourt Vaginay","Sébastien Chenu","Alexandre Allegret-Pilot","Emmanuel Fouquart","Éric Michoux","Stéphanie Galzy","Olivier Fayssat","Bernard Chaix","Géraldine Grangier","Laure Lavalette","Maxime Michelet","Brigitte Barèges","Bruno Bilde","Matthieu Bloch","Marc Chavent","Serge Muller"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_obligatoire_port_arme_policiers_municipaux_communes_plus_5000_habtants_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 24 juin 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 24 juin 2025","Mardi 24 juin 2025"]
+stepsStatus = ["","Commission des lois"]
 +++
 
 ## Résumé

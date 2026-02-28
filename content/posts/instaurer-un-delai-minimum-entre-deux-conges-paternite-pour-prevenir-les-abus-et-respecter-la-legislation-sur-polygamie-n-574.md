@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer un délai minimum entre deux congés paternité pour prévenir les abus et respecter la législation sur la polygamie - N° 574"
 auteurs = ["Olivier Marleix"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_delai_minimum_conges_paternite"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 19 novembre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 19 novembre 2024","Mardi 19 novembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Famille","Droits des femmes","Justice"]
 +++
 

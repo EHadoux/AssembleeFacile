@@ -4,9 +4,9 @@ draft = false
 title = "Supprimer le Conseil économique, social et environnemental - N° 491"
 auteurs = ["Éric Ciotti","Alexandre Allegret-Pilot","Charles Alloncle","Brigitte Barèges","Matthieu Bloch","Bernard Chaix","Marc Chavent","Christelle D'Intorni","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Maxime Michelet","Éric Michoux","Vincent Trébuchet","Sophie Ricourt Vaginay","Gérault Verny"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/2suppression_CESE_again"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Lundi 28 octobre 2024"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Lundi 28 octobre 2024","Lundi 28 octobre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Budget","Finances"]
 +++
 
