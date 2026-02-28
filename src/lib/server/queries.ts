@@ -83,6 +83,7 @@ export interface DeputeDetail {
   id: string;
   nom: string;
   prenom: string;
+  civilite: string | null;
   groupe_abrev: string | null;
   photo: string | null;
   profession: string | null;
@@ -128,7 +129,7 @@ let _deputesCache: DeputeDetail[] | null = null;
 function getAllDeputesFromDb(): DeputeDetail[] {
   if (_deputesCache) return _deputesCache;
   const stmt = db.prepare(`
-		SELECT id, nom, prenom, groupe_abrev, REPLACE(id, 'PA', '') || '.jpg' AS photo, profession,
+		SELECT id, nom, prenom, civilite, groupe_abrev, REPLACE(id, 'PA', '') || '.jpg' AS photo, profession,
 		       departement_nom, departement_code, circo, mail, twitter, facebook,
 		       website, nombre_mandats, score_participation, score_participation_specialite,
 		       score_loyaute, score_majorite, date_prise_fonction
@@ -369,6 +370,41 @@ export function getDeputeVotesRich(deputeId: string): DeputeVoteRich[] {
     ORDER BY s.date_scrutin DESC
   `);
   return stmt.all(deputeId) as unknown as DeputeVoteRich[];
+}
+
+export interface DeputeVoteStats {
+  total: number;
+  pour: number;
+  contre: number;
+  abstention: number;
+  nonVotant: number;
+  absent: number;
+}
+
+/** Résumé des votes d'un député : total de scrutins disponibles et répartition par position.
+ *  Les absents sont calculés par différence (aucune ligne dans scrutin_votes_deputes).
+ *  Utilisé : `routes/auteurs/[slug]/+page.server.ts`. */
+export function getDeputeVoteStats(deputeId: string): DeputeVoteStats {
+  const row = db.prepare(`
+    SELECT
+      COUNT(s.uid)                                                        AS total,
+      SUM(CASE WHEN svd.position = 'pour'        THEN 1 ELSE 0 END)     AS pour,
+      SUM(CASE WHEN svd.position = 'contre'      THEN 1 ELSE 0 END)     AS contre,
+      SUM(CASE WHEN svd.position = 'abstention'  THEN 1 ELSE 0 END)     AS abstention,
+      SUM(CASE WHEN svd.position = 'nonVotant'   THEN 1 ELSE 0 END)     AS nonVotant
+    FROM scrutins s
+    JOIN articles a ON s.article_slug = a.slug
+    LEFT JOIN scrutin_votes_deputes svd ON svd.scrutin_uid = s.uid AND svd.acteur_ref = ?
+  `).get(deputeId) as { total: number; pour: number; contre: number; abstention: number; nonVotant: number };
+
+  return {
+    total: row.total,
+    pour: row.pour,
+    contre: row.contre,
+    abstention: row.abstention,
+    nonVotant: row.nonVotant,
+    absent: row.total - row.pour - row.contre - row.abstention - row.nonVotant,
+  };
 }
 
 /** Députés ayant le plus souvent cosigné avec le député donné (co-occurrence sur les mêmes articles).

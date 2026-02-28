@@ -67,6 +67,7 @@
 
   const totalPages = $derived(Math.ceil(data.totalPosts / AUTEUR_PER_PAGE));
   const paginatedPosts = $derived(data.posts.slice((pageNum - 1) * AUTEUR_PER_PAGE, pageNum * AUTEUR_PER_PAGE));
+
 </script>
 
 <svelte:head>
@@ -448,6 +449,73 @@
           {/if}
         {:else}
           <!-- Votes tab -->
+          <!-- Vote summary panel -->
+          {#if data.voteStats && data.voteStats.total > 0}
+            {@const s = data.voteStats}
+            {@const pctPour = Math.round((s.pour / s.total) * 100)}
+            {@const pctContre = Math.round((s.contre / s.total) * 100)}
+            {@const pctAbst = Math.round((s.abstention / s.total) * 100)}
+            {@const pctNonVotant = Math.round((s.nonVotant / s.total) * 100)}
+            {@const pctAbsent = 100 - pctPour - pctContre - pctAbst - pctNonVotant}
+            <div class="mb-5 overflow-hidden rounded-xl border border-border bg-white shadow-sm">
+              <div class="px-4 pt-4 pb-3">
+                <div class="mb-3 flex items-baseline justify-between">
+                  <span class="text-[11px] font-semibold uppercase tracking-widest text-muted-foreground">
+                    Résumé des votes
+                  </span>
+                  <span class="text-[11px] text-muted-foreground">
+                    <span class="font-bold tabular-nums text-foreground">{s.total}</span>
+                    vote{s.total > 1 ? 's' : ''} au total
+                  </span>
+                </div>
+                <div class="grid grid-cols-5 divide-x divide-border/50">
+                  <div class="px-2 py-2 text-center">
+                    <p class="text-2xl font-black tabular-nums text-green-700">{s.pour}</p>
+                    <p class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
+                      <span class="inline-block h-1.5 w-1.5 rounded-full bg-green-500"></span>Pour
+                    </p>
+                    <p class="mt-0.5 text-[10px] tabular-nums text-muted-foreground/70">{pctPour}%</p>
+                  </div>
+                  <div class="px-2 py-2 text-center">
+                    <p class="text-2xl font-black tabular-nums text-red-700">{s.contre}</p>
+                    <p class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
+                      <span class="inline-block h-1.5 w-1.5 rounded-full bg-red-500"></span>Contre
+                    </p>
+                    <p class="mt-0.5 text-[10px] tabular-nums text-muted-foreground/70">{pctContre}%</p>
+                  </div>
+                  <div class="px-2 py-2 text-center">
+                    <p class="text-2xl font-black tabular-nums text-amber-700">{s.abstention}</p>
+                    <p class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
+                      <span class="inline-block h-1.5 w-1.5 rounded-full bg-amber-400"></span>Abstention{s.abstention > 1 ? 's' : ''}
+                    </p>
+                    <p class="mt-0.5 text-[10px] tabular-nums text-muted-foreground/70">{pctAbst}%</p>
+                  </div>
+                  <div class="px-2 py-2 text-center">
+                    <p class="text-2xl font-black tabular-nums text-slate-500">{s.nonVotant}</p>
+                    <p class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
+                      <span class="inline-block h-1.5 w-1.5 rounded-full bg-slate-400"></span>Non-votant{s.nonVotant > 1 ? 's' : ''}
+                    </p>
+                    <p class="mt-0.5 text-[10px] tabular-nums text-muted-foreground/70">{pctNonVotant}%</p>
+                  </div>
+                  <div class="px-2 py-2 text-center">
+                    <p class="text-2xl font-black tabular-nums text-muted-foreground">{s.absent}</p>
+                    <p class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
+                      <span class="inline-block h-1.5 w-1.5 rounded-full bg-muted-foreground/40"></span>{data.dep?.civilite === 'Mme' ? 'Absente' : 'Absent'}
+                    </p>
+                    <p class="mt-0.5 text-[10px] tabular-nums text-muted-foreground/70">{pctAbsent}%</p>
+                  </div>
+                </div>
+              </div>
+              <!-- Distribution bar -->
+              <div class="flex h-1.5 w-full overflow-hidden">
+                {#if pctPour > 0}<div class="bg-green-500" style="width:{pctPour}%"></div>{/if}
+                {#if pctContre > 0}<div class="bg-red-500" style="width:{pctContre}%"></div>{/if}
+                {#if pctAbst > 0}<div class="bg-amber-400" style="width:{pctAbst}%"></div>{/if}
+                {#if pctNonVotant > 0}<div class="bg-slate-400" style="width:{pctNonVotant}%"></div>{/if}
+                {#if pctAbsent > 0}<div class="bg-muted-foreground/20" style="width:{pctAbsent}%"></div>{/if}
+              </div>
+            </div>
+          {/if}
           <div class="flex flex-col gap-3">
             {#each data.votes as vote}
               {@const vPour = vote.position === 'pour'}
