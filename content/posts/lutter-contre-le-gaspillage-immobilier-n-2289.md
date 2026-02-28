@@ -4,9 +4,9 @@ draft = false
 title = "Lutter contre le gaspillage immobilier - N° 2289"
 auteurs = ["Lionel Causse","Florent Boudié","Camille Galliard-Minier","Maud Petit","Véronique Riotton","Valérie Rossi","Violette Spillebout","Stéphane Travert","Annie Vidal"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_contre_gaspillage_immobilier_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 23 décembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Économie sociale et solidaire","Urbanisme"]
 +++
 

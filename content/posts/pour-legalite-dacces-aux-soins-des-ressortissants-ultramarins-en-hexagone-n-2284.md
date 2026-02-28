@@ -4,9 +4,9 @@ draft = false
 title = "Pour l’égalité d’accès aux soins des ressortissants ultramarins en hexagone - N° 2284"
 auteurs = ["Mereana Reid Arbelot","Emmanuel Tjibaou","Mikaele Seo","Édouard Bénard","Soumya Bourouaha","Julien Brugerolles","Jean-Victor Castor","Elsa Faucillon","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Emmanuel Maurel","Yannick Monnet","Marcellin Nadeau","Stéphane Peu","Davy Rimane","Nicolas Sansu","Fabrice Barusseau","Christian Baptiste","Mickaël Bouloux","Ian Boucard","Idir Boumertit","Pierre-Yves Cadalen","Elie Califer","Gabrielle Cathala","Hadrien Clouet","Josiane Corneloup","Emmanuel Fernandes","Frantz Gumbs","Clémence Guetté","David Guiraud","Ayda Hadizadeh","Florence Herouin-Léautey","Catherine Hervieu","Bastien Lachaud","Didier Le Gac","Stéphane Lenormand","Maxime Laisney","Laurent Lhardit","Lise Magnier","Élisa Martin","Nicolas Metzdorf","Paul Molac","Philippe Naillet","Jean-Philippe Nilor","Julie Ozenne","Sophie Panonacle","Sébastien Peytavie","Maud Petit","René Pilato","Christine Pirès Beaune","Cyrielle Chatelain","Jean-Hugues Ratenon","Sandrine Rousseau","Claudia Rouaux","Valérie Rossi","Jean-Louis Roumégas","Hervé Saulignac","Nicole Sanquer","Ersilia Soudais","Sabrina Sebaihi","Matthias Tavel","Andrée Taurinya","Céline Thiébault-Martinez","Paul Vannier","Corinne Vignon","Anne-Cécile Violland","Philippe Vigier","Dominique Voynet","Estelle Youssouffa"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/pour_egalite_acces_soins_ressortissants_ultramarins_hexagone_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 23 décembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Outre-mer","Santé"]
 +++
 

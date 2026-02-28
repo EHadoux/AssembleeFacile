@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer le contrôle de nos importations et faire respecter nos normes afin de mieux protéger nos consommateurs, nos entreprises et notre environnement - N° 2290"
 auteurs = ["Romain Eskenazi","Antoine Vermorel-Marques"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_controle_importations_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 23 décembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Commerce","Économie","Écologie"]
 +++
 

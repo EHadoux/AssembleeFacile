@@ -4,9 +4,9 @@ draft = false
 title = "Rendre effectifs les droits des personnes LGBTQIA, lutter contre les violences faites aux enfants intersexes et faciliter la reconnaissance du genre à l’état civil - N° 2286"
 auteurs = ["Emmanuel Grégoire","Paul Christophle","Sandrine Runel","Arthur Delaporte","Ayda Hadizadeh","Fanny Dombre Coste","Romain Eskenazi","Laurent Lhardit","Eva Sas","Denis Fégné","Stéphane Hablot","Brigitte Liso","Florence Herouin-Léautey","Inaki Echaniz"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_effectifs_droits_LGBTQIA_17e"
-stepsName = ["Dépôt à l'Assemblée nationale"]
-stepsDate = ["Mardi 23 décembre 2025"]
-stepsStatus = [""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Discriminations","Santé"]
 +++
 
