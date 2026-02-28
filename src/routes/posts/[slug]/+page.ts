@@ -1,5 +1,4 @@
 import type { PageLoad } from './$types';
-import type { Component } from 'svelte';
 import { error } from '@sveltejs/kit';
 import { postModules } from '$lib/content';
 
@@ -9,5 +8,5 @@ export const load: PageLoad = async ({ params, data }) => {
 
 	const mod = await postModules[key]();
 
-	return { ...data, component: mod.default as Component };
+	return { ...data, html: mod.default };
 };

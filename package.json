@@ -17,7 +17,8 @@
     "db:import-declarations": "tsx scripts/import-declarations.ts",
     "db:update-etapes": "tsx scripts/update-etapes.ts",
     "db:link-dossiers": "tsx scripts/link-dossiers.ts",
-    "db:import-scrutins": "tsx scripts/import-scrutins.ts"
+    "db:import-scrutins": "tsx scripts/import-scrutins.ts",
+    "build:og": "tsx scripts/build-og.ts"
   },
   "devDependencies": {
     "@fontsource/dm-sans": "^5.2.8",
@@ -51,6 +52,7 @@
   },
   "dependencies": {
     "fuse.js": "^7.1.0",
+    "marked": "^17.0.3",
     "smol-toml": "^1.6.0"
   }
 }

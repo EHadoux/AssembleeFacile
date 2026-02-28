@@ -111,7 +111,7 @@ jobs:
           git diff --staged --quiet || git commit -m "chore: update député data and article authors [skip ci]"
           git push
 
-  build:
+  build-site:
     needs: commit
     runs-on: ubuntu-latest
     permissions:
@@ -127,24 +127,58 @@ jobs:
       - run: npm ci
       - name: Build site
         run: npm run build
-      - name: Upload build artifact
+      - name: Upload site artifact
         uses: actions/upload-artifact@v4
         with:
           name: site-build
           path: build/
 
+  build-og:
+    needs: commit
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+      - name: Restore photo cache
+        uses: actions/cache@v4
+        with:
+          path: assets/og-photo-cache
+          key: og-photos-${{ hashFiles('assets/deputes-active.csv') }}
+          restore-keys: |
+            og-photos-
+      - run: npm ci
+      - name: Generate OG images
+        run: npm run build:og
+      - name: Upload OG images artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: og-images
+          path: static/og/
+
   deploy:
-    needs: build
+    needs: [build-site, build-og]
     runs-on: ubuntu-latest
     permissions:
       contents: write
     if: github.ref == 'refs/heads/master'
     steps:
-      - name: Download build artifact
+      - name: Download site artifact
         uses: actions/download-artifact@v4
         with:
           name: site-build
           path: build/
+      - name: Download OG images artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: og-images
+          path: build/og/
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:

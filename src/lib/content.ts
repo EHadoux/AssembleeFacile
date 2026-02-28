@@ -26,7 +26,7 @@ export interface PostMeta {
 
 export const postModules = import.meta.glob('../../content/posts/*.md') as Record<
 	string,
-	() => Promise<{ default: unknown; metadata: Record<string, unknown> }>
+	() => Promise<{ default: string }>
 >;
 
 /** Mirrors Hugo's urlize: lowercase, remove accents, hyphenate spaces, strip non-alpha */

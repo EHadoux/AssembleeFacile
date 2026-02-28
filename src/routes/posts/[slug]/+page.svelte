@@ -8,7 +8,7 @@
 
   let { data }: { data: PageData } = $props();
 
-  const { meta, component: Content } = $derived(data);
+  const { meta } = $derived(data);
 
   function formatDate(dateStr: string): string {
     if (!dateStr) return '';
@@ -615,7 +615,7 @@
 
       <!-- Markdown content -->
       <div class="prose">
-        <Content />
+        {@html data.html}
       </div>
     </article>
 
