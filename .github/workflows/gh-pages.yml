@@ -154,8 +154,16 @@ jobs:
           restore-keys: |
             og-photos-
       - run: npm ci
-      - name: Generate OG images
-        run: npm run build:og
+      - name: Generate OG images (parallel)
+        run: |
+          npm run build:ogmain    & PID_HOME=$!
+          npm run build:ogprop    & PID_POSTS=$!
+          npm run build:ogauteurs & PID_AUTEURS=$!
+          FAIL=0
+          wait $PID_HOME    || FAIL=1
+          wait $PID_POSTS   || FAIL=1
+          wait $PID_AUTEURS || FAIL=1
+          exit $FAIL
       - name: Upload OG images artifact
         uses: actions/upload-artifact@v4
         with:

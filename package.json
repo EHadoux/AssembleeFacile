@@ -18,7 +18,10 @@
     "db:update-etapes": "tsx scripts/update-etapes.ts",
     "db:link-dossiers": "tsx scripts/link-dossiers.ts",
     "db:import-scrutins": "tsx scripts/import-scrutins.ts",
-    "build:og": "tsx scripts/build-og.ts"
+    "build:og": "tsx scripts/build-og.ts",
+    "build:ogmain": "tsx scripts/build-og.ts --home",
+    "build:ogprop": "tsx scripts/build-og.ts --posts",
+    "build:ogauteurs": "tsx scripts/build-og.ts --auteurs"
   },
   "devDependencies": {
     "@fontsource/dm-sans": "^5.2.8",
@@ -40,6 +43,7 @@
     "fast-fuzzy": "^1.12.0",
     "mdsvex": "^0.11.2",
     "satori": "^0.19.2",
+    "sharp": "^0.34.5",
     "svelte": "^5.0.0",
     "svelte-check": "^4.0.0",
     "tailwind-merge": "^3.4.1",
