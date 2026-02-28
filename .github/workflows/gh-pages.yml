@@ -8,6 +8,7 @@ concurrency:
 
 env:
   DOSSIERS_URL: 'https://data.assemblee-nationale.fr/static/openData/repository/17/loi/dossiers_legislatifs/Dossiers_Legislatifs.json.zip'
+  SCRUTINS_URL: 'https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip'
 
 jobs:
   update-db:
@@ -33,6 +34,10 @@ jobs:
         run: curl -fsSL -o /tmp/Dossiers_Legislatifs.json.zip "$DOSSIERS_URL"
       - name: Link dossier refs to articles
         run: npm run db:link-dossiers /tmp/Dossiers_Legislatifs.json.zip
+      - name: Download scrutins
+        run: curl -fsSL -o /tmp/Scrutins.json.zip "$SCRUTINS_URL"
+      - name: Import scrutins
+        run: npm run db:import-scrutins /tmp/Dossiers_Legislatifs.json.zip /tmp/Scrutins.json.zip
       - name: Upload DB artifacts
         uses: actions/upload-artifact@v4
         with:
