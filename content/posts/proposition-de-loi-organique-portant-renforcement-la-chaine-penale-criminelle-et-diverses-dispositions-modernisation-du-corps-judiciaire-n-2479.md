@@ -2,7 +2,7 @@
 date = 2026-02-16
 draft = false
 title = "Proposition de loi organique portant renforcement de la chaîne pénale criminelle et diverses dispositions de modernisation du corps judiciaire - N° 2479"
-auteurs = ["Gérard Larcher","Le Président du Sénat"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53225"
 stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
 stepsDate = ["Jeudi 23 octobre 2025","Jeudi 23 octobre 2025","Jeudi 23 octobre 2025","Jeudi 12 février 2026"]

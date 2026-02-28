@@ -2,7 +2,7 @@
 date = 2024-07-24
 draft = false
 title = "Instances représentatives des Français établis hors de France - N° 58"
-auteurs = ["Gerard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instances_representatives_francais_etablis_hors_France"
 stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
 stepsDate = ["Mercredi 17 octobre 2018","Mercredi 17 octobre 2018","Mercredi 17 octobre 2018","Mercredi 23 janvier 2019","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]

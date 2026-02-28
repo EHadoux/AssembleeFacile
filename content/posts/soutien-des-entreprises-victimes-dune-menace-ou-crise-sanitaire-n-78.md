@@ -2,7 +2,7 @@
 date = 2024-07-25
 draft = false
 title = "Soutien des entreprises victimes d'une menace ou crise sanitaire - N° 78"
-auteurs = ["Gerard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/role_assurances_solidarite_soutien_entreprises"
 stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
 stepsDate = ["Jeudi 16 avril 2020","Jeudi 16 avril 2020","Jeudi 16 avril 2020","Mardi 2 juin 2020","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]

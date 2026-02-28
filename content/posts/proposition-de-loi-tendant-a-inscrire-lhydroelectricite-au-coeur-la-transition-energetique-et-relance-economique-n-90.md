@@ -2,7 +2,7 @@
 date = 2024-07-25
 draft = false
 title = "Proposition de loi tendant à inscrire l'hydroélectricité au coeur de la transition énergétique et de la relance économique - N° 90"
-auteurs = ["Gerard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L15N41885"
 stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission","Renvoi en commission"]
 stepsDate = ["Jeudi 25 février 2021","Jeudi 25 février 2021","Jeudi 25 février 2021","Mercredi 14 avril 2021","Mardi 12 juillet 2022","Mardi 23 juillet 2024"]

@@ -2,7 +2,7 @@
 date = 2024-07-25
 draft = false
 title = "Pour un choc de compétitivité en faveur de la ferme France - N° 114"
-auteurs = ["Gerard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N47212"
 stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Renvoi en commission"]
 stepsDate = ["Mardi 14 février 2023","Mardi 14 février 2023","Mardi 14 février 2023","Mardi 23 mai 2023","Mardi 23 juillet 2024"]
