@@ -28,10 +28,12 @@ jobs:
         run: npm run db:seed-deputes
       - name: Seed articles into database
         run: npm run db:seed-articles
-      - name: Normalise article authors
-        run: npm run db:clean-authors
       - name: Download dossiers législatifs
         run: curl -fsSL -o /tmp/Dossiers_Legislatifs.json.zip "$DOSSIERS_URL"
+      - name: Normalise article authors from ZIP
+        run: npm run db:normalize-authors-zip /tmp/Dossiers_Legislatifs.json.zip
+      - name: Normalise article authors
+        run: npm run db:clean-authors
       - name: Link dossier refs to articles
         run: npm run db:link-dossiers /tmp/Dossiers_Legislatifs.json.zip
       - name: Download scrutins

@@ -40,6 +40,18 @@ function toArray<T>(val: T | T[] | undefined): T[] {
   return Array.isArray(val) ? val : [val];
 }
 
+async function patchAuteursFrontmatter(mdPath: string, names: string[], existingContent?: string): Promise<void> {
+  const content = existingContent ?? await fs.readFile(mdPath, 'utf-8');
+  const line = `auteurs = [${names.map((n) => `"${n}"`).join(',')}]`;
+  let updated: string;
+  if (/^auteurs\s*=\s*\[/m.test(content)) {
+    updated = content.replace(/^auteurs\s*=\s*\[.*\]$/m, line);
+  } else {
+    updated = content.replace(/^\+\+\+\n/, `+++\n${line}\n`);
+  }
+  await fs.writeFile(mdPath, updated, 'utf-8');
+}
+
 const selectArticle = db.prepare('SELECT slug FROM articles WHERE numero_proposition = ? AND authors_from_an = 0');
 const selectDepute = db.prepare('SELECT id, nom, prenom FROM deputes WHERE id = ?');
 const deleteAuteurs = db.prepare('DELETE FROM article_auteurs WHERE article_slug = ?');
@@ -126,16 +138,18 @@ for (const li of items) {
       const mdPath = new URL(`../content/posts/${slug}.md`, import.meta.url).pathname;
       const mdContent = await fs.readFile(mdPath, 'utf-8');
       const auteursMatch = mdContent.match(/^auteurs\s*=\s*\[([^\]]*)\]/m);
+
+      let namesToWrite: string[] = [];
       if (auteursMatch) {
         const PRESIDENT_VARIANTS = /^(M\.\s*Le\s*Président\s*Du\s*Sénat|M\.\s*Le\s*Président\s*du\s*Sénat|Gérard\s*Larcher)$/i;
         const rawNames = auteursMatch[1].match(/"([^"]+)"/g)?.map((s) => s.slice(1, -1)) ?? [];
         if (rawNames.length > 0 && rawNames.every((n) => PRESIDENT_VARIANTS.test(n.trim()))) {
-          const newLine = 'auteurs = ["M. Le Président du Sénat"]';
-          const updated = mdContent.replace(/^auteurs\s*=\s*\[[^\]]*\]/m, newLine);
-          await fs.writeFile(mdPath, updated, 'utf-8');
-          console.log(`[${slug}] Rewrote auteurs → M. Le Président Du Sénat`);
+          namesToWrite = ['M. Le Président du Sénat'];
+          console.log(`[${slug}] Rewrote auteurs → M. Le Président du Sénat`);
         }
       }
+
+      await patchAuteursFrontmatter(mdPath, namesToWrite, mdContent);
       deleteAuteurs.run(slug);
       markDone.run(slug);
       console.log(`[${slug}] No auteur acteurRef — cleared authors and marked normalised`);
@@ -161,12 +175,17 @@ for (const li of items) {
     }
 
     deleteAuteurs.run(slug);
+    const names: string[] = [];
     for (let i = 0; i < deputes.length; i++) {
       const entry = deputes[i]!;
       const nomBrut = `${entry.depute.prenom} ${entry.depute.nom}`;
       insertAuteur.run(slug, i + 1, nomBrut, entry.depute.id, entry.role);
+      names.push(nomBrut);
     }
     markDone.run(slug);
+
+    const mdPath = new URL(`../content/posts/${slug}.md`, import.meta.url).pathname;
+    await patchAuteursFrontmatter(mdPath, names);
 
     const summary = deputes.map((d) => `${d!.depute.prenom} ${d!.depute.nom} (${d!.role})`).join(', ');
     console.log(`[${slug}] ✓ ${summary}`);

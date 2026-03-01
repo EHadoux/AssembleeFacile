@@ -4,8 +4,12 @@
  * only sees lazy postModules (code-split per post) from $lib/content.ts.
  */
 
+import { join } from 'node:path';
+import { DatabaseSync } from 'node:sqlite';
 import type { PostMeta } from '$lib/content';
 import { slugify, POSTS_PER_PAGE } from '$lib/content';
+
+const db = new DatabaseSync(join(process.cwd(), 'db/assemblee.db'));
 export { slugify, POSTS_PER_PAGE };
 export type { PostMeta };
 
@@ -76,8 +80,22 @@ export function getPostsByTag(tag: string): PostMeta[] {
 }
 
 export function getPostsByAuteur(name: string): PostMeta[] {
-	const normalized = slugify(name);
-	return allPosts.filter((p) => p.auteurs.some((a) => slugify(a) === normalized));
+	const idRow = db
+		.prepare(
+			'SELECT depute_id FROM article_auteurs WHERE nom_brut = ? AND depute_id IS NOT NULL LIMIT 1'
+		)
+		.get(name) as { depute_id: string } | undefined;
+
+	const slugRows = idRow?.depute_id
+		? (db
+				.prepare('SELECT DISTINCT article_slug FROM article_auteurs WHERE depute_id = ?')
+				.all(idRow.depute_id) as { article_slug: string }[])
+		: (db
+				.prepare('SELECT DISTINCT article_slug FROM article_auteurs WHERE nom_brut = ?')
+				.all(name) as { article_slug: string }[]);
+
+	const slugSet = new Set(slugRows.map((r) => r.article_slug));
+	return allPosts.filter((p) => slugSet.has(p.slug));
 }
 
 export function getAllTags(): { tag: string; count: number }[] {
@@ -97,12 +115,13 @@ export function getAllTags(): { tag: string; count: number }[] {
 }
 
 export function getAllAuteurs(): string[] {
+	const rows = db
+		.prepare('SELECT DISTINCT nom_brut FROM article_auteurs ORDER BY nom_brut')
+		.all() as { nom_brut: string }[];
 	const seen = new Map<string, string>();
-	for (const post of allPosts) {
-		for (const auteur of post.auteurs) {
-			const key = slugify(auteur);
-			if (!seen.has(key)) seen.set(key, auteur);
-		}
+	for (const { nom_brut } of rows) {
+		const key = slugify(nom_brut);
+		if (!seen.has(key)) seen.set(key, nom_brut);
 	}
 	return [...seen.values()];
 }

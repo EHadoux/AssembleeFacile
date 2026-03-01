@@ -2,7 +2,7 @@
 date = 2026-02-27
 draft = false
 title = "Nationalisation d'ArcelorMittal France - N° 2537"
-auteurs = ["M. Le Président Du Sénat"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/nationalisation_arcelormittal_2025"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
 stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025","Mardi 14 octobre 2025","Vendredi 28 novembre 2025","Vendredi 28 novembre 2025","Jeudi 26 février 2026"]

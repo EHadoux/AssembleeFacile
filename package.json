@@ -16,6 +16,7 @@
     "db:normalize-authors-an": "tsx scripts/normalize-authors-from-an.ts",
     "db:import-declarations": "tsx scripts/import-declarations.ts",
     "db:update-etapes": "tsx scripts/update-etapes.ts",
+    "db:normalize-authors-zip": "tsx scripts/normalize-authors-zip.ts",
     "db:link-dossiers": "tsx scripts/link-dossiers.ts",
     "db:import-scrutins": "tsx scripts/import-scrutins.ts",
     "build:og": "tsx scripts/build-og.ts",

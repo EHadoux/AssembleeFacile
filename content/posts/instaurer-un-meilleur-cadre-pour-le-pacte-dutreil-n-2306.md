@@ -2,7 +2,7 @@
 date = 2025-12-23
 draft = false
 title = "Instaurer un meilleur cadre pour le pacte Dutreil - N° 2306"
-auteurs = ["Nicolas Sansu","Éric Coquerel","Christine Pirès Beaune","Eva Sas","Édouard Bénard","Nicolas Bonnet","Mickaël Bouloux","Soumya Bourouaha","Julien Brugerolles","Jean-Victor Castor","Pierrick Courbon","Inaki Echaniz","Elsa Faucillon","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Emmanuel Maurel","Estelle Mercier","Yannick Monnet","Marcellin Nadeau","Stéphane Peu","Mereana Reid Arbelot","Davy Rimane","Claudia Rouaux","Sophie Taillé-Polian"]
+auteurs = ["Nicolas Sansu","Éric Coquerel","Christine Pirès Beaune","Eva Sas","Édouard Bénard","Nicolas Bonnet","Mickaël Bouloux","Soumya Bourouaha","Julien Brugerolles","Philippe Brun","Jean-Victor Castor","Pierrick Courbon","Inaki Echaniz","Elsa Faucillon","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Emmanuel Maurel","Estelle Mercier","Yannick Monnet","Marcellin Nadeau","Stéphane Peu","Mereana Reid Arbelot","Davy Rimane","Claudia Rouaux","Sophie Taillé-Polian"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/meilleur_cadre_pour_pacte_Dutreil_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025"]

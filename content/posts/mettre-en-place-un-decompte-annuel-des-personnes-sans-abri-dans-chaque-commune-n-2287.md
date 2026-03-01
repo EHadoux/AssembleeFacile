@@ -2,7 +2,7 @@
 date = 2025-12-23
 draft = false
 title = "Mettre en place un décompte annuel des personnes sans abri dans chaque commune - N° 2287"
-auteurs = ["Sandrine Runel","Joël Aviragnet","Fabrice Barusseau","Alain David","Arthur Delaporte","Fanny Dombre Coste","Inaki Echaniz","Denis Fégné","Emmanuel Grégoire","Ayda Hadizadeh","Céline Hervieu","Fatiha Keloua Hachi","Laurent Lhardit","Estelle Mercier","Jacques Oberti","Constance De Pélichy","Maud Petit","Christine Pirès Beaune","Dominique Potier","Pierre Pribetich","Mereana Reid Arbelot","Valérie Rossi","Sébastien Saint-Pasteur","Isabelle Santiago","Arnaud Simion","Thierry Sother","Céline Thiébault-Martinez"]
+auteurs = ["Sandrine Runel","Joël Aviragnet","Fabrice Barusseau","Alain David","Arthur Delaporte","Fanny Dombre Coste","Inaki Echaniz","Denis Fégné","Emmanuel Grégoire","Ayda Hadizadeh","Céline Hervieu","Fatiha Keloua Hachi","Laurent Lhardit","Estelle Mercier","Jacques Oberti","Constance de Pélichy","Maud Petit","Christine Pirès Beaune","Dominique Potier","Pierre Pribetich","Mereana Reid Arbelot","Valérie Rossi","Sébastien Saint-Pasteur","Isabelle Santiago","Arnaud Simion","Thierry Sother","Céline Thiébault-Martinez"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/decompte_annuel_sans_abri_communes_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025"]
