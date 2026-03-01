@@ -2,7 +2,7 @@
 date = 2025-11-17
 draft = false
 title = "Supprimer la prescription pour les viols et agressions sexuelles sur mineur - N° 2110"
-auteurs = ["Maud Petit"]
+auteurs = ["Maud Petit","Laure Miller","Emmanuel Grégoire","Delphine Lingemann","Thibault Bazin","Brigitte Klinkert","Guillaume Gouffier Valente","Yannick Neuder","Mereana Reid Arbelot","Olivier Serva","Liliana Tanguy","Elie Califer","Sandrine Josso","Laurent Mazaury","Julie Delpech","Corinne Vignon","Ian Boucard","Sylvie Bonnet","Jean-Marie Fiévet","Nicolas Ray","Nathalie Coggia","Karine Lebon","Thierry Sother","Marie-Agnès Poussier-Winsback","Bertrand Bouyx","Anne-Sophie Ronceret","Frantz Gumbs","Jean-Carles Grelier","Agnès Firmin Le Bodo","Isabelle Santiago","Béatrice Bellay","Denis Masséglia","Xavier Roseren","Laurent Croizier","Thomas Lam","Moerani Frébault","Anne Bergantz","Philippe Juvin","François-Xavier Ceccoli","Virginie Duby-Muller","Véronique Riotton","Lise Magnier","Anthony Brosse","Josiane Corneloup","Marie-Pierre Rixain","Sophie Mette","Nicole Le Peih","Mickaël Cosson","Natalia Pouzyreff","Brigitte Liso","Jean-Victor Castor","Sandrine Lalanne","Christine Le Nabour","Stéphane Lenormand","Marcellin Nadeau","Joséphine Missoffe","Paul Christophe","Anne-Cécile Violland","Ayda Hadizadeh","Christelle Minard","Éric Martineau","Florence Herouin-Léautey"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_supprimer_prescription_viols_et_agressions_sexuelles_sur_mineur_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]

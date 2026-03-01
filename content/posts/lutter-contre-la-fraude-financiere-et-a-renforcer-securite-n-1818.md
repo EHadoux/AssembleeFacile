@@ -2,7 +2,7 @@
 date = 2025-09-16
 draft = false
 title = "Lutter contre la fraude financière et à renforcer la sécurité financière - N° 1818"
-auteurs = ["Daniel Labaronne","Jean-Luc Fugit","Corinne Vignon","Michel Lauzzana","Anne-Sophie Ronceret","Anthony Brosse","Christophe Marion","Natalia Pouzyreff","Françoise Buffet"]
+auteurs = ["Daniel Labaronne","Jean-Luc Fugit","Corinne Vignon","Michel Lauzzana","Anne-Sophie Ronceret","Anthony Brosse","Christophe Marion","Natalia Pouzyreff","Françoise Buffet","Vincent Ledoux","Nicole Dubré-Chirat","Violette Spillebout","Annie Vidal","Constance Le Grip","Jean-Marie Fiévet","Joséphine Missoffe"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/fraude_financiere_securite_financiere"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]

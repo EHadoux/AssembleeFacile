@@ -2,7 +2,7 @@
 date = 2026-02-17
 draft = false
 title = "Étendre la protection fonctionnelle des secrétaires de mairie - N° 2487"
-auteurs = ["Philippe Bonnecarrère","Sandrine Lalanne","Paul Molac","Lionel Vuibert","Jean-Michel Jacques","Philippe Latombe","Anthony Brosse","Corinne Vignon","Romain Daubié","Joël Bruneau","Yannick Neuder","Jean-Pierre Bataille","Anne-Sophie Ronceret","Christophe Plassard","Laurent Croizier","Delphine Lingemann","Michel Castellani","Florent Boudié","Laure Miller"]
+auteurs = ["Philippe Bonnecarrère","Sandrine Lalanne","Paul Molac","Lionel Vuibert","Jean-Michel Jacques","Philippe Latombe","Anthony Brosse","Corinne Vignon","Romain Daubié","Joël Bruneau","Yannick Neuder","Jean-Pierre Bataille","Anne-Sophie Ronceret","Christophe Plassard","Laurent Croizier","Delphine Lingemann","Michel Castellani","Florent Boudié","Laure Miller","Stéphane Mazars","Christophe Naegelen"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/etendre_protection_fonctionnelle_secretaires_mairies_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 17 février 2026","Mardi 17 février 2026"]

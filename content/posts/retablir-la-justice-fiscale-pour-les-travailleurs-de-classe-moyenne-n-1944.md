@@ -2,7 +2,7 @@
 date = 2025-10-14
 draft = false
 title = "Rétablir la justice fiscale pour les travailleurs de la classe moyenne - N° 1944"
-auteurs = ["Constance de Pélichy","Joël Bruneau","Michel Castellani","Laurent Mazaury","David Taupiac","Jean-Luc Warsmann","Salvatore Castiglione","Stéphane Lenormand","Stéphane Viry"]
+auteurs = ["Constance de Pélichy","Joël Bruneau","Michel Castellani","Laurent Mazaury","David Taupiac","Jean-Luc Warsmann","Salvatore Castiglione","Stéphane Lenormand","Stéphane Viry","Olivier Serva"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/retqblir_justice_fiscqle_clqsse_moyenne_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]

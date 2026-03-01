@@ -2,7 +2,7 @@
 date = 2025-10-13
 draft = false
 title = "Instaurer le scrutin proportionnel pour les élections législatives - N° 1905"
-auteurs = ["Erwan Balanant","Guillaume Gouffier Valente","Jérémie Iordanoff","Marie Récalde","Léa Balage El Mariky","Lisa Belluco","Nicolas Bonnet","Vincent Caure","Stella Dupont","Jérôme Guedj","Catherine Hervieu","François Hollande","Emmanuel Maurel","Ludovic Mendes","Cyrielle Chatelain","Sandra Regol","Aurélien Rousseau","Eva Sas","Sabrina Sebaihi","Thierry Sother"]
+auteurs = ["Erwan Balanant","Guillaume Gouffier Valente","Jérémie Iordanoff","Marie Récalde","Léa Balage El Mariky","Lisa Belluco","Nicolas Bonnet","Vincent Caure","Cyrielle Chatelain","Stella Dupont","Jérôme Guedj","Catherine Hervieu","François Hollande","Pascal Lecamp","Éric Martineau","Emmanuel Maurel","Ludovic Mendes","Frédéric Petit","Josy Poueyto","Sandra Regol","Aurélien Rousseau","Eva Sas","Sabrina Sebaihi","Thierry Sother","Nicolas Turquois"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_scrutin_proportionnel_elections_legislatives"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Lundi 13 octobre 2025","Lundi 13 octobre 2025"]

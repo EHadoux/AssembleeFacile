@@ -2,7 +2,7 @@
 date = 2025-11-17
 draft = false
 title = "Interdiction de la fabrication, de la commercialisation et de l’emploi des pièges à colle et dispositifs connexes - N° 2113"
-auteurs = ["Emmanuel Mandon","Pierrick Courbon","Corinne Vignon","Olivier Falorni","Sandrine Rousseau","Gabriel Amard","Ian Boucard","Michel Castellani","Mickaël Cosson","Arthur Delaporte","Marie-Charlotte Garin","Emmanuel Grégoire","Cyrille Isaac-Sibille","Chantal Jourdan","Sophie Mette","Joséphine Missoffe","Louise Morel","Jacques Oberti","Christine Pirès Beaune","Richard Ramos"]
+auteurs = ["Emmanuel Mandon","Pierrick Courbon","Corinne Vignon","Olivier Falorni","Sandrine Rousseau","Gabriel Amard","Ian Boucard","Michel Castellani","Mickaël Cosson","Arthur Delaporte","Marie-Charlotte Garin","Emmanuel Grégoire","Cyrille Isaac-Sibille","Chantal Jourdan","Sophie Mette","Joséphine Missoffe","Louise Morel","Jacques Oberti","Christine Pirès Beaune","Richard Ramos","Alexandra Martin","Benoît Larrouquis","François Gernigon","Catherine Hervieu","Sylvie Bonnet","Damien Maudet","Delphine Lingemann","Isabelle Santiago","Philippe Vigier","Dominique Voynet","Stéphane Hablot","François Piquemal","Christophe Naegelen","Nicolas Ray","Antoine Vermorel-Marques","Marie Pochon","Charles Fournier","Mickaël Bouloux","Claudia Rouaux","Tristan Lahais","Sandrine Runel","Christine Arrighi","Denis Fégné","Sandra Regol","Benoît Biteau","Jean-Louis Roumégas","Océane Godard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdiction_pieges_a_colle_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]

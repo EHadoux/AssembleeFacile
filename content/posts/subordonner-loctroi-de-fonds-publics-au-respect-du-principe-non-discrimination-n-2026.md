@@ -2,7 +2,7 @@
 date = 2025-10-28
 draft = false
 title = "Subordonner l’octroi de fonds publics au respect du principe de non-discrimination - N° 2026"
-auteurs = ["Léa Balage El Mariky","Pouria Amirshahi","Christine Arrighi","Lisa Belluco","Arnaud Bonnet","Nicolas Bonnet","Colette Capdevielle","Paul Christophle","Alexis Corbière","Hendrik Davi","Denis Fégné","Charles Fournier","Marie-Charlotte Garin","Emmanuel Grégoire","Steevy Gustave","Ayda Hadizadeh","Benjamin Lucas-Lundy","Julie Ozenne","Christine Pirès Beaune","Marie Pochon","Jean-Claude Raux","Sandra Regol","Mereana Reid Arbelot","Claudia Rouaux","Sandrine Rousseau","Danielle Simonnet","Sophie Taillé-Polian","Boris Tavernier","Céline Thiébault-Martinez","Dominique Voynet"]
+auteurs = ["Léa Balage El Mariky","Pouria Amirshahi","Christine Arrighi","Lisa Belluco","Arnaud Bonnet","Nicolas Bonnet","Colette Capdevielle","Paul Christophle","Alexis Corbière","Hendrik Davi","Inaki Echaniz","Romain Eskenazi","Denis Fégné","Charles Fournier","Marie-Charlotte Garin","Emmanuel Grégoire","Steevy Gustave","Ayda Hadizadeh","Benjamin Lucas-Lundy","Julie Ozenne","Christine Pirès Beaune","Marie Pochon","Jean-Claude Raux","Sandra Regol","Mereana Reid Arbelot","Claudia Rouaux","Jean-Louis Roumégas","Sandrine Rousseau","Hervé Saulignac","Danielle Simonnet","Sophie Taillé-Polian","Boris Tavernier","Céline Thiébault-Martinez","Dominique Voynet","Peio Dufau"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/subordonner_octroi_fonds_publics_respect_principe_non_discrimination_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]

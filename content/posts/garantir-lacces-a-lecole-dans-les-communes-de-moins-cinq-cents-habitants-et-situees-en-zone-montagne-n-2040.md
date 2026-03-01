@@ -2,7 +2,7 @@
 date = 2025-10-28
 draft = false
 title = "Garantir l’accès à l’école dans les communes de moins de cinq cents habitants et situées en zone de montagne - N° 2040"
-auteurs = ["Sophie Pantel","Joël Aviragnet","Marie-Noëlle Battistel","Fanny Dombre Coste","Inaki Echaniz","Martine Froger","Emmanuel Grégoire","Ayda Hadizadeh","Laurent Lhardit","Marc Pena","Christine Pirès Beaune","Valérie Rossi","Thierry Sother"]
+auteurs = ["Sophie Pantel","Joël Aviragnet","Marie-Noëlle Battistel","Fanny Dombre Coste","Inaki Echaniz","Denis Fégné","Martine Froger","Océane Godard","Emmanuel Grégoire","Ayda Hadizadeh","Laurent Lhardit","Marc Pena","Christine Pirès Beaune","Valérie Rossi","Thierry Sother"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_acces_ecole_communes_moins_cinq_cents_habitants_et_situees_zone_montagne"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]

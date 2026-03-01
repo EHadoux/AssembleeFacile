@@ -2,7 +2,7 @@
 date = 2025-10-14
 draft = false
 title = "Inscrire l’écoute des travailleurs comme premier principe général de prévention de la santé au travail - N° 1908"
-auteurs = ["Thierry Sother","Dominique Potier","Océane Godard","Chantal Jourdan"]
+auteurs = ["Thierry Sother","Valérie Bazin-Malgras","Dominique Potier","Océane Godard","Chantal Jourdan"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/inscrire_ecoute_travailleurs_premier_principe_general_prevention_sante_travail_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]

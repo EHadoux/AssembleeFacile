@@ -2,7 +2,7 @@
 date = 2026-02-17
 draft = false
 title = "Garantir l’honorabilité des personnes intervenant auprès des mineurs - N° 2500"
-auteurs = ["Arnaud Bonnet","Christine Arrighi","Léa Balage El Mariky","Fabrice Barusseau","Lisa Belluco","Nicolas Bonnet","Colette Capdevielle","Cyrielle Chatelain","Alexis Corbière","Pierrick Courbon","Denis Fégné","Guillaume Gouffier Valente","Steevy Gustave","Ayda Hadizadeh","Catherine Hervieu","Karine Lebon","Stéphane Lenormand","Alexandra Martin","Julie Ozenne","Sébastien Peytavie","Jean-Claude Raux","Claudia Rouaux","Jean-Louis Roumégas","Isabelle Santiago","Eva Sas","Sabrina Sebaihi","Boris Tavernier"]
+auteurs = ["Arnaud Bonnet","Christine Arrighi","Léa Balage El Mariky","Fabrice Barusseau","Lisa Belluco","Nicolas Bonnet","Colette Capdevielle","Cyrielle Chatelain","Alexis Corbière","Pierrick Courbon","Denis Fégné","Guillaume Gouffier Valente","Steevy Gustave","Ayda Hadizadeh","Catherine Hervieu","Karine Lebon","Stéphane Lenormand","Alexandra Martin","Estelle Mercier","Yannick Neuder","Julie Ozenne","Sébastien Peytavie","Christine Pirès Beaune","Marie Pochon","Jean-Claude Raux","Claudia Rouaux","Jean-Louis Roumégas","Isabelle Santiago","Eva Sas","Sabrina Sebaihi","Thierry Sother","Boris Tavernier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/honorabilite_personnes_intervenant_mineurs_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 17 février 2026","Mardi 17 février 2026"]

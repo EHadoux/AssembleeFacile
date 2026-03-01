@@ -2,7 +2,7 @@
 date = 2025-11-17
 draft = false
 title = "Pour un esport responsable et attractif - N° 2106"
-auteurs = ["Denis Masséglia"]
+auteurs = ["Denis Masséglia","Antoine Armand","Thibault Bazin","Philippe Bolo","Éric Bothorel","Mickaël Bouloux","Bertrand Bouyx","Anthony Brosse","Danielle Brulebois","Joël Bruneau","Stéphane Buchou","Françoise Buffet","Céline Calvez","Vincent Caure","Pierre Cazeneuve","Yannick Chenevard","Nathalie Coggia","François Cormier-Bouligeon","Josiane Corneloup","Pierrick Courbon","Romain Daubié","Fanny Dombre Coste","Nicole Dubré-Chirat","Virginie Duby-Muller","Stella Dupont","Romain Eskenazi","Jean-Marie Fiévet","Jean-Luc Fugit","Anne Genetet","François Gernigon","Guillaume Gouffier Valente","Olivia Grégoire","Emmanuel Grégoire","Stéphane Hablot","Sacha Houlié","Sébastien Huyghe","Jean-Michel Jacques","Fatiha Keloua Hachi","Sandrine Lalanne","Thomas Lam","Michel Lauzzana","Constance Le Grip","Nicole Le Peih","Vincent Ledoux","Corentin Le Fur","Sylvain Maillard","Élisabeth de Maistre","Bastien Marchive","Christophe Marion","Sandra Marsaud","Laurent Mazaury","Graziella Melchior","Ludovic Mendes","Nicolas Metzdorf","Paul Midy","Laure Miller","Louise Morel","Karl Olive","Maud Petit","Béatrice Piron","Natalia Pouzyreff","Véronique Riotton","Charles Rodwell","Jean-François Rousset","Laetitia Saint-Paul","Mikaele Seo","Bertrand Sorre","Violette Spillebout","Liliana Tanguy","David Taupiac","Annie Vidal","Corinne Vignon","Lionel Vuibert","Christopher Weissberg","Éric Woerth","Caroline Yadan"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_pour_un_esport_responsable_et_attractif_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]

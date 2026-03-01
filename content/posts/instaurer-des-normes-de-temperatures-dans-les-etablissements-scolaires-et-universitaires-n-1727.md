@@ -7,7 +7,7 @@ stepsStatus = ["","Commission des affaires culturelles"]
 date = 2025-07-11
 draft = false
 title = "Instaurer des normes de températures dans les établissements scolaires et universitaires - N° 1727"
-auteurs = ["Arnaud Bonnet","Pouria Amirshahi","Christine Arrighi","Lisa Belluco","Cyrielle Chatelain","Alexis Corbière","Hendrik Davi","Steevy Gustave","Catherine Hervieu","Tristan Lahais","Julie Ozenne","Marie Pochon","Jean-Claude Raux","Sandra Regol","Jean-Louis Roumégas","Sandrine Rousseau","Sabrina Sebaihi","Christian Baptiste","Mickaël Bouloux","Emmanuel Grégoire"]
+auteurs = ["Arnaud Bonnet","Pouria Amirshahi","Christine Arrighi","Lisa Belluco","Cyrielle Chatelain","Alexis Corbière","Hendrik Davi","Emmanuel Duplessy","Steevy Gustave","Catherine Hervieu","Tristan Lahais","Julie Ozenne","Marie Pochon","Jean-Claude Raux","Sandra Regol","Jean-Louis Roumégas","Sandrine Rousseau","Sabrina Sebaihi","Christian Baptiste","Mickaël Bouloux","Emmanuel Grégoire"]
 +++
 
 ## Résumé

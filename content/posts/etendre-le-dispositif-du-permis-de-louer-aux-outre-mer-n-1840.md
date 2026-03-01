@@ -2,7 +2,7 @@
 date = 2025-09-16
 draft = false
 title = "Etendre le dispositif du permis de louer aux outre-mer - N° 1840"
-auteurs = ["Karine Lebon","Jean-Hugues Ratenon","Mereana Reid Arbelot","Alma Dufour","Isabelle Santiago","Marie-Charlotte Garin","Ayda Hadizadeh","Constance de Pélichy","Laurent Lhardit","Philippe Naillet","Damien Girard","Mickaël Bouloux","Claudia Rouaux","Inaki Echaniz","Christine Pirès Beaune","Estelle Mercier","Denis Fégné","Clémentine Autain"]
+auteurs = ["Karine Lebon","Émeline K/Bidi","Mereana Reid Arbelot","Jean-Hugues Ratenon","Philippe Naillet","Alma Dufour","Isabelle Santiago","Marie-Charlotte Garin","Ayda Hadizadeh","Constance de Pélichy","Laurent Lhardit","Damien Girard","Mickaël Bouloux","Claudia Rouaux","Inaki Echaniz","Christine Pirès Beaune","Estelle Mercier","Denis Fégné","Clémentine Autain","Danielle Simonnet","Pouria Amirshahi","Farida Amrani","Paul Vannier","René Pilato","Clémence Guetté","Abdelkader Lahmar","Matthias Tavel","François Piquemal","Christophe Bex","Emmanuel Fernandes","Arnaud Le Gall","Édouard Bénard","Soumya Bourouaha","Julien Brugerolles","Elsa Faucillon","Jean-Paul Lecoq","Frédéric Maillot","Marcellin Nadeau","Stéphane Peu","Nicolas Sansu","Emmanuel Tjibaou","Eva Sas","Boris Tavernier","Emmanuel Maurel","Yannick Monnet","Mathilde Hignet","Davy Rimane","Pierre-Yves Cadalen","Maxime Laisney","Peio Dufau"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/etendre_dispositif_permis_louer_OM_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]

@@ -2,7 +2,7 @@
 date = 2025-09-16
 draft = false
 title = "Instaurer une prévoyance collective obligatoire pour tous les salariés - N° 1808"
-auteurs = ["Stéphane Viry"]
+auteurs = ["Stéphane Viry","Constance de Pélichy","Olivier Falorni","Jean-Pierre Bataille","Joël Bruneau","Marie-Agnès Poussier-Winsback","Jean-Michel Jacques","Michel Castellani","Josiane Corneloup","François Ruffin","Valérie Rossi","Jean-Carles Grelier","Salvatore Castiglione","Lise Magnier","David Taupiac","Emmanuel Mandon","Océane Godard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_prevoyance_collective_obligatoire_tous_salaries_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]

@@ -2,7 +2,7 @@
 date = 2025-09-30
 draft = false
 title = "Interdire dans l’espace public le port par un mineur de tout habit ou vêtement symbolisant l’infériorité de la femme sur l’homme - N° 1869"
-auteurs = ["Constance Le Grip","Christine Le Nabour","Delphine Lingemann","Nicolas Metzdorf","Laure Miller","Charles Rodwell","Caroline Yadan"]
+auteurs = ["Constance Le Grip","Jean-Luc Fugit","Sandrine Lalanne","Christine Le Nabour","Delphine Lingemann","Denis Masséglia","Nicolas Metzdorf","Laure Miller","Astrid Panosyan-Bouvet","Natalia Pouzyreff","Charles Rodwell","Anne-Sophie Ronceret","Liliana Tanguy","Annie Vidal","Corinne Vignon","Caroline Yadan"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdire_port_vetement_symbolisant_inferiorite_femme_homme_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 30 septembre 2025","Mardi 30 septembre 2025"]

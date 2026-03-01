@@ -2,7 +2,7 @@
 date = 2025-09-16
 draft = false
 title = "Responsabiliser les clubs pour mettre fin à l’homophobie dans le sport - N° 1803"
-auteurs = ["Danielle Simonnet","Sabrina Sebaihi","Clémentine Autain","Léa Balage El Mariky","Lisa Belluco","Arnaud Bonnet","Nicolas Bonnet","Gabrielle Cathala","Alexis Corbière","Denis Fégné","Emmanuel Grégoire","Steevy Gustave","Catherine Hervieu","Andy Kerbrat","Julie Laernoes","Tristan Lahais","Karine Lebon","Laurent Lhardit","Benjamin Lucas-Lundy","Julie Ozenne","Constance de Pélichy","Sébastien Peytavie","Christine Pirès Beaune","Marie Pochon","Richard Ramos","Jean-Claude Raux","Marie Récalde","Mereana Reid Arbelot","Claudia Rouaux","Sandrine Rousseau","Eva Sas","Boris Tavernier","Céline Thiébault-Martinez","Dominique Voynet"]
+auteurs = ["Danielle Simonnet","Sabrina Sebaihi","Clémentine Autain","Léa Balage El Mariky","Lisa Belluco","Arnaud Bonnet","Nicolas Bonnet","Gabrielle Cathala","Alexis Corbière","Denis Fégné","Steevy Gustave","Catherine Hervieu","Andy Kerbrat","Julie Laernoes","Tristan Lahais","Karine Lebon","Laurent Lhardit","Benjamin Lucas-Lundy","Julie Ozenne","Constance de Pélichy","Sébastien Peytavie","Christine Pirès Beaune","Marie Pochon","Richard Ramos","Jean-Claude Raux","Marie Récalde","Mereana Reid Arbelot","Claudia Rouaux","Sandrine Rousseau","Eva Sas","Boris Tavernier","Céline Thiébault-Martinez","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/responsabiliser_clubs_fin_homophobie_sport_XVIIe"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]

@@ -2,7 +2,7 @@
 date = 2024-09-17
 draft = false
 title = "Garantir une offre de soins dans les zones sous dotées en médecine générale et spécialisée par l'exercice obligatoire d'une année pour les nouveaux diplômés en médecine dans les zones concernées - N° 198"
-auteurs = ["Géraldine Bannier","Philippe Fait","Olivier Falorni","Christophe Naegelen"]
+auteurs = ["Géraldine Bannier","Philippe Fait","Olivier Falorni","Christophe Naegelen","Hubert Ott"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_offre_soins_zones_sous_dotees_medecine_generale_specialisee"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024"]

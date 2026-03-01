@@ -2,7 +2,7 @@
 date = 2025-04-22
 draft = false
 title = "Accorder le versement des allocations familiales dès le premier enfant - N° 1342"
-auteurs = ["Édouard Bénard","Soumya Bourouaha","Julien Brugerolles","Jean-Victor Castor","Elsa Faucillon","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Emmanuel Maurel","Yannick Monnet","Marcellin Nadeau","Stéphane Peu","Mereana Reid Arbelot","Davy Rimane","Nicolas Sansu","Emmanuel Tjibaou","les membres du groupe Gauche Démocrate et Républicaine"]
+auteurs = ["Édouard Bénard","Soumya Bourouaha","Julien Brugerolles","Jean-Victor Castor","Elsa Faucillon","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Emmanuel Maurel","Yannick Monnet","Marcellin Nadeau","Stéphane Peu","Mereana Reid Arbelot","Davy Rimane","Nicolas Sansu","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/accorder_versement_allocations_familiales_premier_enfant_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 22 avril 2025","Mardi 22 avril 2025","Mardi 22 avril 2025","Jeudi 5 juin 2025"]

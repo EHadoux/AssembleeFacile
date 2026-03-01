@@ -2,7 +2,7 @@
 date = 2026-01-27
 draft = false
 title = "Renforcer l’enseignement à la défense nationale dans le cadre du parcours de citoyenneté - N° 2385"
-auteurs = ["Christophe Blanchet"]
+auteurs = ["Christophe Blanchet","Anne Bergantz","Laurent Croizier","Geneviève Darrieussecq","Olivier Falorni","Bruno Fuchs","Perrine Goulet","Philippe Latombe","Pascal Lecamp","Delphine Lingemann","Éric Martineau","Louise Morel","Maud Petit","Josy Poueyto","Nicolas Turquois","Didier Padey","Erwan Balanant","Philippe Bolo","Blandine Brocard","Mickaël Cosson","Romain Daubié","Marc Fesneau","Jean-Carles Grelier","Frantz Gumbs","Cyrille Isaac-Sibille","Sandrine Josso","Emmanuel Mandon","Jean-Paul Mattei","Sophie Mette","Hubert Ott","Jimmy Pahun","Frédéric Petit","Richard Ramos","Sabine Thillaye","Philippe Vigier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_enseignement_defense_nationale_dans_parcours_citoyennete_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Mardi 27 janvier 2026","Mardi 27 janvier 2026","Mardi 27 janvier 2026"]

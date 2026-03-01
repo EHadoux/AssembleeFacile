@@ -2,7 +2,7 @@
 date = 2025-04-17
 draft = false
 title = "Interdire l’élevage de poulpes sur le territoire français - N° 1293"
-auteurs = ["Aymeric Caron"]
+auteurs = ["Aymeric Caron","Corinne Vignon","Julie Ozenne","Marie-Charlotte Garin","Nadège Abomangoli","Laurent Alexandre","Gabriel Amard","Ségolène Amiot","Farida Amrani","Rodrigo Arenas","Raphaël Arnault","Anaïs Belouassa-Cherifi","Ugo Bernalicis","Christophe Bex","Carlos Martens Bilongo","Manuel Bompard","Idir Boumertit","Louis Boyard","Pierre-Yves Cadalen","Sylvain Carrière","Gabrielle Cathala","Bérenger Cernon","Sophia Chikirou","Hadrien Clouet","Éric Coquerel","Jean-François Coulomme","Sébastien Delogu","Aly Diouara","Alma Dufour","Karen Erodi","Mathilde Feld","Emmanuel Fernandes","Sylvie Ferrer","Perceval Gaillard","Clémence Guetté","David Guiraud","Zahia Hamdane","Mathilde Hignet","Andy Kerbrat","Bastien Lachaud","Abdelkader Lahmar","Maxime Laisney","Arnaud Le Gall","Aurélien Le Coq","Antoine Léaument","Élise Leboucher","Jérôme Legavre","Sarah Legrain","Claire Lejeune","Murielle Lepvraud","Élisa Martin","Damien Maudet","Marianne Maximi","Marie Mesmeur","Manon Meunier","Jean-Philippe Nilor","Sandrine Nosbé","Danièle Obono","Nathalie Oziol","Mathilde Panot","René Pilato","François Piquemal","Thomas Portes","Loïc Prud'homme","Jean-Hugues Ratenon","Arnaud Saint-Martin","Aurélien Saintoul","Ersilia Soudais","Anne Stambach-Terrenoir","Aurélien Taché","Andrée Taurinya","Matthias Tavel","Aurélie Trouvé","Paul Vannier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdire_elevage_poulpes_territoire_francais_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]

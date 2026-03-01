@@ -2,7 +2,7 @@
 date = 2025-10-31
 draft = false
 title = "Garantir le droit d'accéder à des moyens de paiement en espèces sur l’ensemble du territoire hexagonal et ultramarin - N° 2056"
-auteurs = ["Karine Lebon","Marcellin Nadeau","Mereana Reid Arbelot","Jean-Hugues Ratenon","Olivier Falorni","Josiane Corneloup","Jean-François Coulomme","Jean-Victor Castor"]
+auteurs = ["Karine Lebon","Jean-Victor Castor","Marcellin Nadeau","Mereana Reid Arbelot","Jean-Hugues Ratenon","Olivier Falorni","Josiane Corneloup","Jean-François Coulomme","Marie-Charlotte Garin","Sophia Chikirou","Olivier Serva","Christine Pirès Beaune","Laurent Mazaury","Frantz Gumbs","Stéphane Peu","Jean-Paul Lecoq","Hervé Berville","Ségolène Amiot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_droit_acceder_moyens_paiement_especes_ensemble_territoire_hexagonal_ultramarin"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Vendredi 31 octobre 2025","Vendredi 31 octobre 2025"]

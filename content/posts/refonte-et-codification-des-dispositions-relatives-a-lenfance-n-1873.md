@@ -2,7 +2,7 @@
 date = 2025-09-30
 draft = false
 title = "Refonte et codification des dispositions relatives à l’enfance - N° 1873"
-auteurs = ["Isabelle Santiago"]
+auteurs = ["Isabelle Santiago","Fabrice Barusseau","Alain David","Constance de Pélichy","Christine Pirès Beaune","Laure Miller","Mélanie Thomin","Claudia Rouaux","Dominique Potier","Philippe Naillet","Inaki Echaniz","Josiane Corneloup","Anna Pic","Pierre Pribetich","Emmanuel Grégoire","Mereana Reid Arbelot","Alexandra Martin","Arthur Delaporte","Karine Lebon","Valérie Rossi","Sandrine Runel","Ayda Hadizadeh","Sophie Pantel","Colette Capdevielle","Céline Hervieu","Thierry Sother","Jérôme Guedj","Denis Fégné","Michèle Tabarot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/refonte_codification_dispositions_relatives_enfance_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 30 septembre 2025","Mardi 30 septembre 2025"]

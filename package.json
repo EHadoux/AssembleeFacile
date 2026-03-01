@@ -19,6 +19,7 @@
     "db:normalize-authors-zip": "tsx scripts/normalize-authors-zip.ts",
     "db:link-dossiers": "tsx scripts/link-dossiers.ts",
     "db:import-scrutins": "tsx scripts/import-scrutins.ts",
+    "db:repair-frontmatter": "tsx scripts/repair-frontmatter-auteurs.ts",
     "build:og": "tsx scripts/build-og.ts",
     "build:ogmain": "tsx scripts/build-og.ts --home",
     "build:ogprop": "tsx scripts/build-og.ts --posts",

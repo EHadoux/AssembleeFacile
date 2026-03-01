@@ -2,7 +2,7 @@
 date = 2025-09-16
 draft = false
 title = "Instaurer des sanctions sociales à l’encontre des trafiquants de stupéfiants et des récidivistes de crimes et de délits aggravés - N° 1819"
-auteurs = ["Alexandra Martin","Justine Gruet","Josiane Corneloup","Nicolas Ray","Thibault Bazin","Constance de Pélichy","Christelle Petex","Sylvie Bonnet","Sébastien Martin","Laurent Mazaury","Alexandre Portier","Valérie Bazin-Malgras","Sylvie Dezarnaud","Vincent Rolland","Jean-Yves Bony","Virginie Duby-Muller","Julien Dive","Vincent Jeanbrun","Pierre Cordier","Fabien Di Filippo","Eric Liégeon","Éric Pauget","Christophe Blanchet","Michel Herbillon","David Taupiac","Thomas Lam","Philippe Juvin"]
+auteurs = ["Alexandra Martin","Justine Gruet","Josiane Corneloup","Nicolas Ray","Thibault Bazin","Constance de Pélichy","Christelle Petex","Sylvie Bonnet","Sébastien Martin","Laurent Mazaury","Alexandre Portier","Valérie Bazin-Malgras","Sylvie Dezarnaud","Vincent Rolland","Jean-Yves Bony","Virginie Duby-Muller","Julien Dive","Vincent Jeanbrun","Pierre Cordier","Fabien Di Filippo","Eric Liégeon","Éric Pauget","Christophe Blanchet","Michel Herbillon","David Taupiac","Thomas Lam","Philippe Juvin","Patrick Hetzel","Nicolas Tryzna","Marie-Agnès Poussier-Winsback","Alix Fruchon","Stéphane Viry","Laurent Croizier","Félicie Gérard","Jean-Didier Berger","Philippe Gosselin","Vincent Descoeur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_sanctions_sociales_trafiquants_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]

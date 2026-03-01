@@ -2,7 +2,7 @@
 date = 2025-09-16
 draft = false
 title = "Indemnisation des éleveurs impactés par l’abattage sanitaire de leur cheptel - N° 1846"
-auteurs = ["Freddy Sertin"]
+auteurs = ["Freddy Sertin","David Amiel","Antoine Armand","Géraldine Bannier","Olivier Becht","Christophe Blanchet","Sylvie Bonnet","Jean-Yves Bony","Éric Bothorel","Bertrand Bouyx","Xavier Breton","Danielle Brulebois","Stéphane Buchou","Eléonore Caroit","Yannick Chenevard","Nathalie Colin-Oesterlé","François Cormier-Bouligeon","Josiane Corneloup","Laurent Croizier","Julie Delpech","Nicole Dubré-Chirat","Stella Dupont","Philippe Fait","Jean-Marie Fiévet","Agnès Firmin Le Bodo","Bruno Fuchs","Jean-Luc Fugit","François Gernigon","Jean-Carles Grelier","Emmanuelle Hoffman","Jean-Michel Jacques","François Jolivet","Brigitte Klinkert","Philippe Latombe","Michel Lauzzana","Sandrine Le Feur","Christine Le Nabour","Pascal Lecamp","Vincent Ledoux","Pauline Levasseur","Delphine Lingemann","Lise Magnier","Christophe Marion","Sandra Marsaud","Stéphane Mazars","Graziella Melchior","Laure Miller","Christelle Petex","Maud Petit","Natalia Pouzyreff","Nicolas Ray","Véronique Riotton","Anne-Sophie Ronceret","Jean-François Rousset","Laetitia Saint-Paul","Bertrand Sorre","Violette Spillebout","Stéphane Travert","Annie Vidal","Corinne Vignon","Lionel Vuibert"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_indemnisation_des_eleveurs_impactes_par_abattage_sanitaire_de_leur_cheptel_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]

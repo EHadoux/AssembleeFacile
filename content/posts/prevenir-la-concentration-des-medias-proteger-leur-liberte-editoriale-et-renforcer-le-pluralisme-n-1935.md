@@ -2,7 +2,7 @@
 date = 2025-10-14
 draft = false
 title = "Prévenir la concentration des médias, protéger leur liberté éditoriale et renforcer le pluralisme - N° 1935"
-auteurs = ["Emmanuel Grégoire"]
+auteurs = ["Emmanuel Grégoire","Florence Herouin-Léautey","Inaki Echaniz","Ayda Hadizadeh","Sacha Houlié","Julien Gokel","Alain David","Pierrick Courbon","Sophie Pantel","Arthur Delaporte","Fabrice Barusseau","Romain Eskenazi","Sébastien Saint-Pasteur","Christine Pirès Beaune","Karim Benbrahim","Roger Vicot","Olivier Faure","Mickaël Bouloux","Chantal Jourdan","Jacques Oberti","Anna Pic","Pascale Got","Dominique Potier","Marc Pena","Joël Aviragnet","Thierry Sother","Océane Godard","Laurent Lhardit"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/prevenir_concentration_medias_proteger_liberte_editioriale_renforcer_pluralisme_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]

@@ -2,7 +2,7 @@
 date = 2025-10-28
 draft = false
 title = "Garantir l'accès aux soins pour toutes et tous par la mise en place de mutuelles communales - N° 2036"
-auteurs = ["Sandrine Runel"]
+auteurs = ["Sandrine Runel","Marie-José Allemand","Karim Benbrahim","Mickaël Bouloux","Paul Christophle","Romain Eskenazi","Océane Godard","Emmanuel Grégoire","Ayda Hadizadeh","Pierre Pribetich","Mereana Reid Arbelot","Arnaud Simion","Thierry Sother","Boris Tavernier","Mélanie Thomin","Roger Vicot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_acces_soins_pour_toutes_tous_par_mise_place_mutuelles_communales_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]

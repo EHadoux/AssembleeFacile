@@ -2,7 +2,7 @@
 date = 2025-10-28
 draft = false
 title = "Modification de l'ordonnance du 17 novembre 1958 n°58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires - N° 2014"
-auteurs = ["Philippe Latombe"]
+auteurs = ["Philippe Latombe","Anne Bergantz","Joël Bruneau","Romain Daubié","Nicole Dubré-Chirat","Olivier Falorni","Jean-Marie Fiévet","Alix Fruchon","Philippe Gosselin","Jean-Carles Grelier","Sébastien Huyghe","Thomas Lam","Pascal Lecamp","Éric Martineau","Constance de Pélichy","Christine Pirès Beaune","Richard Ramos","Mereana Reid Arbelot","Lionel Vuibert"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/modification_ordonnance_58-1100_fonctionnement_assemblees_parlementaires_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]

@@ -2,7 +2,7 @@
 date = 2025-09-13
 draft = false
 title = "Constitutionnaliser la sécurité sociale - N° 1782"
-auteurs = ["Yannick Monnet"]
+auteurs = ["Yannick Monnet","Stéphane Peu","Édouard Bénard","Soumya Bourouaha","Julien Brugerolles","Jean-Victor Castor","Elsa Faucillon","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Emmanuel Maurel","Marcellin Nadeau","Mereana Reid Arbelot","Davy Rimane","Nicolas Sansu","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/constitutionnaliser_securite_sociale"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Vendredi 12 septembre 2025","Vendredi 12 septembre 2025"]

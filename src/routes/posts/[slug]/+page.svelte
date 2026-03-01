@@ -100,22 +100,49 @@
     return null;
   });
 
+  const deputeById = $derived(new Map(data.deputes.map((d) => [d.id, d])));
+
+  const dbCosignataires = $derived(data.signataires.filter((s) => s.role === 'cosignataire'));
+  const hasDbCosignataires = $derived(dbCosignataires.length > 0);
+
+  // Names of all signataires for PoliticalSpectrum
+  const allSignataireNames = $derived.by(() => {
+    if (hasDbCosignataires) {
+      return data.signataires
+        .filter((s) => s.role === 'auteur' || s.role === 'cosignataire')
+        .map((s) => s.nom_brut);
+    }
+    return meta.auteurs;
+  });
+
   // All cosignataires grouped by political group (excluding principal author)
   const signatairesByGroupe = $derived.by(() => {
     const groupeMap = new Map(data.groupes.map((g) => [g.abrev, g]));
     const groups = new Map<string, Array<{ name: string; photo: string; slug: string; idx: number }>>();
 
-    meta.auteurs.forEach((auteur, idx) => {
-      // Skip the principal author and collective group entries
-      if (idx === principalAuteur?.idx) return;
-      if (isGroupeMembre(auteur)) return;
-      const dep = findDepute(auteur);
-      if (dep) {
-        const arr = groups.get(dep.groupeAbrev) ?? [];
-        arr.push({ name: auteur, photo: dep.photo, slug: slugify(auteur), idx });
-        groups.set(dep.groupeAbrev, arr);
+    if (hasDbCosignataires) {
+      for (const sig of dbCosignataires) {
+        if (!sig.depute_id) continue;
+        const dep = deputeById.get(sig.depute_id);
+        if (dep) {
+          const arr = groups.get(dep.groupeAbrev) ?? [];
+          arr.push({ name: sig.nom_brut, photo: dep.photo, slug: slugify(sig.nom_brut), idx: sig.ordre });
+          groups.set(dep.groupeAbrev, arr);
+        }
       }
-    });
+    } else {
+      meta.auteurs.forEach((auteur, idx) => {
+        // Skip the principal author and collective group entries
+        if (idx === principalAuteur?.idx) return;
+        if (isGroupeMembre(auteur)) return;
+        const dep = findDepute(auteur);
+        if (dep) {
+          const arr = groups.get(dep.groupeAbrev) ?? [];
+          arr.push({ name: auteur, photo: dep.photo, slug: slugify(auteur), idx });
+          groups.set(dep.groupeAbrev, arr);
+        }
+      });
+    }
 
     return GROUPE_ORDER.flatMap((abrev) => {
       const groupe = groupeMap.get(abrev);
@@ -125,8 +152,13 @@
     });
   });
 
-  // Auteurs with no depute match, excluding principal and Senate president, for fallback display
+  // Auteurs with no depute match, for fallback display
   const unmatchedCosignataires = $derived.by(() => {
+    if (hasDbCosignataires) {
+      return dbCosignataires
+        .filter((sig) => !sig.depute_id || !deputeById.has(sig.depute_id))
+        .map((sig) => sig.nom_brut);
+    }
     return meta.auteurs.filter((auteur, idx) => {
       if (idx === principalAuteur?.idx) return false;
       return !findDepute(auteur) && !isSenatePresident(auteur) && !isPremierMinistre(auteur) && !isGroupeMembre(auteur);
@@ -620,12 +652,12 @@
       {/if}
 
       <!-- Political distribution -->
-      {#if meta.auteurs.length > 1}
+      {#if hasDbCosignataires || meta.auteurs.length > 1}
         <div class="mb-8 rounded-xl border border-border bg-white p-5 shadow-sm">
           <h2 class="mb-4 text-xs font-semibold uppercase tracking-widest text-muted-foreground">
             Répartition politique des signataires
           </h2>
-          <PoliticalSpectrum auteurs={meta.auteurs} deputes={data.deputes} groupes={data.groupes} />
+          <PoliticalSpectrum auteurs={allSignataireNames} deputes={data.deputes} groupes={data.groupes} />
         </div>
       {/if}
 

@@ -2,7 +2,7 @@
 date = 2026-01-19
 draft = false
 title = "Consacrer le principe d'équilibre des finances publiques comme norme constitutionnelle contraignante - N° 2352"
-auteurs = ["Véronique Louwagie"]
+auteurs = ["Véronique Louwagie","Jean-Didier Berger","Xavier Breton","Philippe Gosselin","Anne-Laure Blin","Michel Herbillon","Alexandre Portier","Pierre Cordier","Virginie Duby-Muller","Sylvie Bonnet","Nicolas Tryzna","Josiane Corneloup","Éric Pauget","Vincent Rolland","Fabrice Brun","Alexandra Martin","Jérôme Nury","Frédérique Meunier","Justine Gruet","Émilie Bonnivard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/consacrer_principe_equilibre_finances_publiques_comme_norme_constitutionnelle_contraignante_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Lundi 19 janvier 2026","Lundi 19 janvier 2026"]

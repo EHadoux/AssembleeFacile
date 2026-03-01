@@ -236,7 +236,8 @@ export function getMostTransPartisan(limit: number): MostTransPartisan[] {
 }
 
 export interface ArticleSignataire {
-  depute_id: string;
+  depute_id: string | null;
+  nom_brut: string;
   role: string | null;
   ordre: number;
 }
@@ -245,7 +246,7 @@ export interface ArticleSignataire {
  *  Utilisé : `routes/posts/[slug]/+page.server.ts` (sidebar de la fiche de proposition). */
 export function getArticleSignataires(slug: string): ArticleSignataire[] {
   const stmt = db.prepare(`
-		SELECT depute_id, role, ordre
+		SELECT depute_id, nom_brut, role, ordre
 		FROM article_auteurs
 		WHERE article_slug = ?
 		ORDER BY ordre ASC

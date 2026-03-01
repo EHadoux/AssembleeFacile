@@ -2,7 +2,7 @@
 date = 2026-01-13
 draft = false
 title = "Création d’une déclaration de beau-parentalité - N° 2327"
-auteurs = ["Sébastien Huyghe","Benoît Blanchard","Bertrand Bouyx","Anthony Brosse","Joël Bruneau","Yannick Chenevard","Josiane Corneloup","Lionel Duparay","Olivier Falorni","Camille Galliard-Minier","Thomas Lam","Christine Le Nabour","Lise Magnier","Joséphine Missoffe","Didier Padey","Nicolas Ray","Charles Rodwell","Anne-Sophie Ronceret","Annie Vidal","Corinne Vignon","Caroline Yadan"]
+auteurs = ["Sébastien Huyghe","Olivier Becht","Benoît Blanchard","Jean-Yves Bony","Florent Boudié","Bertrand Bouyx","Anthony Brosse","Joël Bruneau","Fabrice Brun","Stéphane Buchou","Céline Calvez","Pierre Cazeneuve","Yannick Chenevard","Nathalie Coggia","Nathalie Colin-Oesterlé","Josiane Corneloup","Michel Criaud","Marie-Christine Dalloz","Julie Delpech","Julien Dive","Virginie Duby-Muller","Lionel Duparay","Philippe Fait","Olivier Falorni","Alix Fruchon","Jean-Luc Fugit","Camille Galliard-Minier","Jean-Carles Grelier","Sandrine Josso","Brigitte Klinkert","Daniel Labaronne","Thomas Lam","Christine Le Nabour","Eric Liégeon","Lise Magnier","Élisabeth de Maistre","Christophe Marion","Éric Martineau","Laurent Mazaury","Frédérique Meunier","Joséphine Missoffe","Jean Moulliere","Christophe Naegelen","Yannick Neuder","Didier Padey","Agnès Pannier-Runacher","Marie-Agnès Poussier-Winsback","Natalia Pouzyreff","Nicolas Ray","Charles Rodwell","Anne-Sophie Ronceret","Sabrina Sebaihi","Violette Spillebout","Annie Vidal","Corinne Vignon","Caroline Yadan"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/declaration_beau_parentalite_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 13 janvier 2026","Mardi 13 janvier 2026"]

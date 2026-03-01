@@ -2,7 +2,7 @@
 date = 2025-09-16
 draft = false
 title = "Étendre le champ du délit d'abus de faiblesse aux pratiques des plateformes numériques - N° 1850"
-auteurs = ["Christelle D'Intorni","Bernard Chaix","Éric Michoux","Nathalie Da Conceicao Carvalho","Frank Giletti","Bartolomé Lenoir","Alexis Jolly"]
+auteurs = ["Christelle D'Intorni","Bernard Chaix","Éric Michoux","Nathalie Da Conceicao Carvalho","Frank Giletti","Bartolomé Lenoir","Alexis Jolly","Jérôme Buisson","Romain Baubry","Gisèle Lelouis"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_etendre_delit_abus_faiblesse_pratiques_plateformes_numeriques_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]

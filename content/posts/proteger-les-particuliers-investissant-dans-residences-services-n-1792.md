@@ -2,7 +2,7 @@
 date = 2025-09-16
 draft = false
 title = "Protéger les particuliers investissant dans les résidences services - N° 1792"
-auteurs = ["Corentin Le Fur","Patrick Hetzel","Virginie Duby-Muller","Michel Herbillon","Jean-Pierre Taite","Véronique Besse","Jean-Michel Jacques","Sébastien Martin","Michel Castellani","Alexandra Martin","Laurent Mazaury","Alexandre Portier","Ian Boucard","Josiane Corneloup","Valérie Bazin-Malgras","Constance de Pélichy"]
+auteurs = ["Corentin Le Fur","Patrick Hetzel","Virginie Duby-Muller","Michel Herbillon","Jean-Pierre Taite","Véronique Besse","Jean-Michel Jacques","Sébastien Martin","Michel Castellani","Alexandra Martin","Laurent Mazaury","Alexandre Portier","Ian Boucard","Josiane Corneloup","Valérie Bazin-Malgras","Constance de Pélichy","Xavier Breton"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_particuliers_residences_services_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]

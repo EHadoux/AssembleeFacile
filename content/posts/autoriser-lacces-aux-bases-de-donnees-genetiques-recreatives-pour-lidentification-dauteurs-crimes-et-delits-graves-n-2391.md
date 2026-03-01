@@ -2,7 +2,7 @@
 date = 2026-01-27
 draft = false
 title = "Autoriser l’accès aux bases de données génétiques récréatives pour l’identification d’auteurs de crimes et de délits graves - N° 2391"
-auteurs = ["Virginie Duby-Muller","Frédérique Meunier","Josiane Corneloup","Marie-Christine Dalloz","Delphine Lingemann","Félicie Gérard","Fabien Di Filippo","Éric Pauget","Laurent Croizier","Valérie Bazin-Malgras","Joël Bruneau","Anne-Sophie Ronceret","Vincent Rolland","Marie-Agnès Poussier-Winsback","Vincent Ledoux","Julie Delpech","Thomas Gassilloud","Violette Spillebout","Didier Padey","Natalia Pouzyreff","Denis Masséglia","Lionel Duparay","Philippe Gosselin","Justine Gruet","Émilie Bonnivard"]
+auteurs = ["Virginie Duby-Muller","Frédérique Meunier","Josiane Corneloup","Marie-Christine Dalloz","Delphine Lingemann","Félicie Gérard","Fabien Di Filippo","Éric Pauget","Laurent Croizier","Valérie Bazin-Malgras","Joël Bruneau","Anne-Sophie Ronceret","Vincent Rolland","Marie-Agnès Poussier-Winsback","Vincent Ledoux","Julie Delpech","Thomas Gassilloud","Violette Spillebout","Didier Padey","Natalia Pouzyreff","Denis Masséglia","Lionel Duparay","Philippe Gosselin","Justine Gruet","Émilie Bonnivard","Stéphane Viry","Thomas Lam","Loïc Kervran","Nicolas Ray"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_autoriser_acces_aux_bases_de_donnees_genetiques_recreatives_pour_identification_auteurs_crimes_et_delits_graves_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 27 janvier 2026","Mardi 27 janvier 2026"]

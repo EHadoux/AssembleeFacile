@@ -2,7 +2,7 @@
 date = 2025-06-23
 draft = false
 title = "Accorder le droit de vote aux élections municipales aux résidents étrangers extra-européens en France - N° 1606"
-auteurs = ["Soumya Bourouaha","Édouard Bénard","Julien Brugerolles","Jean-Victor Castor","Elsa Faucillon","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Yannick Monnet","Marcellin Nadeau","Stéphane Peu","Nicolas Sansu","Hendrik Davi","Emmanuel Grégoire","Sandrine Rousseau","Pierrick Courbon","Dominique Voynet","Guillaume Gouffier Valente","Paul Christophle","Damien Girard","Peio Dufau"]
+auteurs = ["Soumya Bourouaha","Édouard Bénard","Julien Brugerolles","Jean-Victor Castor","Elsa Faucillon","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Yannick Monnet","Marcellin Nadeau","Stéphane Peu","Nicolas Sansu","Hendrik Davi","Emmanuel Grégoire","Sandrine Rousseau","Pierrick Courbon","Dominique Voynet","Guillaume Gouffier Valente","Paul Christophle","Damien Girard","Peio Dufau","Sabrina Sebaihi","Colette Capdevielle","Jean-Louis Roumégas","Estelle Mercier","Danielle Simonnet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/accorder_droit_vote_elections_municipales_residents_etrangers_france"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Jeudi 19 juin 2025","Jeudi 19 juin 2025"]

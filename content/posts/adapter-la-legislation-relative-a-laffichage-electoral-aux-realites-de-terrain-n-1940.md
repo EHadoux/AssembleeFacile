@@ -2,7 +2,7 @@
 date = 2025-10-14
 draft = false
 title = "Adapter la législation relative à l’affichage électoral aux réalités de terrain - N° 1940"
-auteurs = ["Sébastien Huyghe","Jean-Pierre Bataille","Thibault Bazin","Béatrice Bellamy","Véronique Besse","Émilie Bonnivard","Anthony Brosse","Salvatore Castiglione","Nathalie Colin-Oesterlé","Josiane Corneloup","Emmanuelle Hoffman","Brigitte Klinkert","Brigitte Liso","Alexandra Martin","Éric Martineau","Laurent Mazaury","Maud Petit","Christophe Plassard","Nicolas Ray","Liliana Tanguy","Corinne Vignon","Caroline Yadan","Romain Daubié","Éric Bothorel","Danielle Brulebois","Vincent Ledoux","Lise Magnier","Jean-Luc Bourgeaux","Lionel Vuibert","Olivier Becht","Joël Bruneau","Karl Olive"]
+auteurs = ["Sébastien Huyghe","Jean-Pierre Bataille","Thibault Bazin","Olivier Becht","Béatrice Bellamy","Véronique Besse","Émilie Bonnivard","Éric Bothorel","Jean-Luc Bourgeaux","Anthony Brosse","Danielle Brulebois","Joël Bruneau","Salvatore Castiglione","Nathalie Colin-Oesterlé","Josiane Corneloup","Romain Daubié","Emmanuelle Hoffman","Brigitte Klinkert","Vincent Ledoux","Brigitte Liso","Lise Magnier","Alexandra Martin","Éric Martineau","Laurent Mazaury","Karl Olive","Maud Petit","Christophe Plassard","Dominique Potier","Nicolas Ray","Liliana Tanguy","Annie Vidal","Corinne Vignon","Lionel Vuibert","Caroline Yadan"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_adapter_legislation_affichage_electoral_realites_de_terrain_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025"]

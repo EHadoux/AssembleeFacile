@@ -2,7 +2,7 @@
 date = 2025-09-16
 draft = false
 title = "Renforcer les exigences de qualification professionnelle pour l’ouverture d’un établissement de restauration rapide - N° 1849"
-auteurs = ["Christelle D'Intorni","Bernard Chaix","Éric Michoux","Nathalie Da Conceicao Carvalho","Frank Giletti","Maxime Amblard","Alexis Jolly"]
+auteurs = ["Christelle D'Intorni","Bernard Chaix","Éric Michoux","Nathalie Da Conceicao Carvalho","Frank Giletti","Maxime Amblard","Alexis Jolly","Jérôme Buisson","Romain Baubry","Gisèle Lelouis"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_renforcer_exigences_qualification_professionnelle_pour_ouverture_etablissement_de_restauration_rapide_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]

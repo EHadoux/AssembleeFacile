@@ -2,7 +2,7 @@
 date = 2026-01-27
 draft = false
 title = "Permettre la prise en charge par l’assurance maladie des dispositifs médicaux remis en bon état d’usage - N° 2388"
-auteurs = ["Fabrice Roussel","Violette Spillebout"]
+auteurs = ["Fabrice Roussel","Violette Spillebout","Mickaël Bouloux","Alain David","Denis Fégné","Mereana Reid Arbelot","Jean-Pierre Bataille","Fabrice Barusseau","Josiane Corneloup","Sophie Errante","Jacques Oberti","Valérie Rossi","Sébastien Saint-Pasteur","Lionel Vuibert","Karim Benbrahim","Michel Lauzzana","Anna Pic","Matthias Tavel","Laurent Lhardit","Chantal Jourdan","Arnaud Simion","Lise Magnier","Olivier Falorni","Émilie Bonnivard","Loïc Kervran","Sophie Panonacle","Michel Castellani","Estelle Mercier","Inaki Echaniz","Gérard Leseul","Stéphane Delautrette","Romain Eskenazi","Peio Dufau","Pierre Pribetich","Constance de Pélichy","Thierry Sother","Jean-Claude Raux","Claudia Rouaux","Mélanie Thomin","Arthur Delaporte","Béatrice Piron","Pascale Got","Marie-Noëlle Battistel","Colette Capdevielle","Marie-Agnès Poussier-Winsback","Fatiha Keloua Hachi","Marc Pena","Sabrina Sebaihi"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/prise_charge_dispositifs_medicaux_bon_etat_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 27 janvier 2026","Mardi 27 janvier 2026"]

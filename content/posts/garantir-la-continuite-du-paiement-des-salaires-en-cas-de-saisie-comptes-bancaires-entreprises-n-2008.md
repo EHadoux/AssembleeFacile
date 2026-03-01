@@ -2,7 +2,7 @@
 date = 2025-10-28
 draft = false
 title = "Garantir la continuité du paiement des salaires en cas de saisie des comptes bancaires des entreprises - N° 2008"
-auteurs = ["Sabrina Sebaihi","Christine Arrighi","Arnaud Bonnet","Catherine Hervieu","Julie Ozenne","Sébastien Peytavie","Jean-Claude Raux","Sandra Regol"]
+auteurs = ["Sabrina Sebaihi","Christine Arrighi","Lisa Belluco","Arnaud Bonnet","Mickaël Bouloux","Colette Capdevielle","Alexis Corbière","Damien Girard","Catherine Hervieu","Laurent Lhardit","Karine Lebon","Julie Ozenne","Stéphane Peu","Constance de Pélichy","Sébastien Peytavie","Marie Pochon","Pierre Pribetich","Jean-Claude Raux","Sandra Regol","Mereana Reid Arbelot","Claudia Rouaux","Sandrine Rousseau","Thierry Sother","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_la_continuite_paiement_salaires_saisie_comptes_bancaires_entreprises_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]

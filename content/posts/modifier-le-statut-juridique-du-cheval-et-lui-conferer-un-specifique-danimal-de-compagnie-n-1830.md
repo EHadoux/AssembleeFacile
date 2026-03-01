@@ -2,7 +2,7 @@
 date = 2025-09-16
 draft = false
 title = "Modifier le statut juridique du cheval et lui conférer un statut spécifique d’animal de compagnie - N° 1830"
-auteurs = ["Éric Pauget"]
+auteurs = ["Éric Pauget","Valérie Bazin-Malgras","Josiane Corneloup","Virginie Duby-Muller","Michel Herbillon","Véronique Besse","Olivier Falorni","Anne-Sophie Ronceret","Alexandra Martin","Maud Petit"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/modifier_statut_juridique_cheval_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]

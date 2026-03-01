@@ -2,7 +2,7 @@
 date = 2025-09-16
 draft = false
 title = "Ajouter le prénom à la liste des critères légaux de discrimination - N° 1828"
-auteurs = ["François Ruffin","Emmanuel Grégoire","Mereana Reid Arbelot","Sophie Taillé-Polian","Alexis Corbière","Sandrine Rousseau","Jean-Paul Lecoq","Constance de Pélichy","Lisa Belluco","Jean-Claude Raux","Davy Rimane","Philippe Naillet","Damien Girard","Thierry Sother","Paul Christophle","Marie Pochon","Hervé Saulignac","Céline Thiébault-Martinez","Matthias Tavel","Soumya Bourouaha","Charles Fournier","Catherine Hervieu","Boris Tavernier","Cyrielle Chatelain","Anna Pic","Claudia Rouaux","Jean-Louis Roumégas","Steevy Gustave","Inaki Echaniz","Christine Pirès Beaune","Mélanie Thomin"]
+auteurs = ["François Ruffin","Emmanuel Grégoire","Mereana Reid Arbelot","Sophie Taillé-Polian","Alexis Corbière","Sandrine Rousseau","Jean-Paul Lecoq","Constance de Pélichy","Lisa Belluco","Jean-Claude Raux","Davy Rimane","Philippe Naillet","Damien Girard","Thierry Sother","Paul Christophle","Marie Pochon","Hervé Saulignac","Céline Thiébault-Martinez","Matthias Tavel","Soumya Bourouaha","Charles Fournier","Catherine Hervieu","Boris Tavernier","Cyrielle Chatelain","Anna Pic","Claudia Rouaux","Jean-Louis Roumégas","Steevy Gustave","Inaki Echaniz","Christine Pirès Beaune","Mélanie Thomin","Max Mathiasin","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/prenom_liste_discriminations_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]

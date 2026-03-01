@@ -2,7 +2,7 @@
 date = 2024-10-23
 draft = false
 title = "Mieux organiser la programmation des finances publiques - N° 470"
-auteurs = ["Charles Sitzenstuhl","Brigitte Klinkert","Maud Petit","Karl Olive","Xavier Roseren","Moerani Frébault","Jean-François Rousset"]
+auteurs = ["Charles Sitzenstuhl","Brigitte Klinkert","Maud Petit","Karl Olive","Xavier Roseren","Moerani Frébault"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/mieux_organiser_programmation_finances_publiques_organique"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Lundi 21 octobre 2024","Lundi 21 octobre 2024"]

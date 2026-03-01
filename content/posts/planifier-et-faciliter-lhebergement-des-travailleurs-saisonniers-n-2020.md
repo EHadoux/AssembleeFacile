@@ -2,7 +2,7 @@
 date = 2025-10-28
 draft = false
 title = "Planifier et faciliter l’hébergement des travailleurs saisonniers - N° 2020"
-auteurs = ["Pascale Got"]
+auteurs = ["Pascale Got","Joël Aviragnet","Fabrice Barusseau","Marie-Noëlle Battistel","Karim Benbrahim","Véronique Besse","Mickaël Bouloux","Colette Capdevielle","Lionel Causse","Yannick Chenevard","Josiane Corneloup","Mickaël Cosson","Pierrick Courbon","Alain David","Fanny Dombre Coste","Inaki Echaniz","Romain Eskenazi","Philippe Fait","Olivier Falorni","Denis Fégné","Océane Godard","Philippe Gosselin","Emmanuel Grégoire","Céline Hervieu","Chantal Jourdan","Delphine Lingemann","Estelle Mercier","Sophie Panonacle","Sophie Pantel","Marc Pena","Christine Pirès Beaune","Dominique Potier","Marie-Agnès Poussier-Winsback","Pierre Pribetich","Marie Récalde","Mereana Reid Arbelot","Xavier Roseren","Valérie Rossi","Claudia Rouaux","Sébastien Saint-Pasteur","Thierry Sother","David Taupiac","Mélanie Thomin","Stéphane Travert","Stéphane Viry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/planifier_et_faciliter_hebergement_des_travailleurs_saisonniers_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]

@@ -7,7 +7,7 @@ stepsStatus = ["","Commission des affaires sociales"]
 date = 2025-07-11
 draft = false
 title = "Rétablir l’obligation de vaccination contre la grippe pour les professionnels de santé et permettre son remboursement pour tous - N° 1722"
-auteurs = ["Agnès Firmin Le Bodo","Lise Magnier","Anne Le Hénanff","Bertrand Bouyx","Xavier Albertini"]
+auteurs = ["Agnès Firmin Le Bodo","Lise Magnier","Anne Le Hénanff","Bertrand Bouyx","Xavier Albertini","Vincent Thiébaut"]
 +++
 
 ## Résumé

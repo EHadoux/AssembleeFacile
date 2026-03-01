@@ -2,7 +2,7 @@
 date = 2026-01-29
 draft = false
 title = "Renforcer la participation citoyenne à la dépense publique - N° 2407"
-auteurs = ["Christelle D'Intorni"]
+auteurs = ["Christelle D'Intorni","Marc Chavent","Nadine Lechon","Alexandre Allegret-Pilot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_participation_citoyenne_depense_publique_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Jeudi 29 janvier 2026","Jeudi 29 janvier 2026"]

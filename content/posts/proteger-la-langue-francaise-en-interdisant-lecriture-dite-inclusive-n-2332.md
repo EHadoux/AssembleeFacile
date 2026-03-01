@@ -2,7 +2,7 @@
 date = 2026-01-13
 draft = false
 title = "Protéger la langue française en interdisant l’écriture dite inclusive - N° 2332"
-auteurs = ["Corentin Le Fur","Valérie Bazin-Malgras","Philippe Gosselin","Alexandra Martin","Fabien Di Filippo","Lionel Duparay","Fabrice Brun","Sylvie Bonnet","Jérôme Nury","Jean-Didier Berger","Nicolas Tryzna","Véronique Louwagie","Justine Gruet","Josiane Corneloup","Ian Boucard","Hubert Brigand","Marie-Christine Dalloz","Thibault Bazin","Éric Pauget"]
+auteurs = ["Corentin Le Fur","Valérie Bazin-Malgras","Philippe Gosselin","Alexandra Martin","Fabien Di Filippo","Lionel Duparay","Fabrice Brun","Sylvie Bonnet","Jérôme Nury","Jean-Didier Berger","Nicolas Tryzna","Véronique Louwagie","Justine Gruet","Josiane Corneloup","Ian Boucard","Hubert Brigand","Marie-Christine Dalloz","Thibault Bazin","Éric Pauget","Michel Herbillon","Élisabeth de Maistre","Virginie Duby-Muller","Patrick Hetzel","Xavier Breton","Vincent Descoeur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_langue_francaise_en_interdisant_ecriture_dite_inclusive_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 13 janvier 2026","Mardi 13 janvier 2026"]

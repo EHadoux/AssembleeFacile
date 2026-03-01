@@ -2,7 +2,7 @@
 date = 2025-10-28
 draft = false
 title = "Instaurer le droit de vote à seize ans aux élections municipales - N° 2031"
-auteurs = ["Céline Hervieu"]
+auteurs = ["Céline Hervieu","Béatrice Bellay","Mickaël Bouloux","Arthur Delaporte","Fanny Dombre Coste","Inaki Echaniz","Romain Eskenazi","Denis Fégné","Emmanuel Grégoire","Chantal Jourdan","Céline Thiébault-Martinez"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_droit_vote_seize_ans_elections_municipales_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]

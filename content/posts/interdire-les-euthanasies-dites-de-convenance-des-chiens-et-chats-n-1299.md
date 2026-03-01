@@ -2,7 +2,7 @@
 date = 2025-04-17
 draft = false
 title = "Interdire les euthanasies dites de convenance des chiens et des chats - N° 1299"
-auteurs = ["Aymeric Caron"]
+auteurs = ["Aymeric Caron","Julie Ozenne"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdire_euthanasie_convenance_17"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025"]

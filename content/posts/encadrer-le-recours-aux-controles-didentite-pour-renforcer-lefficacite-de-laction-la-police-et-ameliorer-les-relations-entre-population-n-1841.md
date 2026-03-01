@@ -2,7 +2,7 @@
 date = 2025-09-16
 draft = false
 title = "Encadrer le recours aux contrôles d’identité pour renforcer l’efficacité de l’action de la police et améliorer les relations entre la police et la population - N° 1841"
-auteurs = ["Paul Christophle","Fatiha Keloua Hachi","François Ruffin","Léa Balage El Mariky","Marie-José Allemand","Colette Capdevielle","Arthur Delaporte","Stéphane Delautrette","Inaki Echaniz","Denis Fégné","Emmanuel Grégoire","Ayda Hadizadeh","Laurent Lhardit","Estelle Mercier","Philippe Naillet","Marc Pena","Anna Pic","Pierre Pribetich","Sandrine Runel","Hervé Saulignac","Céline Thiébault-Martinez"]
+auteurs = ["Paul Christophle","Fatiha Keloua Hachi","François Ruffin","Léa Balage El Mariky","Marie-José Allemand","Mickaël Bouloux","Colette Capdevielle","Pierrick Courbon","Alain David","Arthur Delaporte","Stéphane Delautrette","Dieynaba Diop","Peio Dufau","Inaki Echaniz","Romain Eskenazi","Denis Fégné","Emmanuel Grégoire","Ayda Hadizadeh","Marietta Karamanli","Laurent Lhardit","Estelle Mercier","Philippe Naillet","Marc Pena","Anna Pic","Pierre Pribetich","Sandrine Runel","Hervé Saulignac","Thierry Sother","Céline Thiébault-Martinez","Mélanie Thomin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/encadrer_recours_controle_identite_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]

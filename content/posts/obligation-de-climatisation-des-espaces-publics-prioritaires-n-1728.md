@@ -7,7 +7,7 @@ stepsStatus = ["","Commission des affaires sociales"]
 date = 2025-07-11
 draft = false
 title = "Obligation de climatisation des espaces publics prioritaires - N° 1728"
-auteurs = ["Éric Ciotti","Alexandre Allegret-Pilot","Charles Alloncle","Matthieu Bloch","Bernard Chaix","Marc Chavent","Christelle D'Intorni","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Maxime Michelet","Éric Michoux","Sophie Ricourt Vaginay","Vincent Trébuchet","Gérault Verny","Les membres du groupe UDDPLR"]
+auteurs = ["Éric Ciotti","Alexandre Allegret-Pilot","Charles Alloncle","Matthieu Bloch","Bernard Chaix","Marc Chavent","Christelle D'Intorni","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Maxime Michelet","Éric Michoux","Sophie Ricourt Vaginay","Vincent Trébuchet","Gérault Verny"]
 +++
 
 ## Résumé

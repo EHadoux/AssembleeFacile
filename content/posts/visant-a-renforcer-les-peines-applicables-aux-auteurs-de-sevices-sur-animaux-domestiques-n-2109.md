@@ -2,7 +2,7 @@
 date = 2025-11-17
 draft = false
 title = "visant à renforcer les peines applicables aux auteurs de sévices sur les animaux domestiques - N° 2109"
-auteurs = ["François-Xavier Ceccoli"]
+auteurs = ["François-Xavier Ceccoli","Xavier Albertini","Alexandre Allegret-Pilot","Thibault Bazin","Valérie Bazin-Malgras","Véronique Besse","Matthieu Bloch","Ian Boucard","Jean-Michel Brard","Fabrice Brun","Michel Castellani","Thomas Cazenave","Paul-André Colombani","Josiane Corneloup","Virginie Duby-Muller","Lionel Duparay","Olivier Falorni","Alix Fruchon","Félicie Gérard","Michel Herbillon","Philippe Juvin","Valérie Létard","Katiana Levavasseur","Laurent Lhardit","Véronique Louwagie","Élisabeth de Maistre","Emmanuel Mandon","Claire Marais-Beuil","Laurent Marcangeli","Alexandra Martin","Yannick Neuder","Hubert Ott","Jérémie Patrier-Leitus","Constance de Pélichy","Maud Petit","Kévin Pfeffer","Christophe Plassard","Angélique Ranc","Nicolas Ray","Joseph Rivière","Béatrice Roullaud","Jean-Pierre Taite","Nicolas Tryzna","Corinne Vignon","Anne-Cécile Violland","Guillaume Lepers","Christelle Minard","Valérie Rossi"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_peines_applicables_auteurs_sevices_animaux_domestiques_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]

@@ -2,7 +2,7 @@
 date = 2025-09-16
 draft = false
 title = "Reconnaissance et sauvegarde du pastoralisme - N° 1820"
-auteurs = ["Sophie Ricourt Vaginay","Alexandre Allegret-Pilot","Christophe Bentz","Bernard Chaix","Christelle D'Intorni","Julien Guibert","Alexis Jolly","Marie-France Lorho","Romain Tonussi","Romain Baubry","Éric Michoux","Caroline Colombier","Christian Girard"]
+auteurs = ["Sophie Ricourt Vaginay","Alexandre Allegret-Pilot","Christophe Bentz","Bernard Chaix","Christelle D'Intorni","Julien Guibert","Alexis Jolly","Marie-France Lorho","Romain Tonussi","Romain Baubry","Éric Michoux","Caroline Colombier","Christian Girard","Marc Chavent"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconnaissance_et_sauvegarde_pastoralisme_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
 stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
