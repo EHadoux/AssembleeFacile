@@ -70,43 +70,89 @@
       {/if}
     </div>
 
-    <div class="mt-3 flex items-center gap-2 border-t border-border/50 pt-3">
-      <div class="flex flex-1 min-w-0 flex-wrap items-center gap-1.5">
-        {#if displayDate}
-          {#if post.link}
-            <a
-              href={post.link}
-              target="_blank"
-              rel="noopener noreferrer"
-              onclick={(e) => e.stopPropagation()}
-              class="relative z-10 inline-flex items-center gap-1 rounded-full bg-accent px-2.5 py-0.5 text-xs font-medium text-muted-foreground transition-colors hover:text-primary"
-              title="Voir sur assemblee-nationale.fr"
-            >
-              {displayDate} ↗
-            </a>
-          {:else}
-            <span
-              class="inline-flex items-center gap-1 rounded-full bg-accent px-2.5 py-0.5 text-xs font-medium text-muted-foreground"
-            >
-              {displayDate}
-            </span>
+    <div class="mt-3 border-t border-border/50 pt-3">
+      <!-- Mobile: row 1 = date + progress, row 2 = tags -->
+      <div class="sm:hidden">
+        <div class="flex items-center justify-between gap-2">
+          {#if displayDate}
+            {#if post.link}
+              <a
+                href={post.link}
+                target="_blank"
+                rel="noopener noreferrer"
+                onclick={(e) => e.stopPropagation()}
+                class="relative z-10 inline-flex items-center gap-1 rounded-full bg-accent px-2.5 py-0.5 text-xs font-medium text-muted-foreground transition-colors hover:text-primary"
+                title="Voir sur assemblee-nationale.fr"
+              >
+                {displayDate} ↗
+              </a>
+            {:else}
+              <span
+                class="inline-flex items-center gap-1 rounded-full bg-accent px-2.5 py-0.5 text-xs font-medium text-muted-foreground"
+              >
+                {displayDate}
+              </span>
+            {/if}
           {/if}
+          <div class="flex-shrink-0">
+            <LegislativeProgress stepsName={post.stepsName} stepsDate={post.stepsDate} stepsStatus={post.stepsStatus} />
+          </div>
+        </div>
+        {#if post.tags.length > 0}
+          <div class="mt-1.5 flex flex-wrap gap-1.5">
+            {#each post.tags.slice(0, 3) as tag}
+              <Badge
+                variant="secondary"
+                class="relative z-10 cursor-pointer rounded-full px-2.5 py-0.5 text-xs font-medium"
+                href="/tags/{slugify(tag)}"
+                onclick={(e: MouseEvent) => e.stopPropagation()}
+              >
+                {tag}
+              </Badge>
+            {/each}
+          </div>
         {/if}
-
-        {#each post.tags.slice(0, 3) as tag}
-          <Badge
-            variant="secondary"
-            class="relative z-10 cursor-pointer rounded-full px-2.5 py-0.5 text-xs font-medium"
-            href="/tags/{slugify(tag)}"
-            onclick={(e: MouseEvent) => e.stopPropagation()}
-          >
-            {tag}
-          </Badge>
-        {/each}
       </div>
 
-      <div class="flex-shrink-0">
-        <LegislativeProgress stepsName={post.stepsName} stepsDate={post.stepsDate} stepsStatus={post.stepsStatus} />
+      <!-- Desktop: original single-row layout -->
+      <div class="hidden sm:flex items-center gap-2">
+        <div class="flex flex-1 min-w-0 flex-wrap items-center gap-1.5">
+          {#if displayDate}
+            {#if post.link}
+              <a
+                href={post.link}
+                target="_blank"
+                rel="noopener noreferrer"
+                onclick={(e) => e.stopPropagation()}
+                class="relative z-10 inline-flex items-center gap-1 rounded-full bg-accent px-2.5 py-0.5 text-xs font-medium text-muted-foreground transition-colors hover:text-primary"
+                title="Voir sur assemblee-nationale.fr"
+              >
+                {displayDate} ↗
+              </a>
+            {:else}
+              <span
+                class="inline-flex items-center gap-1 rounded-full bg-accent px-2.5 py-0.5 text-xs font-medium text-muted-foreground"
+              >
+                {displayDate}
+              </span>
+            {/if}
+          {/if}
+
+          {#each post.tags.slice(0, 3) as tag}
+            <Badge
+              variant="secondary"
+              class="relative z-10 cursor-pointer rounded-full px-2.5 py-0.5 text-xs font-medium"
+              href="/tags/{slugify(tag)}"
+              onclick={(e: MouseEvent) => e.stopPropagation()}
+            >
+              {tag}
+            </Badge>
+          {/each}
+        </div>
+
+        <div class="flex-shrink-0">
+          <LegislativeProgress stepsName={post.stepsName} stepsDate={post.stepsDate} stepsStatus={post.stepsStatus} />
+        </div>
       </div>
     </div>
   </div>

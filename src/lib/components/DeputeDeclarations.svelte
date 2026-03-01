@@ -60,7 +60,7 @@
 {:else}
   <div class="space-y-5">
     <!-- Version navigation -->
-    <div class="flex items-center justify-between rounded-md border border-border/60 bg-muted/20 px-3 py-2">
+    <div class="flex flex-col gap-2 rounded-md border border-border/60 bg-muted/20 px-3 py-2 sm:flex-row sm:items-center sm:justify-between">
       <div class="flex items-center gap-2">
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -469,9 +469,9 @@
         <line x1="12" y1="8" x2="12" y2="12" />
         <line x1="12" y1="16" x2="12.01" y2="16" />
       </svg>
-      Ces informations sont déclarées sur l'honneur par le député lui-même auprès de la
+      <span>Ces informations sont déclarées sur l'honneur par le député lui-même auprès de la
       <abbr title="Haute Autorité pour la transparence de la vie publique" class="no-underline">HATVP</abbr>. Elles
-      n'ont pas fait l'objet d'une vérification indépendante.
+      n'ont pas fait l'objet d'une vérification indépendante.</span>
     </p>
   </div>
 {/if}

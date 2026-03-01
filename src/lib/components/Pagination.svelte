@@ -39,39 +39,39 @@
 	});
 </script>
 
-<nav class="mt-8 grid grid-cols-[auto_1fr_auto] items-center gap-2" aria-label="Pagination">
+<nav class="mt-8 grid grid-cols-[auto_minmax(0,1fr)_auto] items-center gap-2" aria-label="Pagination">
 	{#if pageNum > 1}
 		{#if onPageChange}
 			<button
 				onclick={() => onPageChange(pageNum - 1)}
-				class="rounded-lg border border-border bg-white px-6 py-2.5 text-sm font-medium text-foreground shadow-sm transition-colors hover:border-primary hover:text-primary"
+				class="rounded-lg border border-border bg-white px-3 py-2.5 text-sm font-medium text-foreground shadow-sm transition-colors hover:border-primary hover:text-primary sm:px-6"
 			>
-				← Précédent
+				←<span class="hidden sm:inline"> Précédent</span>
 			</button>
 		{:else}
 			<a
 				href={pageUrl!(pageNum - 1)}
-				class="rounded-lg border border-border bg-white px-6 py-2.5 text-sm font-medium text-foreground shadow-sm transition-colors hover:border-primary hover:text-primary"
+				class="rounded-lg border border-border bg-white px-3 py-2.5 text-sm font-medium text-foreground shadow-sm transition-colors hover:border-primary hover:text-primary sm:px-6"
 			>
-				← Précédent
+				←<span class="hidden sm:inline"> Précédent</span>
 			</a>
 		{/if}
 	{:else}
-		<span class="rounded-lg border border-border/40 bg-white px-6 py-2.5 text-sm font-medium text-muted-foreground/40 shadow-sm cursor-not-allowed select-none">
-			← Précédent
+		<span class="rounded-lg border border-border/40 bg-white px-3 py-2.5 text-sm font-medium text-muted-foreground/40 shadow-sm cursor-not-allowed select-none sm:px-6">
+			←<span class="hidden sm:inline"> Précédent</span>
 		</span>
 	{/if}
 
-	<div class="flex items-center justify-center gap-1.5">
+	<div class="flex items-center justify-center gap-1 sm:gap-1.5 overflow-x-auto">
 		{#each items as item}
 			{#if item.type === 'ellipsis'}
-				<span class="flex h-9 w-9 items-center justify-center text-sm text-muted-foreground select-none">
+				<span class="flex h-7 w-7 items-center justify-center text-sm text-muted-foreground select-none sm:h-9 sm:w-9">
 					…
 				</span>
 			{:else if onPageChange}
 				<button
 					onclick={() => onPageChange(item.n)}
-					class="flex h-9 w-9 items-center justify-center rounded-full text-sm font-medium transition-colors
+					class="flex h-7 w-7 shrink-0 items-center justify-center rounded-full text-xs font-medium transition-colors sm:h-9 sm:w-9 sm:text-sm
 						{item.n === pageNum
 						? 'bg-primary text-white shadow-sm'
 						: 'border border-border bg-white text-foreground hover:border-primary hover:text-primary'}"
@@ -82,7 +82,7 @@
 			{:else}
 				<a
 					href={pageUrl!(item.n)}
-					class="flex h-9 w-9 items-center justify-center rounded-full text-sm font-medium transition-colors
+					class="flex h-7 w-7 shrink-0 items-center justify-center rounded-full text-xs font-medium transition-colors sm:h-9 sm:w-9 sm:text-sm
 						{item.n === pageNum
 						? 'bg-primary text-white shadow-sm'
 						: 'border border-border bg-white text-foreground hover:border-primary hover:text-primary'}"
@@ -98,21 +98,21 @@
 		{#if onPageChange}
 			<button
 				onclick={() => onPageChange(pageNum + 1)}
-				class="rounded-lg border border-border bg-white px-6 py-2.5 text-sm font-medium text-foreground shadow-sm transition-colors hover:border-primary hover:text-primary"
+				class="rounded-lg border border-border bg-white px-3 py-2.5 text-sm font-medium text-foreground shadow-sm transition-colors hover:border-primary hover:text-primary sm:px-6"
 			>
-				Suivant →
+				<span class="hidden sm:inline">Suivant </span>→
 			</button>
 		{:else}
 			<a
 				href={pageUrl!(pageNum + 1)}
-				class="rounded-lg border border-border bg-white px-6 py-2.5 text-sm font-medium text-foreground shadow-sm transition-colors hover:border-primary hover:text-primary"
+				class="rounded-lg border border-border bg-white px-3 py-2.5 text-sm font-medium text-foreground shadow-sm transition-colors hover:border-primary hover:text-primary sm:px-6"
 			>
-				Suivant →
+				<span class="hidden sm:inline">Suivant </span>→
 			</a>
 		{/if}
 	{:else}
-		<span class="rounded-lg border border-border/40 bg-white px-6 py-2.5 text-sm font-medium text-muted-foreground/40 shadow-sm cursor-not-allowed select-none">
-			Suivant →
+		<span class="rounded-lg border border-border/40 bg-white px-3 py-2.5 text-sm font-medium text-muted-foreground/40 shadow-sm cursor-not-allowed select-none sm:px-6">
+			<span class="hidden sm:inline">Suivant </span>→
 		</span>
 	{/if}
 </nav>

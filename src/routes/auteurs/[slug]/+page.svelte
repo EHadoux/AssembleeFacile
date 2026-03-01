@@ -492,13 +492,56 @@
                     vote{s.total > 1 ? 's' : ''} au total
                   </span>
                 </div>
-                <div class="grid grid-cols-5 divide-x divide-border/50">
+                <!-- Mobile: 2 rows (Pour+Contre / Abstentions+Non-Votant+Absent) -->
+                <div class="sm:hidden">
+                  <div class="flex divide-x divide-border/50">
+                    <div class="flex-1 px-2 py-2 text-center">
+                      <p class="text-2xl font-black tabular-nums text-green-700">{s.pour}</p>
+                      <p class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
+                        <span class="inline-block h-1.5 w-1.5 shrink-0 rounded-full bg-green-500"></span>Pour
+                      </p>
+                      <p class="mt-0.5 text-[10px] tabular-nums text-muted-foreground/70">{pctPour}%</p>
+                    </div>
+                    <div class="flex-1 px-2 py-2 text-center">
+                      <p class="text-2xl font-black tabular-nums text-red-700">{s.contre}</p>
+                      <p class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
+                        <span class="inline-block h-1.5 w-1.5 shrink-0 rounded-full bg-red-500"></span>Contre
+                      </p>
+                      <p class="mt-0.5 text-[10px] tabular-nums text-muted-foreground/70">{pctContre}%</p>
+                    </div>
+                  </div>
+                  <div class="flex divide-x divide-border/50 border-t border-border/50">
+                    <div class="flex-1 px-2 py-2 text-center">
+                      <p class="text-2xl font-black tabular-nums text-amber-700">{s.abstention}</p>
+                      <p class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
+                        <span class="inline-block h-1.5 w-1.5 shrink-0 rounded-full bg-amber-400"></span>Abstentions
+                      </p>
+                      <p class="mt-0.5 text-[10px] tabular-nums text-muted-foreground/70">{pctAbst}%</p>
+                    </div>
+                    <div class="flex-1 px-2 py-2 text-center">
+                      <p class="text-2xl font-black tabular-nums text-slate-500">{s.nonVotant}</p>
+                      <p class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
+                        <span class="inline-block h-1.5 w-1.5 shrink-0 rounded-full bg-slate-400"></span>Non-votants
+                      </p>
+                      <p class="mt-0.5 text-[10px] tabular-nums text-muted-foreground/70">{pctNonVotant}%</p>
+                    </div>
+                    <div class="flex-1 px-2 py-2 text-center">
+                      <p class="text-2xl font-black tabular-nums text-muted-foreground">{s.absent}</p>
+                      <p class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
+                        <span class="inline-block h-1.5 w-1.5 shrink-0 rounded-full bg-muted-foreground/40"></span>{data.dep?.civilite === 'Mme' ? 'Absentes' : 'Absents'}
+                      </p>
+                      <p class="mt-0.5 text-[10px] tabular-nums text-muted-foreground/70">{pctAbsent}%</p>
+                    </div>
+                  </div>
+                </div>
+                <!-- Desktop: original 5-column grid -->
+                <div class="hidden sm:grid grid-cols-5 divide-x divide-border/50">
                   <div class="px-2 py-2 text-center">
                     <p class="text-2xl font-black tabular-nums text-green-700">{s.pour}</p>
                     <p
                       class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground"
                     >
-                      <span class="inline-block h-1.5 w-1.5 rounded-full bg-green-500"></span>Pour
+                      <span class="inline-block h-1.5 w-1.5 shrink-0 rounded-full bg-green-500"></span>Pour
                     </p>
                     <p class="mt-0.5 text-[10px] tabular-nums text-muted-foreground/70">{pctPour}%</p>
                   </div>
@@ -507,7 +550,7 @@
                     <p
                       class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground"
                     >
-                      <span class="inline-block h-1.5 w-1.5 rounded-full bg-red-500"></span>Contre
+                      <span class="inline-block h-1.5 w-1.5 shrink-0 rounded-full bg-red-500"></span>Contre
                     </p>
                     <p class="mt-0.5 text-[10px] tabular-nums text-muted-foreground/70">{pctContre}%</p>
                   </div>
@@ -516,10 +559,7 @@
                     <p
                       class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground"
                     >
-                      <span class="inline-block h-1.5 w-1.5 rounded-full bg-amber-400"></span>Abstention{s.abstention >
-                      1
-                        ? 's'
-                        : ''}
+                      <span class="inline-block h-1.5 w-1.5 shrink-0 rounded-full bg-amber-400"></span>Abstention{s.abstention > 1 ? 's' : ''}
                     </p>
                     <p class="mt-0.5 text-[10px] tabular-nums text-muted-foreground/70">{pctAbst}%</p>
                   </div>
@@ -528,9 +568,7 @@
                     <p
                       class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground"
                     >
-                      <span class="inline-block h-1.5 w-1.5 rounded-full bg-slate-400"></span>Non-votant{s.nonVotant > 1
-                        ? 's'
-                        : ''}
+                      <span class="inline-block h-1.5 w-1.5 shrink-0 rounded-full bg-slate-400"></span>Non-votant{s.nonVotant > 1 ? 's' : ''}
                     </p>
                     <p class="mt-0.5 text-[10px] tabular-nums text-muted-foreground/70">{pctNonVotant}%</p>
                   </div>
@@ -539,10 +577,7 @@
                     <p
                       class="mt-0.5 flex items-center justify-center gap-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground"
                     >
-                      <span class="inline-block h-1.5 w-1.5 rounded-full bg-muted-foreground/40"></span>{data.dep
-                        ?.civilite === 'Mme'
-                        ? 'Absente'
-                        : 'Absent'}
+                      <span class="inline-block h-1.5 w-1.5 shrink-0 rounded-full bg-muted-foreground/40"></span>{data.dep?.civilite === 'Mme' ? 'Absente' : 'Absent'}
                     </p>
                     <p class="mt-0.5 text-[10px] tabular-nums text-muted-foreground/70">{pctAbsent}%</p>
                   </div>

@@ -43,7 +43,7 @@
 				<div class="h-px flex-1 bg-border"></div>
 			</div>
 
-			<div class="grid grid-cols-3 gap-3">
+			<div class="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
 				{#each data.topTagsPerGroupe as groupe}
 					{#if groupe.topTags.length > 0}
 						<div
@@ -63,7 +63,7 @@
 								>
 									{groupe.nom}
 								</p>
-								<div class="flex flex-nowrap gap-1.5">
+								<div class="flex flex-wrap gap-1.5">
 									{#each groupe.topTags as tag}
 										<a
 											href="/tags/{slugify(tag)}"

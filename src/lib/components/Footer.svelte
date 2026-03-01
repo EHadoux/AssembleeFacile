@@ -18,7 +18,7 @@
 			<p class="text-xs text-muted-foreground/60">Dernière mise à jour : {buildDate}</p>
 		</div>
 
-		<div class="flex shrink-0 items-center gap-4">
+		<div class="flex shrink-0 flex-col items-end gap-1 sm:flex-row sm:items-center sm:gap-4">
 			<div class="flex items-center gap-3">
 				<a
 					href="https://github.com/EHadoux/AssembleeFacile"

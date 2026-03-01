@@ -294,19 +294,19 @@
                       {@const pctAbsents = Math.round((totalAbsents / totalDeputeCount) * 100)}
                       <details class="group mt-2">
                         <summary
-                          class="flex cursor-pointer select-none list-none items-center gap-2 rounded-lg border border-border bg-muted/50 px-3 py-2 text-xs transition-colors hover:bg-muted"
+                          class="flex flex-wrap cursor-pointer select-none list-none items-center gap-x-2 gap-y-1 rounded-lg border border-border bg-muted/50 px-3 py-2 text-xs transition-colors hover:bg-muted"
                         >
-                          <span class="shrink-0 text-muted-foreground transition-transform duration-150 group-open:rotate-90">▸</span>
+                          <svg class="h-3.5 w-3.5 shrink-0 text-muted-foreground transition-transform duration-150 group-open:rotate-90" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="9 18 15 12 9 6" /></svg>
                           <span class="font-medium text-foreground">Résultats du vote</span>
                           <span
-                            class="inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-[11px] font-semibold
+                            class="inline-flex shrink-0 items-center gap-1 rounded-full px-2 py-0.5 text-[11px] font-semibold
                               {sAdopted ? 'bg-green-100 text-green-800' : sRejected ? 'bg-red-100 text-red-800' : 'bg-muted text-muted-foreground'}"
                           >
                             {#if sAdopted}✔ Adopté{:else if sRejected}✖ Rejeté{:else}{scrutin.sort}{/if}
                           </span>
-                          <span class="text-muted-foreground">·</span>
+                          <span class="hidden sm:inline text-muted-foreground">·</span>
                           <span class="text-muted-foreground">{formatDate(scrutin.date_scrutin)}</span>
-                          <span class="ml-auto flex items-center gap-1 tabular-nums text-xs">
+                          <span class="basis-full sm:basis-auto sm:ml-auto flex items-center gap-1 tabular-nums text-xs">
                             <span class="font-semibold text-green-700">{scrutin.pour}</span><span class="text-muted-foreground"> pour</span>
                             <span class="mx-0.5 text-border">·</span>
                             <span class="font-semibold text-red-700">{scrutin.contre}</span><span class="text-muted-foreground"> contre</span>
@@ -315,6 +315,7 @@
                               <span class="font-semibold text-muted-foreground opacity-60">{totalAbsents}</span><span class="text-muted-foreground opacity-60"> absents</span>
                             {/if}
                           </span>
+                          <span class="basis-full text-[10px] text-muted-foreground/40 group-open:hidden">Cliquer pour voir le détail</span>
                         </summary>
                         <div class="ml-4 mt-2 space-y-2">
                           <div class="flex h-2.5 w-full overflow-hidden rounded-full bg-muted">
@@ -351,9 +352,7 @@
                             <summary
                               class="flex cursor-pointer select-none list-none items-center gap-1 text-xs text-muted-foreground hover:text-foreground"
                             >
-                              <span
-                                class="inline-block transition-transform duration-150 group-open/inner:rotate-90"
-                              >▸</span>
+                              <svg class="h-3 w-3 shrink-0 transition-transform duration-150 group-open/inner:rotate-90" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="9 18 15 12 9 6" /></svg>
                               Répartition par groupe
                             </summary>
                             <div class="mt-2 flex flex-col gap-1.5">
@@ -522,7 +521,7 @@
                       <summary
                         class="flex cursor-pointer select-none list-none items-center gap-1 text-xs font-medium text-muted-foreground hover:text-foreground"
                       >
-                        <span class="inline-block transition-transform duration-150 group-open:rotate-90">▸</span>
+                        <svg class="h-3 w-3 shrink-0 transition-transform duration-150 group-open:rotate-90" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="9 18 15 12 9 6" /></svg>
                         Répartition par groupe
                       </summary>
                       <div class="mt-3 flex flex-col gap-1.5">
