@@ -20,8 +20,20 @@
   const SENAT_LOGO_URL = 'https://www.assemblee-nationale.fr/assets/images/logos/logo_sn.webp';
   const SENAT_GROUPE = { nom: 'Sénat', abrev: 'SEN', couleur: SENAT_COULEUR };
 
+  const PREMIER_MINISTRE_NORM = 'm le premier ministre';
+  const GOUVERNEMENT_COULEUR = '#002395';
+  const GOUVERNEMENT_GROUPE = { nom: 'Gouvernement', abrev: 'GOV', couleur: GOUVERNEMENT_COULEUR };
+
   function isSenatePresident(auteur: string): boolean {
     return normalizeForLookup(auteur) === SENATE_PRESIDENT_NORM;
+  }
+
+  function isPremierMinistre(auteur: string): boolean {
+    return normalizeForLookup(auteur) === PREMIER_MINISTRE_NORM;
+  }
+
+  function isGroupeMembre(auteur: string): boolean {
+    return normalizeForLookup(auteur).startsWith('les membres');
   }
 
   function findDepute(auteur: string) {
@@ -62,7 +74,7 @@
       for (let i = 0; i < meta.auteurs.length; i++) {
         const dep = findDepute(meta.auteurs[i]);
         if (dep && dep.id === principalDeputeId) {
-          return { name: meta.auteurs[i], dep, groupe: groupeMap.get(dep.groupeAbrev) ?? null, idx: i, senatePresident: false };
+          return { name: meta.auteurs[i], dep, groupe: groupeMap.get(dep.groupeAbrev) ?? null, idx: i, senatePresident: false, premierMinistre: false };
         }
       }
     }
@@ -70,7 +82,10 @@
     if (meta.auteurs.length > 0) {
       const auteur = meta.auteurs[0];
       if (isSenatePresident(auteur)) {
-        return { name: auteur, dep: null, groupe: SENAT_GROUPE, idx: 0, senatePresident: true };
+        return { name: auteur, dep: null, groupe: SENAT_GROUPE, idx: 0, senatePresident: true, premierMinistre: false };
+      }
+      if (isPremierMinistre(auteur)) {
+        return { name: auteur, dep: null, groupe: GOUVERNEMENT_GROUPE, idx: 0, senatePresident: false, premierMinistre: true };
       }
       const dep = findDepute(auteur);
       return {
@@ -78,7 +93,8 @@
         dep,
         groupe: dep ? (groupeMap.get(dep.groupeAbrev) ?? null) : null,
         idx: 0,
-        senatePresident: false
+        senatePresident: false,
+        premierMinistre: false
       };
     }
     return null;
@@ -90,8 +106,9 @@
     const groups = new Map<string, Array<{ name: string; photo: string; slug: string; idx: number }>>();
 
     meta.auteurs.forEach((auteur, idx) => {
-      // Skip the principal author
+      // Skip the principal author and collective group entries
       if (idx === principalAuteur?.idx) return;
+      if (isGroupeMembre(auteur)) return;
       const dep = findDepute(auteur);
       if (dep) {
         const arr = groups.get(dep.groupeAbrev) ?? [];
@@ -112,7 +129,7 @@
   const unmatchedCosignataires = $derived.by(() => {
     return meta.auteurs.filter((auteur, idx) => {
       if (idx === principalAuteur?.idx) return false;
-      return !findDepute(auteur) && !isSenatePresident(auteur);
+      return !findDepute(auteur) && !isSenatePresident(auteur) && !isPremierMinistre(auteur) && !isGroupeMembre(auteur);
     });
   });
 
@@ -637,6 +654,13 @@
                 alt="Sénat"
                 class="h-11 w-11 shrink-0 rounded-full object-contain bg-white p-1 ring-2 ring-background shadow-sm"
               />
+            {:else if principalAuteur.premierMinistre}
+              <div
+                class="flex h-11 w-11 shrink-0 items-center justify-center rounded-full text-xs font-bold text-white shadow-sm"
+                style="background-color: {GOUVERNEMENT_COULEUR};"
+              >
+                PM
+              </div>
             {:else if principalAuteur.dep?.photo && !photoErrors[principalAuteur.idx]}
               <img
                 src="https://www2.assemblee-nationale.fr/static/tribun/17/photos/{principalAuteur.dep.photo}"
@@ -653,12 +677,18 @@
               </div>
             {/if}
             <div class="min-w-0 flex-1">
-              <a
-                href="/auteurs/{slugify(principalAuteur.name)}"
-                class="block truncate text-sm font-bold leading-snug text-foreground hover:text-primary hover:underline"
-              >
-                {principalAuteur.name}
-              </a>
+              {#if principalAuteur.premierMinistre}
+                <span class="block truncate text-sm font-bold leading-snug text-foreground">
+                  {principalAuteur.name}
+                </span>
+              {:else}
+                <a
+                  href="/auteurs/{slugify(principalAuteur.name)}"
+                  class="block truncate text-sm font-bold leading-snug text-foreground hover:text-primary hover:underline"
+                >
+                  {principalAuteur.name}
+                </a>
+              {/if}
               {#if principalAuteur.groupe}
                 <span
                   class="mt-1 inline-block rounded-sm px-1.5 py-px text-[9px] font-bold uppercase tracking-wide text-white"

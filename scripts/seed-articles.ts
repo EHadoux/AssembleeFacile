@@ -63,15 +63,20 @@ let skipped = 0;
 for (const filename of files) {
   const slug = slugFromFilename(filename);
   const exists = db.prepare('SELECT slug FROM articles WHERE slug = ?').get(slug);
-  if (exists) {
-    skipped++;
-    continue;
-  }
 
   const raw = readFileSync(join(postsDir, filename), 'utf-8');
   const meta = parseFrontmatter(raw);
   if (!meta) {
     console.warn(`Skipping ${filename}: no frontmatter`);
+    continue;
+  }
+
+  if (exists) {
+    // Still ensure auteurs are populated (idempotent via INSERT OR IGNORE)
+    for (let i = 0; i < (meta.auteurs ?? []).length; i++) {
+      insertAuteur.run(slug, i, meta.auteurs[i]);
+    }
+    skipped++;
     continue;
   }
 
