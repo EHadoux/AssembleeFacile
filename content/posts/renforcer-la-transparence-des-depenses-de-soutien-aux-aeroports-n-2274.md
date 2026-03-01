@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la transparence des dépenses de soutien aux aéroports - N° 2274"
 auteurs = ["Christine Arrighi","Alexis Corbière","Charles Fournier","Lisa Belluco","Sandrine Rousseau","Arnaud Bonnet","Nicolas Bonnet","Eva Sas","Dominique Voynet","Julie Ozenne"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/transparence_depenses_soutien_aeroports_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Transports","Écologie","Finances"]
 +++
 

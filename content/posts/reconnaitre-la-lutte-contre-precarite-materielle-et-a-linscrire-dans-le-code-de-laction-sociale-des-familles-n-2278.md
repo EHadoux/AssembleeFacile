@@ -4,9 +4,9 @@ draft = false
 title = "Reconnaître la lutte contre la précarité matérielle et à l’inscrire dans le code de l’action sociale et des familles - N° 2278"
 auteurs = ["Boris Tavernier","Pouria Amirshahi","Lisa Belluco","Arnaud Bonnet","Alexis Corbière","Catherine Hervieu","Benjamin Lucas-Lundy","Julie Ozenne","Marie Pochon","Jean-Claude Raux","Sandra Regol","Sandrine Rousseau","Eva Sas","Dominique Voynet","Béatrice Bellay","Julien Brugerolles","Ayda Hadizadeh","Karine Lebon","Mereana Reid Arbelot","Sandrine Runel","Thierry Sother"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_reconnaitre_la_lutte_contre_precarite_materielle_et_l_inscrire_dans_le_code_de_action_sociale_et_familles_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Solidarité","Action publique"]
 +++
 

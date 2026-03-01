@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer la transparence sur les risques associés aux produits cosmétiques - N° 2275"
 auteurs = ["Léa Balage El Mariky","Pouria Amirshahi","Clémentine Autain","Arnaud Bonnet","Nicolas Bonnet","Cyrielle Chatelain","Alexis Corbière","Emmanuel Duplessy","Marie-Charlotte Garin","Benjamin Lucas-Lundy","Julie Ozenne","Sébastien Peytavie","Marie Pochon","Jean-Claude Raux","Sandra Regol","Jean-Louis Roumégas","Sandrine Rousseau","Eva Sas","Sabrina Sebaihi","Boris Tavernier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ameliorer_transparence_risques_produits_cosmetiques_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Santé","Commerce"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Reconnaître et protéger la crèche de Noël en tant qu’élément du patrimoine culturel immatériel français - N° 2272"
 auteurs = ["Gérault Verny","Alexandre Allegret-Pilot","Véronique Besse","Pierre-Henri Carbonnel","Bernard Chaix","Christelle D’Intorni","Olivier Fayssat","Bartolomé Lenoir","Maxime Michelet","Éric Michoux","Sophie Ricourt Vaginay","Vincent Trébuchet","Philippe Ballard","Christophe Barthès","Christophe Bentz","Guillaume Bigot","Frédéric Boccaletti","Pascale Bordes","Jorys Bovet","Jérôme Buisson","Eddy Casterman","Sandra Delannoy","Frédéric Falcon","Stéphanie Galzy","Géraldine Grangier","Florence Joubert","Nadine Lechon","Philippe Lottiaux","Alexandra Masson","Nicolas Meizonnet","Pierre Meurin","Thibaut Monnier","Julien Odoul","Lisette Pollet","Stéphane Rambaud","Joseph Rivière","Laurence Robert-Dehault","Alexandre Sabatou","Anne Sicard","Frédéric-Pierre Vos","Jonathan Gery","Daniel Grenon","Josiane Corneloup","Romain Tonussi"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_creches_patrimoine_immateriel_francais_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Culture","Artisanat","Justice"]
 +++
 

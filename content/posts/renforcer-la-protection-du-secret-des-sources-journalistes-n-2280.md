@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la protection du secret des sources des journalistes - N° 2280"
 auteurs = ["Abdelkader Lahmar","Mathilde Panot","Nadège Abomangoli","Laurent Alexandre","Gabriel Amard","Ségolène Amiot","Farida Amrani","Rodrigo Arenas","Raphaël Arnault","Anaïs Belouassa-Cherifi","Ugo Bernalicis","Christophe Bex","Carlos Martens Bilongo","Manuel Bompard","Idir Boumertit","Louis Boyard","Pierre-Yves Cadalen","Aymeric Caron","Sylvain Carrière","Gabrielle Cathala","Bérenger Cernon","Sophia Chikirou","Hadrien Clouet","Éric Coquerel","Jean-François Coulomme","Sébastien Delogu","Aly Diouara","Alma Dufour","Karen Erodi","Mathilde Feld","Emmanuel Fernandes","Sylvie Ferrer","Perceval Gaillard","Clémence Guetté","David Guiraud","Zahia Hamdane","Mathilde Hignet","Andy Kerbrat","Bastien Lachaud","Maxime Laisney","Arnaud Le Gall","Antoine Léaument","Élise Leboucher","Aurélien Le Coq","Jérôme Legavre","Sarah Legrain","Claire Lejeune","Murielle Lepvraud","Élisa Martin","Damien Maudet","Marianne Maximi","Marie Mesmeur","Manon Meunier","Jean-Philippe Nilor","Sandrine Nosbé","Danièle Obono","Nathalie Oziol","René Pilato","François Piquemal","Thomas Portes","Loïc Prud’homme","Jean-Hugues Ratenon","Arnaud Saint-Martin","Aurélien Saintoul","Ersilia Soudais","Anne Stambach-Terrenoir","Aurélien Taché","Matthias Tavel","Aurélie Trouvé","Paul Vannier","Mereana Reid Arbelot","Sophie Taillé-Polian"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_protection_secret_sources_journalistes_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Libertés publiques","Sécurité"]
 +++
 

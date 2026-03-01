@@ -4,9 +4,9 @@ draft = false
 title = "Rétablir un régime déclaratif pour l’instruction en famille - N° 2273"
 auteurs = ["Josiane Corneloup","Véronique Besse","Frédéric Boccaletti","Sylvie Bonnet","Émilie Bonnivard","Hubert Brigand","Fabrice Brun","Eddy Casterman","Caroline Colombier","Pierre Cordier","Charles De Courson","Marie-Christine Dalloz","Lionel Duparay","Alix Fruchon","Philippe Gosselin","Justine Gruet","Patrick Hetzel","Pascal Jenft","Philippe Juvin","Thomas Lam","Philippe Latombe","Corentin Le Fur","Philippe Lottiaux","Alexandra Martin","Kévin Mauvieux","Laurent Mazaury","Frédérique Meunier","Pierre Meurin","Laure Miller","Paul Molac","Thibaut Monnier","Christophe Naegelen","Jérôme Nury","Maud Petit","Marie-Agnès Poussier-Winsback","Nicolas Ray","Anne Sicard","Romain Tonussi","Gérault Verny","Antoine Villedieu"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_retablir_regime_declaratif_pour_instruction_en_famille_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Famille","Libertés publiques"]
 +++
 

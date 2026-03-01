@@ -4,9 +4,9 @@ draft = false
 title = "Reconnaître et soutenir les familles des agents de la sécurité nationale et de la défense - N° 2276"
 auteurs = ["Olivier Fayssat","Alexandre Allegret-Pilot","Matthieu Bloch","Christelle D'Intorni","Maxime Michelet","Marc Chavent"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconnaissance_soutien_famille_agents_securite_nationale_defense_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Famille","Solidarité"]
 +++
 
