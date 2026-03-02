@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à protéger les jeunes de l'exposition excessive et précoce aux écrans et des méfaits des réseaux sociaux - N° 2261"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52460"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Mardi 17 juin 2025","Mardi 17 juin 2025","Mardi 17 juin 2025","Jeudi 18 décembre 2025"]
+stepsStatus = ["","Commission des affaires étrangères (Sénat)","Texte adopté ✔️","Commission des affaires culturelles"]
 tags = ["Santé","Numérique","Jeunesse"]
 +++
 

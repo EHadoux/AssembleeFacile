@@ -4,9 +4,9 @@ draft = false
 title = "La priorité nationale et locale - N° 2237"
 auteurs = ["Christelle D’Intorni","Jérôme Buisson","Bernard Chaix","Sébastien Chenu","Alexis Jolly","Nadine Lechon","Bartolomé Lenoir","Alexandre Loubet","Jorys Bovet","Marc Chavent","Jonathan Gery","Emmanuel Taché","Marie-France Lorho","Pierre Meurin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/priorite_nationale_locale_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 11 décembre 2025","Jeudi 11 décembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Emploi","Europe"]
 +++
 

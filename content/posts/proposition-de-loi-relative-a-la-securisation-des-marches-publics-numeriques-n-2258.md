@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi relative à la sécurisation des marchés publics numériques - N° 2258"
 auteurs = ["Gérard Larcher"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52900"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Mardi 7 octobre 2025","Mardi 7 octobre 2025","Mardi 7 octobre 2025","Jeudi 18 décembre 2025","Jeudi 18 décembre 2025"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois",""]
 tags = ["Numérique","Décentralisation","Sécurité"]
 +++
 

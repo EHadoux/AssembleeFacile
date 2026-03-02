@@ -4,9 +4,9 @@ draft = false
 title = "Favoriser le développement du logement social et intermédiaire - N° 2102"
 auteurs = ["Thierry Perez","Marine Le Pen","Hélène Laporte","Sébastien Chenu","Alexandre Dufosset","Philippe Ballard","Tiffany Joncour","Florence Joubert","René Lioret","Kévin Mauvieux","Emeric Salmon","Alexis Jolly","Thierry Tesson","David Magnier","Yoann Gillet","Pascal Jenft","Jocelyn Dessigny","Katiana Levavasseur","Lisette Pollet","Frédéric Weber","Stéphane Rambaud","Emmanuel Taché","Romain Tonussi","Éric Michoux","Monique Griseti","Yaël Ménaché","Angélique Ranc","Géraldine Grangier","Sophie Blanc","Kévin Pfeffer","Aurélien Dutremble","Thierry Frappé","Roger Chudeau","Julien Limongi","Nadine Lechon","Frank Giletti","Jonathan Gery"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_favoriser_developpement_logement_social_intermediaire_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Urbanisme","Solidarité"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Sécuriser les commissaires de justice en les dotant de caméras-piétons - N° 2103"
 auteurs = ["Sébastien Huyghe","Danielle Brulebois","Jean-Michel Jacques","Vincent Ledoux","Denis Masséglia","Anne-Sophie Ronceret","Violette Spillebout","Annie Vidal","Éric Woerth"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/commissaires_justice_cameras_pietons_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Sécurité"]
 +++
 

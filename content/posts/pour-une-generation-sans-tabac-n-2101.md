@@ -4,9 +4,9 @@ draft = false
 title = "Pour une génération sans tabac - N° 2101"
 auteurs = ["Nicolas Thierry","Pouria Amirshahi","Léa Balage El Mariky","Lisa Belluco","Benoît Biteau","Arnaud Bonnet","Nicolas Bonnet","Mickaël Bouloux","Colette Capdevielle","Pierre Cazeneuve","Cyrielle Chatelain","Hendrik Davi","Arthur Delaporte","Olivier Faure","Sylvie Ferrer","Charles Fournier","Marie-Charlotte Garin","Damien Girard","Catherine Hervieu","Julie Laernoes","Michel Lauzzana","Laure Miller","Jimmy Pahun","Sébastien Peytavie","Marie Pochon","Loïc Prud’homme","Jean-Claude Raux","Mereana Reid Arbelot","Sandrine Rousseau","Sabrina Sebaihi","Boris Tavernier","Céline Thiébault-Martinez","Nicolas Turquois","Anne-Cécile Violland","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/pour_une_generation_sans_tabac_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Jeunesse","Écologie"]
 +++
 

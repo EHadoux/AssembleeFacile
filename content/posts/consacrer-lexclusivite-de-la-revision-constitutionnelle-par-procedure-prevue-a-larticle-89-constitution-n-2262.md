@@ -4,9 +4,9 @@ draft = false
 title = "Consacrer l’exclusivité de la révision constitutionnelle par la procédure prévue à l’article 89 de la Constitution - N° 2262"
 auteurs = ["Pouria Amirshahi","Léa Balage El Mariky","Christine Arrighi","Clémentine Autain","Joël Aviragnet","Fabrice Barusseau","Laurent Baumel","Béatrice Bellay","Lisa Belluco","Karim Ben Cheikh","Arnaud Bonnet","Nicolas Bonnet","Mickaël Bouloux","Philippe Brun","Cyrielle Chatelain","Paul Christophle","Alexis Corbière","Arthur Delaporte","Stéphane Delautrette","Dieynaba Diop","Emmanuel Duplessy","Inaki Echaniz","Romain Eskenazi","Elsa Faucillon","Charles Fournier","Marie-Charlotte Garin","Guillaume Garot","Damien Girard","Emmanuel Grégoire","Steevy Gustave","Catherine Hervieu","Céline Hervieu","Jérémie Iordanoff","Chantal Jourdan","Fatiha Keloua Hachi","Julie Laernoes","Laurent Lhardit","Benjamin Lucas-Lundy","Estelle Mercier","Julie Ozenne","Marc Pena","Stéphane Peu","Sébastien Peytavie","Anna Pic","Christine Pirès Beaune","Marie Pochon","Pierre Pribetich","Jean-Claude Raux","Sandra Regol","Mereana Reid Arbelot","Claudia Rouaux","Jean-Louis Roumégas","Eva Sas","Sabrina Sebaihi","Danielle Simonnet","Thierry Sother","Sophie Taillé-Polian","Boris Tavernier","Mélanie Thomin","Boris Vallaud","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/consacrer_exclusivite_revision_constitutionnelle_procedure_article_89_Constitution_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 18 décembre 2025","Jeudi 18 décembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Justice","Relations parlementaires"]
 +++
 
