@@ -69,9 +69,21 @@ for (const { slug } of articles) {
   const dbNames = (selectSignataires.all(slug) as unknown as SignataireRow[]).map((r) => r.nom_brut);
   const frontmatterNames = getFrontmatterNames(content);
 
-  // If the DB has no canonical signataires (cleared by normalize script for e.g. Sénat
-  // president or unresolved refs), trust the existing frontmatter — don't overwrite with [].
-  if (dbNames.length === 0 || dbNames.join('|') === frontmatterNames.join('|')) {
+  if (dbNames.length === 0) {
+    // DB has no canonical signataires (e.g. Sénat president, unresolved refs).
+    // If the existing frontmatter looks like a Senate president variant, canonicalise it.
+    const PRESIDENT_VARIANTS = /^(M\.\s*Le\s*Président\s*[Dd]u\s*Sénat|Gérard\s*Larcher)$/i;
+    if (frontmatterNames.length > 0 && frontmatterNames.every((n) => PRESIDENT_VARIANTS.test(n.trim()))) {
+      await patchAuteursFrontmatter(mdPath, ['M. Le Président du Sénat']);
+      console.log(`[${slug}] repaired — Président du Sénat`);
+      repaired++;
+    } else {
+      skipped++;
+    }
+    continue;
+  }
+
+  if (dbNames.join('|') === frontmatterNames.join('|')) {
     skipped++;
     continue;
   }

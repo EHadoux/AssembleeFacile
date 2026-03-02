@@ -24,8 +24,10 @@
   const GOUVERNEMENT_COULEUR = '#002395';
   const GOUVERNEMENT_GROUPE = { nom: 'Gouvernement', abrev: 'GOV', couleur: GOUVERNEMENT_COULEUR };
 
+  const SENATE_PRESIDENT_VARIANTS = new Set([SENATE_PRESIDENT_NORM, 'gerard larcher']);
+
   function isSenatePresident(auteur: string): boolean {
-    return normalizeForLookup(auteur) === SENATE_PRESIDENT_NORM;
+    return SENATE_PRESIDENT_VARIANTS.has(normalizeForLookup(auteur));
   }
 
   function isPremierMinistre(auteur: string): boolean {
@@ -709,7 +711,7 @@
               </div>
             {/if}
             <div class="min-w-0 flex-1">
-              {#if principalAuteur.premierMinistre}
+              {#if principalAuteur.premierMinistre || principalAuteur.senatePresident}
                 <span class="block truncate text-sm font-bold leading-snug text-foreground">
                   {principalAuteur.name}
                 </span>

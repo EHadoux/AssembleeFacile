@@ -2,7 +2,7 @@
 date = 2025-12-17
 draft = false
 title = "Proposition de loi visant à reconnaître le rôle des acteurs assurant des soins de troisième recours en psychiatrie - N° 2249"
-auteurs = ["M. Le Président du Sénat","Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51597"
 stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
 stepsDate = ["Jeudi 27 février 2025","Jeudi 27 février 2025","Jeudi 27 février 2025","Mardi 16 décembre 2025"]
