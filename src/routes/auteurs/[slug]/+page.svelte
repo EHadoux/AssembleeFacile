@@ -1,4 +1,5 @@
 <script lang="ts">
+  import { browser } from '$app/environment';
   import DeputeDeclarations from '$lib/components/DeputeDeclarations.svelte';
   import DeputeElections from '$lib/components/DeputeElections.svelte';
   import Pagination from '$lib/components/Pagination.svelte';
@@ -19,6 +20,32 @@
   $effect.pre(() => {
     cosigPhotoErrors = data.cosignataires.map(() => false);
   });
+
+  function applyHash(hash: string) {
+    if (hash === '#elections') {
+      activeTab = 'elections';
+    } else if (hash === '#declarations') {
+      activeTab = 'declarations';
+    } else if (hash === '#votes') {
+      activeTab = 'profil';
+      contentTab = 'votes';
+    } else {
+      activeTab = 'profil';
+      contentTab = 'propositions';
+    }
+  }
+
+  $effect(() => {
+    applyHash(window.location.hash);
+    const onHashChange = () => applyHash(window.location.hash);
+    window.addEventListener('hashchange', onHashChange);
+    return () => window.removeEventListener('hashchange', onHashChange);
+  });
+
+  function navigate(hash: string) {
+    if (browser) window.location.hash = hash;
+    applyHash(hash ? '#' + hash : '');
+  }
 
   const photoUrl = $derived(
     data.dep?.photo ? `https://www2.assemblee-nationale.fr/static/tribun/17/photos/${data.dep.photo}` : null,
@@ -280,9 +307,7 @@
       <!-- Tab bar -->
       <div class="mt-6 flex gap-0 border-b border-border/60">
         <button
-          onclick={() => {
-            activeTab = 'profil';
-          }}
+          onclick={() => navigate('')}
           class="relative px-4 py-2 text-xs font-semibold uppercase tracking-wider transition-colors"
           class:text-foreground={activeTab === 'profil'}
           class:text-muted-foreground={activeTab !== 'profil'}
@@ -294,9 +319,7 @@
           {/if}
         </button>
         <button
-          onclick={() => {
-            activeTab = 'elections';
-          }}
+          onclick={() => navigate('elections')}
           class="relative px-4 py-2 text-xs font-semibold uppercase tracking-wider transition-colors"
           class:text-foreground={activeTab === 'elections'}
           class:text-muted-foreground={activeTab !== 'elections'}
@@ -308,9 +331,7 @@
           {/if}
         </button>
         <button
-          onclick={() => {
-            activeTab = 'declarations';
-          }}
+          onclick={() => navigate('declarations')}
           class="relative px-4 py-2 text-xs font-semibold uppercase tracking-wider transition-colors"
           class:text-foreground={activeTab === 'declarations'}
           class:text-muted-foreground={activeTab !== 'declarations'}
@@ -426,7 +447,7 @@
         <div class="mb-5 flex gap-0 border-b border-border/60">
           <button
             onclick={() => {
-              contentTab = 'propositions';
+              navigate('');
               pageNum = 1;
             }}
             class="relative px-4 py-2 text-xs font-semibold uppercase tracking-wider transition-colors"
@@ -440,9 +461,7 @@
           </button>
           {#if data.votes.length > 0}
             <button
-              onclick={() => {
-                contentTab = 'votes';
-              }}
+              onclick={() => navigate('votes')}
               class="relative px-4 py-2 text-xs font-semibold uppercase tracking-wider transition-colors"
               class:text-foreground={contentTab === 'votes'}
               class:text-muted-foreground={contentTab !== 'votes'}
