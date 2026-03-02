@@ -1,0 +1,21 @@
++++
+date = 2025-11-18
+draft = false
+title = "Favoriser le développement du logement social et intermédiaire - N° 2102"
+auteurs = ["Thierry Perez","Marine Le Pen","Hélène Laporte","Sébastien Chenu","Alexandre Dufosset","Philippe Ballard","Tiffany Joncour","Florence Joubert","René Lioret","Kévin Mauvieux","Emeric Salmon","Alexis Jolly","Thierry Tesson","David Magnier","Yoann Gillet","Pascal Jenft","Jocelyn Dessigny","Katiana Levavasseur","Lisette Pollet","Frédéric Weber","Stéphane Rambaud","Emmanuel Taché","Romain Tonussi","Éric Michoux","Monique Griseti","Yaël Ménaché","Angélique Ranc","Géraldine Grangier","Sophie Blanc","Kévin Pfeffer","Aurélien Dutremble","Thierry Frappé","Roger Chudeau","Julien Limongi","Nadine Lechon","Frank Giletti","Jonathan Gery"]
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_favoriser_developpement_logement_social_intermediaire_17e"
+stepsName = []
+stepsDate = []
+stepsStatus = []
+tags = ["Logement","Urbanisme","Solidarité"]
++++
+
+## Résumé
+
+Cette proposition vise à assouplir la loi SRU en permettant aux communes d'intégrer des logements locatifs intermédiaires (destinés aux classes moyennes) dans leurs objectifs de rattrapage de logements sociaux. L'idée est de favoriser la mixité sociale et de répondre aux besoins des actifs qui ne sont pas éligibles au logement social classique mais ne peuvent pas se loger dans le secteur privé.
+
+## Liste des modifications
+
+**Intégration du logement intermédiaire dans les objectifs de rattrapage (Article 1)**: Les communes ayant déjà un certain taux de logements sociaux (10 % ou 15 % selon les cas) peuvent désormais remplir jusqu'à 25 % de leur objectif de construction triennal en produisant des logements locatifs intermédiaires.
+
+**Plafonnement des types de logements financés (Article 1)**: La part cumulée des logements intermédiaires et des logements sociaux financés par des prêts locatifs sociaux (PLS) ne doit pas dépasser 40 % du total des logements sociaux à produire, afin de garantir le maintien d'une part suffisante de logements très sociaux.
