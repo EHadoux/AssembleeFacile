@@ -4,9 +4,9 @@ draft = false
 title = "Prolonger et étendre l’expérimentation du contrat à durée déterminée multi-remplacements - N° 2094"
 auteurs = ["Nicole Le Peih","Didier Le Gac","Corinne Vignon","Christophe Marion","Michel Lauzzana","Xavier Roseren","Stéphane Travert","Sébastien Huyghe","Jean-Michel Jacques","Anne-Sophie Ronceret","Béatrice Piron","Marie-Agnès Poussier-Winsback","Louise Morel"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_prolonger_et_etendre_experimentation_contrat_duree_determinee_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Emploi","Travail"]
 +++
 

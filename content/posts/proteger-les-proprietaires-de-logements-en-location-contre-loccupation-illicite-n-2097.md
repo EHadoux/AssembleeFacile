@@ -4,9 +4,9 @@ draft = false
 title = "Protéger les propriétaires de logements en location contre l’occupation illicite - N° 2097"
 auteurs = ["Alexandra Martin","Daniel Grenon","Christophe Naegelen","Patrick Hetzel","Josiane Corneloup","Ian Boucard","Mickaël Cosson","Fabrice Brun","Béatrice Piron","Constance De Pélichy","Vincent Rolland","Corentin Le Fur","Christelle Petex","Anne-Cécile Violland","Éric Pauget","Eric Liégeon","Nicolas Ray","Romain Daubié","Jean-Pierre Taite","Stéphane Viry","Virginie Duby-Muller","Philippe Juvin","Vincent Descoeur","Christelle Minard","Laure Miller"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_proprietaires_logements_contre_occupation_illicite_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Logement","Justice"]
 +++
 

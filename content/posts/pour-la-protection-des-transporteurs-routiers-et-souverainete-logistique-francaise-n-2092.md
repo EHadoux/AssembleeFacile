@@ -4,9 +4,9 @@ draft = false
 title = "Pour la protection des transporteurs routiers et la souveraineté logistique française - N° 2092"
 auteurs = ["Manon Bouquin","Maxime Amblard","Bénédicte Auzanot","Philippe Ballard","Théo Bernhardt","Emmanuel Blairy","Sophie Blanc","Pascale Bordes","Sébastien Chenu","Nathalie Da Conceicao Carvalho","Edwige Diaz","Sandrine Dogor-Such","Alexandre Dufosset","Aurélien Dutremble","Auguste Evrard","Thierry Frappé","Stéphanie Galzy","Jonathan Gery","Frank Giletti","Christian Girard","Florence Goulet","Monique Griseti","Julien Guibert","Michel Guiniot","Sébastien Humbert","Pascal Jenft","Alexis Jolly","Sylvie Josserand","Florence Joubert","Hélène Laporte","Julie Lechanteux","Nadine Lechon","Hervé De Lépinau","Katiana Levavasseur","Aurélien Lopez-Liguori","Marie-France Lorho","Philippe Lottiaux","Matthieu Marchio","Pascal Markowsky","Patrice Martin","Michèle Martinez","Nicolas Meizonnet","Yaël Ménaché","Thomas Ménagé","Pierre Meurin","Serge Muller","Thierry Perez","Lisette Pollet","Stéphane Rambaud","Angélique Ranc","Julien Rancoule","Laurence Robert-Dehault","Béatrice Roullaud","Anaïs Sabatini","Emeric Salmon","Emmanuel Taché","Thierry Tesson","Romain Tonussi","Frédéric Weber","Alexandre Allegret-Pilot","Matthieu Bloch","Bernard Chaix","Marc Chavent","Christelle D’Intorni","Bartolomé Lenoir","Éric Michoux"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/pour_protection_transporteurs_routiers_souverainete_logistique_francaise_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Transports","Économie","Sécurité"]
 +++
 

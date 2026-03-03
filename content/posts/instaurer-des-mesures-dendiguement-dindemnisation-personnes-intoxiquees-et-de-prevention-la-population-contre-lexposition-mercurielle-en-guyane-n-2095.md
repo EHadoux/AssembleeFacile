@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer des mesures d'endiguement, d'indemnisation des personnes intoxiquées et de prévention de la population contre l'exposition mercurielle en Guyane - N° 2095"
 auteurs = ["Davy Rimane","Édouard Bénard","Soumya Bourouaha","Julien Brugerolles","Jean-Victor Castor","Elsa Faucillon","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Yannick Monnet","Marcellin Nadeau","Stéphane Peu","Mereana Reid Arbelot","Nicolas Sansu","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_mesures_indemnisation_mercure_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Outre-mer","Santé","Écologie"]
 +++
 

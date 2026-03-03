@@ -4,9 +4,9 @@ draft = false
 title = "Donner la personnalité morale aux observatoires des prix, des marges et des revenus dans les dits outre-mer - N° 2096"
 auteurs = ["Marcellin Nadeau","Édouard Bénard","Soumya Bourouaha","Julien Brugerolles","Jean-Victor Castor","Elsa Faucillon","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Yannick Monnet","Stéphane Peu","Mereana Reid Arbelot","Davy Rimane","Nicolas Sansu","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/donner_personnalite_morale_observatoires_prix_marges_revenus_outre_mer_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Outre-mer","Économie","Action publique"]
 +++
 

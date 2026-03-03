@@ -4,9 +4,9 @@ draft = false
 title = "Sécuriser le droit du salarié au report de congés annuels payés coïncidant avec une période d’incapacité pour cause de maladie et lutter contre les arrêts maladie abusifs - N° 2100"
 auteurs = ["Frédéric-Pierre Vos","Bénédicte Auzanot","Philippe Ballard","Romain Baubry","José Beaurain","Guillaume Bigot","Emmanuel Blairy","Manon Bouquin","Jérôme Buisson","Eddy Casterman","Roger Chudeau","Caroline Colombier","Nathalie Da Conceicao Carvalho","Sandrine Dogor-Such","Nicolas Dragon","Alexandre Dufosset","Marc De Fleurian","Stéphanie Galzy","Jonathan Gery","Frank Giletti","Christian Girard","Monique Griseti","Jordan Guitton","Marine Hamelet","Sébastien Humbert","Laurent Jacobelli","Alexis Jolly","Tiffany Joncour","Florence Joubert","Hélène Laporte","Julie Lechanteux","Nadine Lechon","Hervé De Lépinau","Katiana Levavasseur","Julien Limongi","Philippe Lottiaux","Alexandre Loubet","David Magnier","Pascal Markowsky","Michèle Martinez","Alexandra Masson","Yaël Ménaché","Thibaut Monnier","Lisette Pollet","Stéphane Rambaud","Angélique Ranc","Julien Rancoule","Catherine Rimbert","Joseph Rivière","Béatrice Roullaud","Sophie-Laurence Roy","Emeric Salmon","Anne Sicard","Emmanuel Taché","Michaël Taverne","Thierry Tesson","Romain Tonussi"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/securiser_droit_salarie_report_conges_annuels_payes_coincidant_periode_incapacite_cause_maladie_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Travail","Économie","Santé"]
 +++
 

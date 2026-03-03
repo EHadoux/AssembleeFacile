@@ -4,9 +4,9 @@ draft = false
 title = "Renforcement de la protection des mineurs dans le cadre scolaire - N° 2098"
 auteurs = ["Christelle D’Intorni","Nadine Lechon","David Magnier","Alexis Jolly","Bryan Masson","Éric Michoux","Michèle Martinez","Charles Alloncle","Alexandre Allegret-Pilot","Sébastien Chenu","Frank Giletti","Alexandre Dufosset","Romain Baubry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_renforcement_protection_mineurs_cadre_scolaire_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Sécurité","Justice"]
 +++
 
