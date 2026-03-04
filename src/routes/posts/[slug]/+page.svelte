@@ -4,6 +4,7 @@
   import { slugify } from '$lib/content';
   import { GROUPE_ORDER } from '$lib/utils/groupe-order';
   import { normalizeForLookup } from '$lib/utils/normalize';
+  import { getLegislativeSummary } from '$lib/utils/legislative-summary';
   import type { PageData } from './$types';
 
   let { data }: { data: PageData } = $props();
@@ -222,6 +223,8 @@
     return { byStep, unmatched };
   });
 
+  const legislativeSummary = $derived(getLegislativeSummary(meta.stepsName, meta.stepsStatus));
+
   // Accent colour for the card top bar based on final known status
   const overallStatusColor = $derived.by(() => {
     for (let i = meta.stepsStatus.length - 1; i >= 0; i--) {
@@ -305,6 +308,12 @@
             <h2 class="mb-4 text-xs font-semibold uppercase tracking-widest text-muted-foreground">
               Parcours législatif
             </h2>
+            {#if legislativeSummary}
+              <p
+                class="mb-5 border-l-[3px] pl-3 py-0.5 text-sm leading-relaxed text-muted-foreground"
+                style="border-color: {overallStatusColor};"
+              >{legislativeSummary}</p>
+            {/if}
             {#if meta.stepsName.length}
               <ol class="relative flex flex-col gap-5 pl-5">
                 <!-- Vertical connector through all dots -->
