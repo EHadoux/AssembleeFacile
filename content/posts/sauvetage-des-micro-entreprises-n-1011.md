@@ -1,0 +1,21 @@
++++
+date = 2025-02-21
+draft = false
+title = "Sauvetage des micro-entreprises - N° 1011"
+auteurs = ["Hadrien Clouet","Mathilde Panot","Alma Dufour","Éric Coquerel","Karine Lebon","Émeline K/Bidi","David Taupiac","Max Mathiasin","Marie-Charlotte Garin","Sébastien Peytavie","Sandrine Rousseau","Frédéric Maillot","Sandra Regol","Benjamin Lucas-Lundy","Damien Girard","Danielle Simonnet","Hendrik Davi","Cyrielle Chatelain","Stéphane Peu","Julie Laernoes","Emmanuel Duplessy","Jean-Louis Roumégas","Jean-Claude Raux","Nadège Abomangoli","Laurent Alexandre","Gabriel Amard","Ségolène Amiot","Farida Amrani","Rodrigo Arenas","Raphaël Arnault","Anaïs Belouassa-Cherifi","Ugo Bernalicis","Christophe Bex","Carlos Martens Bilongo","Manuel Bompard","Idir Boumertit","Louis Boyard","Pierre-Yves Cadalen","Aymeric Caron","Sylvain Carrière","Gabrielle Cathala","Bérenger Cernon","Sophia Chikirou","Jean-François Coulomme","Sébastien Delogu","Aly Diouara","Karen Erodi","Mathilde Feld","Emmanuel Fernandes","Sylvie Ferrer","Perceval Gaillard","Clémence Guetté","David Guiraud","Zahia Hamdane","Mathilde Hignet","Andy Kerbrat","Bastien Lachaud","Abdelkader Lahmar","Maxime Laisney","Arnaud Le Gall","Antoine Léaument","Élise Leboucher","Aurélien Le Coq","Jérôme Legavre","Sarah Legrain","Claire Lejeune","Murielle Lepvraud","Élisa Martin","Damien Maudet","Marianne Maximi","Marie Mesmeur","Manon Meunier","Jean-Philippe Nilor","Sandrine Nosbé","Danièle Obono","Nathalie Oziol","René Pilato","François Piquemal","Thomas Portes","Loïc Prud’homme","Jean-Hugues Ratenon","Arnaud Saint-Martin","Aurélien Saintoul","Ersilia Soudais","Anne Stambach-Terrenoir","Aurélien Taché","Andrée Taurinya","Matthias Tavel","Aurélie Trouvé","Paul Vannier"]
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/sauvetage_micro_entreprises_17e"
+stepsName = []
+stepsDate = []
+stepsStatus = []
+tags = ["Économie","Finances","Artisanat"]
++++
+
+## Résumé
+
+Cette proposition de loi vise à annuler l'abaissement du seuil de franchise de TVA à 25 000 euros décidé par le gouvernement. Les auteurs soutiennent que cette mesure menace la survie de milliers de micro-entreprises en les forçant soit à augmenter leurs prix, soit à réduire leurs marges, tout en leur imposant une charge administrative complexe.
+
+## Liste des modifications
+
+**Seuils de franchise de TVA (Article 1)**: Rétablissement des anciens plafonds de chiffre d'affaires pour ne pas payer de TVA : 85 000 € pour les ventes de biens et 37 500 € pour les prestations de services. Des seuils spécifiques sont également maintenus pour les avocats et les auteurs (50 000 €).
+
+**Financement de la mesure (Article 2)**: Compensation de la perte d'argent pour l'État par l'augmentation des taxes sur le tabac.
