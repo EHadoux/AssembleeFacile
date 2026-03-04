@@ -4,9 +4,9 @@ draft = false
 title = "Réduire le nombre d’organismes consultatifs de l’État - N° 2084"
 auteurs = ["Anne-Laure Blin","Josiane Corneloup","Frédérique Meunier","Nicolas Tryzna","Fabien Di Filippo","Christelle Minard","Hubert Brigand","Valérie Bazin-Malgras","Émilie Bonnivard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reduire_nombre_organismes_consultatifs_Etat_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Budget","Finances"]
 +++
 

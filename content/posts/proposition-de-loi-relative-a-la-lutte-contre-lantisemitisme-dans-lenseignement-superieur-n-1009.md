@@ -2,11 +2,11 @@
 date = 2025-02-24
 draft = false
 title = "Proposition de loi relative à la lutte contre l'antisémitisme dans l'enseignement supérieur - N° 1009"
-auteurs = ["Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50724"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale","Commission Mixte Paritaire","Conseil constitutionnel","Promulgation de la loi"]
+stepsDate = ["Jeudi 10 octobre 2024","Jeudi 10 octobre 2024","Jeudi 10 octobre 2024","Vendredi 21 février 2025","Vendredi 21 février 2025","Mercredi 7 mai 2025","Lundi 7 juillet 2025","Jeudi 31 juillet 2025"]
+stepsStatus = ["","Commission des affaires étrangères (Sénat)","Texte adopté ✔️","Commission des affaires culturelles","Texte modifié","Accord","Conforme",""]
 tags = ["Enseignement supérieur","Discriminations","Justice"]
 +++
 

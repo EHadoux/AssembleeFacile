@@ -4,9 +4,9 @@ draft = false
 title = "Reporter à 2032 l’application de la loi du 21 mai 2025 relative au mode de scrutin dans les communes de moins de 1 000 habitants - N° 2089"
 auteurs = ["Sophie Ricourt Vaginay","Alexandre Allegret-Pilot","Romain Baubry","Matthieu Bloch","Jérôme Buisson","Christelle D’intorni","Edwige Diaz","Alexandre Dufosset","Jordan Guitton","Alexis Jolly","Nadine Lechon","René Lioret","Philippe Lottiaux","Claire Marais-Beuil","Alexandra Masson","Nicolas Meizonnet","Maxime Michelet","Éric Michoux","Serge Muller","Géraldine Grangier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reporter_application_loi_scrutin_communes_1000hab_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Droits des femmes","Intérieur","Ruralité"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à assurer le respect du principe de laïcité dans le sport - N° 993"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49619"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Lundi 5 février 2024","Lundi 5 février 2024","Lundi 5 février 2024","Mercredi 19 février 2025"]
+stepsStatus = ["","Commission des affaires étrangères (Sénat)","Texte adopté ✔️","Commission des affaires culturelles"]
 tags = ["Sports","Action publique"]
 +++
 

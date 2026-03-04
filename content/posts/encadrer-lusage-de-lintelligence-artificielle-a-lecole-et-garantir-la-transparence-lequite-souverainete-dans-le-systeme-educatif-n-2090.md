@@ -4,9 +4,9 @@ draft = false
 title = "Encadrer l'usage de l'intelligence artificielle à l'école et à garantir la transparence, l'équité et la souveraineté dans le système éducatif - N° 2090"
 auteurs = ["Christine Engrand","Nadine Lechon","Gisèle Lelouis","Frédéric Falcon"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_encadrer_usage_intelligence_artificielle_ecole_et_garantir_transparence_equite_souverainete_systeme_educatif_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Intelligence artificielle","Numérique"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer un référendum d’initiative citoyenne délibératif - N° 2081"
 auteurs = ["Marie Pochon","Pouria Amirshahi","Léa Balage El Mariky","Lisa Belluco","Nicolas Bonnet","Alexis Corbière","Charles Fournier","Marie-Charlotte Garin","Damien Girard","Julie Ozenne","Sébastien Peytavie","Jean-Claude Raux","Sandra Regol","Jean-Louis Roumégas","Sandrine Rousseau","François Ruffin","Eva Sas","Sabrina Sebaihi","Boris Tavernier","Mickaël Bouloux","Paul Christophle","Pierrick Courbon","Christine Pirès Beaune","Céline Thiébault-Martinez","Yannick Monnet","Mereana Reid Arbelot","Christine Arrighi","Clémentine Autain","Karim Ben Cheikh","Benoît Biteau","Arnaud Bonnet","Cyrielle Chatelain","Hendrik Davi","Emmanuel Duplessy","Steevy Gustave","Catherine Hervieu","Julie Laernoes","Tristan Lahais","Benjamin Lucas-Lundy","Danielle Simonnet","Sophie Taillé-Polian","Nicolas Thierry","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_referendum_initiative_citoyenne_deliberatif_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Justice","Relations parlementaires"]
 +++
 

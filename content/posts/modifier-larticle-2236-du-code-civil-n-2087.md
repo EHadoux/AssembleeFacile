@@ -4,9 +4,9 @@ draft = false
 title = "Modifier l’article 2236 du code civil - N° 2087"
 auteurs = ["Valérie Rossi","Fabrice Barusseau","Christine Pirès Beaune","Isabelle Santiago","Hervé Saulignac"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/modifier_article_2236_code_civil_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Famille"]
 +++
 

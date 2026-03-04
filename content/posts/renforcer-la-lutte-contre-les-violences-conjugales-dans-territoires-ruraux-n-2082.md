@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la lutte contre les violences conjugales dans les territoires ruraux - N° 2082"
 auteurs = ["Manon Meunier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_lutte_violences_conjugales_territoires_ruraux_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Droits des femmes","Ruralité","Solidarité"]
 +++
 

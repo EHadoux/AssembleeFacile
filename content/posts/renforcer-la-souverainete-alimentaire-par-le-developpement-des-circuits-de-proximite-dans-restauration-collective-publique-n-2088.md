@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la souveraineté alimentaire par le développement des circuits de proximité dans la restauration collective publique - N° 2088"
 auteurs = ["Sophie Ricourt Vaginay","Alexandre Allegret-Pilot","Romain Baubry","Matthieu Bloch","Jérôme Buisson","Christelle D'Intorni","Edwige Diaz","Alexandre Dufosset","Jordan Guitton","Alexis Jolly","Nadine Lechon","René Lioret","Philippe Lottiaux","Claire Marais-Beuil","Alexandra Masson","Nicolas Meizonnet","Maxime Michelet","Éric Michoux","Serge Muller","Joseph Rivière","Géraldine Grangier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_souverainete_alimentaire_developpement_circuit_proximite_restauration_collective_publique_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Agriculture","Action publique","Écologie"]
 +++
 

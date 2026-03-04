@@ -4,9 +4,9 @@ draft = false
 title = "Reprendre le contrôle et lutter contre l’agencification de l’État - N° 2083"
 auteurs = ["Anne-Laure Blin","Josiane Corneloup","Frédérique Meunier","Nicolas Tryzna","Christelle Minard","Hubert Brigand","Valérie Bazin-Malgras","Émilie Bonnivard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reprendre_controle_et_lutter_contre_agencification_Etat_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Budget","Finances"]
 +++
 

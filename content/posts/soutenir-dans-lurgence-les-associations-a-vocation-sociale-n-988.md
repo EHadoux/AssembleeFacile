@@ -4,9 +4,9 @@ draft = false
 title = "Soutenir dans l'urgence les associations à vocation sociale - N° 988"
 auteurs = ["Damien Girard","Rodrigo Arenas","Léa Balage El Mariky","Jean-Pierre Bataille","Benoît Biteau","Nicolas Bonnet","Arthur Delaporte","Emmanuel Duplessy","Stéphane Hablot","Ayda Hadizadeh","Marianne Maximi","Paul Molac","Julie Ozenne","Sébastien Peytavie","Marie Pochon","Jean-Claude Raux","Mereana Reid Arbelot","Eva Sas","Danielle Simonnet","Boris Tavernier","Céline Thiébault-Martinez","Stéphane Viry","Matthias Tavel"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/soutenir_associations_vocation_sociale_17"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 février 2025","Mardi 18 février 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Solidarité","Vie associative","Budget"]
 +++
 

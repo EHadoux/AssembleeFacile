@@ -4,9 +4,9 @@ draft = false
 title = "Définir juridiquement la fleur de sel - N° 2085"
 auteurs = ["Stéphane Buchou","Olivier Falorni","Julie Delpech","Laurent Mazaury","Stéphane Mazars","Bertrand Sorre","Marcellin Nadeau","Nicole Dubré-Chirat","Corinne Vignon","Jean-Marie Fiévet","Richard Ramos","Vincent Caure","Nicolas Ray","Jean Terlier","Christophe Marion","Anne-Sophie Ronceret","Bertrand Bouyx","Thierry Benoit","Philippe Fait","Vincent Ledoux","Christophe Plassard","Moerani Frébault","Claudia Rouaux","Guillaume Garot","Josiane Corneloup","Yannick Favennec-Bécot","Sandrine Josso","Jean-Michel Brard","Nicole Le Peih","Jean-Michel Jacques","David Habib","Annie Vidal","Camille Galliard-Minier","Paul Molac","Stéphane Travert","Véronique Besse","Delphine Lingemann","Damien Girard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/definir_fleur_sel_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Agriculture","Artisanat","Commerce"]
 +++
 

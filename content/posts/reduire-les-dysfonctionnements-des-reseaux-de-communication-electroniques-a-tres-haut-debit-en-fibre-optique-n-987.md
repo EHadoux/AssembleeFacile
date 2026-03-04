@@ -4,9 +4,9 @@ draft = false
 title = "Réduire les dysfonctionnements des réseaux de communication électroniques à très haut débit en fibre optique - N° 987"
 auteurs = ["Emmanuel Maurel","Édouard Bénard","Soumya Bourouaha","André Chassaigne","Elsa Faucillon","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Yannick Monnet","Marcellin Nadeau","Stéphane Peu","Mereana Reid Arbelot","Davy Rimane","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reduire_dysfonctionnement_reseaux_communication_fibre_optique_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 février 2025","Mardi 18 février 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Numérique","Économie","Justice"]
 +++
 

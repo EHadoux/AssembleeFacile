@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à interdire un mariage en France lorsque l'un des futurs époux réside de façon irrégulière sur le territoire - N° 1008"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49075"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Lundi 11 décembre 2023","Lundi 11 décembre 2023","Lundi 11 décembre 2023","Jeudi 20 février 2025","Jeudi 20 février 2025"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois",""]
 tags = ["Justice","Intérieur"]
 +++
 

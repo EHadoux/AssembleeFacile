@@ -4,9 +4,9 @@ draft = false
 title = "Annulation de la réforme de la franchise en base de la taxe sur la valeur ajoutée au 1er mars 2025 - N° 989"
 auteurs = ["Christine Pirès Beaune","Marie-José Allemand","Joël Aviragnet","Fabrice Barusseau","Marie-Noëlle Battistel","Laurent Baumel","Béatrice Bellay","Karim Benbrahim","Mickaël Bouloux","Philippe Brun","Elie Califer","Colette Capdevielle","Paul Christophle","Pierrick Courbon","Alain David","Arthur Delaporte","Stéphane Delautrette","Dieynaba Diop","Fanny Dombre Coste","Peio Dufau","Inaki Echaniz","Romain Eskenazi","Olivier Faure","Denis Fégné","Océane Godard","Pascale Got","Stéphane Hablot","Ayda Hadizadeh","Florence Herouin-Léautey","Céline Hervieu","Chantal Jourdan","Marietta Karamanli","Fatiha Keloua Hachi","Estelle Mercier","Philippe Naillet","Jacques Oberti","Sophie Pantel","Marc Pena","Anna Pic","Pierre Pribetich","Christophe Proença","Marie Récalde","Valérie Rossi","Claudia Rouaux","Aurélien Rousseau","Fabrice Roussel","Sandrine Runel","Isabelle Santiago","Hervé Saulignac","Thierry Sother","Céline Thiébault-Martinez","Mélanie Thomin","Karim Ben Cheikh","Arnaud Simion","Sébastien Saint-Pasteur","Jean-Claude Raux","Sophie Taillé-Polian","Max Mathiasin","François Ruffin","Dominique Voynet","Emmanuel Duplessy","Marie Pochon","Eva Sas","Catherine Hervieu","Danielle Simonnet","Marie-Charlotte Garin","Boris Tavernier","Michel Castellani","Jean-Louis Roumégas"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/annulation_reforme_franchise_base_taxe_valeur_ajoutee_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 février 2025","Mardi 18 février 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Budget","Économie","Artisanat"]
 +++
 

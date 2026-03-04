@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer l’efficacité et l’équilibre de la justice pénale dans les affaires de violences sexuelles - N° 2086"
 auteurs = ["Sophie Ricourt Vaginay"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_renforcer_efficacite_equilibre_justice_penale_affaires_violences_sexuelles_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Droits des femmes","Sécurité"]
 +++
 
