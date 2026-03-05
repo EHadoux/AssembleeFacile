@@ -4,9 +4,9 @@ draft = false
 title = "Nationalisation temporaire de Vencorex - N° 976"
 auteurs = ["Cyrielle Chatelain","Marie-Noëlle Battistel","Jérémie Iordanoff","Élisa Martin","Sandrine Nosbé","Aurélie Trouvé","Marie Pochon","Laurent Alexandre","Marie-José Allemand","Ségolène Amiot","Pouria Amirshahi","Farida Amrani","Rodrigo Arenas","Christine Arrighi","Clémentine Autain","Léa Balage El Mariky","Delphine Batho","Anaïs Belouassa-Cherifi","Karim Ben Cheikh","Christophe Bex","Carlos Martens Bilongo","Manuel Bompard","Arnaud Bonnet","Nicolas Bonnet","Mickaël Bouloux","Idir Boumertit","Philippe Brun","Pierre-Yves Cadalen","Sylvain Carrière","Gabrielle Cathala","Bérenger Cernon","Sophia Chikirou","Éric Coquerel","Alexis Corbière","Jean-François Coulomme","Hendrik Davi","Arthur Delaporte","Alma Dufour","Emmanuel Duplessy","Inaki Echaniz","Karen Erodi","Elsa Faucillon","Mathilde Feld","Emmanuel Fernandes","Sylvie Ferrer","Charles Fournier","Perceval Gaillard","Marie-Charlotte Garin","Damien Girard","Julien Gokel","Clémence Guetté","Steevy Gustave","Zahia Hamdane","Catherine Hervieu","Mathilde Hignet","Paul Christophle","Bastien Lachaud","Julie Laernoes","Tristan Lahais","Maxime Laisney","Antoine Léaument","Élise Leboucher","Jean-Paul Lecoq","Aurélien Le Coq","Murielle Lepvraud","Gérard Leseul","Benjamin Lucas-Lundy","Damien Maudet","Emmanuel Maurel","Marianne Maximi","Estelle Mercier","Marie Mesmeur","Manon Meunier","Marcellin Nadeau","Danièle Obono","Julie Ozenne","Mathilde Panot","Stéphane Peu","Sébastien Peytavie","René Pilato","Dominique Potier","Loïc Prud’homme","Jean-Claude Raux","Sandra Regol","Claudia Rouaux","Jean-Louis Roumégas","Sandrine Rousseau","François Ruffin","Arnaud Saint-Martin","Aurélien Saintoul","Eva Sas","Sabrina Sebaihi","Danielle Simonnet","Aurélien Taché","Sophie Taillé-Polian","David Taupiac","Andrée Taurinya","Matthias Tavel","Boris Tavernier","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/nationalisation_temporaire_vencorex_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 février 2025","Mardi 18 février 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Industrie","Emploi","Économie"]
 +++
 

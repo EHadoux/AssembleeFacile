@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la lutte contre les allergies - N° 985"
 auteurs = ["Philippe Juvin","Olivier Marleix","Virginie Duby-Muller","Nicolas Ray","Thierry Liger","Patrick Hetzel","Alexandre Portier","Thibault Bazin","Jean-Luc Bourgeaux","Jean-Pierre Taite","Vincent Jeanbrun","Corentin Le Fur","Fabrice Brun"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_lutte_allergies_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 février 2025","Mardi 18 février 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Éducation","Écologie"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Simplifier les procédures relatives à la récupération d’une concession en état d’abandon ayant fait l’objet d’une concession perpétuelle - N° 981"
 auteurs = ["Stéphane Viry","Frédérique Meunier","Christophe Naegelen","Sandrine Le Feur","Maud Petit","David Taupiac","Laurent Mazaury","Yannick Favennec-Bécot","Félicie Gérard","Mereana Reid Arbelot","Richard Ramos","Christelle Petex","Vincent Jeanbrun","Jean-René Cazeneuve","Paul Molac","Agnès Firmin Le Bodo","Hubert Brigand","Olivier Falorni","Lise Magnier","Constance De Pélichy","Jean-Pierre Bataille","Freddy Sertin","Joël Bruneau","Julie Delpech","Josiane Corneloup","Dominique Potier","Constance Le Grip","Vincent Ledoux","Jean-Carles Grelier","Nicolas Ray","Romain Daubié","Philippe Juvin","Éric Michoux","Paul Christophe","Laurent Panifous","Salvatore Castiglione","Christophe Marion","Didier Lemaire","Jean-Pierre Taite","Anthony Brosse","Stéphane Lenormand","Jérôme Nury","Julien Dive","Naïma Moutchou","Raphaël Schellenberger","Moerani Frébault","Nathalie Colin-Oesterlé","Lionel Vuibert","Anne-Cécile Violland","Anne-Sophie Ronceret","Jean-Michel Jacques","Béatrice Piron","Laurent Croizier","Xavier Roseren","Marie-Agnès Poussier-Winsback","Jean Moulliere","Anne Le Hénanff","Valérie Bazin-Malgras","Virginie Duby-Muller","Xavier Breton","François Gernigon","Ian Boucard","Anne Bergantz","Thibault Bazin","Estelle Mercier","Alexandre Portier","Jean-Michel Brard","Thierry Sother","Véronique Besse"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/simplifier_procedures_relatives_recuperation_concession_etat_abandon_concession_perpetuelle_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 février 2025","Mardi 18 février 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Intérieur"]
 +++
 

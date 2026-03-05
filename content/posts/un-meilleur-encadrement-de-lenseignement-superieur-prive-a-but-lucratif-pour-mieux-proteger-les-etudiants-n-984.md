@@ -4,9 +4,9 @@ draft = false
 title = "Un meilleur encadrement de l'enseignement supérieur privé à but lucratif pour mieux protéger les étudiants - N° 984"
 auteurs = ["Emmanuel Grégoire","Pierrick Courbon","Delphine Lingemann","Guillaume Gouffier Valente","Violette Spillebout","Erwan Balanant","Constance De Pélichy","Frantz Gumbs","Danielle Simonnet","Béatrice Piron","Karine Lebon","Lionel Causse","Mereana Reid Arbelot","Géraldine Bannier","Michel Castellani","Eva Sas","Moerani Frébault","Dominique Voynet","Philippe Fait","Jean-Claude Raux","Marie-Charlotte Garin","Jean-Victor Castor","Léa Balage El Mariky","Sacha Houlié","Damien Maudet","Emmanuel Duplessy","Martine Froger","Éric Martineau","Sandra Regol","Emmanuel Maurel","Christophe Marion","Frédéric Maillot","David Taupiac","Marianne Maximi","Charles Fournier","Emmanuel Fernandes","Clémentine Autain","Stéphane Peu","Marie-José Allemand","Joël Aviragnet","Christian Baptiste","Fabrice Barusseau","Marie-Noëlle Battistel","Laurent Baumel","Béatrice Bellay","Karim Benbrahim","Mickaël Bouloux","Philippe Brun","Elie Califer","Colette Capdevielle","Paul Christophle","Alain David","Arthur Delaporte","Stéphane Delautrette","Dieynaba Diop","Fanny Dombre Coste","Peio Dufau","Inaki Echaniz","Romain Eskenazi","Olivier Faure","Denis Fégné","Guillaume Garot","Océane Godard","Julien Gokel","Pascale Got","Jérôme Guedj","Stéphane Hablot","Ayda Hadizadeh","Florence Herouin-Léautey","Céline Hervieu","François Hollande","Chantal Jourdan","Marietta Karamanli","Fatiha Keloua Hachi","Gérard Leseul","Laurent Lhardit","Estelle Mercier","Philippe Naillet","Jacques Oberti","Sophie Pantel","Marc Pena","Anna Pic","Christine Pirès Beaune","Dominique Potier","Pierre Pribetich","Christophe Proença","Marie Récalde","Valérie Rossi","Claudia Rouaux","Aurélien Rousseau","Fabrice Roussel","Sandrine Runel","Sébastien Saint-Pasteur","Isabelle Santiago","Hervé Saulignac","Arnaud Simion","Thierry Sother","Céline Thiébault-Martinez","Mélanie Thomin","Boris Vallaud","Roger Vicot","Jiovanny William"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/un_meilleur_encadrement_enseignement_superieur_prive_but_lucratif_mieux_proteger_etudiants"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 février 2025","Mardi 18 février 2025"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Enseignement supérieur","Éducation","Consommation"]
 +++
 

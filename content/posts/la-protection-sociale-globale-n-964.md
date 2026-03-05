@@ -4,9 +4,9 @@ draft = false
 title = "La protection sociale globale - N° 964"
 auteurs = ["Martine Froger","Stéphane Lenormand","Laurent Panifous","David Taupiac"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/protection_sociale_globale"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 13 février 2025","Jeudi 13 février 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Solidarité","Action publique"]
 +++
 

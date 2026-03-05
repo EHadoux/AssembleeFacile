@@ -4,9 +4,9 @@ draft = false
 title = "Ne pas autoriser le mariage d'un étranger soumis à l'obligation de quitter le territoire français - N° 977"
 auteurs = ["Alexandra Martin","Justine Gruet","Laurent Mazaury","Félicie Gérard","Véronique Besse","Sylvie Bonnet","Emmanuel Mandon","Christelle Petex","Joël Bruneau","Anne-Laure Blin","Patrick Hetzel","Marie-Agnès Poussier-Winsback","Karl Olive","Pierre Cordier","Jérôme Nury","Josiane Corneloup","Hubert Brigand","Éric Pauget","Jean-Pierre Vigier","Alexandre Portier","Charles Rodwell","Eric Liégeon","Mathieu Lefèvre","Maud Bregeon","Vincent Rolland","Thibault Bazin","Ian Boucard","Fabien Di Filippo","Nicolas Ray","Michel Herbillon","Sylvain Berrios","Stéphane Viry","Jean-Yves Bony","Virginie Duby-Muller","Laurent Wauquiez"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/pas_autoriser_mariage_etranger_soumis_OQTF"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 février 2025","Mardi 18 février 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Intérieur","Justice"]
 +++
 

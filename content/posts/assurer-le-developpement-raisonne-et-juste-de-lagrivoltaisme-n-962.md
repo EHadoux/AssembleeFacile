@@ -4,9 +4,9 @@ draft = false
 title = "Assurer le développement raisonné et juste de l’agrivoltaïsme - N° 962"
 auteurs = ["Pascal Lecamp","Marie-José Allemand","Joël Aviragnet","Fabrice Barusseau","Christophe Blanchet","Philippe Bolo","Sylvie Bonnet","Jean-Yves Bony","Jean-Luc Bourgeaux","Philippe Brun","Colette Capdevielle","André Chassaigne","Pierre Cordier","Mickaël Cosson","Romain Daubié","Julie Delpech","Dieynaba Diop","Peio Dufau","Stella Dupont","Inaki Echaniz","Romain Eskenazi","Olivier Falorni","Denis Fégné","Martine Froger","Jean-Luc Fugit","Océane Godard","Julien Gokel","Pascale Got","Perrine Goulet","Frantz Gumbs","Pierre Henriet","Céline Hervieu","Cyrille Isaac-Sibille","Sandrine Josso","Chantal Jourdan","Fatiha Keloua Hachi","Loïc Kervran","Michel Lauzzana","Didier Le Gac","Nicole Le Peih","Guillaume Lepers","Delphine Lingemann","Lise Magnier","Emmanuel Mandon","Bastien Marchive","Max Mathiasin","Laurent Mazaury","Paul Molac","Marcellin Nadeau","Philippe Naillet","Jacques Oberti","Hubert Ott","Jimmy Pahun","Sophie Pantel","Frédéric Petit","Maud Petit","Anna Pic","Christine Pirès Beaune","Béatrice Piron","Dominique Potier","Pierre Pribetich","Valérie Rossi","Hervé Saulignac","Freddy Sertin","Arnaud Simion","Thierry Sother","David Taupiac","Sabine Thillaye","Mélanie Thomin","Stéphane Travert","Roger Vicot","Annie Vidal","Alain David","Philippe Gosselin","Jean-Marie Fiévet","Ayda Hadizadeh","Claudia Rouaux","Guillaume Garot","Louise Morel","Olivier Serva","Laurent Panifous","Joël Bruneau","Jean-Pierre Bataille","David Habib","Constance De Pélichy","Xavier Roseren"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/assurer_developpement_raisonne_juste_agrivoltaisme_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 13 février 2025","Jeudi 13 février 2025"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Agriculture","Énergie","Économie"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Instituer un moratoire de cinq années pour l’entrée en application des zones à faibles émissions - mobilité - N° 982"
 auteurs = ["Sylvie Bonnet","Alexandre Portier","Thibault Bazin","Valérie Bazin-Malgras","Thierry Benoit","Jean-Didier Berger","Jean-Yves Bony","Ian Boucard","Jean-Luc Bourgeaux","Jean-Michel Brard","Xavier Breton","Hubert Brigand","Blandine Brocard","Joël Bruneau","Fabrice Brun","Françoise Buffet","Pierre Cordier","Josiane Corneloup","Laurent Croizier","Vincent Descoeur","Sylvie Dezarnaud","Fabien Di Filippo","Julien Dive","Yannick Favennec-Bécot","Philippe Gosselin","Justine Gruet","Patrick Hetzel","Philippe Juvin","Corentin Le Fur","Guillaume Lepers","Eric Liégeon","Thierry Liger","Emmanuel Mandon","Olivier Marleix","Alexandra Martin","Laurent Mazaury","Sophie Mette","Frédérique Meunier","Jérôme Nury","Christelle Petex","Maud Petit","Nicolas Ray","Jean-Pierre Taite","Jean-Pierre Vigier","Philippe Vigier","Laurent Wauquiez","Nicolas Forissier","Michel Herbillon","Anne-Laure Blin","Michèle Tabarot","Félicie Gérard","François-Xavier Ceccoli","Jean-Luc Warsmann","Stéphane Viry","Max Mathiasin","Delphine Lingemann","Aurélien Pradié","Christophe Naegelen","Paul Molac","Romain Daubié"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/moratoire_5_ans_ZFE_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 février 2025","Mardi 18 février 2025"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Écologie","Transports","Solidarité"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Inclure les sorties scolaires dans la loi du 15 mars 2004 encadrant, en application du principe de laïcité, le port de signes ou de tenues manifestant une appartenance religieuse dans les écoles, collèges et lycées publics - N° 980"
 auteurs = ["Alexandre Allegret-Pilot","Charles Alloncle","Brigitte Barèges","Romain Baubry","Matthieu Bloch","Jorys Bovet","Jérôme Buisson","Eddy Casterman","Bernard Chaix","Marc Chavent","Sébastien Chenu","Roger Chudeau","Jocelyn Dessigny","Edwige Diaz","Frédéric Falcon","Olivier Fayssat","Emmanuel Fouquart","Thierry Frappé","Stéphanie Galzy","Jonathan Gery","Sébastien Humbert","Alexis Jolly","Hélène Laporte","Bartolomé Lenoir","Hanane Mansouri","Matthieu Marchio","Kévin Mauvieux","Nicolas Meizonnet","Éric Michoux","Serge Muller","Kévin Pfeffer","Angélique Ranc","Laurence Robert-Dehault","Emmanuel Taché De La Pagerie","Lionel Tivoli","Antoine Villedieu","Laurent Jacobelli","Sophie Ricourt Vaginay","Florence Joubert"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/sorties_scolaires_signes_religieux_17"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 février 2025","Mardi 18 février 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Éducation","Justice"]
 +++
 

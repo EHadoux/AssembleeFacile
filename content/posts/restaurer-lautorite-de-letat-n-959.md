@@ -4,9 +4,9 @@ draft = false
 title = "Restaurer l’autorité de l'État - N° 959"
 auteurs = ["Naïma Moutchou","Paul Christophe","Xavier Albertini","Henri Alfandari","Béatrice Bellamy","Thierry Benoit","Sylvain Berrios","Bertrand Bouyx","Jean-Michel Brard","Nathalie Colin-Oesterlé","Agnès Firmin Le Bodo","Félicie Gérard","François Gernigon","Pierre Henriet","François Jolivet","Loïc Kervran","Xavier Lacombe","Thomas Lam","Anne Le Hénanff","Didier Lemaire","Lise Magnier","Jean Moulliere","Jérémie Patrier-Leitus","Béatrice Piron","Christophe Plassard","Jean-François Portarrieu","Marie-Agnès Poussier-Winsback","Isabelle Rauch","Xavier Roseren","Laetitia Saint-Paul","Vincent Thiébaut","Frédéric Valletoux","Anne-Cécile Violland"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/restaurer_autorite_etat_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Jeudi 13 février 2025","Jeudi 13 février 2025","Jeudi 13 février 2025"]
+stepsStatus = ["","Commission des lois",""]
 tags = ["Justice","Sécurité"]
 +++
 

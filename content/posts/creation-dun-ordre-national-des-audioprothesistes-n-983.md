@@ -4,9 +4,9 @@ draft = false
 title = "Création d’un ordre national des audioprothésistes - N° 983"
 auteurs = ["François Gernigon","Paul Christophe","Frédéric Valletoux","Thibault Bazin","Jérôme Guedj","Sébastien Peytavie","Cyrille Isaac-Sibille","Christine Le Nabour","Nicole Dubré-Chirat","Sandrine Rousseau","Philippe Fait","Nathalie Colin-Oesterlé","Olivier Falorni","Sylvain Berrios","Béatrice Bellamy","Bertrand Bouyx","Philippe Bolo","Jean-Michel Brard","Josiane Corneloup","Joël Bruneau","Paul-André Colombani","Julie Delpech","Xavier Albertini","Félicie Gérard","Jean-Carles Grelier","Justine Gruet","Sandrine Josso","Xavier Lacombe","Thomas Lam","Michel Lauzzana","Didier Le Gac","Anne Le Hénanff","Didier Lemaire","Eric Liégeon","Delphine Lingemann","Lise Magnier","Christophe Marion","Alexandra Martin","Joséphine Missoffe","Yannick Monnet","Jean Moulliere","Naïma Moutchou","Christophe Naegelen","Laurent Panifous","Maud Petit","Béatrice Piron","Christophe Plassard","Jean-François Portarrieu","Philippe Vigier","Stéphane Viry","Isabelle Rauch","Nicolas Ray","Xavier Roseren","Claudia Rouaux","Jean-François Rousset","Laetitia Saint-Paul","Violette Spillebout","Vincent Thiébaut","Nicolas Turquois","Anne-Cécile Violland","Richard Ramos","Michel Castellani","Arnaud Simion","Salvatore Castiglione","Romain Daubié","Vincent Jeanbrun","Jean-Pierre Bataille","Virginie Duby-Muller","Christelle Petex","Annie Vidal","Jean Laussucq","Olivier Marleix","Corentin Le Fur","Jean-Michel Jacques","Hubert Ott"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ordre_national_audioprothesistes"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 février 2025","Mardi 18 février 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Justice"]
 +++
 

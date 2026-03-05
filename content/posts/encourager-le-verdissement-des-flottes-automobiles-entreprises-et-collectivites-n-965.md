@@ -4,9 +4,9 @@ draft = false
 title = "Encourager le verdissement des flottes automobiles des entreprises et des collectivités - N° 965"
 auteurs = ["Gérard Leseul","Jean-Marie Fiévet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/encourager_verdissement_flottes_atomobiles_entreprises_collectivites_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 13 février 2025","Jeudi 13 février 2025"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Écologie","Transports","Énergie"]
 +++
 

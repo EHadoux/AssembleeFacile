@@ -4,9 +4,9 @@ draft = false
 title = "Réguler l'organisation et l'implantation des activités d'imagerie médicale afin de garantir un égal accès aux soins pour tous et de qualité, en France métropolitaine et dans les territoires d'outre-mer - N° 967"
 auteurs = ["Frédéric Maillot","Yannick Monnet","Karine Lebon","Édouard Bénard","Soumya Bourouaha","Jean-Victor Castor","André Chassaigne","Elsa Faucillon","Émeline K/Bidi","Jean-Paul Lecoq","Emmanuel Maurel","Marcellin Nadeau","Stéphane Peu","Mereana Reid Arbelot","Davy Rimane","Nicolas Sansu","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/regulation_imagerie_medicale_17"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 13 février 2025","Jeudi 13 février 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Économie","Outre-mer"]
 +++
 

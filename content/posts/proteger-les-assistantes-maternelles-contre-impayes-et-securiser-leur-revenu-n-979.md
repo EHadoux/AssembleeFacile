@@ -4,9 +4,9 @@ draft = false
 title = "Protéger les assistantes maternelles contre les impayés et sécuriser leur revenu - N° 979"
 auteurs = ["Stéphane Viry","Christophe Marion","Max Mathiasin","Maud Petit","Antoine Armand","Guillaume Gouffier Valente","Olivier Falorni","Vincent Jeanbrun","Laurent Mazaury","Ian Boucard","Constance De Pélichy","Sophie Errante","Christophe Naegelen","Alexandre Portier","Sylvie Bonnet","Josiane Corneloup","Violette Spillebout","Joël Bruneau","David Taupiac","Philippe Gosselin","Julie Delpech","Frédéric Valletoux","Sandrine Josso","François Ruffin","Naïma Moutchou","Raphaël Schellenberger","Stéphane Lenormand","Moerani Frébault","Virginie Duby-Muller","Olivier Serva","Paul-André Colombani","Estelle Youssouffa","Laurent Panifous","Richard Ramos","Christophe Plassard","Nicolas Ray","Jean-Luc Bourgeaux","Paul Molac","Martine Froger","Vincent Ledoux","Nathalie Colin-Oesterlé","Jean-Michel Jacques","Michel Castellani"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_assistantes_maternelles_contre_impayes_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 18 février 2025","Mardi 18 février 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Travail","Famille","Solidarité"]
 +++
 

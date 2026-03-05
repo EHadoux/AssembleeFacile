@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer le contrôle du Parlement en période d’expédition des affaires courantes - N° 960"
 auteurs = ["Léa Balage El Mariky","Stéphane Mazars","Florent Boudié"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/controle_parlement_affaires_courantes_17"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 13 février 2025","Jeudi 13 février 2025","Jeudi 13 février 2025","Jeudi 3 avril 2025"]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)"]
 tags = ["Action publique","Relations parlementaires"]
 +++
 
