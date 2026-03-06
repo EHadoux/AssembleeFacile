@@ -720,7 +720,7 @@
               </div>
             {/if}
             <div class="min-w-0 flex-1">
-              {#if principalAuteur.premierMinistre || principalAuteur.senatePresident}
+              {#if principalAuteur.premierMinistre || principalAuteur.senatePresident || !principalAuteur.dep}
                 <span class="block truncate text-sm font-bold leading-snug text-foreground">
                   {principalAuteur.name}
                 </span>
@@ -821,15 +821,17 @@
           {/if}
 
           {#if unmatchedCosignataires.length > 0}
-            <ul class="mt-3 flex flex-col gap-1">
+            {#if signatairesByGroupe.length > 0}
+              <h4 class="mb-2 mt-4 text-xs font-semibold uppercase tracking-widest text-muted-foreground">
+                Signataires additionnels
+              </h4>
+            {/if}
+            <ul class="mt-1 flex flex-col gap-1">
               {#each unmatchedCosignataires as auteur}
                 <li>
-                  <a
-                    href="/auteurs/{slugify(auteur)}"
-                    class="text-xs font-medium text-foreground transition-colors hover:text-primary hover:underline"
-                  >
+                  <span class="text-xs font-medium text-foreground">
                     {auteur}
-                  </a>
+                  </span>
                 </li>
               {/each}
             </ul>
@@ -840,12 +842,9 @@
           <ul class="flex flex-col gap-1.5">
             {#each meta.auteurs as auteur}
               <li>
-                <a
-                  href="/auteurs/{slugify(auteur)}"
-                  class="text-sm font-medium text-foreground transition-colors hover:text-primary"
-                >
+                <span class="text-sm font-medium text-foreground">
                   {auteur}
-                </a>
+                </span>
               </li>
             {/each}
           </ul>
