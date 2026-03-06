@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la stabilité économique et la compétitivité du secteur agroalimentaire - N° 954"
 auteurs = ["Stéphane Travert","Julien Dive"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_stabilite_economique_agroalimentaire_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Commission Mixte Paritaire","Promulgation de la loi"]
+stepsDate = ["Jeudi 13 février 2025","Jeudi 13 février 2025","Jeudi 13 février 2025","Lundi 17 mars 2025","Lundi 17 mars 2025","Mercredi 2 avril 2025","Lundi 14 avril 2025"]
+stepsStatus = ["","Commission des affaires économiques","Texte adopté ✔️","Commission des affaires économiques (Sénat)","Texte modifié","Accord",""]
 tags = ["Agriculture","Économie","Commerce"]
 +++
 

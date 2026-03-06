@@ -4,9 +4,9 @@ draft = false
 title = "Valoriser et reconnaître l'engagement associatif - N° 956"
 auteurs = ["Christophe Naegelen"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/valoriser_reconnaitre_engagement_associatif"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 13 février 2025","Jeudi 13 février 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Vie associative","Solidarité"]
 +++
 

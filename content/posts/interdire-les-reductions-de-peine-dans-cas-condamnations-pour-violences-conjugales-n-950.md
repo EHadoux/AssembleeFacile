@@ -4,9 +4,9 @@ draft = false
 title = "Interdire les réductions de peine dans les cas de condamnations pour violences conjugales - N° 950"
 auteurs = ["Virginie Duby-Muller"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdire_reductions_peine_condamnations_violences_conjugales"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 13 février 2025","Jeudi 13 février 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Droits des femmes"]
 +++
 

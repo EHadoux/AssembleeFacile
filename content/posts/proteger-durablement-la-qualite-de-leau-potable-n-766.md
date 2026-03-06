@@ -4,9 +4,9 @@ draft = false
 title = "Protéger durablement la qualité de l'eau potable - N° 766"
 auteurs = ["Jean-Claude Raux","Pouria Amirshahi","Christine Arrighi","Clémentine Autain","Léa Balage El Mariky","Delphine Batho","Lisa Belluco","Karim Ben Cheikh","Benoît Biteau","Arnaud Bonnet","Nicolas Bonnet","Cyrielle Chatelain","Alexis Corbière","Hendrik Davi","Emmanuel Duplessy","Charles Fournier","Marie-Charlotte Garin","Damien Girard","Steevy Gustave","Catherine Hervieu","Jérémie Iordanoff","Julie Laernoes","Tristan Lahais","Benjamin Lucas-Lundy","Julie Ozenne","Sébastien Peytavie","Marie Pochon","Sandra Regol","Jean-Louis Roumégas","Sandrine Rousseau","François Ruffin","Eva Sas","Sabrina Sebaihi","Danielle Simonnet","Sophie Taillé-Polian","Boris Tavernier","Nicolas Thierry","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_durablement_eau_potable"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Écologie","Santé","Agriculture"]
 +++
 

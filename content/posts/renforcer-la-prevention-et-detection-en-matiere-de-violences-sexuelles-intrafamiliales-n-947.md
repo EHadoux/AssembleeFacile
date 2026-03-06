@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la prévention et la détection en matière de violences sexuelles et intrafamiliales - N° 947"
 auteurs = ["Alexandra Martin","Nicolas Ray","Maud Petit","Vincent Jeanbrun","Christophe Plassard","Josiane Corneloup","Philippe Fait","Jean-Pierre Taite","Perrine Goulet","Constance De Pélichy","Sylvie Dezarnaud","Jean-Pierre Bataille","Joël Bruneau","Annie Vidal","Romain Daubié","Véronique Besse","Virginie Duby-Muller","Frédérique Meunier","Mereana Reid Arbelot","Jean-Luc Bourgeaux","Laurent Mazaury","Jean-Michel Jacques","Julie Delpech","Sandrine Josso","Thierry Liger","Stéphane Viry","Christelle Petex","Olivier Marleix"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_detection_violences_sexuelles_et_intrafamiliales_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 13 février 2025","Jeudi 13 février 2025"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Éducation","Droits des femmes"]
 +++
 

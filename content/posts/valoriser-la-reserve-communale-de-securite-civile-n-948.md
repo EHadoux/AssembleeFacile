@@ -4,9 +4,9 @@ draft = false
 title = "Valoriser la réserve communale de sécurité civile - N° 948"
 auteurs = ["Didier Lemaire","Paul Christophe","Xavier Albertini","Henri Alfandari","Béatrice Bellamy","Thierry Benoit","Sylvain Berrios","Bertrand Bouyx","Jean-Michel Brard","Nathalie Colin-Oesterlé","Agnès Firmin Le Bodo","Félicie Gérard","François Gernigon","Pierre Henriet","François Jolivet","Loïc Kervran","Xavier Lacombe","Thomas Lam","Anne Le Hénanff","Lise Magnier","Jean Moulliere","Naïma Moutchou","Jérémie Patrier-Leitus","Béatrice Piron","Christophe Plassard","Jean-François Portarrieu","Marie-Agnès Poussier-Winsback","Isabelle Rauch","Xavier Roseren","Laetitia Saint-Paul","Vincent Thiébaut","Frédéric Valletoux","Anne-Cécile Violland"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/valoriser_reserve_communale_securite_civile2"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 13 février 2025","Jeudi 13 février 2025","Jeudi 13 février 2025","Jeudi 3 avril 2025"]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)"]
 tags = ["Sécurité","Intérieur","Jeunesse"]
 +++
 

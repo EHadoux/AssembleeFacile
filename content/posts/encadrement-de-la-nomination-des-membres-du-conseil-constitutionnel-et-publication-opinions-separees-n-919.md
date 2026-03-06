@@ -4,9 +4,9 @@ draft = false
 title = "Encadrement de la nomination des membres du Conseil constitutionnel et publication des opinions séparées - N° 919"
 auteurs = ["Stéphane Peu","Édouard Bénard","Soumya Bourouaha","Jean-Victor Castor","André Chassaigne","Elsa Faucillon","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Yannick Monnet","Marcellin Nadeau","Mereana Reid Arbelot","Davy Rimane","Nicolas Sansu","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/encadrement_nominations_conseil_constit2"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 7 février 2025","Vendredi 7 février 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Action publique","Droits des femmes"]
 +++
 

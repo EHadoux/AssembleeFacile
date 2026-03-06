@@ -4,9 +4,9 @@ draft = false
 title = "Rétablir le délit de séjour irrégulier - N° 764"
 auteurs = ["Antoine Villedieu","Hervé De Lépinau","Philippe Ballard","Nicolas Meizonnet","Charles Alloncle","Sébastien Humbert","Catherine Rimbert","Nathalie Da Conceicao Carvalho","Alexandre Allegret-Pilot","Serge Muller","Jorys Bovet","Julien Limongi","Bénédicte Auzanot","José Beaurain","Alexandre Dufosset","Frank Giletti","René Lioret","Jonathan Gery","Julie Lechanteux","Sandrine Dogor-Such","Sébastien Chenu","Florence Joubert","Marc Chavent","Anthony Boulogne","Kévin Pfeffer","Marine Hamelet","Laurence Robert-Dehault","Joëlle Mélin","Alexandra Masson","Sophie Blanc","Michèle Martinez","Marie-France Lorho","Thierry Frappé","Stéphane Rambaud","Antoine Golliot","Pascal Jenft","Claire Marais-Beuil","Thibaut Monnier","Philippe Lottiaux","Gaëtan Dussausaye","Frédéric Weber","Julien Guibert","Roger Chudeau","Emmanuel Blairy","Thierry Perez","Julien Rancoule","Julien Gabarron","Emmanuel Fouquart","Emeric Salmon","Aurélien Dutremble","Laure Lavalette","Stéphanie Galzy","Brigitte Barèges","Olivier Fayssat","Maxime Amblard","Timothée Houssin","Laurent Jacobelli","Théo Bernhardt","Robert Le Bourgeois","Caroline Parmentier","Thomas Ménagé"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/retablissement_delit_sejour_irregulier_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Intérieur","Justice"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Relancer la construction de logements neufs en France - N° 953"
 auteurs = ["François Jolivet","Henri Alfandari","Xavier Lacombe","Thomas Lam","Didier Lemaire","Béatrice Piron","Anne-Cécile Violland"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/relancer_construction_logements_neufs_france_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 13 février 2025","Jeudi 13 février 2025"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Logement","Économie","Famille"]
 +++
 

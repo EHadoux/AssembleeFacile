@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi tendant à supprimer certains comités, structures, conseils et commissions « Théodule » dont l’utilité ne semble pas avérée - N° 872"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50722"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Vendredi 11 octobre 2024","Vendredi 11 octobre 2024","Vendredi 11 octobre 2024","Vendredi 31 janvier 2025"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois"]
 tags = ["Action publique","Finances"]
 +++
 

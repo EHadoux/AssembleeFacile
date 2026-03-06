@@ -4,9 +4,9 @@ draft = false
 title = "Mieux lutter contre le harcèlement scolaire - N° 957"
 auteurs = ["Naïma Moutchou","Xavier Albertini","Henri Alfandari","Antoine Armand","Thibault Bazin","Béatrice Bellamy","Béatrice Bellay","Thierry Benoit","Sylvain Berrios","Hervé Berville","Philippe Bonnecarrère","Ian Boucard","Bertrand Bouyx","Jean-Michel Brard","Xavier Breton","Joël Bruneau","Françoise Buffet","Jean-René Cazeneuve","Paul Christophe","Nathalie Colin-Oesterlé","Julien Dive","Philippe Fait","Olivier Falorni","Agnès Firmin Le Bodo","Moerani Frébault","Bruno Fuchs","Félicie Gérard","François Gernigon","Philippe Gosselin","Justine Gruet","Pierre Henriet","Michel Herbillon","Harold Huwart","Sébastien Huyghe","François Jolivet","Loïc Kervran","Xavier Lacombe","Thomas Lam","Sandrine Le Feur","Constance Le Grip","Anne Le Hénanff","Vincent Ledoux","Mathieu Lefèvre","Didier Lemaire","Pauline Levasseur","Eric Liégeon","Lise Magnier","Laurent Mazaury","Joséphine Missoffe","Jean Moulliere","Christophe Naegelen","Sophie Pantel","Jérémie Patrier-Leitus","Constance De Pélichy","Maud Petit","Béatrice Piron","Christophe Plassard","Jean-François Portarrieu","Marie-Agnès Poussier-Winsback","Aurélien Pradié","Isabelle Rauch","Nicolas Ray","Mereana Reid Arbelot","Anne-Sophie Ronceret","Xavier Roseren","Laetitia Saint-Paul","Nicole Sanquer","Raphaël Schellenberger","Olivier Serva","Violette Spillebout","David Taupiac","Vincent Thiébaut","Frédéric Valletoux","Antoine Vermorel-Marques","Annie Vidal","Corinne Vignon","Anne-Cécile Violland","Stéphane Viry","Éric Woerth","Caroline Yadan","Estelle Youssouffa"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/mieux_lutter_harcelement_scolaire_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 13 février 2025","Jeudi 13 février 2025"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Santé","Justice"]
 +++
 

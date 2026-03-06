@@ -4,9 +4,9 @@ draft = false
 title = "Plafonner le cumul de prestations sociales en vue de créer une aide sociale unique et soutenir les familles qui travaillent - N° 765"
 auteurs = ["Yannick Neuder","Laurent Wauquiez","Pascale Bay","Thibault Bazin","Valérie Bazin-Malgras","Jean-Didier Berger","Anne-Laure Blin","Sylvie Bonnet","Émilie Bonnivard","Jean-Yves Bony","Ian Boucard","Jean-Luc Bourgeaux","Xavier Breton","Hubert Brigand","François-Xavier Ceccoli","Pierre Cordier","Josiane Corneloup","Marie-Christine Dalloz","Vincent Descoeur","Fabien Di Filippo","Julien Dive","Virginie Duby-Muller","Nicolas Forissier","Michel Gonord","Philippe Gosselin","Justine Gruet","Michel Herbillon","Vincent Jeanbrun","Philippe Juvin","Eliane Kremer","Corentin Le Fur","Guillaume Lepers","Eric Liégeon","Véronique Louwagie","Olivier Marleix","Alexandra Martin","Frédérique Meunier","Jérôme Nury","Éric Pauget","Christelle Petex","Nicolas Ray","Vincent Rolland","Michèle Tabarot","Jean-Pierre Taite","Antoine Vermorel-Marques","Jean-Pierre Vigier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/plafond_cumul_prestations_sociale_aide_sociale_unique_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Solidarité","Travail","Famille"]
 +++
 

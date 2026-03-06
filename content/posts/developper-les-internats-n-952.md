@@ -4,9 +4,9 @@ draft = false
 title = "Développer les internats - N° 952"
 auteurs = ["François Jolivet","Henri Alfandari","Béatrice Bellamy","Agnès Firmin Le Bodo","Pierre Henriet","Xavier Lacombe","Thomas Lam","Jean Moulliere","Béatrice Piron","Anne-Cécile Violland"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/developper_internats_17"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 13 février 2025","Jeudi 13 février 2025"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Sécurité","Jeunesse"]
 +++
 

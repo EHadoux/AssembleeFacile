@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer le financement des services départementaux d’incendie et de secours - N° 946"
 auteurs = ["Jocelyn Dessigny","Julien Rancoule"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/financement_SDIS_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 13 février 2025","Jeudi 13 février 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Finances","Aménagement du territoire"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Protéger les Français des ravages de la drogue - N° 951"
 auteurs = ["François Jolivet","Henri Alfandari","Béatrice Bellamy","Thierry Benoit","Agnès Firmin Le Bodo","Pierre Henriet","Xavier Lacombe","Thomas Lam","Jean Moulliere","Béatrice Piron","Anne-Cécile Violland"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_francais_ravages_drogue_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 13 février 2025","Jeudi 13 février 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Sécurité","Intérieur"]
 +++
 

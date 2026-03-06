@@ -4,9 +4,9 @@ draft = false
 title = "Proroger le dispositif d’expérimentation favorisant l’égalité des chances pour l’accès à certaines écoles de service public - N° 763"
 auteurs = ["Florence Herouin-Léautey","Fatiha Keloua Hachi","Emmanuel Grégoire","Rodrigo Arenas","Joël Aviragnet","Léa Balage El Mariky","Fabrice Barusseau","Béatrice Bellay","Karim Benbrahim","Nicolas Bonnet","Mickaël Bouloux","Pierrick Courbon","Alain David","Arthur Delaporte","Stéphane Delautrette","Julie Delpech","Fanny Dombre Coste","Romain Eskenazi","Olivier Falorni","Olivier Faure","Denis Fégné","Charles Fournier","Guillaume Garot","Damien Girard","Pascale Got","Ayda Hadizadeh","Céline Hervieu","Chantal Jourdan","Émeline K/Bidi","Karine Lebon","Gérard Leseul","Estelle Mercier","Philippe Naillet","Jacques Oberti","Sophie Pantel","Marc Pena","Maud Petit","Christine Pirès Beaune","Dominique Potier","Christophe Proença","Jean-Claude Raux","Marie Récalde","Mereana Reid Arbelot","Valérie Rossi","Sandrine Runel","Isabelle Santiago","Eva Sas","Thierry Sother","Violette Spillebout","Sophie Taillé-Polian","David Taupiac","Céline Thiébault-Martinez","Mélanie Thomin","Hubert Ott"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proroger_dispositif_experimentation_favorisant_egalite_chances"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Promulgation de la loi"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024","Jeudi 19 décembre 2024","Mardi 18 février 2025","Mardi 18 février 2025","Lundi 24 mars 2025"]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)","Texte modifié",""]
 tags = ["Action publique","Fonction publique","Éducation"]
 +++
 

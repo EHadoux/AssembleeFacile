@@ -4,9 +4,9 @@ draft = false
 title = "Interdire l'intervention des forces de l'ordre dans les lieux d'accueil collectif de mineurs - N° 955"
 auteurs = ["Arnaud Bonnet","Sabrina Sebaihi","Steevy Gustave","Cyrielle Chatelain","Pouria Amirshahi","Christine Arrighi","Clémentine Autain","Léa Balage El Mariky","Benoît Biteau","Nicolas Bonnet","Alexis Corbière","Hendrik Davi","Emmanuel Duplessy","Marie-Charlotte Garin","Catherine Hervieu","Tristan Lahais","Benjamin Lucas-Lundy","Julie Ozenne","Sébastien Peytavie","Jean-Claude Raux","Sandra Regol","Jean-Louis Roumégas","Sandrine Rousseau","Eva Sas","Danielle Simonnet","Sophie Taillé-Polian","Boris Tavernier","Dominique Voynet","Mereana Reid Arbelot","Olivier Faure","Denis Fégné","Céline Hervieu","Laurent Lhardit","Maud Petit","François Piquemal","Christine Pirès Beaune","Isabelle Santiago","Aurélien Taché","Céline Thiébault-Martinez"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdire_intervention_forces_ordres_lieux_accueil_mineurs_17"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 13 février 2025","Jeudi 13 février 2025"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Éducation","Intérieur","Justice"]
 +++
 
