@@ -4,9 +4,9 @@ draft = false
 title = "Exclure les heures supplémentaires du calcul du revenu fiscal de référence - N° 753"
 auteurs = ["Corentin Le Fur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/exclure_heures_supplementaires_revenu_fiscal_reference_17"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Finances","Solidarité","Travail"]
 +++
 

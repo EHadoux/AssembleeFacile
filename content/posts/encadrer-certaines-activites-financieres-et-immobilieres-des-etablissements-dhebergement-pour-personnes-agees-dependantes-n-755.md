@@ -4,9 +4,9 @@ draft = false
 title = "Encadrer certaines activités financières et immobilières des établissements d'hébergement pour personnes âgées dépendantes - N° 755"
 auteurs = ["Eliane Kremer","Pascale Bay","Thibault Bazin","Valérie Bazin-Malgras","Anne-Laure Blin","Sylvie Bonnet","Émilie Bonnivard","Ian Boucard","Jean-Luc Bourgeaux","Hubert Brigand","Vincent Descoeur","Fabien Di Filippo","Vincent Jeanbrun","Philippe Juvin","Corentin Le Fur","Alexandra Martin","Yannick Neuder","Nicolas Ray"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/encadrement_activites_financieres_immobilieres_EHPAD_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Autonomie","Santé","Finances"]
 +++
 

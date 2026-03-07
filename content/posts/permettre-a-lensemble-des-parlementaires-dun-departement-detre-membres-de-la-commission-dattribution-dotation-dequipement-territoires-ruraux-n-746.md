@@ -4,9 +4,9 @@ draft = false
 title = "Permettre à l’ensemble des parlementaires d’un département d’être membres de la commission d’attribution de la dotation d’équipement des territoires ruraux - N° 746"
 auteurs = ["Thibault Bazin","Pierre Cordier","Sylvie Bonnet","Guillaume Lepers","Hubert Brigand","Jérôme Nury","Vincent Rolland","Alexandra Martin","Corentin Le Fur","Justine Gruet","Anne-Laure Blin","Josiane Corneloup","Éric Pauget","Jean-Luc Bourgeaux","Émilie Bonnivard","Fabrice Brun","Virginie Duby-Muller","Jean-Pierre Taite","Yannick Neuder","Christelle Petex","Michel Herbillon"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/permettre_ensemble_parlementaires_departement_membres_commission_attribution_dotation_equipement_territoires_ruraux"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Ruralité","Finances"]
 +++
 

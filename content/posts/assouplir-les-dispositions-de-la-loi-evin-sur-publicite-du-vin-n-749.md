@@ -4,9 +4,9 @@ draft = false
 title = "Assouplir les dispositions de la loi Évin sur la publicité du vin - N° 749"
 auteurs = ["Christophe Barthès","Pascal Jenft","Joseph Rivière","Emmanuel Blairy","Béatrice Roullaud","David Magnier","Stéphane Rambaud","Jocelyn Dessigny","Yaël Ménaché","Anaïs Sabatini","René Lioret","Michel Guiniot","Marc De Fleurian","Alexandra Masson","Romain Tonussi","Joëlle Mélin","Caroline Colombier","Julien Limongi","Alexandre Dufosset","Gaëtan Dussausaye","Monique Griseti","Jordan Guitton","Julie Lechanteux","Katiana Levavasseur","Sébastien Humbert","Julien Rancoule","Alexis Jolly","Lisette Pollet","José Beaurain","Sophie-Laurence Roy","Christophe Bentz","Emmanuel Taché De La Pagerie","Julien Gabarron","Patrice Martin","Michèle Martinez","Angélique Ranc","Gisèle Lelouis","Julien Odoul","Hervé De Lépinau","Marine Hamelet","Timothée Houssin","Laure Lavalette","Nicolas Meizonnet","Frank Giletti","Emeric Salmon","Nathalie Da Conceicao Carvalho","Laurence Robert-Dehault","Stéphanie Galzy","Frédéric Falcon","Julien Guibert","Matthieu Marchio","Philippe Lottiaux","Bryan Masson","Catherine Rimbert","Robert Le Bourgeois","Aurélien Lopez-Liguori","Yoann Gillet","Eddy Casterman","Thierry Tesson","Thibaut Monnier","Sophie Blanc","Anthony Boulogne","Michaël Taverne","Frédéric-Pierre Vos","Marie-France Lorho","Alexandre Loubet","Nicolas Dragon","Manon Bouquin","Florence Joubert","Kévin Mauvieux","Romain Baubry","Sébastien Chenu","Sandrine Dogor-Such","Hélène Laporte","Roger Chudeau","Pascal Markowsky","Frédéric Boccaletti","Thierry Perez","Alexandre Sabatou","Jonathan Gery","Antoine Villedieu","Marc Chavent","Charles Alloncle"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/assouplir_dispositions_loi_evin_publicite_vin"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Agriculture","Économie","Santé"]
 +++
 

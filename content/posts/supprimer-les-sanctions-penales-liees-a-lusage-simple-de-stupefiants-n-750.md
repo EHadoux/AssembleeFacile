@@ -4,9 +4,9 @@ draft = false
 title = "Supprimer les sanctions pénales liées à l’usage simple de stupéfiants - N° 750"
 auteurs = ["Danièle Obono","Ugo Bernalicis","Éric Coquerel","Antoine Léaument","Colette Capdevielle","Romain Eskenazi","Damien Girard","Julie Ozenne"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/supprimer_sanctions_penales_liees_usage_simple_stupefiants"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Santé","Sécurité"]
 +++
 

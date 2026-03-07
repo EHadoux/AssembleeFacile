@@ -4,9 +4,9 @@ draft = false
 title = "Lutter contre la discontinuité territoriale et réaliser un véritable service public de la mobilité en outre-mer - N° 747"
 auteurs = ["Sabrina Sebaihi","Steevy Gustave","Karine Lebon","Frédéric Maillot","Mereana Reid Arbelot","Farida Amrani","Christine Arrighi","Mickaël Bouloux","Sylvain Carrière","Alexis Corbière","Marie-Charlotte Garin","Damien Girard","Clémence Guetté","Laurent Lhardit","Marie Pochon","Sandra Regol","Matthias Tavel","Paul Vannier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_contre_discontinuite_territoriale_service_public_outremer_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Outre-mer","Transports","Solidarité"]
 +++
 

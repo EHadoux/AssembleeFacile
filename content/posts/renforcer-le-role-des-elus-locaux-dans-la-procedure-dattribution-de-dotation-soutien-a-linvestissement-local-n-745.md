@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer le rôle des élus locaux dans la procédure d’attribution de la dotation de soutien à l’investissement local - N° 745"
 auteurs = ["Thibault Bazin","Pierre Cordier","Sylvie Bonnet","Guillaume Lepers","Hubert Brigand","Jérôme Nury","Alexandra Martin","Corentin Le Fur","Justine Gruet","Fabien Di Filippo","Nicolas Ray","Anne-Laure Blin","Josiane Corneloup","Vincent Descoeur","Éric Pauget","Jean-Luc Bourgeaux","Émilie Bonnivard","Fabrice Brun","Virginie Duby-Muller","Ian Boucard","Jean-Pierre Taite","Yannick Neuder","Christelle Petex","Michel Herbillon"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/role_elus_locaux_dotation_soutien_investissement_17"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Décentralisation","Finances"]
 +++
 

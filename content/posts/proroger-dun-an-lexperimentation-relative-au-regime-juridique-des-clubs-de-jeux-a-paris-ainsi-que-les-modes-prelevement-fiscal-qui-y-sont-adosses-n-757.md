@@ -4,9 +4,9 @@ draft = false
 title = "Proroger d’un an l’expérimentation relative au régime juridique des clubs de jeux à Paris, ainsi que les modes de prélèvement fiscal qui y sont adossés - N° 757"
 auteurs = ["Matthias Renault","Alexandre Allegret-Pilot","Maxime Amblard","Théo Bernhardt","Emmanuel Blairy","Sophie Blanc","Frédéric Boccaletti","Anthony Boulogne","Manon Bouquin","Eddy Casterman","Sébastien Chenu","Nathalie Da Conceicao Carvalho","Jocelyn Dessigny","Nicolas Dragon","Alexandre Dufosset","Gaëtan Dussausaye","Emmanuel Fouquart","Jonathan Gery","Frank Giletti","Michel Guiniot","Marine Hamelet","Pascal Jenft","Robert Le Bourgeois","Julie Lechanteux","Hervé De Lépinau","Katiana Levavasseur","René Lioret","Philippe Lottiaux","Patrice Martin","Kévin Mauvieux","Nicolas Meizonnet","Yaël Ménaché","Thomas Ménagé","Thibaut Monnier","Caroline Parmentier","Thierry Perez","Kévin Pfeffer","Stéphane Rambaud","Angélique Ranc","Catherine Rimbert","Laurence Robert-Dehault","Béatrice Roullaud","Emeric Salmon","Anne Sicard","Thierry Tesson","Antoine Villedieu"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proroger_un_an_experimentation_regime_juridique_clubs_jeux_paris_modes_prelevement_fiscal"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Économie","Emploi","Intérieur"]
 +++
 

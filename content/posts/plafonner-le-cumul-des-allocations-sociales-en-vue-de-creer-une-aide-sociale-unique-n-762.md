@@ -4,9 +4,9 @@ draft = false
 title = "Plafonner le cumul des allocations sociales en vue de créer une aide sociale unique - N° 762"
 auteurs = ["Yannick Neuder","Laurent Wauquiez","Pascale Bay","Valérie Bazin-Malgras","Jean-Didier Berger","Anne-Laure Blin","Sylvie Bonnet","Émilie Bonnivard","Jean-Yves Bony","Ian Boucard","Jean-Luc Bourgeaux","Hubert Brigand","François-Xavier Ceccoli","Pierre Cordier","Josiane Corneloup","Marie-Christine Dalloz","Fabien Di Filippo","Julien Dive","Virginie Duby-Muller","Nicolas Forissier","Michel Gonord","Justine Gruet","Michel Herbillon","Vincent Jeanbrun","Philippe Juvin","Eliane Kremer","Corentin Le Fur","Guillaume Lepers","Eric Liégeon","Véronique Louwagie","Olivier Marleix","Alexandra Martin","Frédérique Meunier","Jérôme Nury","Éric Pauget","Christelle Petex","Nicolas Ray","Vincent Rolland","Michèle Tabarot","Jean-Pierre Taite","Antoine Vermorel-Marques","Jean-Pierre Vigier","Thibault Bazin","Xavier Breton","Fabrice Brun","Vincent Descoeur","Philippe Gosselin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/plafonner_cumul_allocations_sociales_creer_aide_social_unique"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Solidarité","Travail","Budget"]
 +++
 

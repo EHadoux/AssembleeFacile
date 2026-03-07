@@ -4,9 +4,9 @@ draft = false
 title = "Rendre obligatoire la déclaration de domiciliation - N° 744"
 auteurs = ["Thibault Bazin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_obligatoire_declaration_domiciliation_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Intérieur","Sécurité"]
 +++
 

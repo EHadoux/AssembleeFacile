@@ -4,9 +4,9 @@ draft = false
 title = "Amélioration de la vie dans les logements-foyers pour travailleurs isolés - N° 761"
 auteurs = ["Danielle Simonnet","Pouria Amirshahi","Farida Amrani","Rodrigo Arenas","Christine Arrighi","Clémentine Autain","Léa Balage El Mariky","Lisa Belluco","Christophe Bex","Benoît Biteau","Arnaud Bonnet","Nicolas Bonnet","Soumya Bourouaha","Louis Boyard","Pierre-Yves Cadalen","Gabrielle Cathala","Bérenger Cernon","Cyrielle Chatelain","Éric Coquerel","Alexis Corbière","Jean-François Coulomme","Hendrik Davi","Aly Diouara","Emmanuel Duplessy","Karen Erodi","Elsa Faucillon","Mathilde Feld","Emmanuel Fernandes","Perceval Gaillard","Marie-Charlotte Garin","Damien Girard","Emmanuel Grégoire","Clémence Guetté","David Guiraud","Steevy Gustave","Ayda Hadizadeh","Zahia Hamdane","Andy Kerbrat","Julie Laernoes","Tristan Lahais","Abdelkader Lahmar","Maxime Laisney","Arnaud Le Gall","Élise Leboucher","Mme Murielle Lepvraud","Laurent Lhardit","Benjamin Lucas-Lundy","Damien Maudet","Marianne Maximi","Sandrine Nosbé","Danièle Obono","Julie Ozenne","François Piquemal","Marie Pochon","Loïc Prud’homme","Jean-Claude Raux","Sandra Regol","Mereana Reid Arbelot","Valérie Rossi","Claudia Rouaux","Jean-Louis Roumégas","Sandrine Rousseau","François Ruffin","Eva Sas","Hervé Saulignac","Sabrina Sebaihi","Sophie Taillé-Polian","Andrée Taurinya","Boris Tavernier","Céline Thiébault-Martinez"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/amelioration_vie_logements_foyers_17"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Solidarité"]
 +++
 

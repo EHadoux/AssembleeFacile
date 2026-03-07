@@ -4,9 +4,9 @@ draft = false
 title = "Encourager la réhabilitation de friches industrielles - N° 752"
 auteurs = ["Corentin Le Fur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/rehabilitation_friches_industrielles_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Aménagement du territoire","Écologie","Finances"]
 +++
 

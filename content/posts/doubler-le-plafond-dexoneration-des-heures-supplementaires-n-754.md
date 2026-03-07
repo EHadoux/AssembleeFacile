@@ -4,9 +4,9 @@ draft = false
 title = "Doubler le plafond d'exonération des heures supplémentaires - N° 754"
 auteurs = ["Marc Chavent","Alexandre Allegret-Pilot","Charles Alloncle","Brigitte Barèges","Sophie Blanc","Jérôme Buisson","Bernard Chaix","Sébastien Chenu","Éric Ciotti","Christelle D’Intorni","Frédéric Falcon","Stéphanie Galzy","Jonathan Gery","Jordan Guitton","Philippe Lottiaux","Hanane Mansouri","Michèle Martinez","Alexandra Masson","Nicolas Meizonnet","Yaël Ménaché","Éric Michoux","Thibaut Monnier","Serge Muller","Sophie Ricourt Vaginay","Joseph Rivière","Laurence Robert-Dehault"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/doubler_plafond_exoneration_heures_supplementaires_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Travail","Finances","Économie"]
 +++
 

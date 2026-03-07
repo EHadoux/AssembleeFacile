@@ -4,9 +4,9 @@ draft = false
 title = "Instituer une présomption de légitime défense pour les membres des forces de l’ordre - N° 748"
 auteurs = ["Michaël Taverne","Franck Allisio","Bénédicte Auzanot","Philippe Ballard","Brigitte Barèges","Romain Baubry","José Beaurain","Véronique Besse","Emmanuel Blairy","Sophie Blanc","Frédéric Boccaletti","Pascale Bordes","Manon Bouquin","Jorys Bovet","Marc Chavent","Sébastien Chenu","Roger Chudeau","Bruno Clavet","Caroline Colombier","Christelle D’Intorni","Nathalie Da Conceicao Carvalho","Edwige Diaz","Nicolas Dragon","Alexandre Dufosset","Gaëtan Dussausaye","Frédéric Falcon","Marc De Fleurian","Thierry Frappé","Julien Gabarron","Stéphanie Galzy","Frank Giletti","Yoann Gillet","Christian Girard","Antoine Golliot","José Gonzalez","Florence Goulet","Géraldine Grangier","Monique Griseti","Julien Guibert","Jordan Guitton","Marine Hamelet","Pascal Jenft","Alexis Jolly","Tiffany Joncour","Sylvie Josserand","Florence Joubert","Hélène Laporte","Robert Le Bourgeois","Julie Lechanteux","Hervé De Lépinau","Katiana Levavasseur","Julien Limongi","René Lioret","Aurélien Lopez-Liguori","Philippe Lottiaux","David Magnier","Hanane Mansouri","Claire Marais-Beuil","Pascal Markowsky","Patrice Martin","Michèle Martinez","Alexandra Masson","Bryan Masson","Kévin Mauvieux","Yaël Ménaché","Thomas Ménagé","Éric Michoux","Serge Muller","Caroline Parmentier","Kévin Pfeffer","Lisette Pollet","Stéphane Rambaud","Angélique Ranc","Julien Rancoule","Catherine Rimbert","Joseph Rivière","Laurence Robert-Dehault","Béatrice Roullaud","Philippe Schreck","Emmanuel Taché De La Pagerie","Thierry Tesson","Lionel Tivoli","Romain Tonussi","Antoine Villedieu","Frédéric-Pierre Vos","Frédéric Weber"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/presomption_legitime_defense_forces_ordre_xvii"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Sécurité","Intérieur"]
 +++
 

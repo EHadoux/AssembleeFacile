@@ -4,9 +4,9 @@ draft = false
 title = "Exonérer de taxe d’habitation l’ensemble des locaux des établissements d’enseignement privés sous contrat - N° 760"
 auteurs = ["Corentin Le Fur","Josiane Corneloup","Sylvie Bonnet","Pierre Cordier","Jérôme Nury","Véronique Louwagie","Jean-Pierre Taite","Jean-Pierre Vigier","Valérie Bazin-Malgras","Vincent Jeanbrun","Éric Pauget","Pascale Bay","Jean-Luc Bourgeaux","Marie-Christine Dalloz","Jean-Yves Bony","Anne-Laure Blin","Christelle Petex","Émilie Bonnivard","Thibault Bazin","Ian Boucard","Virginie Duby-Muller","Xavier Breton","Olivier Marleix","Nicolas Ray"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/exonorer_taxe_habitation_etablissements_prives_17"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Éducation","Finances","Fiscalité"]
 +++
 

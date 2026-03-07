@@ -4,9 +4,9 @@ draft = false
 title = "Transformer en un crédit d’impôt la réduction d’impôt au titre des frais de dépendance et d’hébergement pour les personnes en établissement d’hébergement pour personnes âgées dépendantes - N° 759"
 auteurs = ["Corentin Le Fur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/transformer_credit_impot_reduction_impot_titre_frais_dependance_hebergement_personnes_etablissement_hebergement_personnes_agees_dependantes"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Autonomie","Finances","Solidarité"]
 +++
 

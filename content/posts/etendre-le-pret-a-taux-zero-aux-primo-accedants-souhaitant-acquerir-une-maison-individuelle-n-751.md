@@ -4,9 +4,9 @@ draft = false
 title = "Etendre le prêt à taux zéro aux primo-accédants souhaitant acquérir une maison individuelle - N° 751"
 auteurs = ["Corentin Le Fur","Josiane Corneloup","Sylvie Bonnet","Pierre Cordier","Fabrice Brun","Jérôme Nury","Jean-Pierre Taite","Jean-Pierre Vigier","Valérie Bazin-Malgras","Vincent Jeanbrun","Éric Pauget","Pascale Bay","Jean-Luc Bourgeaux","Jean-Yves Bony","Anne-Laure Blin","Christelle Petex","Émilie Bonnivard","Thibault Bazin","Ian Boucard","Yannick Neuder","Michel Herbillon","Virginie Duby-Muller","Xavier Breton","Olivier Marleix","Nicolas Ray"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/etendre_ptz_primo_accedants_maison_individuelle_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Économie","Finances"]
 +++
 
