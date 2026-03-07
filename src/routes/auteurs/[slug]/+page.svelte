@@ -63,12 +63,12 @@
         title: 'Taux de présence aux votes en séance plénière',
       },
       {
-        label: 'Spécialité',
+        label: 'Votes de spécialité',
         value: scorePct(data.dep?.score_participation_specialite),
         title: 'Participation dans les votes de sa spécialité thématique',
       },
       {
-        label: 'Loyauté',
+        label: 'Accord de groupe',
         value: scorePct(data.dep?.score_loyaute),
         title: 'Taux de votes en accord avec la position de son groupe politique',
       },
@@ -215,7 +215,7 @@
                     points="15 3 21 3 21 9"
                   /><line x1="10" y1="14" x2="21" y2="3" />
                 </svg>
-                Profil officiel AN
+                Fiche officielle
               </a>
             {/if}
 
@@ -443,34 +443,31 @@
   {#if activeTab === 'profil'}
     <div class="grid grid-cols-1 gap-8 lg:grid-cols-[1fr_240px]">
       <section>
-        <!-- Content tab bar -->
-        <div class="mb-5 flex gap-0 border-b border-border/60">
-          <button
-            onclick={() => {
-              navigate('');
-              pageNum = 1;
-            }}
-            class="relative px-4 py-2 text-xs font-semibold uppercase tracking-wider transition-colors"
-            class:text-foreground={contentTab === 'propositions'}
-            class:text-muted-foreground={contentTab !== 'propositions'}
-          >
-            Propositions ({data.totalPosts})
-            {#if contentTab === 'propositions'}
-              <span class="absolute inset-x-0 -bottom-px h-0.5" style="background-color: {groupeColour};"></span>
-            {/if}
-          </button>
+        <!-- Content toggle — pill style to distinguish from outer profile tabs -->
+        <div class="mb-5">
           {#if data.votes.length > 0}
-            <button
-              onclick={() => navigate('votes')}
-              class="relative px-4 py-2 text-xs font-semibold uppercase tracking-wider transition-colors"
-              class:text-foreground={contentTab === 'votes'}
-              class:text-muted-foreground={contentTab !== 'votes'}
-            >
-              Votes ({data.votes.length})
-              {#if contentTab === 'votes'}
-                <span class="absolute inset-x-0 -bottom-px h-0.5" style="background-color: {groupeColour};"></span>
-              {/if}
-            </button>
+            <div class="inline-flex items-center gap-0.5 rounded-full bg-accent p-0.5">
+              <button
+                onclick={() => { navigate(''); pageNum = 1; }}
+                class="rounded-full px-3.5 py-1 text-xs font-medium transition-colors
+                  {contentTab === 'propositions'
+                    ? 'bg-white text-foreground shadow-sm'
+                    : 'text-muted-foreground hover:text-foreground'}"
+              >
+                Propositions ({data.totalPosts})
+              </button>
+              <button
+                onclick={() => navigate('votes')}
+                class="rounded-full px-3.5 py-1 text-xs font-medium transition-colors
+                  {contentTab === 'votes'
+                    ? 'bg-white text-foreground shadow-sm'
+                    : 'text-muted-foreground hover:text-foreground'}"
+              >
+                Votes ({data.votes.length})
+              </button>
+            </div>
+          {:else}
+            <p class="text-sm font-semibold text-foreground">Propositions ({data.totalPosts})</p>
           {/if}
         </div>
 
@@ -733,7 +730,7 @@
         {#if data.cosignataires.length}
           <div class="rounded-xl border border-border bg-white p-5 shadow-sm">
             <h3 class="mb-4 text-xs font-semibold uppercase tracking-widest text-muted-foreground">
-              Co-signataires fréquents
+              Cosignataires fréquents
             </h3>
             <ol class="flex flex-col gap-3">
               {#each data.cosignataires as { name, groupeAbrev, couleur, photo, count }, i}

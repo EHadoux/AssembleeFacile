@@ -2,6 +2,24 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Design Context
+
+### Users
+Ordinary French citizens — not political insiders — who want to quickly understand what their elected representatives are proposing. They arrive with low prior knowledge of parliamentary procedure and need clarity above all. The job to be done is: "tell me what this bill actually does, in plain language, fast."
+
+### Brand Personality
+**Moderne, fiable, transparent.** The site has a civic mission but should feel like a well-built product, not a government portal. Trustworthy without being bureaucratic. Open and readable, not partisan. It earns trust through clarity and honesty, not institutional gravitas.
+
+### Aesthetic Direction
+Refine the existing direction — do not reinvent it. The current palette (French blue `#000091` as primary, cool off-white background, white cards, DM Sans UI + Source Serif 4 prose) is working. Future work should stay clean and minimal, with strong typographic hierarchy. Assembl\u00e9e Facile is developing its own identity — avoid mimicking any specific reference site. Light mode only.
+
+### Design Principles
+1. **Clarity first** — every design decision must make information easier to parse. Reduce noise, increase signal.
+2. **Restrained use of colour** — French blue is the one accent; political group colours are data, not decoration. Avoid adding new colours.
+3. **Typography does the heavy lifting** — spacing, weight, size, and tracking carry hierarchy. Rely on them before reaching for colour or iconography.
+4. **Accessibility by good practice** — aim for WCAG AA contrast and semantic HTML as a natural result of clean design, not as a checkbox exercise.
+5. **No dark patterns, no chrome** — the interface should be invisible. Users should notice the content, not the UI.
+
 ## Project purpose
 
 **Assemblée Facile** is a public-interest static website that makes French parliamentary activity more accessible. It indexes hundreds of _propositions de loi_ (private members' bills) tabled at the Assemblée nationale (17th legislature), summarises each one in plain language, and organises them by theme, political group, and author (député). The goal is civic transparency: letting ordinary citizens quickly understand what their elected representatives are actually proposing.

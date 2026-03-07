@@ -291,7 +291,7 @@
         {#if meta.tags.length}
           <div class="mt-3 flex flex-wrap gap-1.5">
             {#each meta.tags as tag}
-              <Badge variant="secondary" class="rounded-full text-xs" href="/tags/{slugify(tag)}">
+              <Badge variant="tag" class="rounded-full text-xs" href="/tags/{slugify(tag)}">
                 {tag}
               </Badge>
             {/each}

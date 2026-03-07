@@ -10,6 +10,7 @@
 	});
 
 	let partyTooltip = $state<{ x: number; y: number; text: string } | null>(null);
+	let rankTab = $state<'cosigned' | 'transpartisan'>('cosigned');
 </script>
 
 <svelte:head>
@@ -64,8 +65,8 @@
 			</div>
 
 			<div class="flex flex-col gap-3">
-				{#each data.posts as post}
-					<PostCard {post} />
+				{#each data.posts as post, i}
+					<PostCard {post} delay={i * 40} />
 				{/each}
 			</div>
 
@@ -85,7 +86,7 @@
 		<aside class="flex flex-col gap-5">
 			<div class="rounded-xl border border-border bg-white p-5 shadow-sm">
 				<h3 class="mb-4 text-xs font-semibold uppercase tracking-widest text-muted-foreground">
-					Top contributeurs
+					Les plus actifs
 				</h3>
 				<ol class="flex flex-col gap-2">
 					{#each data.topContributors as { name, count_auteur, groupeAbrev, couleur, photo }, i}
@@ -130,7 +131,7 @@
 					Propositions par groupe
 				</h3>
 				<div class="flex flex-col gap-2">
-					{#each data.partyStats as party}
+					{#each data.partyStats as party, i}
 						{@const max = data.partyStats[0].count}
 						<div class="flex items-center gap-2">
 							<span
@@ -150,8 +151,8 @@
 							</span>
 							<div class="flex-1 overflow-hidden rounded-full bg-accent" style="height:5px;">
 								<div
-									class="h-full rounded-full"
-									style="width:{(party.count / max) * 100}%; background-color:{party.couleur};"
+									class="bar-enter h-full rounded-full"
+									style="--delay: {i * 60}ms; width:{(party.count / max) * 100}%; background-color:{party.couleur};"
 								></div>
 							</div>
 							<span class="w-6 shrink-0 text-right text-[11px] font-bold tabular-nums text-foreground">
@@ -163,94 +164,113 @@
 			</div>
 
 			<div class="rounded-xl border border-border bg-white p-5 shadow-sm">
-				<h3 class="mb-4 text-xs font-semibold uppercase tracking-widest text-muted-foreground">
-					Plus cosignées
-				</h3>
-				<ol class="flex flex-col gap-1">
-					{#each data.mostCosigned as { slug, titre_court, nb_cosignataires }, i}
-						{@const pct = Math.round((nb_cosignataires / data.totalDeputes) * 100)}
-						<li>
-							<a
-								href="/posts/{slug}"
-								class="group -mx-2 flex flex-col gap-1.5 rounded-lg px-2 py-2 transition-colors hover:bg-accent/60"
-							>
-								<div class="flex items-start gap-2">
-									<span
-										class="mt-px flex h-4 w-4 shrink-0 items-center justify-center rounded text-[9px] font-black tabular-nums leading-none transition-colors {i === 0 ? 'bg-primary text-white' : 'bg-accent text-muted-foreground group-hover:bg-primary/10 group-hover:text-primary'}"
-									>
-										{i + 1}
-									</span>
-									<span class="flex-1 text-[11px] font-medium leading-snug text-foreground line-clamp-2 transition-colors group-hover:text-primary">
-										{titre_court}
-									</span>
-								</div>
-								<div class="ml-6 flex items-center gap-2">
-									<div class="h-[3px] flex-1 overflow-hidden rounded-full bg-accent">
-										<div
-											class="h-full rounded-full transition-all duration-500 {i === 0 ? 'bg-primary' : 'bg-primary/40 group-hover:bg-primary/70'}"
-											style="width:{pct}%;"
-										></div>
+				<!-- Toggle header -->
+				<div class="mb-4 flex items-center justify-between gap-2">
+					<div class="inline-flex items-center gap-0.5 rounded-full bg-accent p-0.5">
+						<button
+							onclick={() => (rankTab = 'cosigned')}
+							class="rounded-full px-2.5 py-0.5 text-[11px] font-medium transition-colors
+								{rankTab === 'cosigned'
+									? 'bg-white text-foreground shadow-sm'
+									: 'text-muted-foreground hover:text-foreground'}"
+						>
+							Cosignées
+						</button>
+						<button
+							onclick={() => (rankTab = 'transpartisan')}
+							class="rounded-full px-2.5 py-0.5 text-[11px] font-medium transition-colors
+								{rankTab === 'transpartisan'
+									? 'bg-white text-foreground shadow-sm'
+									: 'text-muted-foreground hover:text-foreground'}"
+						>
+							Trans-partisanes
+						</button>
+					</div>
+				</div>
+
+				{#if rankTab === 'cosigned'}
+					<ol class="flex flex-col gap-1">
+						{#each data.mostCosigned as { slug, titre_court, nb_cosignataires }, i}
+							{@const pct = Math.round((nb_cosignataires / data.totalDeputes) * 100)}
+							<li>
+								<a
+									href="/posts/{slug}"
+									class="group -mx-2 flex flex-col gap-1.5 rounded-lg px-2 py-2 transition-colors hover:bg-accent/60"
+								>
+									<div class="flex items-start gap-2">
+										<span
+											class="mt-px flex h-4 w-4 shrink-0 items-center justify-center rounded text-[9px] font-black tabular-nums leading-none transition-colors {i === 0 ? 'bg-primary text-white' : 'bg-accent text-muted-foreground group-hover:bg-primary/10 group-hover:text-primary'}"
+										>
+											{i + 1}
+										</span>
+										<span class="flex-1 text-[11px] font-medium leading-snug text-foreground line-clamp-2 transition-colors group-hover:text-primary">
+											{titre_court}
+										</span>
 									</div>
-									<span class="shrink-0 text-[10px] font-bold tabular-nums text-primary/70">
-										{nb_cosignataires}
-									</span>
-								</div>
-							</a>
-						</li>
-					{/each}
-				</ol>
-			</div>
-			<div class="rounded-xl border border-border bg-white p-5 shadow-sm">
-				<h3 class="mb-4 text-xs font-semibold uppercase tracking-widest text-muted-foreground">
-					Trans-partisanes
-				</h3>
-				<ol class="flex flex-col gap-1">
-					{#each data.mostTransPartisan as { slug, titre_court, nb_groupes, nb_cosignataires, groupes }, i}
-						{@const groupSet = new Set(groupes)}
-						<li>
-							<a
-								href="/posts/{slug}"
-								class="group -mx-2 flex flex-col gap-1.5 rounded-lg px-2 py-2 transition-colors hover:bg-accent/60"
-							>
-								<div class="flex items-start gap-2">
-									<span
-										class="mt-px flex h-4 w-4 shrink-0 items-center justify-center rounded text-[9px] font-black tabular-nums leading-none transition-colors {i === 0 ? 'bg-primary text-white' : 'bg-accent text-muted-foreground group-hover:bg-primary/10 group-hover:text-primary'}"
-									>
-										{i + 1}
-									</span>
-									<span class="flex-1 text-[11px] font-medium leading-snug text-foreground line-clamp-2 transition-colors group-hover:text-primary">
-										{titre_court}
-									</span>
-								</div>
-								<div class="ml-6 flex items-center gap-2">
-									<div class="flex items-center gap-[3px]">
-										{#each data.orderedGroupes as g}
-											{@const active = groupSet.has(g.abrev)}
-											<span
-												role="presentation"
-												class="relative flex h-2 w-2 shrink-0 cursor-default items-center justify-center"
-												onmouseenter={(e) => {
-													const rect = (e.currentTarget as HTMLElement).getBoundingClientRect();
-													partyTooltip = { x: rect.left + rect.width / 2, y: rect.top - 8, text: g.nom };
-												}}
-												onmouseleave={() => (partyTooltip = null)}
-											>
-												{#if active}
-													<span class="block h-2 w-2 rounded-full" style="background-color: {g.couleur ?? '#9ca3af'};"></span>
-												{:else}
-													<span class="block text-[9px] font-black leading-none text-muted-foreground/30">×</span>
-												{/if}
-											</span>
-										{/each}
+									<div class="ml-6 flex items-center gap-2">
+										<div class="h-[3px] flex-1 overflow-hidden rounded-full bg-accent">
+											<div
+												class="h-full rounded-full transition-all duration-500 {i === 0 ? 'bg-primary' : 'bg-primary/40 group-hover:bg-primary/70'}"
+												style="width:{pct}%;"
+											></div>
+										</div>
+										<span class="shrink-0 text-[10px] font-bold tabular-nums text-primary/70">
+											{nb_cosignataires}
+										</span>
 									</div>
-									<span class="ml-auto shrink-0 text-[10px] tabular-nums text-muted-foreground/60">
-										{nb_cosignataires} sig.
-									</span>
-								</div>
-							</a>
-						</li>
-					{/each}
-				</ol>
+								</a>
+							</li>
+						{/each}
+					</ol>
+				{:else}
+					<ol class="flex flex-col gap-1">
+						{#each data.mostTransPartisan as { slug, titre_court, nb_groupes, nb_cosignataires, groupes }, i}
+							{@const groupSet = new Set(groupes)}
+							<li>
+								<a
+									href="/posts/{slug}"
+									class="group -mx-2 flex flex-col gap-1.5 rounded-lg px-2 py-2 transition-colors hover:bg-accent/60"
+								>
+									<div class="flex items-start gap-2">
+										<span
+											class="mt-px flex h-4 w-4 shrink-0 items-center justify-center rounded text-[9px] font-black tabular-nums leading-none transition-colors {i === 0 ? 'bg-primary text-white' : 'bg-accent text-muted-foreground group-hover:bg-primary/10 group-hover:text-primary'}"
+										>
+											{i + 1}
+										</span>
+										<span class="flex-1 text-[11px] font-medium leading-snug text-foreground line-clamp-2 transition-colors group-hover:text-primary">
+											{titre_court}
+										</span>
+									</div>
+									<div class="ml-6 flex items-center gap-2">
+										<div class="flex items-center gap-[3px]">
+											{#each data.orderedGroupes as g}
+												{@const active = groupSet.has(g.abrev)}
+												<span
+													role="presentation"
+													class="relative flex h-2 w-2 shrink-0 cursor-default items-center justify-center"
+													onmouseenter={(e) => {
+														const rect = (e.currentTarget as HTMLElement).getBoundingClientRect();
+														partyTooltip = { x: rect.left + rect.width / 2, y: rect.top - 8, text: g.nom };
+													}}
+													onmouseleave={() => (partyTooltip = null)}
+												>
+													{#if active}
+														<span class="block h-2 w-2 rounded-full" style="background-color: {g.couleur ?? '#9ca3af'};"></span>
+													{:else}
+														<span class="block text-[9px] font-black leading-none text-muted-foreground/30">×</span>
+													{/if}
+												</span>
+											{/each}
+										</div>
+										<span class="ml-auto shrink-0 text-[10px] tabular-nums text-muted-foreground/60">
+											{nb_cosignataires} signataires
+										</span>
+									</div>
+								</a>
+							</li>
+						{/each}
+					</ol>
+				{/if}
 			</div>
 		</aside>
 	</div>
@@ -258,7 +278,7 @@
 
 {#if partyTooltip}
 	<div
-		class="pointer-events-none fixed z-50 -translate-x-1/2 -translate-y-full rounded-md bg-foreground px-2.5 py-1 text-xs font-semibold text-background shadow-lg"
+		class="tooltip-enter pointer-events-none fixed z-50 -translate-x-1/2 -translate-y-full rounded-md bg-foreground px-2.5 py-1 text-xs font-semibold text-background shadow-lg"
 		style="left: {partyTooltip.x}px; top: {partyTooltip.y}px;"
 	>
 		{partyTooltip.text}

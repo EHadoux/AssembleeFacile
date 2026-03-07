@@ -26,7 +26,7 @@
 		} else if (s.trim() !== '') {
 			dotClass = 'bg-amber-400';
 		} else {
-			dotClass = 'bg-gray-200 border border-dashed border-gray-300';
+			dotClass = 'bg-primary/10 border border-dashed border-primary/20';
 		}
 		return { name, date, status: s, dotClass };
 	}
@@ -126,7 +126,7 @@
 
 {#if tooltip}
 	<div
-		class="pointer-events-none fixed z-50 -translate-x-1/2 -translate-y-full rounded-md bg-foreground px-2.5 py-1 text-xs font-semibold text-background shadow-lg"
+		class="tooltip-enter pointer-events-none fixed z-50 -translate-x-1/2 -translate-y-full rounded-md bg-foreground px-2.5 py-1 text-xs font-semibold text-background shadow-lg"
 		style="left: {tooltip.x}px; top: {tooltip.y}px;"
 	>
 		{#each tooltip.lines as line, i}

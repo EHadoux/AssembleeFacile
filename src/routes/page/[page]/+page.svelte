@@ -25,8 +25,8 @@
 	</div>
 
 	<div class="flex flex-col gap-3">
-		{#each data.posts as post}
-			<PostCard {post} />
+		{#each data.posts as post, i}
+			<PostCard {post} delay={i * 40} />
 		{/each}
 	</div>
 

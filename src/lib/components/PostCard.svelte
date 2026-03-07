@@ -4,7 +4,7 @@
   import type { PostMeta } from '$lib/content';
   import { slugify } from '$lib/content';
 
-  let { post }: { post: PostMeta } = $props();
+  let { post, delay = 0 }: { post: PostMeta; delay?: number } = $props();
 
   function formatDate(dateStr: string): string {
     if (!dateStr) return '';
@@ -15,7 +15,8 @@
 </script>
 
 <article
-  class="group relative overflow-hidden rounded-xl border border-border bg-card shadow-sm transition-all duration-200 hover:shadow-md hover:-translate-y-0.5"
+  style="--delay: {delay}ms"
+  class="card-enter group relative overflow-hidden rounded-xl border border-border bg-card shadow-sm transition-all duration-200 hover:shadow-md hover:-translate-y-0.5"
 >
   <!-- Proposal number -->
   {#if post.proposalNum}
@@ -63,7 +64,7 @@
 
       {#if post.excerpt}
         <p
-          class="mb-1 border-l-2 border-muted-foreground/20 pl-3 text-[12.5px] leading-relaxed text-muted-foreground line-clamp-2"
+          class="mb-1 border-l-2 border-primary/25 pl-3 text-[12.5px] leading-relaxed text-muted-foreground line-clamp-2"
         >
           {post.excerpt}
         </p>
@@ -102,7 +103,7 @@
           <div class="mt-1.5 flex flex-wrap gap-1.5">
             {#each post.tags.slice(0, 3) as tag}
               <Badge
-                variant="secondary"
+                variant="tag"
                 class="relative z-10 cursor-pointer rounded-full px-2.5 py-0.5 text-xs font-medium"
                 href="/tags/{slugify(tag)}"
                 onclick={(e: MouseEvent) => e.stopPropagation()}
@@ -140,7 +141,7 @@
 
           {#each post.tags.slice(0, 3) as tag}
             <Badge
-              variant="secondary"
+              variant="tag"
               class="relative z-10 cursor-pointer rounded-full px-2.5 py-0.5 text-xs font-medium"
               href="/tags/{slugify(tag)}"
               onclick={(e: MouseEvent) => e.stopPropagation()}

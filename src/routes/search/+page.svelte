@@ -3,6 +3,7 @@
 	import Fuse from 'fuse.js';
 	import { Input } from '$lib/components/ui/input';
 	import PostCard from '$lib/components/PostCard.svelte';
+	import { Search } from '@lucide/svelte';
 	import type { PostMeta } from '$lib/content';
 
 	type SearchItem = Pick<PostMeta, 'slug' | 'proposalTitle' | 'proposalNum' | 'tags' | 'date'> & {
@@ -63,9 +64,7 @@
 	<header class="mb-8">
 		<h1 class="mb-4 text-2xl font-extrabold tracking-tight text-foreground">Rechercher</h1>
 		<div class="relative">
-			<span class="pointer-events-none absolute left-3.5 top-1/2 -translate-y-1/2 text-muted-foreground text-lg">
-				🔍
-			</span>
+			<Search class="pointer-events-none absolute left-3.5 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
 			<Input
 				type="search"
 				placeholder="Titre, auteur, thématique…"
@@ -77,18 +76,31 @@
 	</header>
 
 	{#if loading}
-		<p class="text-sm text-muted-foreground">Chargement de l'index…</p>
+		<div class="flex flex-col gap-3" aria-busy="true" aria-label="Chargement des propositions">
+			{#each [0, 1, 2, 3, 4] as _}
+				<div class="animate-pulse rounded-xl border border-border bg-card p-5 shadow-sm">
+					<div class="mb-3 h-4 w-3/4 rounded-md bg-accent"></div>
+					<div class="mb-4 h-3 w-1/3 rounded-md bg-accent"></div>
+					<div class="border-t border-border/50 pt-3">
+						<div class="h-3 w-1/4 rounded-full bg-accent"></div>
+					</div>
+				</div>
+			{/each}
+		</div>
 	{:else if query.trim() === ''}
 		<p class="text-sm text-muted-foreground">
-			{allItems.length} propositions dans l'index. Tapez pour rechercher.
+			Recherchez parmi {allItems.length} propositions de loi.
 		</p>
 	{:else if resultPosts.length === 0}
-		<p class="text-sm text-muted-foreground">Aucun résultat pour « {query} ».</p>
+		<p class="text-sm text-muted-foreground">
+			Aucun résultat pour « {query} ». Essayez un autre mot, ou
+			<a href="/tags" class="text-primary hover:underline">parcourez les thématiques</a>.
+		</p>
 	{:else}
 		<p class="mb-4 text-xs text-muted-foreground">{resultPosts.length} résultat{resultPosts.length > 1 ? 's' : ''}</p>
 		<div class="flex flex-col gap-3">
-			{#each resultPosts as post}
-				<PostCard {post} />
+			{#each resultPosts as post, i}
+				<PostCard {post} delay={i * 35} />
 			{/each}
 		</div>
 	{/if}

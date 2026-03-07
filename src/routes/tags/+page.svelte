@@ -14,7 +14,7 @@
 <div class="mx-auto max-w-4xl px-4 py-8">
 	<header class="mb-8">
 		<h1 class="text-2xl font-extrabold tracking-tight text-foreground">Thématiques</h1>
-		<p class="mt-1 text-sm text-muted-foreground">{data.tags.length} thématiques identifiées.</p>
+		<p class="mt-1 text-sm text-muted-foreground">Parcourez les {data.tags.length} thématiques.</p>
 	</header>
 
 	<div class="flex flex-wrap gap-2">
@@ -22,10 +22,10 @@
 			{@const size = 0.75 + (count / max) * 0.6}
 			<a
 				href="/tags/{slugify(tag)}"
-				class="group inline-flex items-center gap-1.5 rounded-full border border-border bg-white px-3.5 py-1.5 shadow-sm transition-all hover:border-primary/40 hover:bg-primary/5 hover:shadow-md"
+				class="group inline-flex items-center gap-1.5 rounded-full border border-amber-200 bg-amber-50 px-3.5 py-1.5 shadow-sm transition-all hover:border-amber-300 hover:bg-amber-100 hover:shadow-md"
 				style="font-size: {size}rem;"
 			>
-				<span class="font-semibold text-foreground transition-colors group-hover:text-primary">
+				<span class="font-semibold text-amber-900 transition-colors group-hover:text-amber-950">
 					{tag}
 				</span>
 				<span class="text-[11px] tabular-nums text-muted-foreground">{count}</span>
@@ -38,7 +38,7 @@
 			<div class="mb-6 flex items-center gap-3">
 				<div class="h-px flex-1 bg-border"></div>
 				<h2 class="text-lg font-extrabold tracking-tight text-foreground">
-					Thématiques préférées par parti
+					Thématiques par groupe politique
 				</h2>
 				<div class="h-px flex-1 bg-border"></div>
 			</div>
@@ -67,7 +67,7 @@
 									{#each groupe.topTags as tag}
 										<a
 											href="/tags/{slugify(tag)}"
-											class="inline-flex items-center whitespace-nowrap rounded-full bg-primary/10 px-2.5 py-1 text-[11px] font-medium text-primary transition-colors hover:bg-primary/20"
+											class="inline-flex items-center whitespace-nowrap rounded-full border border-amber-200 bg-amber-50 px-2.5 py-1 text-[11px] font-medium text-amber-800 transition-colors hover:bg-amber-100"
 										>
 											{tag}
 										</a>
