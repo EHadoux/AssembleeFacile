@@ -1,0 +1,11 @@
+const e={date:"2025-02-12",draft:!1,title:"Proposition de loi tendant à supprimer certains comités, structures, conseils et commissions « Théodule » dont l’utilité ne semble pas avérée - N° 872",auteurs:["M. Le Président du Sénat"],link:"https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50722",stepsName:["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"],stepsDate:["Vendredi 11 octobre 2024","Vendredi 11 octobre 2024","Vendredi 11 octobre 2024","Vendredi 31 janvier 2025"],stepsStatus:["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois"],tags:["Action publique","Finances"]},s=`<h2>Résumé</h2>
+<p>Cette proposition de loi vise à simplifier l&#39;administration française en supprimant plusieurs comités, conseils et commissions consultatives (souvent qualifiés de « commissions Théodule ») dont l&#39;utilité n&#39;est plus démontrée, afin d&#39;alléger les structures publiques.</p>
+<h2>Liste des modifications</h2>
+<p><strong>Secteur de la culture (Article 3)</strong>: Suppression de la commission chargée de déterminer les secteurs d&#39;activité pour les artistes-interprètes, confiant désormais ce pouvoir directement au ministre de la culture par arrêté.</p>
+<p><strong>Recherche et enseignement supérieur (Article 5)</strong>: Suppression du Conseil stratégique de la recherche et mise à jour des références légales correspondantes.</p>
+<p><strong>Éducation (Article 15)</strong>: Suppression du Conseil national des associations éducatives complémentaires de l&#39;enseignement public.</p>
+<p><strong>Sécurité sociale (Article 16)</strong>: Suppression de la commission chargée de rendre un avis sur les accords de bon usage des soins et les contrats de santé publique.</p>
+<p><strong>Voirie routière (Article 17)</strong>: Suppression de la Commission nationale de l&#39;examen du permis de conduire.</p>
+<p><strong>Transports, Fonction publique, Forêt et PME (Article 23)</strong>: Suppression de l&#39;Observatoire de l&#39;aviation civile, de l&#39;Observatoire de l&#39;emploi public, du Comité national de la gestion des risques en forêt et de la Commission de médiation de la consommation.</p>
+<p><strong>Agriculture (Article 24)</strong>: Suppression de l&#39;Observatoire des espaces naturels, agricoles et forestiers.</p>
+`;export{s as default,e as metadata};
