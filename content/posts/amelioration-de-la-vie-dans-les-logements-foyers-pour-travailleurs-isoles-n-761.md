@@ -1,0 +1,27 @@
++++
+date = 2024-12-19
+draft = false
+title = "Amélioration de la vie dans les logements-foyers pour travailleurs isolés - N° 761"
+auteurs = ["Danielle Simonnet","Pouria Amirshahi","Farida Amrani","Rodrigo Arenas","Christine Arrighi","Clémentine Autain","Léa Balage El Mariky","Lisa Belluco","Christophe Bex","Benoît Biteau","Arnaud Bonnet","Nicolas Bonnet","Soumya Bourouaha","Louis Boyard","Pierre-Yves Cadalen","Gabrielle Cathala","Bérenger Cernon","Cyrielle Chatelain","Éric Coquerel","Alexis Corbière","Jean-François Coulomme","Hendrik Davi","Aly Diouara","Emmanuel Duplessy","Karen Erodi","Elsa Faucillon","Mathilde Feld","Emmanuel Fernandes","Perceval Gaillard","Marie-Charlotte Garin","Damien Girard","Emmanuel Grégoire","Clémence Guetté","David Guiraud","Steevy Gustave","Ayda Hadizadeh","Zahia Hamdane","Andy Kerbrat","Julie Laernoes","Tristan Lahais","Abdelkader Lahmar","Maxime Laisney","Arnaud Le Gall","Élise Leboucher","Mme Murielle Lepvraud","Laurent Lhardit","Benjamin Lucas-Lundy","Damien Maudet","Marianne Maximi","Sandrine Nosbé","Danièle Obono","Julie Ozenne","François Piquemal","Marie Pochon","Loïc Prud’homme","Jean-Claude Raux","Sandra Regol","Mereana Reid Arbelot","Valérie Rossi","Claudia Rouaux","Jean-Louis Roumégas","Sandrine Rousseau","François Ruffin","Eva Sas","Hervé Saulignac","Sabrina Sebaihi","Sophie Taillé-Polian","Andrée Taurinya","Boris Tavernier","Céline Thiébault-Martinez"]
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/amelioration_vie_logements_foyers_17"
+stepsName = []
+stepsDate = []
+stepsStatus = []
+tags = ["Logement","Solidarité"]
++++
+
+## Résumé
+
+Cette proposition vise à améliorer les conditions de vie dans les foyers de travailleurs migrants, souvent vétustes et soumis à des règlements intérieurs stricts qui nuisent à la vie privée. Le texte propose de créer une catégorie spécifique de « résidence pour travailleurs isolés » afin de garantir aux résidents, souvent âgés et installés durablement, des droits similaires à ceux des locataires classiques, de protéger leur vie privée (notamment pour l'hébergement de proches aidants) et de renforcer leur représentation face aux gestionnaires.
+
+## Liste des modifications
+
+**Définition et espaces collectifs (Article 1)**: Création officielle de la catégorie « résidence pour travailleurs isolés » pour les adultes vivant durablement seuls, avec l'obligation de déserver une surface minimale pour les locaux communs (0,5 m² par logement au-delà de 30 logements).
+
+**Contrat et vie privée (Article 2)**: Application des règles du bail classique (loi de 1989) pour la signature du contrat et interdiction de toute clause du règlement intérieur limitant la vie privée dans le logement.
+
+**Protections juridiques (Article 3)**: Application des protections légales concernant les impayés, la résiliation judiciaire, le droit au logement décent et les procédures de relogement en cas de travaux ou démolition.
+
+**Démocratie interne et sanctions (Article 4)**: Obligation de confier la gestion des espaces collectifs au comité de résidents et création de sanctions pénales (délit d'entrave) pour les gestionnaires qui empêcheraient le bon fonctionnement des instances représentatives des résidents.
+
+**Dialogue avec les grands gestionnaires (Article 5)**: Obligation pour les organismes gérant plus de 10 résidences d'organiser une réunion annuelle avec les délégués, de permettre l'élection de représentants au conseil d'administration et de consulter les comités pour tout projet global impactant les foyers.
