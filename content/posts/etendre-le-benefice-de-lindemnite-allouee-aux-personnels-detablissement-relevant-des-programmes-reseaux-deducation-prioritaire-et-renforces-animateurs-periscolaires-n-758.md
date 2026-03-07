@@ -1,7 +1,7 @@
 +++
 date = 2024-12-19
 draft = false
-title = "Etendre le bénéfice de l’indemnité allouée aux personnels d’établissement relevant des programmes "réseaux d'éducation prioritaire" et "réseaux d'éducation prioritaire renforcés" aux animateurs périscolaires - N° 758"
+title = "Etendre le bénéfice de l’indemnité allouée aux personnels d’établissement relevant des programmes \"réseaux d'éducation prioritaire\" et \"réseaux d'éducation prioritaire renforcés\" aux animateurs périscolaires - N° 758"
 auteurs = ["Sophia Chikirou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/etendre_benefice_indemnite_rep_animateurs_periscolaires"
 stepsName = []
