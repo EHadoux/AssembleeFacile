@@ -1,0 +1,15 @@
+const e={date:"2024-12-19",draft:!1,title:"Maltraitance et bientraitance des personnes âgées - N° 734",auteurs:["Richard Ramos"],link:"https://www.assemblee-nationale.fr/dyn/17/dossiers/maltraitance_bientraitance_personnes_agees",stepsName:["Dépôt à l'Assemblée nationale","Renvoi en commission"],stepsDate:["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"],stepsStatus:["","Commission des affaires sociales"],tags:["Autonomie","Santé","Solidarité"]},s=`<h2>Résumé</h2>
+<p>Face à l&#39;augmentation des cas de maltraitance envers les personnes âgées et aux récents scandales en EHPAD, cette proposition de loi vise à renforcer la protection des aînés. Elle propose d&#39;améliorer la formation des aidants et des professionnels, de placer la bientraitance au cœur des établissements de santé, et de faciliter le signalement des abus par les médecins et les autorités.</p>
+<h2>Liste des modifications</h2>
+<p><strong>Formation des proches aidants (Article 1)</strong>: Création d&#39;une formation obligatoire de sensibilisation à la bientraitance pour toute personne aidant un proche âgé.</p>
+<p><strong>Rôle du Département (Article 2)</strong>: Le Département devient officiellement responsable de la protection des personnes âgées contre la maltraitance et doit coordonner les actions locales.</p>
+<p><strong>Formation des professionnels (Article 3)</strong>: Obligation de formation initiale et continue sur la bientraitance pour tous les professionnels de santé et les aides à domicile intervenant auprès des aînés.</p>
+<p><strong>Principe de bientraitance en établissement (Article 4)</strong>: La bientraitance est inscrite comme principe fondamental quotidien dans les établissements de santé et médico-sociaux.</p>
+<p><strong>Missions des établissements (Article 5)</strong>: Les missions des établissements sociaux incluent désormais explicitement la sensibilisation à la bientraitance et à la maltraitance.</p>
+<p><strong>Missions des mandataires judiciaires (Article 6)</strong>: Les tuteurs et curateurs (mandataires) reçoivent une mission officielle de veille, de conseil et d&#39;alerte en cas de maltraitance.</p>
+<p><strong>Formation des mandataires judiciaires (Article 7)</strong>: Instauration d&#39;une formation spécifique obligatoire sur la bientraitance pour les mandataires judiciaires à la protection des majeurs.</p>
+<p><strong>Services bancaires adaptés (Article 8)</strong>: Obligation pour chaque banque de créer un service dédié au conseil et à l&#39;assistance des majeurs protégés.</p>
+<p><strong>Cellules de veille ARS (Article 9)</strong>: Les Agences Régionales de Santé doivent mettre en place des cellules de veille et d&#39;alerte pour identifier les personnes âgées en risque de maltraitance.</p>
+<p><strong>Levée du secret médical (Article 10)</strong>: Autorisation pour les médecins de signaler au procureur des violences sur une personne de plus de 65 ans en danger immédiat, même sans son accord si elle ne peut pas se protéger.</p>
+<p><strong>Financement (Article 11)</strong>: Compensation financière des mesures par une taxe sur le tabac.</p>
+`;export{s as default,e as metadata};
