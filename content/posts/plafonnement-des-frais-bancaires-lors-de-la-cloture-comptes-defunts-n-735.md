@@ -4,9 +4,9 @@ draft = false
 title = "Plafonnement des frais bancaires lors de la clôture des comptes des défunts - N° 735"
 auteurs = ["Richard Ramos"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/plafonnement_frais_bancaires_cloture_defunts_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Économie","Finances","Solidarité"]
 +++
 

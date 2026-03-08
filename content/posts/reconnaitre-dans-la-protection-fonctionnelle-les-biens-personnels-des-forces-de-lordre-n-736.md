@@ -4,9 +4,9 @@ draft = false
 title = "Reconnaître dans la protection fonctionnelle les biens personnels des forces de l’ordre - N° 736"
 auteurs = ["Matthieu Bloch","Éric Ciotti","Alexandre Allegret-Pilot","Charles Alloncle","Bernard Chaix","Marc Chavent","Christelle D’Intorni","Olivier Fayssat","Sophie Ricourt Vaginay","Jérôme Buisson","Eddy Casterman","Frédéric Falcon","Marc De Fleurian","Géraldine Grangier","Hervé De Lépinau","Marie-France Lorho","Philippe Lottiaux","Alexandra Masson","Kévin Mauvieux","Yaël Ménaché","Thomas Ménagé","Thibaut Monnier","Serge Muller","Kévin Pfeffer","Joseph Rivière","Laurence Robert-Dehault","Emeric Salmon","Anne Sicard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/protection_fonctionnelle_biens_forces_ordre_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission de la défense"]
 tags = ["Intérieur","Sécurité","Justice"]
 +++
 

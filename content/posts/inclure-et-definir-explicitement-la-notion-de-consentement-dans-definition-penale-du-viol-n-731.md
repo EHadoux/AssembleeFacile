@@ -4,9 +4,9 @@ draft = false
 title = "Inclure et définir explicitement la notion de consentement dans la définition pénale du viol - N° 731"
 auteurs = ["Philippe Juvin","Pascale Bay","Ian Boucard","Vincent Descoeur","Virginie Duby-Muller","Justine Gruet","Vincent Jeanbrun","Alexandra Martin","Christelle Petex","Nicolas Ray","Jean-Pierre Vigier","Joël Bruneau","Salvatore Castiglione","Constance de Pélichy","Christophe Naegelen","Stéphane Viry","Véronique Besse","Christelle D'Intorni","Sophie-Laurence Roy","Jean-Carles Grelier","Hubert Ott","Pierre-Yves Cadalen","Perceval Gaillard","Zahia Hamdane","Abdelkader Lahmar","Sarah Legrain","René Pilato","Félicie Gérard","Lise Magnier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/consentement_definition_penale_viol_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Droits des femmes"]
 +++
 

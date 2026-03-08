@@ -4,9 +4,9 @@ draft = false
 title = "Implanter un dispositif de tomographie à émission de positons en Corse - N° 737"
 auteurs = ["François-Xavier Ceccoli","Paul-André Colombani","Michel Castellani","Philippe Juvin","Laurent Marcangeli","Nicole Dubré-Chirat","Pascale Bay","Thibault Bazin","Ian Boucard","Jean-Luc Bourgeaux","Fabrice Brun","Virginie Duby-Muller","Michel Herbillon","Vincent Jeanbrun","Corentin Le Fur","Alexandra Martin","Yannick Neuder","Jérôme Nury","Christelle Petex","Nicolas Ray","Mickaël Cosson","Didier Padey","Sandrine Le Feur","Nathalie Colin-Oesterlé","Alexandre Allegret-Pilot","Bernard Chaix","Joël Bruneau","Laurent Mazaury","Salvatore Castiglione","Franck Allisio","Michaël Taverne","Anchya Bamana","Pierre Meurin","Claudia Rouaux","Laurent Lhardit","Christine Pirès Beaune","Fabrice Barusseau","Damien Girard","Mereana Reid Arbelot","Valérie Rossi","Vincent Descoeur","Véronique Besse"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/tomographie_emission_positons_corse_17"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Outre-mer","Aménagement du territoire"]
 +++
 

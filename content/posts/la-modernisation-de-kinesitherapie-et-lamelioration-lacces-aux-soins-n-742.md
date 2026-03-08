@@ -4,9 +4,9 @@ draft = false
 title = "La modernisation de la kinésithérapie et l'amélioration de l'accès aux soins - N° 742"
 auteurs = ["Stéphane Viry","Alexandre Allegret-Pilot","Jean-Pierre Bataille","Thierry Benoit","Véronique Besse","Jean-Luc Bourgeaux","Joël Bruneau","Colette Capdevielle","Salvatore Castiglione","Nathalie Colin-Oesterlé","Christelle D'Intorni","Vincent Descoeur","Philippe Fait","Olivier Falorni","Jérôme Guedj","Christine Le Nabour","Lise Magnier","Christophe Marion","Alexandra Martin","Max Mathiasin","Laurent Mazaury","Frédérique Meunier","Paul Molac","Christophe Naegelen","Sophie Panonacle","Sophie Pantel","Christelle Petex","Christine Pirès Beaune","Dominique Potier","Aurélien Pradié","Richard Ramos","Vincent Rolland","Nicole Sanquer","Violette Spillebout","Frédéric Valletoux","Philippe Vigier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/modernisation_kinesitherapie_amelioration_acces_soins"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Autonomie"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Suppression des règles de cumul des mandats pour les élus des communes de moins de 100 000 habitants - N° 715"
 auteurs = ["Marc Chavent","Brigitte Barèges","Bernard Chaix","Jonathan Gery","Bartolomé Lenoir","Michèle Martinez","Yaël Ménaché","Éric Michoux","Thibaut Monnier","Joseph Rivière","Christelle D’Intorni"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/suppression_regles_cumul_habitants_moins_100000"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mercredi 11 décembre 2024","Mercredi 11 décembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Décentralisation","Relations parlementaires"]
 +++
 

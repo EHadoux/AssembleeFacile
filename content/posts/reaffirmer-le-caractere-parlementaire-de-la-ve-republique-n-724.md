@@ -4,9 +4,9 @@ draft = false
 title = "Réaffirmer le caractère parlementaire de la Ve République - N° 724"
 auteurs = ["Jérémie Iordanoff"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reaffirmer_carac_parl_rep"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mercredi 18 décembre 2024","Mercredi 18 décembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Relations parlementaires"]
 +++
 

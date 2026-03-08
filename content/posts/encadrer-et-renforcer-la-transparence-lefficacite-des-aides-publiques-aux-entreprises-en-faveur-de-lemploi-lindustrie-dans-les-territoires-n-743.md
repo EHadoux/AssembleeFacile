@@ -4,9 +4,9 @@ draft = false
 title = "Encadrer et renforcer la transparence et l’efficacité des aides publiques aux entreprises en faveur de l’emploi et de l’industrie dans les territoires - N° 743"
 auteurs = ["Stéphane Viry","Raphaël Schellenberger","Aurélien Pradié","Julien Dive"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/transparence_efficacite_aides_publiques_entreprises_emploi_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Économie","Industrie","Emploi"]
 +++
 

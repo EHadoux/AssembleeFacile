@@ -4,9 +4,9 @@ draft = false
 title = "Clarifier les modalités d’exonération de taxe d’habitation des logements occupés par des étudiants - N° 739"
 auteurs = ["Josiane Corneloup","Sylvie Bonnet","Jean-Pierre Taite","Véronique Louwagie","Christelle Petex","Pascale Bay","Jean-Pierre Vigier","Fabrice Brun","Xavier Breton","Corentin Le Fur","Hubert Brigand","Yannick Neuder","Michel Herbillon","Michèle Tabarot","Eliane Kremer","Valérie Bazin-Malgras","Eric Liégeon","Vincent Jeanbrun","Jean-Yves Bony","Émilie Bonnivard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/exoneration_TH_logements_occupes_etudiants_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Finances","Enseignement supérieur","Jeunesse"]
 +++
 

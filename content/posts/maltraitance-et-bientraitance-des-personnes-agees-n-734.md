@@ -4,9 +4,9 @@ draft = false
 title = "Maltraitance et bientraitance des personnes âgées - N° 734"
 auteurs = ["Richard Ramos"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/maltraitance_bientraitance_personnes_agees"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Autonomie","Santé","Solidarité"]
 +++
 

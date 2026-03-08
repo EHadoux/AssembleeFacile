@@ -4,9 +4,9 @@ draft = false
 title = "Adapter la procédure des référés aux enjeux environnementaux - N° 741"
 auteurs = ["Naïma Moutchou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/adapter_procedure_referes_enjeux_environnementaux_17"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Écologie","Justice"]
 +++
 

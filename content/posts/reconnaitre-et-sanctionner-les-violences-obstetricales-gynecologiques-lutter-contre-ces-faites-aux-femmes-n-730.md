@@ -4,9 +4,9 @@ draft = false
 title = "Reconnaître et sanctionner les violences obstétricales et gynécologiques et lutter contre ces violences faites aux femmes - N° 730"
 auteurs = ["Sophia Chikirou","Nadège Abomangoli","Laurent Alexandre","Gabriel Amard","Ségolène Amiot","Rodrigo Arenas","Raphaël Arnault","Anaïs Belouassa-Cherifi","Carlos Martens Bilongo","Manuel Bompard","Idir Boumertit","Louis Boyard","Pierre-Yves Cadalen","Aymeric Caron","Gabrielle Cathala","Hadrien Clouet","Jean-François Coulomme","Sébastien Delogu","Aly Diouara","Alma Dufour","Mathilde Feld","Emmanuel Fernandes","Sylvie Ferrer","Perceval Gaillard","Clémence Guetté","Zahia Hamdane","Mathilde Hignet","Andy Kerbrat","Bastien Lachaud","Abdelkader Lahmar","Maxime Laisney","Arnaud Le Gall","Élise Leboucher","Aurélien Le Coq","Jérôme Legavre","Sarah Legrain","Murielle Lepvraud","Damien Maudet","Marianne Maximi","Marie Mesmeur","Jean-Philippe Nilor","Sandrine Nosbé","Nathalie Oziol","René Pilato","François Piquemal","Loïc Prud’homme","Jean-Hugues Ratenon","Arnaud Saint-Martin","Ersilia Soudais","Anne Stambach-Terrenoir","Aurélien Taché","Matthias Tavel","Aurélie Trouvé","Paul Vannier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconnaitre_sanctionner_violences_obstetricales_gynecologiques_lutter_contre_violences_faites_femmes"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 19 décembre 2024","Jeudi 19 décembre 2024"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Droits des femmes","Justice"]
 +++
 
