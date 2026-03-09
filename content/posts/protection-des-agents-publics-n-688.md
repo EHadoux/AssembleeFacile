@@ -4,9 +4,9 @@ draft = false
 title = "Protection des agents publics - N° 688"
 auteurs = ["Violette Spillebout","Henri Alfandari","David Amiel","Antoine Armand","Géraldine Bannier","Jean-Pierre Bataille","Thibault Bazin","Belkhir Belhaddad","Béatrice Bellamy","Sylvain Berrios","Sylvie Bonnet","Ian Boucard","Florent Boudié","Bertrand Bouyx","Jean-Michel Brard","Anthony Brosse","Joël Bruneau","Stéphane Buchou","Céline Calvez","Michel Castellani","Salvatore Castiglione","Vincent Caure","Lionel Causse","Thomas Cazenave","Jean-René Cazeneuve","Paul Christophe","Paul Christophle","Nathalie Colin-Oesterlé","Pierre Cordier","Josiane Corneloup","Charles De Courson","Laurent Croizier","Stéphane Delautrette","Julie Delpech","Sylvie Dezarnaud","Virginie Duby-Muller","Philippe Fait","Olivier Falorni","Jean-Marie Fiévet","Moerani Frébault","Jean-Luc Fugit","Camille Galliard-Minier","Anne Genetet","Félicie Gérard","François Gernigon","Guillaume Gouffier Valente","Emmanuel Grégoire","Jean-Carles Grelier","Emmanuelle Hoffman","Sébastien Huyghe","Jean-Michel Jacques","Vincent Jeanbrun","Sandrine Josso","Philippe Juvin","Guillaume Kasbarian","Daniel Labaronne","Xavier Lacombe","Jean Laussucq","Michel Lauzzana","Sandrine Le Feur","Didier Le Gac","Constance Le Grip","Anne Le Hénanff","Vincent Ledoux","Mathieu Lefèvre","Didier Lemaire","Stéphane Lenormand","Pauline Levasseur","Delphine Lingemann","Lise Magnier","Bastien Marchive","Christophe Marion","Laurent Mazaury","Paul Midy","Joséphine Missoffe","Jean Moulliere","Naïma Moutchou","Christophe Naegelen","Karl Olive","Hubert Ott","Sophie Pantel","Jérémie Patrier-Leitus","Constance De Pélichy","Christophe Plassard","Alexandre Portier","Isabelle Rauch","Nicolas Ray","Mereana Reid Arbelot","Franck Riester","Véronique Riotton","Anne-Sophie Ronceret","Xavier Roseren","Nicole Sanquer","Freddy Sertin","Charles Sitzenstuhl","Bertrand Sorre","David Taupiac","Prisca Thevenot","Annie Vidal","Corinne Vignon","Anne-Cécile Violland","Stéphane Viry","Stéphane Vojetta","Lionel Vuibert","Éric Woerth","Caroline Yadan"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/protection_agents_publics"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 3 décembre 2024","Mardi 3 décembre 2024"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Fonction publique","Sécurité"]
 +++
 
