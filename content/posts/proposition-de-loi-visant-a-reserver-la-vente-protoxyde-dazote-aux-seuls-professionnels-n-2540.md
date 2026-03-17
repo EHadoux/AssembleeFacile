@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à réserver la vente de protoxyde d'azote aux seuls professionnels - N° 2540"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53160"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Jeudi 13 novembre 2025","Jeudi 13 novembre 2025","Jeudi 13 novembre 2025","Jeudi 26 février 2026"]
+stepsStatus = ["","Commission des affaires sociales (Sénat)","Texte adopté ✔️","Commission des affaires sociales"]
 tags = ["Santé","Justice","Sécurité"]
 +++
 

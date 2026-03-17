@@ -2,11 +2,11 @@
 date = 2026-03-16
 draft = false
 title = "Optimiser la protection et l'accompagnement des parents d'enfants atteints de cancers, de maladies graves et de handicaps - N° 2538"
-auteurs = ["Gérard Larcher","M. Le Président du Sénat"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/accompagnement_parents_enfants_cancers_maladies_handicaps2"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024","Mardi 17 septembre 2024","Mercredi 4 décembre 2024","Mercredi 4 décembre 2024","Jeudi 26 février 2026"]
+stepsStatus = ["","Commission des affaires sociales","Texte adopté ✔️","Commission des affaires sociales (Sénat)","Texte modifié","Commission des affaires sociales"]
 tags = ["Handicap","Solidarité","Famille"]
 +++
 
