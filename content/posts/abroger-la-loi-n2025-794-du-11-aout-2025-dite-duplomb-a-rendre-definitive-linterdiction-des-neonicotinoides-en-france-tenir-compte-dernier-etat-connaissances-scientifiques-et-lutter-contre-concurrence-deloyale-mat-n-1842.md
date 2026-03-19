@@ -1,0 +1,35 @@
++++
+date = 2025-09-16
+draft = false
+title = "Abroger la loi n°2025-794 du 11 août 2025, dite loi Duplomb, à rendre définitive l’interdiction des néonicotinoïdes en France, à tenir compte du dernier état des connaissances scientifiques et à lutter contre la concurrence déloyale en matière de pesticides - N° 1842"
+auteurs = ["Delphine Batho","Benoît Biteau","Cyrielle Chatelain","Pouria Amirshahi","Christine Arrighi","Clémentine Autain","Léa Balage El Mariky","Lisa Belluco","Karim Ben Cheikh","Arnaud Bonnet","Nicolas Bonnet","Alexis Corbière","Hendrik Davi","Emmanuel Duplessy","Charles Fournier","Marie-Charlotte Garin","Damien Girard","Steevy Gustave","Catherine Hervieu","Jérémie Iordanoff","Julie Laernoes","Tristan Lahais","Benjamin Lucas-Lundy","Julie Ozenne","Sébastien Peytavie","Marie Pochon","Jean-Claude Raux","Sandra Regol","Jean-Louis Roumégas","Sandrine Rousseau","François Ruffin","Eva Sas","Sabrina Sebaihi","Danielle Simonnet","Sophie Taillé-Polian","Boris Tavernier","Nicolas Thierry","Dominique Voynet"]
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_abroger_loi_duplomb_rendre_definitive_interdiction_des_neonicotinoides_en_france_tenir_compte_dernier_etat_des_connaissances_scientifiques_et_lutter_contre_concurrence_deloyale_en_matiere_de_pesticides_17e"
+stepsName = []
+stepsDate = []
+stepsStatus = []
+tags = ["Agriculture","Biodiversité","Santé"]
++++
+
+## Résumé
+
+Cette proposition de loi répond à une pétition citoyenne record pour abroger la « loi Duplomb », jugée dangereuse pour la santé et la biodiversité par la communauté scientifique et médicale. Elle vise à rétablir des protections environnementales, à interdire strictement les néonicotinoïdes, à renforcer l'indépendance de l'Anses et à protéger les agriculteurs français contre la concurrence déloyale de produits importés ne respectant pas les mêmes normes sanitaires.
+
+## Liste des modifications
+
+**Abrogation de la loi Duplomb (Article 1)**: Annulation complète de la loi n° 2025-794 du 11 août 2025.
+
+**Rétablissement du droit antérieur (Article 2)**: Retour aux anciennes rédactions des codes de l'environnement et rural, tout en conservant les aides aux éleveurs pour les pertes de récoltes en prairies.
+
+**Assurance récolte prairies (Article 3)**: Mise en place d'un plan pluriannuel pour améliorer l'indemnisation et l'évaluation des pertes liées aux risques climatiques pour les éleveurs.
+
+**Interdiction des néonicotinoïdes et substances interdites (Article 4)**: Suppression définitive des dérogations pour les néonicotinoïdes et interdiction de produire, stocker ou transporter des substances interdites par l'Union européenne sur le sol français.
+
+**Extension de l'interdiction aux biocides et vétérinaire (Article 5)**: Interdiction de commercialiser des produits insecticides domestiques ou des médicaments pour animaux contenant des substances interdites en agriculture.
+
+**Indépendance et critères de l'Anses (Article 6)**: Interdiction pour le Gouvernement de donner des instructions à l'Anses et obligation pour l'agence de prendre en compte les dernières connaissances scientifiques (effets cocktails, exposition chronique) pour évaluer les risques sur les abeilles.
+
+**Lutte contre la concurrence déloyale (Article 7)**: Interdiction d'importer des denrées alimentaires traitées avec des pesticides interdits en France ou en Europe, en abaissant les seuils de tolérance au minimum détectable.
+
+**Mesures miroirs dans les accords commerciaux (Article 8)**: Interdiction de conclure des accords de libre-échange sans imposer aux pays exportateurs le respect des normes européennes sur les pesticides via une certification par un tiers.
+
+**Gage financier (Article 9)**: Compensation des coûts de la loi par une taxe sur le tabac.
