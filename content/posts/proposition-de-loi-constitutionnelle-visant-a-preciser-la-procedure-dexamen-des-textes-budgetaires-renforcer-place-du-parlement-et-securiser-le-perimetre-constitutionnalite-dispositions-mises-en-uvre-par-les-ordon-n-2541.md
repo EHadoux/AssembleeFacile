@@ -2,11 +2,11 @@
 date = 2026-03-17
 draft = false
 title = "Proposition de loi constitutionnelle visant à préciser la procédure d’examen des textes budgétaires, à renforcer la place du Parlement et à sécuriser le périmètre et la constitutionnalité des dispositions mises en œuvre par les ordonnances mentionnées aux articles 47 et 47-1 de la Constitution - N° 2541"
-auteurs = ["M. Le Président du Sénat","Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53385"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Jeudi 18 décembre 2025","Jeudi 18 décembre 2025","Jeudi 18 décembre 2025","Vendredi 27 février 2026"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois"]
 tags = ["Budget","Finances","Relations parlementaires"]
 +++
 
