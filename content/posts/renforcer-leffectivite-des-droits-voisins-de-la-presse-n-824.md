@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer l’effectivité des droits voisins de la presse - N° 824"
 auteurs = ["Erwan Balanant"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/effectivite_droits_voisins_presse"
-stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025","Mardi 21 janvier 2025"]
-stepsStatus = ["","Commission des affaires culturelles",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025","Mardi 21 janvier 2025","Jeudi 26 mars 2026"]
+stepsStatus = ["","Commission des affaires culturelles","Texte adopté ✔️","Commission des affaires étrangères (Sénat)"]
 tags = ["Numérique","Économie","Justice"]
 +++
 

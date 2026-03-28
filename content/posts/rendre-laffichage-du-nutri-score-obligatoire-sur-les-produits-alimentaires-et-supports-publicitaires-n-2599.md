@@ -4,9 +4,9 @@ draft = false
 title = "Rendre l'affichage du nutri-score obligatoire sur les produits alimentaires et sur les supports publicitaires - N° 2599"
 auteurs = ["Sandrine Runel","Paul-André Colombani","Jérôme Guedj","Cyrille Isaac-Sibille","Yannick Neuder","Agnès Pannier-Runacher","Jean-François Rousset","Sabrina Sebaihi","Boris Tavernier","Frédéric Valletoux"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/affichage_nutri_score_obligatoire_produits_alimentaires_supports_publicitaires_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 27 mars 2026","Vendredi 27 mars 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Commerce","Industrie"]
 +++
 

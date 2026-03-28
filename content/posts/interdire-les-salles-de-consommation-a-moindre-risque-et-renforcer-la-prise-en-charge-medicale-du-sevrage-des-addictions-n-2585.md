@@ -4,9 +4,9 @@ draft = false
 title = "Interdire les salles de consommation à moindre risque et renforcer la prise en charge médicale du sevrage des addictions - N° 2585"
 auteurs = ["Gisèle Lelouis","Franck Allisio","Monique Griseti","Emmanuel Fouquart","Sophie Blanc","Marie-France Lorho"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdire_salles_consommation_risque_renforcer_prise_charge_medicale_sevrage_addictions_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 27 mars 2026","Vendredi 27 mars 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Sécurité","Justice"]
 +++
 

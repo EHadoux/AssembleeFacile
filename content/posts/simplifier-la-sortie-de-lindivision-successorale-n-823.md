@@ -6,7 +6,7 @@ auteurs = ["Louise Morel","Nicolas Turquois"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/simplifier_sortie_indivision_successorale"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Deuxième lecture à l'Assemblée nationale"]
 stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025","Mardi 21 janvier 2025","Vendredi 7 mars 2025","Vendredi 7 mars 2025","Jeudi 18 décembre 2025","Jeudi 18 décembre 2025"]
-stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)","Texte modifié","Commission des lois",""]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)","Texte modifié","Commission des lois","Texte adopté ✔️"]
 tags = ["Logement","Urbanisme","Justice"]
 +++
 

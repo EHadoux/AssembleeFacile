@@ -4,9 +4,9 @@ draft = false
 title = "Adapter la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains à la réalité des territoires ruraux - N° 2592"
 auteurs = ["Corentin Le Fur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/adapter_loi_sru_territoires_ruraux_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 27 mars 2026","Vendredi 27 mars 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Ruralité","Aménagement du territoire"]
 +++
 

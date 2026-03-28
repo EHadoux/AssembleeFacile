@@ -6,7 +6,7 @@ auteurs = ["Christophe Blanchet","Anne Bergantz","Laurent Croizier","Geneviève 
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_enseignement_defense_nationale_dans_parcours_citoyennete_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Mardi 27 janvier 2026","Mardi 27 janvier 2026","Mardi 27 janvier 2026"]
-stepsStatus = ["","Commission des affaires culturelles",""]
+stepsStatus = ["","Commission des affaires culturelles","Texte adopté ✔️"]
 tags = ["Défense","Éducation","Sécurité"]
 +++
 

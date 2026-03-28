@@ -4,9 +4,9 @@ draft = false
 title = "Garantir l’effectivité du congé de représentation au bénéfice des associations représentant les personnes accueillies ou ayant été accueillies en protection de l’enfance - N° 2601"
 auteurs = ["Stéphane Mazars"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_effectivite_conge_representation_benefice_associations_personnes_accueillies_protection_enfance_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 27 mars 2026","Vendredi 27 mars 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Action publique","Solidarité","Travail"]
 +++
 

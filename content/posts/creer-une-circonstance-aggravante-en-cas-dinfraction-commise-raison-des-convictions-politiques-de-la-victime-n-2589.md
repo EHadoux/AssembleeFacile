@@ -4,9 +4,9 @@ draft = false
 title = "Créer une circonstance aggravante en cas d’infraction commise en raison des convictions politiques de la victime - N° 2589"
 auteurs = ["Véronique Besse","Sandra Delannoy","Alexandra Martin","Philippe Lottiaux","Pierre Cordier","Marie-France Lorho","Joseph Rivière","Antoine Golliot","Delphine Lingemann","Nicolas Ray","Christelle D’Intorni","Jocelyn Dessigny","Josiane Corneloup","Alexandre Allegret-Pilot","Pierre-Henri Carbonnel","Yannick Neuder","Xavier Breton","Élisabeth De Maistre","Christophe Bentz","Bénédicte Auzanot","Stéphanie Galzy","Daniel Grenon","Antoine Valentin","Émilie Bonnivard","Éric Michoux","Géraldine Grangier","Christelle Minard","Emmanuel Taché","Anne-Laure Blin","Hanane Mansouri"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/circonstances_aggravantes_convictions_politiques_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 27 mars 2026","Vendredi 27 mars 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Sécurité","Intérieur"]
 +++
 

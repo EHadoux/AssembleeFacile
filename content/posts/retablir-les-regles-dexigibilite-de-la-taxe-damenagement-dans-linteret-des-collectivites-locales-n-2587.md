@@ -4,9 +4,9 @@ draft = false
 title = "Rétablir les règles d’exigibilité de la taxe d’aménagement dans l’intérêt des collectivités locales - N° 2587"
 auteurs = ["Valérie Bazin-Malgras"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/retablir_regles_exigibilite_taxe_amenagement_interet_collectivites_locales_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 27 mars 2026","Vendredi 27 mars 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Budget","Urbanisme","Action publique"]
 +++
 

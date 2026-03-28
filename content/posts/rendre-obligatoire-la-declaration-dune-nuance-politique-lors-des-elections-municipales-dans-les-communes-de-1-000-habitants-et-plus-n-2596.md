@@ -4,9 +4,9 @@ draft = false
 title = "Rendre obligatoire la déclaration d’une nuance politique lors des élections municipales dans les communes de 1 000 habitants et plus - N° 2596"
 auteurs = ["Hervé Saulignac"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/declaration_nuance_politique_elections_municipales_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 27 mars 2026","Vendredi 27 mars 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Intérieur"]
 +++
 

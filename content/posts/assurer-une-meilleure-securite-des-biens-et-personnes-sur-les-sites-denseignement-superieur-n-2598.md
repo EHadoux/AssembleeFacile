@@ -4,9 +4,9 @@ draft = false
 title = "Assurer une meilleure sécurité des biens et des personnes sur les sites d’enseignement supérieur - N° 2598"
 auteurs = ["Anne-Laure Blin","Patrick Hetzel","Valérie Bazin-Malgras","Émilie Bonnivard","Jean-Yves Bony","Ian Boucard","Vincent Descoeur","Virginie Duby-Muller","Hubert Brigand","Josiane Corneloup","Marie-Christine Dalloz","Fabien Di Filippo","Lionel Duparay","Michel Herbillon","Philippe Juvin","Corentin Le Fur","Eric Liégeon","Véronique Louwagie","Alexandra Martin","Yannick Neuder","Éric Pauget","Alexandre Portier","Nicolas Ray","Nicolas Tryzna","Jean-Pierre Vigier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/assurer_meilleure_securite_biens_personnes_sites_enseignements_superieurs_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 27 mars 2026","Vendredi 27 mars 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Enseignement supérieur","Justice","Sécurité"]
 +++
 

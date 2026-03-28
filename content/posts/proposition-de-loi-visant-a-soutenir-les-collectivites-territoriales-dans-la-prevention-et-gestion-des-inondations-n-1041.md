@@ -6,7 +6,7 @@ auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51175"
 stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Mardi 31 décembre 2024","Mardi 31 décembre 2024","Mardi 31 décembre 2024","Jeudi 6 mars 2025","Jeudi 6 mars 2025"]
-stepsStatus = ["","Commission du développement durable (Sénat)","Texte adopté ✔️","Commission du développement durable",""]
+stepsStatus = ["","Commission du développement durable (Sénat)","Texte adopté ✔️","Commission du développement durable","Texte modifié"]
 tags = ["Aménagement du territoire","Écologie","Décentralisation"]
 +++
 

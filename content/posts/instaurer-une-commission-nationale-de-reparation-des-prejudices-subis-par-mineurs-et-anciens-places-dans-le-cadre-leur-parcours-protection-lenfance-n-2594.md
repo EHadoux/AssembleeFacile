@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer une commission nationale de réparation des préjudices subis par des mineurs et anciens mineurs placés dans le cadre de leur parcours de protection de l’enfance - N° 2594"
 auteurs = ["Marianne Maximi"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/commission_nationale_reparation_mineurs_places_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 27 mars 2026","Vendredi 27 mars 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Famille","Solidarité"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Protéger les intérêts stratégiques de la Nation face aux investissements étrangers - N° 2600"
 auteurs = ["Philippe Juvin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_interets_strategiques_Nation_face_investissements_etrangers_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 27 mars 2026","Vendredi 27 mars 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Économie","Industrie","Relations parlementaires"]
 +++
 

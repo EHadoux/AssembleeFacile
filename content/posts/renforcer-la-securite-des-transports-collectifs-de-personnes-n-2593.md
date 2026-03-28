@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la sécurité des transports collectifs de personnes - N° 2593"
 auteurs = ["Christelle D’Intorni","Jérôme Buisson","Alexandre Allegret-Pilot","Joseph Rivière","Nathalie Da Conceicao Carvalho","Nadine Lechon","Bartolomé Lenoir","Thierry Perez","Serge Muller","Frank Giletti","Antoine Valentin","Alexis Jolly"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_securite_transports_collectifs_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 27 mars 2026","Vendredi 27 mars 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Transports","Justice","Sécurité"]
 +++
 

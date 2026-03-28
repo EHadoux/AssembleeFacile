@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer l'effectivité de la lutte contre les discriminations liées au handicap dans la sphère professionnelle - N° 2602"
 auteurs = ["Stéphane Viry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_effectivite_lutte_discriminations_handicap_sphere_professionnelle_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 27 mars 2026","Vendredi 27 mars 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Handicap","Emploi","Discriminations"]
 +++
 

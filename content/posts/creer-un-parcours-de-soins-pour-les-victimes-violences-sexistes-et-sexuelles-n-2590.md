@@ -4,9 +4,9 @@ draft = false
 title = "Créer un parcours de soins pour les victimes de violences sexistes et sexuelles - N° 2590"
 auteurs = ["Gabrielle Cathala","Sarah Legrain","Marianne Maximi","Mathilde Panot","Nadège Abomangoli","Laurent Alexandre","Gabriel Amard","Mereana Reid Arbelot","Ségolène Amiot","Farida Amrani","Rodrigo Arenas","Raphaël Arnault","Marie-Charlotte Garin","Anaïs Belouassa-Cherifi","Ugo Bernalicis","Sandrine Josso","Christophe Bex","Carlos Martens Bilongo","Manuel Bompard","Idir Boumertit","Louis Boyard","Pierre-Yves Cadalen","Maud Petit","Aymeric Caron","Sylvain Carrière","Bérenger Cernon","Sophia Chikirou","Hadrien Clouet","Éric Coquerel","Jean-François Coulomme","Sébastien Delogu","Aly Diouara","Alma Dufour","Karen Erodi","Mathilde Feld","Emmanuel Fernandes","Eva Sas","Sylvie Ferrer","Perceval Gaillard","Clémence Guetté","David Guiraud","Arthur Delaporte","Sabrina Sebaihi","Zahia Hamdane","Mathilde Hignet","Andy Kerbrat","Bastien Lachaud","Abdelkader Lahmar","Maxime Laisney","Julie Ozenne","Arnaud Le Gall","Antoine Léaument","Élise Leboucher","Aurélien Le Coq","Jérôme Legavre","Claire Lejeune","Murielle Lepvraud","Élisa Martin","Damien Maudet","Marie Mesmeur","Manon Meunier","Charles Fournier","Jean-Philippe Nilor","Sandrine Nosbé","Danièle Obono","Olivier Serva","Nathalie Oziol","René Pilato","Sandra Regol","François Piquemal","Clémentine Autain","Thomas Portes","Loïc Prud’homme","Jean-Hugues Ratenon","Arnaud Saint-Martin","Aurélien Saintoul","Ersilia Soudais","Anne Stambach-Terrenoir","Aurélien Taché","Andrée Taurinya","Matthias Tavel","Aurélie Trouvé","Paul Vannier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/parcours_soins_victimes_violences_sexuelles_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 27 mars 2026","Vendredi 27 mars 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Droits des femmes","Santé"]
 +++
 
