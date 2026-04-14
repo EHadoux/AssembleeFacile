@@ -4,9 +4,9 @@ draft = false
 title = "Simplifier la sortie de l’indivision successorale - N° 2263"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/simplifier_sortie_indivision_successorale"
-stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Deuxième lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025","Mardi 21 janvier 2025","Vendredi 7 mars 2025","Vendredi 7 mars 2025","Jeudi 18 décembre 2025","Jeudi 18 décembre 2025"]
-stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)","Texte modifié","Commission des lois","Texte adopté ✔️"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Deuxième lecture à l'Assemblée nationale","Promulgation de la loi"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025","Mardi 21 janvier 2025","Vendredi 7 mars 2025","Vendredi 7 mars 2025","Jeudi 18 décembre 2025","Jeudi 18 décembre 2025","Mardi 7 avril 2026"]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)","Texte modifié","Commission des lois","Texte adopté ✔️",""]
 tags = ["Justice","Logement","Urbanisme"]
 +++
 

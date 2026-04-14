@@ -4,9 +4,9 @@ draft = false
 title = "Création du cadre d'emploi des personnels de santé des services d’incendie et de secours - N° 841"
 auteurs = ["Jean-Carles Grelier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/statut_personnel_sante_services_incendie_secours"
-stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Deuxième lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025","Mardi 21 janvier 2025","Jeudi 6 mars 2025","Jeudi 6 mars 2025","Mardi 13 mai 2025","Mardi 13 mai 2025"]
-stepsStatus = ["","Commission des affaires sociales","Texte adopté ✔️","Commission des lois (Sénat)","Texte modifié","Commission des affaires sociales","Texte adopté ✔️"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Deuxième lecture à l'Assemblée nationale","Promulgation de la loi"]
+stepsDate = ["Mardi 21 janvier 2025","Mardi 21 janvier 2025","Mardi 21 janvier 2025","Jeudi 6 mars 2025","Jeudi 6 mars 2025","Mardi 13 mai 2025","Mardi 13 mai 2025","Mardi 7 avril 2026"]
+stepsStatus = ["","Commission des affaires sociales","Texte adopté ✔️","Commission des lois (Sénat)","Texte modifié","Commission des affaires sociales","Texte adopté ✔️",""]
 tags = ["Santé","Fonction publique","Sécurité"]
 +++
 

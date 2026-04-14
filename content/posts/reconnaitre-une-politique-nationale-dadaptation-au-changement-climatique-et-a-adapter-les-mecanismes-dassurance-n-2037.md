@@ -6,7 +6,7 @@ auteurs = ["Fabrice Barusseau","Marie-José Allemand","Joël Aviragnet","Christi
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconnaitre_politique_nationale_adaptation_changement_climatique_adapter_mecanismes_assurance_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025","Mardi 28 octobre 2025"]
-stepsStatus = ["","Commission du développement durable",""]
+stepsStatus = ["","Commission du développement durable","Texte adopté ✔️"]
 tags = ["Écologie","Économie","Solidarité"]
 +++
 
