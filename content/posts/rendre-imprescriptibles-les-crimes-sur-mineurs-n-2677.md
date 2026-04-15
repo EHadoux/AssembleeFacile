@@ -1,0 +1,25 @@
++++
+date = 2026-04-14
+draft = false
+title = "Rendre imprescriptibles les crimes sur les mineurs - N° 2677"
+auteurs = ["Arnaud Bonnet","Perrine Goulet","Alexandra Martin"]
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_imprescriptibles_crimes_mineurs_17e"
+stepsName = []
+stepsDate = []
+stepsStatus = []
+tags = ["Justice","Jeunesse"]
++++
+
+## Résumé
+
+Cette proposition de loi vise à supprimer tout délai de prescription pour les crimes les plus graves commis sur des mineurs (viols, meurtres, actes de torture, etc.). Le texte s'appuie sur le constat que les victimes mettent souvent des décennies à parler à cause de traumatismes psychologiques, rendant les délais actuels inadaptés. L'objectif est de permettre à la justice d'intervenir quel que soit le temps écoulé, à l'image de ce qui existe déjà pour les crimes contre l'humanité.
+
+## Liste des modifications
+
+**Imprescriptibilité de l'action publique (Article 1)**: Les crimes commis sur des mineurs (notamment les crimes sexuels, les meurtres, les actes de torture, les enlèvements et la traite d'êtres humains) ne peuvent plus être annulés par le passage du temps ; ils deviennent poursuivables à vie.
+
+**Imprescriptibilité de l'action civile (Article 2)**: La victime peut demander des dommages et intérêts devant la justice civile sans limite de temps, tant que l'auteur est en vie, dès lors que le crime est considéré comme imprescriptible.
+
+**Date d'entrée en vigueur et non-rétroactivité (Article 3)**: La loi s'appliquera à partir du 1er janvier 2027. Elle ne concernera que les affaires qui ne sont pas déjà prescrites à cette date.
+
+**Financement (Article 4)**: Les coûts supplémentaires engendrés par ces nouvelles procédures judiciaires sont compensés par une taxe sur le tabac.
