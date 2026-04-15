@@ -4,9 +4,9 @@ draft = false
 title = "Garantir la continuité du service public ferroviaire - N° 2661"
 auteurs = ["Marie-José Allemand"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_garantir_la_continuite_du_service_public_ferroviaire_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Transports","Écologie","Aménagement du territoire"]
 +++
 

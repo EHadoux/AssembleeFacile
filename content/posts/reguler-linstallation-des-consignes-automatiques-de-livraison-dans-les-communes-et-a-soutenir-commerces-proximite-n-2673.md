@@ -4,9 +4,9 @@ draft = false
 title = "Réguler l’installation des consignes automatiques de livraison dans les communes et à soutenir les commerces de proximité - N° 2673"
 auteurs = ["Mélanie Thomin","Marie-José Allemand","Joël Aviragnet","Fabrice Barusseau","Laurent Baumel","Karim Benbrahim","Mickaël Bouloux","Colette Capdevielle","Paul Christophle","Pierrick Courbon","Stéphane Delautrette","Fanny Dombre Coste","Inaki Echaniz","Romain Eskenazi","Denis Fégné","Guillaume Garot","Océane Godard","Pascale Got","Emmanuel Grégoire","Jérôme Guedj","Laurent Lhardit","Estelle Mercier","Philippe Naillet","Sophie Pantel","Marc Pena","Dominique Potier","Pierre Pribetich","Marie Récalde","Valérie Rossi","Claudia Rouaux","Fabrice Roussel","Sandrine Runel","Arnaud Simion","Thierry Sother","Céline Thiébault-Martinez","Thierry Benoit","Benoît Blanchard","Philippe Bolo","Julien Brugerolles","Michel Castellani","Josiane Corneloup","Olivier Falorni","Charles Fournier","Jean-Luc Fugit","Christophe Marion","Graziella Melchior","Christelle Minard","Marie Pochon","Mereana Reid Arbelot","Boris Tavernier","Anne-Cécile Violland"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reguler_installation_consignes_livraison_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Commerce","Aménagement du territoire","Économie"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Abroger la réforme du mode de scrutin dans les communes rurales afin de favoriser la participation citoyenne - N° 2669"
 auteurs = ["Charles De Courson"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/abroger_reforme_mode_scrutin_communes_rurales_favoriser_participation_citoyenne_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Ruralité","Décentralisation"]
 +++
 

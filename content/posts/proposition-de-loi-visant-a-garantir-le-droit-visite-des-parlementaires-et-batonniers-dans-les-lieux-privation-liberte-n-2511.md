@@ -6,7 +6,7 @@ auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52230"
 stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale","Commission Mixte Paritaire"]
 stepsDate = ["Lundi 19 mai 2025","Lundi 19 mai 2025","Lundi 19 mai 2025","Jeudi 19 février 2026","Jeudi 19 février 2026","Lundi 30 mars 2026"]
-stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Texte modifié",""]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Texte modifié","Accord"]
 tags = ["Justice","Relations parlementaires"]
 +++
 

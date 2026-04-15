@@ -4,9 +4,9 @@ draft = false
 title = "Rendre imprescriptibles les crimes sur les mineurs - N° 2677"
 auteurs = ["Arnaud Bonnet","Perrine Goulet","Alexandra Martin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_imprescriptibles_crimes_mineurs_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Jeunesse"]
 +++
 

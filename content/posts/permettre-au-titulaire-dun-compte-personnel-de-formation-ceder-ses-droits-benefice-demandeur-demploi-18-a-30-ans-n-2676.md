@@ -4,9 +4,9 @@ draft = false
 title = "Permettre au titulaire d’un compte personnel de formation de céder ses droits au bénéfice d’un demandeur d’emploi de 18 à 30 ans - N° 2676"
 auteurs = ["Stéphane Lenormand"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/cpf_ceder_droits_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Travail","Solidarité","Jeunesse"]
 +++
 

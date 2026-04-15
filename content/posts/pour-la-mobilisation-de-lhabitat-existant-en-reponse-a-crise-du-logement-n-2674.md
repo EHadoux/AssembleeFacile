@@ -4,9 +4,9 @@ draft = false
 title = "Pour la mobilisation de l’habitat existant en réponse à la crise du logement - N° 2674"
 auteurs = ["Valérie Létard","Joël Bruneau","Charles De Courson","Stéphane Lenormand","Max Mathiasin","Laurent Mazaury","Christophe Naegelen","Constance De Pélichy","David Taupiac","Stéphane Viry","Jean-Pierre Bataille","Michel Castellani","Olivier Serva"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/mobilisation_habitant_existant_crise_logement_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Artisanat","Économie"]
 +++
 

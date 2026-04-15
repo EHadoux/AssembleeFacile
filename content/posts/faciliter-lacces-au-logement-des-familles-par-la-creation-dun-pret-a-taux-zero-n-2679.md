@@ -4,9 +4,9 @@ draft = false
 title = "Faciliter l'accès au logement des familles par la création d'un prêt à taux zéro - N° 2679"
 auteurs = ["Constance De Pélichy","Joël Bruneau","Michel Castellani","Charles De Courson","Yannick Favennec-Bécot","Harold Huwart","Stéphane Lenormand","Valérie Létard","Max Mathiasin","Laurent Mazaury","Christophe Naegelen","Nicole Sanquer","David Taupiac","Stéphane Viry","Jean-Luc Warsmann","Estelle Youssouffa","Jean-Pierre Bataille"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_faciliter_acces_au_logement_des_familles_par_la_creation_pret_a_taux_zero_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Logement","Famille"]
 +++
 

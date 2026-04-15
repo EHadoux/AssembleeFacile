@@ -4,9 +4,9 @@ draft = false
 title = "Créer une contribution exceptionnelle de solidarité sur les superprofits des entreprises pétro-gazières - N° 2675"
 auteurs = ["Eva Sas","Cyrielle Chatelain","Pouria Amirshahi","Christine Arrighi","Clémentine Autain","Léa Balage El Mariky","Lisa Belluco","Karim Ben Cheikh","Arnaud Bonnet","Nicolas Bonnet","Alexis Corbière","Emmanuel Duplessy","Marie-Charlotte Garin","Steevy Gustave","Catherine Hervieu","Jérémie Iordanoff","Julie Laernoes","Tristan Lahais","Benjamin Lucas-Lundy","Julie Ozenne","Sébastien Peytavie","Marie Pochon","Jean-Claude Raux","Sandra Regol","Jean-Louis Roumégas","Sandrine Rousseau","François Ruffin","Sabrina Sebaihi","Sophie Taillé-Polian","Boris Tavernier","Nicolas Thierry","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/creation_contribution_exceptionnelle_solidarite_superprofits_entreprises_petrogazieres_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Économie","Énergie","Écologie"]
 +++
 

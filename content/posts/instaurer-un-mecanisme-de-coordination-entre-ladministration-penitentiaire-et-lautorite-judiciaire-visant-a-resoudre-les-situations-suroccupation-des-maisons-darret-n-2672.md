@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer un mécanisme de coordination entre l’administration pénitentiaire et l’autorité judiciaire visant à résoudre les situations de suroccupation des maisons d’arrêt - N° 2672"
 auteurs = ["Florent Boudié"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_mecanisme_coordination_administration_penitentiaire_autorite_judiciaire_resoudre_situation_suroccupation_maison_arret_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Sécurité"]
 +++
 

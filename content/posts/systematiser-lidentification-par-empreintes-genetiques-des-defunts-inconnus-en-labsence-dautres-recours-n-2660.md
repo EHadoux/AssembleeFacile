@@ -4,9 +4,9 @@ draft = false
 title = "Systématiser l’identification par empreintes génétiques des défunts inconnus en l’absence d’autres recours - N° 2660"
 auteurs = ["Laurent Mazaury"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/identification_genetique_defunts_inconnus_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Solidarité","Intérieur"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer l'attractivité de la réserve civile pénitentiaire - N° 2664"
 auteurs = ["Josiane Corneloup","Alexandre Allegret-Pilot","Véronique Besse","Benoît Blanchard","Jean-Luc Bourgeaux","Xavier Breton","Eddy Casterman","Julien Dive","Moerani Frébault","Daniel Grenon","Brigitte Klinkert","Eric Liégeon","Philippe Lottiaux","Laurent Mazaury","Thibaut Monnier","Marie-Agnès Poussier-Winsback","Nicolas Ray","Anne-Sophie Ronceret","Anne Sicard","Nicolas Tryzna","Lionel Vuibert"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_attractivite_reserve_civile_penitentiaire_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Justice","Finances","Sécurité"]
 +++
 

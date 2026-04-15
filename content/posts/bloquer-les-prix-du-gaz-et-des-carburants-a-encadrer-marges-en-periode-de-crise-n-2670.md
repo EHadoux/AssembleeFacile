@@ -4,9 +4,9 @@ draft = false
 title = "Bloquer les prix du gaz et des carburants et à encadrer les marges en période de crise - N° 2670"
 auteurs = ["Julien Brugerolles","Stéphane Peu","Édouard Bénard","Soumya Bourouaha","Jean-Victor Castor","Elsa Faucillon","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Emmanuel Maurel","Yannick Monnet","Marcellin Nadeau","Nicolas Sansu","Mereana Reid Arbelot","Davy Rimane","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/bloquer_prix_carburant_2026"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Énergie","Économie","Finances"]
 +++
 

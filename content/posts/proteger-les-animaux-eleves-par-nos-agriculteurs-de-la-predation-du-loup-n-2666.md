@@ -4,9 +4,9 @@ draft = false
 title = "Protéger les animaux élevés par nos agriculteurs de la prédation du loup - N° 2666"
 auteurs = ["Jean-Luc Warsmann","Pierre Cordier","Xavier Albertini","Romain Baubry","Christophe Bentz","Benoît Blanchard","Sylvie Bonnet","Émilie Bonnivard","Xavier Breton","Joël Bruneau","Fabrice Brun","Jérôme Buisson","Pierre-Henri Carbonnel","Eddy Casterman","Josiane Corneloup","Vincent Descoeur","Jean-Luc Fugit","Thomas Gassilloud","Jonathan Gery","Christian Girard","Daniel Grenon","Justine Gruet","Julien Guibert","David Habib","Sébastien Humbert","Stéphane Lenormand","Delphine Lingemann","René Lioret","Philippe Lottiaux","Alexandra Masson","Stéphane Mazars","Laurent Mazaury","Thibaut Monnier","Christophe Naegelen","Didier Padey","Sophie Pantel","Alexandre Portier","Nicolas Ray","Sophie Ricourt Vaginay","Véronique Riotton","Laurence Robert-Dehault","Vincent Rolland","Xavier Roseren","Emmanuel Taché","Vincent Thiébaut","Vincent Trébuchet","Antoine Valentin","Gérault Verny","Anne-Cécile Violland","Stéphane Viry","Lionel Vuibert"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_proteger_les_animaux_eleves_par_agriculteurs_de_la_predation_du_loup_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Agriculture","Biodiversité","Écologie"]
 +++
 

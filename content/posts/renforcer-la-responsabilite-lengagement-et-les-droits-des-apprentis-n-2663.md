@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la responsabilité, l’engagement et les droits des apprentis - N° 2663"
 auteurs = ["Christelle D'Intorni","Alexandre Allegret-Pilot","Bernard Chaix","Olivier Fayssat","Bartolomé Lenoir","Sophie Ricourt Vaginay","Sébastien Chenu","Hélène Laporte","Christophe Bentz","Julien Guibert","Emmanuel Taché","Pierre Meurin","Nadine Lechon","Joseph Rivière","Philippe Lottiaux","Alexis Jolly","Jérôme Buisson"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_responsabilite_engagement_droits_apprentis_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Emploi","Jeunesse","Éducation"]
 +++
 
