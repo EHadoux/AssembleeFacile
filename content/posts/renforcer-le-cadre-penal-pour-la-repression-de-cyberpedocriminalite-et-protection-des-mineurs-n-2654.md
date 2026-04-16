@@ -1,0 +1,25 @@
++++
+date = 2026-04-14
+draft = false
+title = "Renforcer le cadre pénal pour la répression de la cyberpédocriminalité et la protection des mineurs - N° 2654"
+auteurs = ["Colette Capdevielle","Céline Hervieu","Marie-Agnès Poussier-Winsback","Boris Vallaud","Stéphane Peu","Philippe Juvin","Christine Pirès Beaune","Florence Herouin-Léautey","Marie-José Allemand","Joël Aviragnet","Christian Baptiste","Fabrice Barusseau","Marie-Noëlle Battistel","Laurent Baumel","Belkhir Belhaddad","Béatrice Bellay","Karim Benbrahim","Mickaël Bouloux","Dorine Bregman","Philippe Brun","Elie Califer","Paul Christophle","Pierrick Courbon","Alain David","Arthur Delaporte","Stéphane Delautrette","Dieynaba Diop","Fanny Dombre Coste","Peio Dufau","Inaki Echaniz","Romain Eskenazi","Olivier Faure","Denis Fégné","Martine Froger","Guillaume Garot","Océane Godard","Julien Gokel","Pascale Got","Jérôme Guedj","Stéphane Hablot","Ayda Hadizadeh","François Hollande","Sacha Houlié","Chantal Jourdan","Marietta Karamanli","Fatiha Keloua Hachi","Gérard Leseul","Laurent Lhardit","Estelle Mercier","Philippe Naillet","Jacques Oberti","Sophie Pantel","Marc Pena","Anna Pic","Dominique Potier","Pierre Pribetich","Christophe Proença","Marie Récalde","Valérie Rossi","Claudia Rouaux","Aurélien Rousseau","Fabrice Roussel","Sandrine Runel","Sébastien Saint-Pasteur","Isabelle Santiago","Hervé Saulignac","Arnaud Simion","Thierry Sother","Céline Thiébault-Martinez","Mélanie Thomin","Roger Vicot","Jiovanny William","Erwan Balanant","Olivier Becht","Arnaud Bonnet","Michel Castellani","Nathalie Colin-Oesterlé","Josiane Corneloup","Virginie Duby-Muller","Olivier Falorni","David Habib","Catherine Hervieu","Sandrine Josso","Karine Lebon","Delphine Lingemann","Laure Miller","Paul Molac","Louise Morel","Julie Ozenne","Didier Padey","Constance De Pélichy","Maud Petit","Isabelle Rauch","Mereana Reid Arbelot","Jean-Louis Roumégas","Sabrina Sebaihi","Stéphane Viry"]
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_cadre_penal_cyberpedocriminalite_17e"
+stepsName = []
+stepsDate = []
+stepsStatus = []
+tags = ["Justice","Intelligence artificielle","Numérique"]
++++
+
+## Résumé
+
+Face à l'explosion de la cyberpédocriminalité et à l'usage de l'intelligence artificielle pour créer des contenus illicites, cette proposition de loi vise à adapter le droit pénal français. Elle propose de créer de nouvelles infractions pour la production de contenus par IA, d'allonger les durées de garde à vue pour les enquêtes numériques complexes et de renforcer la responsabilité des administrateurs de groupes en ligne afin de mieux protéger les mineurs.
+
+## Liste des modifications
+
+**Création et diffusion de contenus pédocriminels par IA (Article 1)**: Création d'un crime puni de 10 ans de prison pour la conception ou la mise à disposition d'outils d'IA créant des contenus sexuels de mineurs, et extension de la loi aux représentations sonores.
+
+**Régime de garde à vue (Article 2)**: Inclusion des crimes et délits sexuels sur mineurs en bande organisée dans la liste permettant un allongement dérogatoire de la durée de garde à vue.
+
+**Obligations des condamnés (Article 3)**: Obligation pour les personnes inscrites au fichier des auteurs d'infractions sexuelles de déclarer tout déplacement à l'étranger au moins 15 jours à l'avance.
+
+**Responsabilité des administrateurs de groupes en ligne (Article 4)**: Extension de la responsabilité pénale aux créateurs et modérateurs d'espaces de discussion (groupes, canaux) qui facilitent la diffusion de contenus pédocriminels.
