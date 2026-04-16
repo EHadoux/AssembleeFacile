@@ -4,9 +4,9 @@ draft = false
 title = "Les droits des personnes handicapées et leur chien guide ou d’assistance - N° 2655"
 auteurs = ["Maud Petit"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/droits_personnes_handicapees_chien_assistance_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Handicap","Discriminations","Justice"]
 +++
 

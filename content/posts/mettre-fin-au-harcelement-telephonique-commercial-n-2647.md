@@ -4,9 +4,9 @@ draft = false
 title = "Mettre fin au harcèlement téléphonique commercial - N° 2647"
 auteurs = ["Christophe Plassard","Benoît Blanchard","Lionel Causse","Yannick Chenevard","Sophie Errante","Olivier Falorni","Félicie Gérard","Brigitte Klinkert","Élisabeth De Maistre","Christine Pirès Beaune","Corinne Vignon","Jean-Didier Berger","Bertrand Bouyx","Jean-Michel Brard","Michel Criaud","Jean-Michel Jacques","Benoît Larrouquis","Philippe Latombe","Laurent Marcangeli","Jean Moulliere","Marie-Agnès Poussier-Winsback","Anne-Sophie Ronceret","Lionel Vuibert","Michel Castellani","Paul Christophe","Pierrick Courbon","Laurent Croizier","Laurent Mazaury","Paul Molac","Constance De Pélichy","Richard Ramos","Vincent Caure","Thomas Lam","Joséphine Missoffe","Yannick Neuder"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/mettre_fin_harcelement_telephonique_commercial_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Commerce","Numérique","Justice"]
 +++
 

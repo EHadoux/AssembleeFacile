@@ -4,9 +4,9 @@ draft = false
 title = "Qualifier la soustraction frauduleuse de l'animal domestique, apprivoisé ou tenu en captivité d'autrui en vol aggravé - N° 2650"
 auteurs = ["Emmanuel Blairy","Alexandre Allegret-Pilot","Bénédicte Auzanot","Philippe Ballard","Christophe Barthès","Romain Baubry","Christophe Bentz","Théo Bernhardt","Guillaume Bigot","Sophie Blanc","Pascale Bordes","Anthony Boulogne","Manon Bouquin","Jorys Bovet","Jérôme Buisson","Bernard Chaix","Sébastien Chenu","Roger Chudeau","Christelle D’Intorni","Jocelyn Dessigny","Edwige Diaz","Sandrine Dogor-Such","Alexandre Dufosset","Aurélien Dutremble","Auguste Evrard","Frédéric Falcon","Guillaume Florquin","Emmanuel Fouquart","Jonathan Gery","Frank Giletti","Christian Girard","Antoine Golliot","Florence Goulet","Géraldine Grangier","Daniel Grenon","Monique Griseti","Jordan Guitton","Marine Hamelet","Timothée Houssin","Sébastien Humbert","Laurent Jacobelli","Alexis Jolly","Florence Joubert","Hélène Laporte","Julie Lechanteux","Nadine Lechon","Hervé De Lépinau","Katiana Levavasseur","Julien Limongi","René Lioret","Aurélien Lopez-Liguori","Marie-France Lorho","Philippe Lottiaux","David Magnier","Claire Marais-Beuil","Matthieu Marchio","Patrice Martin","Michèle Martinez","Kévin Mauvieux","Joëlle Mélin","Yaël Ménaché","Thomas Ménagé","Pierre Meurin","Serge Muller","Thierry Perez","Maud Petit","Kévin Pfeffer","Lisette Pollet","Stéphane Rambaud","Angélique Ranc","Julien Rancoule","Sophie Ricourt Vaginay","Catherine Rimbert","Joseph Rivière","Béatrice Roullaud","Sophie-Laurence Roy","Anaïs Sabatini","Emeric Salmon","Anne Sicard","Emmanuel Taché","Michaël Taverne","Thierry Tesson","Lionel Tivoli","Corinne Vignon","Antoine Villedieu","Stéphane Viry","Frédéric-Pierre Vos","Frédéric Weber"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/qualifier_soustraction_frauduleuse_animal_domestique_apprivoise_tenu_captivite_autrui_vol_aggrave_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Sécurité","Agriculture"]
 +++
 

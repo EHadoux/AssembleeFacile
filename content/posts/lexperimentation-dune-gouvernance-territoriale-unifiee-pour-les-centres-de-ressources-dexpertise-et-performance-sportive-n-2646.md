@@ -4,9 +4,9 @@ draft = false
 title = "L’expérimentation d’une gouvernance territoriale unifiée pour les centres de ressources, d'expertise et de performance sportive - N° 2646"
 auteurs = ["Nicolas Ray","Thibault Bazin","Valérie Bazin-Malgras","Émilie Bonnivard","Jean-Luc Bourgeaux","Hubert Brigand","Joël Bruneau","Josiane Corneloup","Marie-Christine Dalloz","Romain Daubié","Vincent Descoeur","Julien Dive","Lionel Duparay","Moerani Frébault","Alix Fruchon","Patrick Hetzel","Delphine Lingemann","Lise Magnier","Laurent Mazaury","Laure Miller","Christelle Minard","Éric Pauget","Alexandre Portier","Marie-Agnès Poussier-Winsback","Richard Ramos","Jean-Pierre Taite","Nicolas Tryzna","Antoine Vermorel-Marques","Jean-Pierre Vigier","Stéphane Viry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/experimentation_gouvernance_territoriale_unifiee_centres_ressources_expertise_performance_sportive_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Sports","Action publique","Aménagement du territoire"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Renforçant le pouvoir d’achat des travailleurs par la monétisation volontaire des congés payés - N° 2658"
 auteurs = ["Éric Pauget","Thibault Bazin","Valérie Bazin-Malgras","Émilie Bonnivard","Ian Boucard","François-Xavier Ceccoli","Josiane Corneloup","Vincent Descoeur","Virginie Duby-Muller","Philippe Juvin","Corentin Le Fur","Eric Liégeon","Élisabeth De Maistre","Alexandra Martin","Alexandre Portier","Nicolas Ray","Vincent Rolland"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_renforcant_le_pouvoir_dachat_des_travailleurs_par_la_monetisation_volontaire_des_conges_payes_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Travail","Économie","Emploi"]
 +++
 

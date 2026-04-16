@@ -4,9 +4,9 @@ draft = false
 title = "Rétablir le mode de scrutin antérieur à la loi du 21 mai 2025 pour les communes de moins de 1 000 habitants - N° 2651"
 auteurs = ["Xavier Breton","Thibault Bazin","Valérie Bazin-Malgras","Anne-Laure Blin","Sylvie Bonnet","Émilie Bonnivard","Hubert Brigand","Pierre Cordier","Josiane Corneloup","Marie-Christine Dalloz","Vincent Descoeur","Julien Dive","Philippe Gosselin","Patrick Hetzel","Philippe Juvin","Guillaume Lepers","Eric Liégeon","Christelle Minard","Jérôme Nury","Alexandre Portier","Nicolas Ray","Vincent Rolland","Jean-Pierre Taite"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/retablir_mode_scrutin_anterieur_loi_21_mai_2025_pour_commune_moins_1000_habitants_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Ruralité","Droits des femmes"]
 +++
 

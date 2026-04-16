@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer un moratoire de trois ans sur les fermetures de classes dans le premier degré - N° 2659"
 auteurs = ["Marie Pochon","Pouria Amirshahi","Léa Balage El Mariky","Delphine Batho","Lisa Belluco","Benoît Biteau","Hendrik Davi","Julie Laernoes","Julie Ozenne","Sandra Regol","Jean-Louis Roumégas","Eva Sas","Sabrina Sebaihi","Boris Tavernier","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/moratoitr_fermetures_classes_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Ruralité","Action publique"]
 +++
 

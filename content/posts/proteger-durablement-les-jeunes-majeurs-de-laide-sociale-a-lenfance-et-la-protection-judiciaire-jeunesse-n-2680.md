@@ -4,9 +4,9 @@ draft = false
 title = "Protéger durablement les jeunes majeurs de l’aide sociale à l’enfance et de la protection judiciaire de la jeunesse - N° 2680"
 auteurs = ["Laure Miller","Nicole Dubré-Chirat","Benoît Blanchard","Florent Boudié","Joël Bruneau","Julie Delpech","Lionel Duparay","Denis Fégné","Moerani Frébault","Jean-Luc Fugit","Jean-Michel Jacques","Sandrine Lalanne","Philippe Latombe","Constance Le Grip","Valérie Létard","Laurent Lhardit","Marie-Philippe Lubet","Lise Magnier","Christophe Marion","Joséphine Missoffe","Sophie Panonacle","Constance De Pélichy","Maud Petit","Marie-Agnès Poussier-Winsback","Anne-Sophie Ronceret","Jean-François Rousset","Isabelle Santiago","Violette Spillebout","Anne-Cécile Violland"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_jeunes_majeurs_aide_sociale_enfance_protection_judiciaire_jeunesse_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Solidarité","Jeunesse","Justice"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Visant à enrichir les dispositions applicables au Haut Conseil de stabilité financière - N° 2652"
 auteurs = ["Lionel Causse","Thibault Bazin","Josiane Corneloup","Stella Dupont","Damien Girard","Sacha Houlié","Sébastien Huyghe","Philippe Juvin","Marie-Agnès Poussier-Winsback","Nicolas Ray","Violette Spillebout","Stéphane Travert","Stéphane Viry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_visant_a_enrichir_les_dispositions_applicables_au_haut_conseil_de_stabilite_financiere_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Économie","Finances","Logement"]
 +++
 

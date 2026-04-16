@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant au renforcement de l'attractivité de l'épargne salariale et à la mise en oeuvre d'une procédure de déblocage exceptionnelle - N° 2625"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53699"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Jeudi 29 janvier 2026","Jeudi 29 janvier 2026","Jeudi 29 janvier 2026","Mardi 7 avril 2026"]
+stepsStatus = ["","Commission des affaires sociales (Sénat)","Texte adopté ✔️","Commission des affaires sociales"]
 tags = ["Économie","Travail","Finances"]
 +++
 

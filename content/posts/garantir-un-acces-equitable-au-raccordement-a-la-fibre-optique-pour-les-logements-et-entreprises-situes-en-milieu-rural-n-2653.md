@@ -4,9 +4,9 @@ draft = false
 title = "Garantir un accès équitable au raccordement à la fibre optique pour les logements et entreprises situés en milieu rural - N° 2653"
 auteurs = ["Philippe Gosselin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/acces_fibre_optique_milieu_rural_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Numérique","Ruralité","Aménagement du territoire"]
 +++
 

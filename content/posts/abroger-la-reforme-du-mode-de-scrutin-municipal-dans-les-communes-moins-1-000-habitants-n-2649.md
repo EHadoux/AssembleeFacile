@@ -4,9 +4,9 @@ draft = false
 title = "Abroger la réforme du mode de scrutin municipal dans les communes de moins de 1 000 habitants - N° 2649"
 auteurs = ["Philippe Gosselin","Valérie Bazin-Malgras","Bruno Fuchs","Loïc Kervran","Josiane Corneloup","Laurent Mazaury","Marie-Agnès Poussier-Winsback","Jean-Pierre Vigier","Stéphane Lenormand","Vincent Descoeur","Sophie Pantel","Anne-Laure Blin","Patrick Hetzel","Nicolas Ray","Christophe Naegelen","Sophie Ricourt Vaginay","Gérault Verny","Stéphane Viry","Philippe Juvin","Bertrand Sorre","Anne Sicard","Thibaut Monnier","Eddy Casterman","Michel Castellani","Jean-Luc Warsmann","Benoît Blanchard","Lise Magnier","Emmanuel Taché","Sandra Delannoy","Maud Petit","Véronique Besse","Romain Baubry","Yannick Favennec-Bécot","Alexandre Allegret-Pilot","Stéphane Travert","Christophe Bentz","Christelle Minard","Marie-Christine Dalloz","Thibault Bazin","Hubert Brigand","Vincent Rolland","Xavier Breton","Sylvie Bonnet","Alexandre Portier","Guillaume Lepers"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/abroger_reforme_mode_scrutin_commune_moins_1000_habitants_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Ruralité","Intérieur"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Rétablir le scrutin majoritaire plurinominal dans les communes de moins de 1 000 habitants - N° 2648"
 auteurs = ["Josiane Corneloup","Thibault Bazin","Valérie Bazin-Malgras","Anne-Laure Blin","Hubert Brigand","Pierre Cordier","Marie-Christine Dalloz","Patrick Hetzel","Guillaume Lepers","Élisabeth de Maistre","Christelle Minard","Nicolas Ray","Vincent Rolland"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_retablir_le_scrutin_majoritaire_plurinominal_dans_les_communes_de_moins_de_1000_habitants_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Ruralité","Intérieur"]
 +++
 

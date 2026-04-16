@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer le cadre pénal pour la répression de la cyberpédocriminalité et la protection des mineurs - N° 2654"
 auteurs = ["Colette Capdevielle","Céline Hervieu","Marie-Agnès Poussier-Winsback","Boris Vallaud","Stéphane Peu","Philippe Juvin","Christine Pirès Beaune","Florence Herouin-Léautey","Marie-José Allemand","Joël Aviragnet","Christian Baptiste","Fabrice Barusseau","Marie-Noëlle Battistel","Laurent Baumel","Belkhir Belhaddad","Béatrice Bellay","Karim Benbrahim","Mickaël Bouloux","Dorine Bregman","Philippe Brun","Elie Califer","Paul Christophle","Pierrick Courbon","Alain David","Arthur Delaporte","Stéphane Delautrette","Dieynaba Diop","Fanny Dombre Coste","Peio Dufau","Inaki Echaniz","Romain Eskenazi","Olivier Faure","Denis Fégné","Martine Froger","Guillaume Garot","Océane Godard","Julien Gokel","Pascale Got","Jérôme Guedj","Stéphane Hablot","Ayda Hadizadeh","François Hollande","Sacha Houlié","Chantal Jourdan","Marietta Karamanli","Fatiha Keloua Hachi","Gérard Leseul","Laurent Lhardit","Estelle Mercier","Philippe Naillet","Jacques Oberti","Sophie Pantel","Marc Pena","Anna Pic","Dominique Potier","Pierre Pribetich","Christophe Proença","Marie Récalde","Valérie Rossi","Claudia Rouaux","Aurélien Rousseau","Fabrice Roussel","Sandrine Runel","Sébastien Saint-Pasteur","Isabelle Santiago","Hervé Saulignac","Arnaud Simion","Thierry Sother","Céline Thiébault-Martinez","Mélanie Thomin","Roger Vicot","Jiovanny William","Erwan Balanant","Olivier Becht","Arnaud Bonnet","Michel Castellani","Nathalie Colin-Oesterlé","Josiane Corneloup","Virginie Duby-Muller","Olivier Falorni","David Habib","Catherine Hervieu","Sandrine Josso","Karine Lebon","Delphine Lingemann","Laure Miller","Paul Molac","Louise Morel","Julie Ozenne","Didier Padey","Constance De Pélichy","Maud Petit","Isabelle Rauch","Mereana Reid Arbelot","Jean-Louis Roumégas","Sabrina Sebaihi","Stéphane Viry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_cadre_penal_cyberpedocriminalite_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Intelligence artificielle","Numérique"]
 +++
 

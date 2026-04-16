@@ -4,9 +4,9 @@ draft = false
 title = "Permettre au juge d’ordonner au préfet la réquisition de locaux vacants pour mettre en œuvre le droit au logement - N° 2656"
 auteurs = ["Danielle Simonnet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/prefet_requisition_locaux_vacants_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Justice","Solidarité"]
 +++
 
