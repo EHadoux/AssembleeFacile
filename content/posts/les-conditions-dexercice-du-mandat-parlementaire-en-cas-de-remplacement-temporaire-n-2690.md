@@ -4,9 +4,9 @@ draft = false
 title = "Les conditions d’exercice du mandat parlementaire en cas de remplacement temporaire - N° 2690"
 auteurs = ["Nicolas Tryzna"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/conditions_exercice_mandat_parlementaire_remplacement_temporaire"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 17 avril 2026","Vendredi 17 avril 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Relations parlementaires","Décentralisation"]
 +++
 
