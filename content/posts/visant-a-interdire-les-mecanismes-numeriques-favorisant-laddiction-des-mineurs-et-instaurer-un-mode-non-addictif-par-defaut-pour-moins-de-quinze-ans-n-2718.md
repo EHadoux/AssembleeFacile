@@ -4,9 +4,9 @@ draft = false
 title = "visant à interdire les mécanismes numériques favorisant l’addiction des mineurs et à instaurer un mode non addictif par défaut pour les moins de quinze ans - N° 2718"
 auteurs = ["Valérie Bazin-Malgras"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdire_mecanismes_numeriques_addiction_mineurs"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Numérique","Santé","Jeunesse"]
 +++
 

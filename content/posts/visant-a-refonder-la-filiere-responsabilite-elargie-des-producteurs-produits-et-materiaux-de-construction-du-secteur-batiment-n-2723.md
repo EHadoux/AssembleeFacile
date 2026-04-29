@@ -4,9 +4,9 @@ draft = false
 title = "visant à refonder la filière à responsabilité élargie des producteurs des produits et matériaux de construction du secteur du bâtiment - N° 2723"
 auteurs = ["Stéphane Delautrette","Véronique Riotton","Anne-Cécile Violland"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/Refonder_filiere_responsabilie_elargie_construction_batiment"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Écologie","Économie","Aménagement du territoire"]
 +++
 

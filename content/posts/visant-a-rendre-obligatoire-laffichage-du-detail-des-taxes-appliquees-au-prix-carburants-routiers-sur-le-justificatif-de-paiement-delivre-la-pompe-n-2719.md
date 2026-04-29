@@ -4,9 +4,9 @@ draft = false
 title = "visant à rendre obligatoire l’affichage du détail des taxes appliquées au prix des carburants routiers sur le justificatif de paiement délivré à la pompe - N° 2719"
 auteurs = ["Valérie Bazin-Malgras"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_obligatoire_affichage_detail_taxes_prix_carburants_routiers"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Énergie","Finances","Commerce"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "La reconnaissance de la création sonore - N° 2713"
 auteurs = ["Erwan Balanant","Thibault Bazin","Éric Bothorel","Joël Bruneau","Céline Calvez","Michel Castellani","Laurent Lhardit","Sophie Mette","Paul Molac","Louise Morel","Sophie Pantel","Thierry Sother","Nicolas Turquois"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconaissance_creation_sonore_17"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Culture","Numérique"]
 +++
 

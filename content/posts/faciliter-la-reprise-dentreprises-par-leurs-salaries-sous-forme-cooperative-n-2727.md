@@ -4,9 +4,9 @@ draft = false
 title = "Faciliter la reprise d’entreprises par leurs salariés sous forme coopérative - N° 2727"
 auteurs = ["Matthias Tavel","Nadège Abomangoli","Laurent Alexandre","Gabriel Amard","Ségolène Amiot","Farida Amrani","Rodrigo Arenas","Raphaël Arnault","Anaïs Belouassa-Cherifi","Shéhérazade Bentorki","Ugo Bernalicis","Christophe Bex","Carlos Martens Bilongo","Manuel Bompard","Idir Boumertit","Louis Boyard","Pierre-Yves Cadalen","Aymeric Caron","Sylvain Carrière","Gabrielle Cathala","Bérenger Cernon","Sophia Chikirou","Paul Christophle","Hadrien Clouet","Éric Coquerel","Alexis Corbière","Jean-François Coulomme","Sébastien Delogu","Aly Diouara","Alma Dufour","Karen Erodi","Mathilde Feld","Emmanuel Fernandes","Sylvie Ferrer","Perceval Gaillard","Clémence Guetté","Zahia Hamdane","Mathilde Hignet","Andy Kerbrat","Bastien Lachaud","Abdelkader Lahmar","Maxime Laisney","Arnaud Le Gall","Antoine Léaument","Élise Leboucher","Aurélien Le Coq","Jérôme Legavre","Sarah Legrain","Claire Lejeune","Murielle Lepvraud","Élisa Martin","Damien Maudet","Marianne Maximi","Marie Mesmeur","Manon Meunier","Jean-Philippe Nilor","Sandrine Nosbé","Danièle Obono","Nathalie Oziol","Mathilde Panot","Sébastien Peytavie","René Pilato","François Piquemal","Thomas Portes","Loïc Prud’homme","Jean-Hugues Ratenon","Sandrine Rousseau","Arnaud Saint-Martin","Aurélien Saintoul","Nicolas Sansu","Ersilia Soudais","Anne Stambach-Terrenoir","Aurélien Taché","Andrée Taurinya","Aurélie Trouvé","Paul Vannier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/faciliter_reprise_entreprises_sous_forme_cooperative_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Économie sociale et solidaire","Emploi","Économie"]
 +++
 

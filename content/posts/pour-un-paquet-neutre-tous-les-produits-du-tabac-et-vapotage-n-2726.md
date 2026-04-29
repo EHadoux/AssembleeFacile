@@ -4,9 +4,9 @@ draft = false
 title = "Pour un paquet neutre pour tous les produits du tabac et du vapotage - N° 2726"
 auteurs = ["Nicolas Thierry","Pierre Cazeneuve"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/pour_paquet_neutre_tous_produits_tabac_et_vapotage_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Jeunesse","Commerce"]
 +++
 

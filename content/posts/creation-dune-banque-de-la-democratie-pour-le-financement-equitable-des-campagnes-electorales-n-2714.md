@@ -4,9 +4,9 @@ draft = false
 title = "Création d’une Banque de la démocratie pour le financement équitable des campagnes électorales - N° 2714"
 auteurs = ["Nicolas Tryzna","Josiane Corneloup","Nicolas Ray","Xavier Breton","Philippe Juvin","Lionel Duparay","Michel Herbillon","Éric Pauget","Jean-Louis Thiériot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/banque_democratie_financement_campagnes_electorales_17"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Finances","Relations parlementaires"]
 +++
 

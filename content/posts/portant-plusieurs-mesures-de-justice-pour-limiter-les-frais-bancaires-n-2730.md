@@ -4,9 +4,9 @@ draft = false
 title = "portant plusieurs mesures de justice pour limiter les frais bancaires - N° 2730"
 auteurs = ["Yannick Monnet","Julien Brugerolles","Édouard Bénard","Soumya Bourouaha","Jean-Victor Castor","Elsa Faucillon","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Emmanuel Maurel","Marcellin Nadeau","Stéphane Peu","Mereana Reid Arbelot","Davy Rimane"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/Mesures_de_justice_limiter_frais_bancaires"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Économie","Solidarité","Finances"]
 +++
 

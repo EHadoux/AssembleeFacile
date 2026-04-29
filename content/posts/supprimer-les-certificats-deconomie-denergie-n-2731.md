@@ -4,9 +4,9 @@ draft = false
 title = "Supprimer les certificats d'économie d'énergie - N° 2731"
 auteurs = ["Anne-Laure Blin","Nicolas Tryzna","Frédérique Meunier","Valérie Bazin-Malgras","Alexandra Martin","Christelle Minard","Hubert Brigand","Josiane Corneloup","Éric Pauget","Jérôme End","Marie-Christine Dalloz"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/supprimer_certificats_economie_energie"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Énergie","Économie","Consommation"]
 +++
 

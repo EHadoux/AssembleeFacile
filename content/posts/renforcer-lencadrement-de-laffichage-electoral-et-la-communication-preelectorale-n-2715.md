@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer l’encadrement de l’affichage électoral et de la communication préélectorale - N° 2715"
 auteurs = ["Nicolas Tryzna","Josiane Corneloup","Nicolas Ray","Lionel Duparay","Michel Herbillon","Éric Pauget","Jean-Louis Thiériot","Virginie Duby-Muller"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/encadrement_affichage_electoral_communication_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Intérieur","Justice","Numérique"]
 +++
 

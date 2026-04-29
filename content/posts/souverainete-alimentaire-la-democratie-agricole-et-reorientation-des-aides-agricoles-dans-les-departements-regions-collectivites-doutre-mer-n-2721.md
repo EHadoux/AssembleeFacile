@@ -4,9 +4,9 @@ draft = false
 title = "Souveraineté alimentaire, la démocratie agricole et la réorientation des aides agricoles dans les départements, régions et collectivités d’outre-mer - N° 2721"
 auteurs = ["Marcellin Nadeau","Édouard Bénard","Elsa Faucillon","Karine Lebon","Frédéric Maillot","Nicolas Sansu"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/souverainete_alimentaire_democratie_agricole_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Agriculture","Outre-mer","Décentralisation"]
 +++
 

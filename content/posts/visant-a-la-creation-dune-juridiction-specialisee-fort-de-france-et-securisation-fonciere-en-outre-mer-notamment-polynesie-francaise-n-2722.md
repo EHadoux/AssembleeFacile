@@ -4,9 +4,9 @@ draft = false
 title = "visant à la création d’une juridiction spécialisée à Fort-de-France et à la sécurisation foncière en Outre-mer, notamment en Polynésie française - N° 2722"
 auteurs = ["Marcellin Nadeau","Mereana Reid Arbelot","Édouard Bénard","Elsa Faucillon","Karine Lebon","Frédéric Maillot","Nicolas Sansu"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/creation_juridiction_specialisee_Fort_de_France_securisation_fonciere_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Outre-mer","Justice","Logement"]
 +++
 

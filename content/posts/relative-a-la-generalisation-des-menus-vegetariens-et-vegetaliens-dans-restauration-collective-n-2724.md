@@ -4,9 +4,9 @@ draft = false
 title = "relative à la généralisation des menus végétariens et végétaliens dans la restauration collective - N° 2724"
 auteurs = ["Marie-Charlotte Garin","Arnaud Bonnet","Nicolas Bonnet","Alexis Corbière","Charles Fournier","Damien Girard","Catherine Hervieu","Julie Ozenne","Sébastien Peytavie","Sandrine Rousseau","Eva Sas","Sabrina Sebaihi","Boris Tavernier","Nicolas Thierry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/generalisation_menus_vegetariens_vegetaliens_restauration_collective"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Écologie","Santé","Agriculture"]
 +++
 

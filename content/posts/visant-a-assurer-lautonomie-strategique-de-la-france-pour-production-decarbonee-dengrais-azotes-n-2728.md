@@ -4,9 +4,9 @@ draft = false
 title = "visant à assurer l’autonomie stratégique de la France pour la production décarbonée d’engrais azotés - N° 2728"
 auteurs = ["Vincent Trébuchet","Alexandre Allegret-Pilot","Philippe Ballard","José Beaurain","Christophe Bentz","Matthieu Bloch","Manon Bouquin","Jorys Bovet","Pierre-Henri Carbonnel","Eddy Casterman","Bernard Chaix","Christelle D’Intorni","Edwige Diaz","Alexandre Dufosset","Olivier Fayssat","Frank Giletti","Christian Girard","Antoine Golliot","Florence Goulet","Sébastien Humbert","Alexis Jolly","Florence Joubert","Hélène Laporte","Robert Le Bourgeois","Nadine Lechon","Bartolomé Lenoir","René Lioret","Marie-France Lorho","Philippe Lottiaux","Thomas Ménagé","Maxime Michelet","Éric Michoux","Thibaut Monnier","Serge Muller","Caroline Parmentier","Thierry Perez","Kévin Pfeffer","Anaïs Sabatini","Emeric Salmon","Anne Sicard","Romain Tonussi","Antoine Valentin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/autonomie_strategique_engrais_azotes"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Agriculture","Industrie","Énergie"]
 +++
 

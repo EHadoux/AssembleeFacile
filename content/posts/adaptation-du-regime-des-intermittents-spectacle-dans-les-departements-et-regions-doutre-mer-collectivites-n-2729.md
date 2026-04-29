@@ -4,9 +4,9 @@ draft = false
 title = "Adaptation du régime des intermittents du spectacle dans les départements et régions d'outre-mer et les collectivités d'outre-mer - N° 2729"
 auteurs = ["Frédéric Maillot","Marcellin Nadeau","Édouard Bénard","Soumya Bourouaha","Julien Brugerolles","Jean-Victor Castor","Elsa Faucillon","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Emmanuel Maurel","Yannick Monnet","Stéphane Peu","Mereana Reid Arbelot","Davy Rimane","Nicolas Sansu","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/regime_intermittents_spectacle_drom_com"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Culture","Outre-mer","Travail"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Adaptation des territoires littoraux au recul du trait de côte, notamment insulaires - N° 2725"
 auteurs = ["Marcellin Nadeau","Édouard Bénard","Soumya Bourouaha","Julien Brugerolles","Jean-Victor Castor","Elsa Faucillon","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Emmanuel Maurel","Yannick Monnet","Stéphane Peu","Mereana Reid Arbelot","Nicolas Sansu","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/asdaptation_territoires_littoraux_trait_de_cote_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Écologie","Outre-mer","Aménagement du territoire"]
 +++
 

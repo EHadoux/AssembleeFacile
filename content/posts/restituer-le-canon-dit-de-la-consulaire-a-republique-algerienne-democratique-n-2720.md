@@ -4,9 +4,9 @@ draft = false
 title = "Restituer le canon dit de la Consulaire à la République Algérienne Démocratique - N° 2720"
 auteurs = ["Sabrina Sebaihi","Marie-Charlotte Garin","Fatiha Keloua Hachi","Jean-Paul Lecoq","Mereana Reid Arbelot","Sandrine Rousseau","Danielle Simonnet","Sophie Taillé-Polian","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_restituer_le_canon_dit_de_la_Consulaire_a_la_republique_algerienne_democratique_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Affaires étrangères","Culture"]
 +++
 

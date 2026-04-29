@@ -4,9 +4,9 @@ draft = false
 title = "Faciliter le remplacement des membres des commissions permanentes des conseils départementaux - N° 2717"
 auteurs = ["Nicolas Tryzna","Josiane Corneloup","Nicolas Ray","Cendrine Chazé","Christelle Minard","Lionel Duparay","Virginie Duby-Muller","Thibault Bazin","Michel Herbillon","Éric Pauget","Jean-Louis Thiériot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/remplacement_commissions_permanentes_departements_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Décentralisation","Intérieur"]
 +++
 
