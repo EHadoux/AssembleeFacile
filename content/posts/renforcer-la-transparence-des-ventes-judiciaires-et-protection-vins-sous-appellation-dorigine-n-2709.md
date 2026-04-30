@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la transparence des ventes judiciaires et la protection des vins sous appellation d’origine - N° 2709"
 auteurs = ["Pascale Got"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_transparence_ventes_judiciaires_et_protection_vins_appellation_origine_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Agriculture","Économie","Justice"]
 +++
 

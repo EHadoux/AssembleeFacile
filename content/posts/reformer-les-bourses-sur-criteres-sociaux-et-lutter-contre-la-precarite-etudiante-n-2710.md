@@ -4,9 +4,9 @@ draft = false
 title = "Réformer les bourses sur critères sociaux et lutter contre la précarité étudiante - N° 2710"
 auteurs = ["Soumya Bourouaha","Édouard Bénard","Julien Brugerolles","Jean-Victor Castor","Elsa Faucillon","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Emmanuel Maurel","Yannick Monnet","Marcellin Nadeau","Stéphane Peu","Mereana Reid Arbelot","Davy Rimane","Nicolas Sansu","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reforme_bourses_criteres_sociaux_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Enseignement supérieur","Jeunesse","Solidarité"]
 +++
 

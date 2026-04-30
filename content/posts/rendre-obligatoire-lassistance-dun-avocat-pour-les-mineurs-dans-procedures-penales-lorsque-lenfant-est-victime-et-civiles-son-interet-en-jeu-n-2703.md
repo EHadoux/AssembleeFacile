@@ -4,9 +4,9 @@ draft = false
 title = "Rendre obligatoire l’assistance d’un avocat pour les mineurs dans les procédures pénales lorsque l’enfant est victime et dans les procédures civiles lorsque son intérêt est en jeu - N° 2703"
 auteurs = ["Béatrice Roullaud","Jonathan Gery","Romain Tonussi","Emmanuel Fouquart","Angélique Ranc","Hélène Laporte","Sébastien Chenu","Florence Goulet","Lisette Pollet","Nicolas Meizonnet","Tiffany Joncour","Julien Limongi","Sophie-Laurence Roy","Sophie Blanc","Roger Chudeau","Laurence Robert-Dehault","Marine Hamelet","Julien Guibert","Yaël Ménaché","Alexandre Dufosset","Philippe Ballard","Sandrine Dogor-Such","Serge Muller","Stéphanie Galzy","Stéphane Rambaud","Emmanuel Taché","Hervé De Lépinau","Caroline Parmentier","Sébastien Humbert","René Lioret","Robert Le Bourgeois","Catherine Rimbert","Frank Giletti","Philippe Lottiaux","Pierre Meurin","Katiana Levavasseur","Kévin Pfeffer","Julien Rancoule","Joseph Rivière","David Magnier","Anaïs Sabatini","Jocelyn Dessigny","Manon Bouquin","Alexis Jolly","Emmanuel Blairy","Bruno Bilde","Pascal Jenft","Théo Bernhardt","Edwige Diaz","Éric Michoux","Matthieu Marchio","Yoann Gillet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/assistance_avocat_interet_enfant_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Famille"]
 +++
 

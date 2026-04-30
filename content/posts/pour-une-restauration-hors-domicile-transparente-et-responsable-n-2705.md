@@ -4,9 +4,9 @@ draft = false
 title = "Pour une restauration hors domicile transparente et responsable - N° 2705"
 auteurs = ["Christophe Blanchet","Stéphane Viry","Corinne Vignon","Bertrand Bouyx","Thierry Sother","Boris Tavernier","Lionel Vuibert","Nicole Dubré-Chirat","Bertrand Sorre","Richard Ramos","Valérie Bazin-Malgras","Delphine Lingemann","Mickaël Cosson","Joël Bruneau","Éric Martineau","Laurent Mazaury","Anne-Sophie Ronceret","Romain Daubié","Christelle Minard","Véronique Besse","Jean-Michel Jacques","Anne-Cécile Violland","Laurent Lhardit","Alix Fruchon","David Taupiac","Benoît Blanchard","Michel Castellani","Constance De Pélichy","Christine Le Nabour","Claudia Rouaux"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/restauration_transparente_responsable_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Commerce","Artisanat","Économie"]
 +++
 

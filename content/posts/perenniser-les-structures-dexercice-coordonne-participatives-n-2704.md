@@ -4,9 +4,9 @@ draft = false
 title = "Pérenniser les structures d'exercice coordonné participatives - N° 2704"
 auteurs = ["Sandrine Runel","Jérôme Guedj","Marie-José Allemand","Joël Aviragnet","Fabrice Barusseau","Karim Benbrahim","Mickaël Bouloux","Dorine Bregman","Colette Capdevielle","Paul Christophle","Arthur Delaporte","Inaki Echaniz","Denis Fégné","Martine Froger","Sacha Houlié","Fatiha Keloua Hachi","Laurent Lhardit","Jacques Oberti","Christine Pirès Beaune","Valérie Rossi","Sébastien Saint-Pasteur","Arnaud Simion"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/perenniser_structures_exercice_coordonne_participatives_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Solidarité","Budget"]
 +++
 

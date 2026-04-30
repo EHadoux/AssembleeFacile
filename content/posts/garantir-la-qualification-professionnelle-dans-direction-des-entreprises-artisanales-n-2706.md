@@ -4,9 +4,9 @@ draft = false
 title = "Garantir la qualification professionnelle dans la direction des entreprises artisanales - N° 2706"
 auteurs = ["Christelle D’Intorni","Matthieu Bloch","Pierre-Henri Carbonnel","Vincent Trébuchet","Antoine Valentin","Gérault Verny","Romain Baubry","José Beaurain","Caroline Colombier","Christian Girard","Nadine Lechon","Michèle Martinez","Serge Muller"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_garantir_la_qualification_dans_la_direction_des_entreprises_artisanales_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Artisanat","Économie","Travail"]
 +++
 
