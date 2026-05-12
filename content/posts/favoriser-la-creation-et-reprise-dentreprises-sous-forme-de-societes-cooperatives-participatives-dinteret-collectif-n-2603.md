@@ -4,9 +4,9 @@ draft = false
 title = "Favoriser la création et la reprise d’entreprises sous forme de sociétés coopératives et participatives et de sociétés coopératives d’intérêt collectif - N° 2603"
 auteurs = ["Michel Castellani"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/favoriser_creation_et_reprise_entreprises_sous_forme_societes_cooperatives_participatives_et_societes_cooperatives_interet_collectif_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
-stepsDate = ["Vendredi 27 mars 2026","Vendredi 27 mars 2026"]
-stepsStatus = ["","Commission des finances"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Vendredi 27 mars 2026","Vendredi 27 mars 2026","Vendredi 27 mars 2026"]
+stepsStatus = ["","Commission des finances",""]
 tags = ["Économie sociale et solidaire","Économie","Travail"]
 +++
 

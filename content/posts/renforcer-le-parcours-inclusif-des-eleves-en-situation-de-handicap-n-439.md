@@ -6,7 +6,7 @@ auteurs = ["Julie Delpech","Belkhir Belhaddad","Hervé Berville","Anthony Brosse
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_parcours_inclusif_eleves_handicap"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Commission Mixte Paritaire","Renvoi en commission","Nouvelle lecture à l'Assemblée nationale"]
 stepsDate = ["Mardi 15 octobre 2024","Mardi 15 octobre 2024","Mardi 15 octobre 2024","Mardi 6 mai 2025","Mardi 6 mai 2025","Vendredi 20 juin 2025","Jeudi 19 juin 2025","Jeudi 19 juin 2025"]
-stepsStatus = ["","Commission des affaires culturelles","Texte adopté ✔️","Commission des affaires étrangères (Sénat)","Texte modifié","Désaccord","Commission des affaires culturelles",""]
+stepsStatus = ["","Commission des affaires culturelles","Texte adopté ✔️","Commission des affaires étrangères (Sénat)","Texte modifié","Désaccord","Commission des affaires culturelles","Texte adopté ✔️"]
 tags = ["Handicap","Éducation","Solidarité"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "La souveraineté de la France - N° 2766"
 auteurs = ["Éric Michoux","Matthieu Bloch","Pierre-Henri Carbonnel","Bernard Chaix","Marc Chavent","Christelle D’Intorni","Olivier Fayssat","Antoine Valentin","Véronique Besse","Aurélien Dutremble","Nadine Lechon","Alexandre Loubet","Sophie-Laurence Roy","Nicolas Meizonnet","Philippe Lottiaux","Jérôme Buisson"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/pplc_souverainete_de_la_France"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 7 mai 2026","Jeudi 7 mai 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Économie","Industrie","Santé"]
 +++
 
