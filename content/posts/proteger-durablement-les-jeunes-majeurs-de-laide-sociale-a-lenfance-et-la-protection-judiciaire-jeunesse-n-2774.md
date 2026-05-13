@@ -4,9 +4,9 @@ draft = false
 title = "Protéger durablement les jeunes majeurs de l’aide sociale à l’enfance et de la protection judiciaire de la jeunesse - N° 2774"
 auteurs = ["Marianne Maximi","Ayda Hadizadeh","Eva Sas","Karine Lebon","Arnaud Bonnet","Stéphane Lenormand","Marie Mesmeur","Sabrina Sebaihi","Mereana Reid Arbelot","Colette Capdevielle","Benoît Biteau","Jean-Claude Raux","Isabelle Santiago","Nicolas Bonnet","Jean-Louis Roumégas","Christine Pirès Beaune","Léa Balage El Mariky","Zahia Hamdane","Catherine Hervieu","Céline Hervieu","Alexis Corbière","Lisa Belluco","Julie Ozenne","Céline Thiébault-Martinez","Jérémie Iordanoff","Boris Tavernier","Rodrigo Arenas","Christine Arrighi","Peio Dufau","Sandrine Rousseau","Charles Fournier","Dominique Voynet","Dorine Bregman","Arthur Delaporte","Anne Stambach-Terrenoir","Marie-Charlotte Garin","Estelle Mercier","Inaki Echaniz","Claudia Rouaux"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_jeunes_aide_sociale_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 12 mai 2026","Mardi 12 mai 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Solidarité","Jeunesse","Famille"]
 +++
 

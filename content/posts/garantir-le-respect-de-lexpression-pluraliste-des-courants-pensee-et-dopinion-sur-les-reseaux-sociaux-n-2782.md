@@ -4,9 +4,9 @@ draft = false
 title = "Garantir le respect de l’expression pluraliste des courants de pensée et d’opinion sur les réseaux sociaux - N° 2782"
 auteurs = ["Paul Midy"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_respect_expression_pluraliste_courants_pensee_opinion_reseaux_sociaux_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 12 mai 2026","Mardi 12 mai 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Numérique","Action publique","Jeunesse"]
 +++
 

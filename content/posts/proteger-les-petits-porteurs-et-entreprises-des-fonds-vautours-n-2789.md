@@ -4,9 +4,9 @@ draft = false
 title = "Protéger les petits porteurs et les entreprises des fonds vautours - N° 2789"
 auteurs = ["Gérault Verny","Éric Ciotti","Alexandre Allegret-Pilot","Charles Alloncle","Matthieu Bloch","Pierre-Henri Carbonnel","Bernard Chaix","Marc Chavent","Christelle D'Intorni","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Maxime Michelet","Éric Michoux","Sophie Ricourt Vaginay","Vincent Trébuchet","Antoine Valentin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_petits_porteurs_fonds_vautours_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 12 mai 2026","Mardi 12 mai 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Économie","Finances"]
 +++
 

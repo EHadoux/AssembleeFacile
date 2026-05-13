@@ -4,9 +4,9 @@ draft = false
 title = "Reconnaitre la fibromyalgie comme une affection longue durée - N° 2793"
 auteurs = ["Gérard Leseul","Joël Aviragnet","Fabrice Barusseau","Laurent Baumel","Karim Benbrahim","Mickaël Bouloux","Philippe Brun","Colette Capdevielle","Pierrick Courbon","Arthur Delaporte","Fanny Dombre Coste","Inaki Echaniz","Olivier Faure","Denis Fégné","Guillaume Garot","Florence Herouin-Léautey","Chantal Jourdan","Fatiha Keloua Hachi","Estelle Mercier","Christine Pirès Beaune","Dominique Potier","Pierre Pribetich","Marie Récalde","Valérie Rossi","Claudia Rouaux","Fabrice Roussel","Sébastien Saint-Pasteur","Hervé Saulignac","Thierry Sother"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_reconnaitre_la_fibromyalgie_comme_une_affection_longue_duree_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 12 mai 2026","Mardi 12 mai 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Solidarité"]
 +++
 

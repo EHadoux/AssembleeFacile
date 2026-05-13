@@ -4,9 +4,9 @@ draft = false
 title = "Rétablir la liberté d'instruction en famille - N° 2776"
 auteurs = ["Christophe Naegelen"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_retablir_la_liberte_dinstruction_en_famille_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 12 mai 2026","Mardi 12 mai 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Famille"]
 +++
 

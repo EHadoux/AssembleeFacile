@@ -4,9 +4,9 @@ draft = false
 title = "Protéger la santé mentale des agricultrices et des agriculteurs - N° 2023"
 auteurs = ["Arnaud Simion","Marie-José Allemand","Joël Aviragnet","Christian Baptiste","Fabrice Barusseau","Marie-Noëlle Battistel","Laurent Baumel","Thibault Bazin","Olivier Becht","Belkhir Belhaddad","Béatrice Bellay","Karim Benbrahim","Benoît Biteau","Émilie Bonnivard","Mickaël Bouloux","Joël Bruneau","Philippe Brun","Françoise Buffet","Elie Califer","Colette Capdevielle","Michel Castellani","Paul Christophle","Pierrick Courbon","Alain David","Arthur Delaporte","Stéphane Delautrette","Dieynaba Diop","Fanny Dombre Coste","Peio Dufau","Inaki Echaniz","Sophie Errante","Romain Eskenazi","Olivier Falorni","Olivier Faure","Denis Fégné","Charles Fournier","Moerani Frébault","Martine Froger","Bruno Fuchs","Guillaume Garot","Océane Godard","Julien Gokel","Pascale Got","Emmanuel Grégoire","Jean-Carles Grelier","Jérôme Guedj","Stéphane Hablot","Ayda Hadizadeh","Florence Herouin-Léautey","Céline Hervieu","François Hollande","Sacha Houlié","Sébastien Huyghe","Chantal Jourdan","Philippe Juvin","Marietta Karamanli","Fatiha Keloua Hachi","Loïc Kervran","Karine Lebon","Stéphane Lenormand","Gérard Leseul","Laurent Lhardit","Max Mathiasin","Estelle Mercier","Paul Molac","Philippe Naillet","Yannick Neuder","Jacques Oberti","Hubert Ott","Sophie Pantel","Constance de Pélichy","Marc Pena","Maud Petit","Anna Pic","Christine Pirès Beaune","Marie Pochon","Jean-François Portarrieu","Dominique Potier","Marie-Agnès Poussier-Winsback","Pierre Pribetich","Christophe Proença","Richard Ramos","Jean-Claude Raux","Marie Récalde","Mereana Reid Arbelot","Valérie Rossi","Claudia Rouaux","Aurélien Rousseau","Fabrice Roussel","Sandrine Runel","Sébastien Saint-Pasteur","Isabelle Santiago","Hervé Saulignac","Thierry Sother","Céline Thiébault-Martinez","Mélanie Thomin","Boris Vallaud","Frédéric Valletoux","Roger Vicot","Corinne Vignon","Jiovanny William"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_sante_mentale_agricultrices_agriculteurs_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
-stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025"]
-stepsStatus = ["","Commission des affaires sociales"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Mardi 28 octobre 2025","Mardi 28 octobre 2025","Mardi 28 octobre 2025"]
+stepsStatus = ["","Commission des affaires sociales",""]
 tags = ["Agriculture","Santé","Action publique"]
 +++
 

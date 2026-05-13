@@ -4,9 +4,9 @@ draft = false
 title = "Pour un paquet neutre pour les produits avec nicotine - N° 2779"
 auteurs = ["Nicolas Thierry","Pierre Cazeneuve"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/pour_un_paquet_neutre_pour_produits_avec_nicotine_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 12 mai 2026","Mardi 12 mai 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Jeunesse","Commerce"]
 +++
 

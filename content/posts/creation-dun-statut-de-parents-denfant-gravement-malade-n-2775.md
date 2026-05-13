@@ -4,9 +4,9 @@ draft = false
 title = "Création d'un statut de parents d'enfant gravement malade - N° 2775"
 auteurs = ["Agnès Firmin Le Bodo"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/creation_statut_parent_enfant_malade_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 12 mai 2026","Mardi 12 mai 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Famille","Santé","Solidarité"]
 +++
 

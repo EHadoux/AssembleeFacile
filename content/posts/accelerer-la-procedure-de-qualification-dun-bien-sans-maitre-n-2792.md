@@ -4,9 +4,9 @@ draft = false
 title = "Accélérer la procédure de qualification d’un bien sans maître - N° 2792"
 auteurs = ["Sandrine Nosbé","Mathilde Panot","Nadège Abomangoli","Laurent Alexandre","Gabriel Amard","Ségolène Amiot","Farida Amrani","Rodrigo Arenas","Raphaël Arnault","Anaïs Belouassa-Cherifi","Shéhérazade Bentorki","Ugo Bernalicis","Christophe Bex","Carlos Martens Bilongo","Manuel Bompard","Idir Boumertit","Louis Boyard","Pierre-Yves Cadalen","Aymeric Caron","Sylvain Carrière","Gabrielle Cathala","Bérenger Cernon","Sophia Chikirou","Hadrien Clouet","Éric Coquerel","Jean-François Coulomme","Sébastien Delogu","Aly Diouara","Alma Dufour","Karen Erodi","Mathilde Feld","Emmanuel Fernandes","Sylvie Ferrer","Perceval Gaillard","Clémence Guetté","Zahia Hamdane","Mathilde Hignet","Andy Kerbrat","Bastien Lachaud","Abdelkader Lahmar","Maxime Laisney","Arnaud Le Gall","Aurélien Le Coq","Antoine Léaument","Élise Leboucher","Jérôme Legavre","Sarah Legrain","Claire Lejeune","Murielle Lepvraud","Élisa Martin","Damien Maudet","Marianne Maximi","Marie Mesmeur","Manon Meunier","Jean-Philippe Nilor","Danièle Obono","Nathalie Oziol","René Pilato","François Piquemal","Thomas Portes","Loïc Prud’homme","Jean-Hugues Ratenon","Arnaud Saint-Martin","Aurélien Saintoul","Ersilia Soudais","Anne Stambach-Terrenoir","Aurélien Taché","Andrée Taurinya","Matthias Tavel","Aurélie Trouvé","Paul Vannier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/procedure_qualification_bien_sans_maitre_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 12 mai 2026","Mardi 12 mai 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Logement","Décentralisation","Urbanisme"]
 +++
 

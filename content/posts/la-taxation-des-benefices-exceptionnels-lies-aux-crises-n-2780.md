@@ -4,9 +4,9 @@ draft = false
 title = "La taxation des bénéfices exceptionnels liés aux crises - N° 2780"
 auteurs = ["Boris Vallaud","Philippe Brun","Estelle Mercier","Marie-José Allemand","Joël Aviragnet","Christian Baptiste","Fabrice Barusseau","Marie-Noëlle Battistel","Laurent Baumel","Belkhir Belhaddad","Béatrice Bellay","Karim Benbrahim","Mickaël Bouloux","Dorine Bregman","Elie Califer","Colette Capdevielle","Paul Christophle","Pierrick Courbon","Alain David","Arthur Delaporte","Stéphane Delautrette","Dieynaba Diop","Fanny Dombre Coste","Peio Dufau","Inaki Echaniz","Romain Eskenazi","Olivier Faure","Denis Fégné","Martine Froger","Guillaume Garot","Océane Godard","Pascale Got","Jérôme Guedj","Stéphane Hablot","Ayda Hadizadeh","Florence Herouin-Léautey","Céline Hervieu","François Hollande","Sacha Houlié","Chantal Jourdan","Marietta Karamanli","Fatiha Keloua Hachi","Gérard Leseul","Laurent Lhardit","Philippe Naillet","Jacques Oberti","Sophie Pantel","Marc Pena","Anna Pic","Christine Pirès Beaune","Dominique Potier","Pierre Pribetich","Christophe Proença","Marie Récalde","Valérie Rossi","Claudia Rouaux","Aurélien Rousseau","Fabrice Roussel","Sandrine Runel","Sébastien Saint-Pasteur","Isabelle Santiago","Hervé Saulignac","Arnaud Simion","Thierry Sother","Céline Thiébault-Martinez","Mélanie Thomin","Roger Vicot","Jiovanny William"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/taxation_benefices_exceptionnels_lies_aux_crises_16e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 12 mai 2026","Mardi 12 mai 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Énergie","Économie","Finances"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Garantir aux enfants placés le bénéfice des prestations familiales - N° 2781"
 auteurs = ["Nathalie Colin-Oesterlé"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_enfants_places_benefice_des_prestations_familiales_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 12 mai 2026","Mardi 12 mai 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Famille","Solidarité","Décentralisation"]
 +++
 

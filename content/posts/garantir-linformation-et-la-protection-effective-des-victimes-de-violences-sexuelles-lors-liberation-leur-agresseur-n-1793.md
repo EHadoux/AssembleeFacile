@@ -6,7 +6,7 @@ auteurs = ["Laure Miller","Virginie Duby-Muller","Christelle Petex","David Amiel
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/information_protection_victimes_violences_sexuelles_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
-stepsStatus = ["","Commission des lois",""]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️"]
 tags = ["Justice","Sécurité","Solidarité"]
 +++
 
