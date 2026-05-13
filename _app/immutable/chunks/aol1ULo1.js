@@ -1,0 +1,16 @@
+const e={date:"2026-05-12",draft:!1,title:"Permettre le financement participatif de la construction des casernes de gendarmerie - N° 2777",auteurs:["Christophe Naegelen"],link:"https://www.assemblee-nationale.fr/dyn/17/dossiers/financement_participatif_construction_casernes_gendarmerie_17e",stepsName:["Dépôt à l'Assemblée nationale","Renvoi en commission"],stepsDate:["Mardi 12 mai 2026","Mardi 12 mai 2026"],stepsStatus:["","Commission des finances"],tags:["Sécurité","Budget","Intérieur"]},t=`<h2>Résumé</h2>
+<p>Face au manque de budget et à la dégradation des bâtiments de la gendarmerie, cette loi propose de permettre aux citoyens de financer eux-mêmes la construction de casernes locales. En échange de leur investissement, ils reçoivent un loyer de l&#39;État pendant 25 ans, avant que le bâtiment ne devienne gratuitement propriété de l&#39;État.</p>
+<h2>Liste des modifications</h2>
+<p><strong>Financement participatif (Article 1)</strong>: Autorisation pour les citoyens de créer des sociétés de projet pour financer des casernes de gendarmerie sur leur territoire.</p>
+<p><strong>Fonctionnement de la société de projet (Article 2)</strong>: La société doit être une SAS, compter entre 50 et 500 actionnaires locaux, limiter l&#39;investissement à 10 000 euros par personne et obtenir un agrément du ministère de l&#39;Intérieur.</p>
+<p><strong>Construction et contrôle (Article 3)</strong>: La société gère les travaux selon un cahier des charges strict du ministère de l&#39;Intérieur, qui contrôle le chantier jusqu&#39;à la livraison.</p>
+<p><strong>Location par l&#39;État (Article 4)</strong>: L&#39;État loue la caserne pendant 25 ans. Le loyer couvre les frais et assure aux citoyens une rémunération limitée à 5 % par an.</p>
+<p><strong>Transfert de propriété (Article 5)</strong>: À la fin du contrat de 25 ans, la caserne devient automatiquement et gratuitement la propriété de l&#39;État.</p>
+<p><strong>Droits et devoirs des citoyens (Article 6)</strong>: Les actionnaires touchent des dividendes et peuvent visiter la caserne (portes ouvertes), mais n&#39;ont aucun droit d&#39;ingérence dans les missions des gendarmes.</p>
+<p><strong>Sanctions et contrôles (Article 7)</strong>: Le ministère peut retirer l&#39;agrément ou sanctionner les actionnaires (jusqu&#39;à 10 000 euros d&#39;amende) en cas de non-respect des règles ou de confidentialité.</p>
+<p><strong>Transparence (Article 8)</strong>: Obligation de publier les comptes et les projets sur internet pour informer le public et les investisseurs.</p>
+<p><strong>Fiscalité (Article 9)</strong>: Définition des taxes appliquées aux revenus des actionnaires et exonération de TVA sur les loyers versés par l&#39;État.</p>
+<p><strong>Réduction d&#39;impôt (Article 10)</strong>: Création d&#39;un avantage fiscal de 18 % du montant investi (limité à 1 800 euros de réduction par an) pour encourager les citoyens à participer.</p>
+<p><strong>Application (Article 11)</strong>: Précision sur la mise en œuvre de la loi par décret et son application sur tout le territoire français.</p>
+<p><strong>Compensation financière (Article 12)</strong>: Les coûts et pertes de recettes pour l&#39;État sont compensés par une taxe sur le tabac.</p>
+`;export{t as default,e as metadata};

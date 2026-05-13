@@ -1,0 +1,5 @@
+const e={date:"2026-05-12",draft:!1,title:"Le taux de sucre dans les confitures - N° 2778",auteurs:["Richard Ramos"],link:"https://www.assemblee-nationale.fr/dyn/17/dossiers/taux_sucre_confitures_17e",stepsName:["Dépôt à l'Assemblée nationale","Renvoi en commission"],stepsDate:["Mardi 12 mai 2026","Mardi 12 mai 2026"],stepsStatus:["","Commission des affaires économiques"],tags:["Santé","Commerce","Agriculture"]},s=`<h2>Résumé</h2>
+<p>Cette proposition vise à lutter contre l&#39;obésité et le diabète en modifiant les règles d&#39;appellation des confitures. Actuellement, un produit doit contenir au moins 55 % de sucre pour être appelé « confiture ». Le texte propose d&#39;abaisser ce seuil à 20 % afin d&#39;encourager la production et la vente de produits moins sucrés sous cette dénomination.</p>
+<h2>Liste des modifications</h2>
+<p><strong>Dénomination des confitures (Article 1)</strong>: Autorise l&#39;utilisation du nom « confiture » pour les produits ayant un taux de sucre (matière sèche soluble) d&#39;au moins 20 %, remplaçant ainsi le seuil réglementaire actuel plus élevé.</p>
+`;export{s as default,e as metadata};
