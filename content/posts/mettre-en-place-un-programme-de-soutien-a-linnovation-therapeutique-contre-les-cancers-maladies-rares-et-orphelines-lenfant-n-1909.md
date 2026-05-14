@@ -6,7 +6,7 @@ auteurs = ["Marie Récalde","Vincent Thiébaut","Boris Vallaud","Olivier Faure",
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_mettre_en_place_programme_de_soutien_innovation_therapeutique_contre_cancers_maladies_rares_et_orphelines_enfant_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Mardi 14 octobre 2025","Mardi 14 octobre 2025","Mardi 14 octobre 2025"]
-stepsStatus = ["","Commission des affaires sociales",""]
+stepsStatus = ["","Commission des affaires sociales","Texte adopté ✔️"]
 tags = ["Santé","Économie","Industrie"]
 +++
 

@@ -2,11 +2,11 @@
 date = 2026-05-13
 draft = false
 title = "Proposition de loi visant à lutter contre l'entrisme islamiste en France - N° 2752"
-auteurs = ["Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53936"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Lundi 16 mars 2026","Lundi 16 mars 2026","Lundi 16 mars 2026","Mercredi 6 mai 2026"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois"]
 tags = ["Intérieur","Justice","Sécurité"]
 +++
 

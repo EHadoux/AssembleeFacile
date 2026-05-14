@@ -6,7 +6,7 @@ auteurs = ["Jean-Pierre Vigier","Xavier Roseren","Laurent Wauquiez","Paul Christ
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/montagne_vivante_souveraine_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Vendredi 27 mars 2026","Vendredi 27 mars 2026","Vendredi 27 mars 2026"]
-stepsStatus = ["","Commission du développement durable",""]
+stepsStatus = ["","Commission du développement durable","Texte adopté ✔️"]
 tags = ["Aménagement du territoire","Ruralité","Écologie"]
 +++
 
