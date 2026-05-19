@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à donner aux acteurs locaux les moyens de lutter contre la cabanisation - N° 2764"
 auteurs = ["Gérard Larcher","Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53956"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Lundi 23 mars 2026","Lundi 23 mars 2026","Lundi 23 mars 2026","Mercredi 6 mai 2026"]
+stepsStatus = ["","Commission des affaires économiques (Sénat)","Texte adopté ✔️","Commission des affaires économiques"]
 tags = ["Urbanisme","Intérieur","Aménagement du territoire"]
 +++
 

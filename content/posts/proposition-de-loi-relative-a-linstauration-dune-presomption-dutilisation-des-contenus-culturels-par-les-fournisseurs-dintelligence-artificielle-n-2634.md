@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi relative à l’instauration d’une présomption d’utilisation des contenus culturels par les fournisseurs d’intelligence artificielle - N° 2634"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53359"
-stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
-stepsDate = ["Vendredi 12 décembre 2025","Vendredi 12 décembre 2025","Vendredi 12 décembre 2025","Jeudi 9 avril 2026"]
-stepsStatus = ["","Commission des affaires étrangères (Sénat)","Texte adopté ✔️","Commission des affaires culturelles"]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Vendredi 12 décembre 2025","Vendredi 12 décembre 2025","Vendredi 12 décembre 2025","Jeudi 9 avril 2026","Jeudi 9 avril 2026"]
+stepsStatus = ["","Commission des affaires étrangères (Sénat)","Texte adopté ✔️","Commission des affaires culturelles",""]
 tags = ["Intelligence artificielle","Culture","Justice"]
 +++
 

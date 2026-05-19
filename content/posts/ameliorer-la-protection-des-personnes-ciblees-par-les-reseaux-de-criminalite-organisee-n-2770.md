@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer la protection des personnes ciblées par les réseaux de criminalité organisée - N° 2770"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ameliorer_protection_personnes_ciblees_reseaux_criminalite_organisee_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025","Mardi 23 décembre 2025","Jeudi 12 février 2026","Jeudi 12 février 2026","Lundi 11 mai 2026"]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)","Texte rejeté","Commission des lois"]
 tags = ["Justice","Sécurité"]
 +++
 

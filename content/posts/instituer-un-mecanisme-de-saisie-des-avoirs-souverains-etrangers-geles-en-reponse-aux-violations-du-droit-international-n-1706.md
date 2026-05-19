@@ -5,9 +5,9 @@ draft = false
 title = "Instituer un mécanisme de saisie des avoirs souverains étrangers gelés en réponse aux violations du droit international - N° 1706"
 auteurs = ["Laurent Mazaury","Léa Balage El Mariky","Thierry Sother","Constance Le Grip","Gabriel Attal","Laurent Panifous","Joël Bruneau","Constance de Pélichy","Michel Castellani","Jean-Didier Berger","Paul Molac","Frédéric Petit","Anne-Sophie Ronceret","Stéphane Viry","Estelle Youssouffa","Jean-Pierre Bataille","Harold Huwart","Salvatore Castiglione","Stéphane Lenormand","David Taupiac","Audrey Abadie-Amiel","Paul-André Colombani","Yannick Favennec-Bécot","Tristan Lahais","Colette Capdevielle","Maud Petit","Christophe Marion","Damien Girard","Danielle Simonnet","Bertrand Bouyx","Christine Pirès Beaune","Romain Daubié","Inaki Echaniz","Julie Delpech","Lionel Vuibert","Émilie Bonnivard","Béatrice Piron","Marie-Agnès Poussier-Winsback","Michèle Tabarot","Sylvain Berrios","Delphine Lingemann","Pieyre-Alexandre Anglade","Valérie Rossi","Julie Ozenne","Philippe Bonnecarrère","Alexandre Portier","Valérie Létard","Brigitte Klinkert","Jean-Claude Raux","Jérémie Iordanoff","Sophie Taillé-Polian","Lisa Belluco","Eric Liégeon","Eva Sas","Catherine Hervieu","Dominique Voynet","Charles Fournier","Cyrielle Chatelain","Marie Pochon","Boris Tavernier","Philippe Gosselin","Liliana Tanguy","Nathalie Coggia","Boris Vallaud"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/saisie_avoirs_violations_droit_international_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Vendredi 11 juillet 2025","Vendredi 11 juillet 2025","Vendredi 11 juillet 2025"]
-stepsStatus = ["","Commission des finances",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 11 juillet 2025","Vendredi 11 juillet 2025"]
+stepsStatus = ["","Commission des finances"]
 +++
 
 ## Résumé

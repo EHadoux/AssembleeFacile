@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la protection des mineurs en formation professionnelle - N° 2707"
 auteurs = ["Elsa Faucillon","Édouard Bénard","Soumya Bourouaha","Julien Brugerolles","Jean-Victor Castor","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Emmanuel Maurel","Yannick Monnet","Marcellin Nadeau","Stéphane Peu","Mereana Reid Arbelot","Davy Rimane","Nicolas Sansu","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_renforcer_la_protection_des_mineurs_en_formation_professionnelle_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
-stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026"]
-stepsStatus = ["","Commission des affaires sociales"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission des affaires sociales",""]
 tags = ["Travail","Jeunesse","Sécurité"]
 +++
 
