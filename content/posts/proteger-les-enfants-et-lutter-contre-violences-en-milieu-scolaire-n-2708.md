@@ -4,9 +4,9 @@ draft = false
 title = "Protéger les enfants et lutter contre les violences en milieu scolaire - N° 2708"
 auteurs = ["Violette Spillebout"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_proteger_enfants_et_lutter_contre_les_violences_en_milieu_scolaire_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026","Mardi 28 avril 2026"]
+stepsStatus = ["","Commission des affaires culturelles",""]
 tags = ["Éducation","Justice","Sécurité"]
 +++
 
