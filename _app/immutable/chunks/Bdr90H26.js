@@ -1,6 +1,0 @@
-const e={date:"2026-05-18",draft:!1,title:"Proposition de loi organique portant actualisation du corps électoral pour les élections au congrès et aux assemblées de province de la Nouvelle-Calédonie - N° 2804",auteurs:["M. Le Président du Sénat"],link:"https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52104",stepsName:["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"],stepsDate:["Vendredi 16 mai 2025","Vendredi 16 mai 2025","Vendredi 16 mai 2025","Lundi 18 mai 2026"],stepsStatus:["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois"],tags:["Outre-mer","Intérieur","Action publique"]},s=`<h2>Résumé</h2>
-<p>Cette proposition de loi vise à ouvrir le corps électoral pour les élections provinciales en Nouvelle-Calédonie à toutes les personnes qui y sont nées, à condition qu&#39;elles soient inscrites sur la liste électorale générale.</p>
-<h2>Liste des modifications</h2>
-<p><strong>Élargissement du corps électoral (Article 1)</strong>: Autorise les personnes nées en Nouvelle-Calédonie et inscrites sur la liste électorale générale à voter aux élections du congrès et des assemblées de province.</p>
-<p><strong>Entrée en vigueur (Article 2)</strong>: Précise que la loi s&#39;applique dès le lendemain de sa publication officielle.</p>
-`;export{s as default,e as metadata};
