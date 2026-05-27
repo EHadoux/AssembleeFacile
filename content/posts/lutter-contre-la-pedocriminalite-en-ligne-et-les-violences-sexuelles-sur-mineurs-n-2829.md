@@ -4,9 +4,9 @@ draft = false
 title = "Lutter contre la pédocriminalité en ligne et les violences sexuelles sur mineurs - N° 2829"
 auteurs = ["Alexandra Martin","Josiane Corneloup","Eric Liégeon","Alix Fruchon","Nicolas Ray","Éric Pauget","Christophe Plassard","Ian Boucard","Pierre Cordier","Mereana Reid Arbelot","Michel Castellani","Jérôme End","Patrick Hetzel","Karine Lebon","Jean-Pierre Taite","Valérie Bazin-Malgras","Catherine Ibled","Liliana Tanguy","Marie-Christine Dalloz","Benoît Blanchard","Thierry Liger","Thibault Bazin","Sylvie Bonnet","Christophe Naegelen","Michel Herbillon","Yannick Neuder","Philippe Juvin","Constance De Pélichy","Stéphane Viry","Annie Vidal","Didier Padey","Lise Magnier","Émilie Bonnivard","Laure Miller","Vincent Descoeur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_contre_pedocriminalite_ligne_violences_sexuelles_mineurs_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 26 mai 2026","Mardi 26 mai 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Numérique","Intelligence artificielle"]
 +++
 

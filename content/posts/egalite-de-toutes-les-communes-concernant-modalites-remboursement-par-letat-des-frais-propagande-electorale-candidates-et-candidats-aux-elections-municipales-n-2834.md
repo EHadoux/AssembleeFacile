@@ -4,9 +4,9 @@ draft = false
 title = "Égalité de toutes les communes concernant les modalités de remboursement par l’État des frais de propagande électorale des candidates et candidats aux élections municipales - N° 2834"
 auteurs = ["Delphine Batho"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/egalite_communes_modalites_remboursement_propagande_electorale_candidates_candidats_elections_municicpales_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 26 mai 2026","Mardi 26 mai 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Ruralité"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Créer un corps de directeurs des écoles publiques - N° 2828"
 auteurs = ["Roger Chudeau","Florence Joubert","Maxime Amblard","Bénédicte Auzanot","Philippe Ballard","Romain Baubry","Christophe Bentz","Jorys Bovet","Eddy Casterman","Bernard Chaumeil","Catherine Dellong Meng","Jocelyn Dessigny","Edwige Diaz","Sandrine Dogor-Such","Nicolas Dragon","Alexandre Dufosset","Aurélien Dutremble","Auguste Evrard","Emmanuel Fouquart","Thierry Frappé","Frank Giletti","Florence Goulet","Julien Guibert","Michel Guiniot","Marine Hamelet","Sébastien Humbert","Tiffany Joncour","Édouard Jordan","Sylvie Josserand","Hélène Laporte","Robert Le Bourgeois","Julie Lechanteux","Nadine Lechon","Hervé De Lépinau","René Lioret","Marie-France Lorho","Philippe Lottiaux","Alexandre Loubet","Matthieu Marchio","Kévin Mauvieux","Nicolas Meizonnet","Joëlle Mélin","Yaël Ménaché","Thomas Ménagé","Serge Muller","Julien Odoul","Caroline Parmentier","Thierry Perez","Kévin Pfeffer","Lisette Pollet","Stéphane Rambaud","Angélique Ranc","Julien Rancoule","Catherine Rimbert","Sophie-Laurence Roy","Anaïs Sabatini","Alexandre Sabatou","Emmanuel Taché","Jean-Philippe Tanguy","Thierry Tesson","Lionel Tivoli","Cyril Tribuiani","Frédéric-Pierre Vos","Thibaut Monnier","Anne Sicard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/corps_directeurs_ecoles_publiques_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 26 mai 2026","Mardi 26 mai 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Fonction publique"]
 +++
 

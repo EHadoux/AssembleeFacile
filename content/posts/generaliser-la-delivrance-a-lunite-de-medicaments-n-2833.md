@@ -4,9 +4,9 @@ draft = false
 title = "Généraliser la délivrance à l’unité de médicaments - N° 2833"
 auteurs = ["Kévin Mauvieux","Jean-Philippe Tanguy","Angélique Ranc","Alexandre Dufosset","Nadine Lechon","Philippe Ballard","Katiana Levavasseur","Lisette Pollet","Emeric Salmon","Guillaume Bigot","Anaïs Sabatini","Jonathan Gery","Michaël Taverne","Emmanuel Taché","Sébastien Chenu","Philippe Lottiaux","René Lioret","Julie Lechanteux","Nicolas Dragon","Manon Bouquin","Guillaume Florquin","Emmanuel Blairy","Jocelyn Dessigny","Frédéric Falcon","Robert Le Bourgeois","Thierry Tesson","Serge Muller","Jérôme Buisson","David Magnier","Yaël Ménaché","Romain Tonussi","José Gonzalez","Thierry Perez","Roger Chudeau","Christophe Bentz","Stéphane Rambaud","Sandra Delannoy","Bénédicte Auzanot","Frank Giletti","Yoann Gillet","Marie-France Lorho","Gisèle Lelouis","Stéphanie Galzy","Anthony Boulogne","Laurence Robert-Dehault","Patrice Martin","Auguste Evrard","Pierre Meurin","Nicolas Meizonnet","Romain Baubry","Alexandre Allegret-Pilot","Bernard Chaix","Éric Michoux","Jordan Guitton"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/generaliser_delivrance_unite_medicaments_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 26 mai 2026","Mardi 26 mai 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Économie","Écologie"]
 +++
 

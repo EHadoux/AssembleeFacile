@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer l’accès aux soins non programmés par le développement des structures de soins de proximité - N° 2830"
 auteurs = ["Véronique Besse"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_acces_soins_non_programmes_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 26 mai 2026","Mardi 26 mai 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Action publique"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Lutter contre les violences morales sexistes et sexuelles dans la culture - N° 2824"
 auteurs = ["Erwan Balanant","Sandrine Rousseau","Pouria Amirshahi","Lisa Belluco","Benoît Blanchard","Arnaud Bonnet","Dorine Bregman","Colette Capdevielle","Virginie Duby-Muller","Charles Fournier","Marie-Charlotte Garin","Damien Girard","Steevy Gustave","Catherine Hervieu","Fatiha Keloua Hachi","Julie Laernoes","Tristan Lahais","Karine Lebon","Éric Martineau","Julie Ozenne","Didier Padey","Constance de Pélichy","Loïc Prud'homme","Jean-Claude Raux","Marie Récalde","Sandra Regol","Eva Sas","Sabrina Sebaihi","Céline Thiébault-Martinez"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutte_violences_sexuelles_morales_culture_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 26 mai 2026","Mardi 26 mai 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Culture","Droits des femmes","Justice"]
 +++
 

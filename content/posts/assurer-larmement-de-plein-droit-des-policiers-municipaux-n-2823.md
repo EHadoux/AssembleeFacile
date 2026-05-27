@@ -4,9 +4,9 @@ draft = false
 title = "Assurer l’armement de plein droit des policiers municipaux - N° 2823"
 auteurs = ["Laurent Croizier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_assurer_armement_de_plein_droit_des_policiers_municipaux_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 26 mai 2026","Mardi 26 mai 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Intérieur"]
 +++
 

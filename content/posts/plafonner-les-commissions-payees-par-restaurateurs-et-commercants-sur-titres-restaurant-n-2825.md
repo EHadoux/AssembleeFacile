@@ -4,9 +4,9 @@ draft = false
 title = "Plafonner les commissions payées par les restaurateurs et commerçants sur les titres restaurant - N° 2825"
 auteurs = ["Christophe Naegelen"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_plafonner_les_commissions_payees_par_les_restaurateurs_et_commercants_sur_les_titres_restaurant_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 26 mai 2026","Mardi 26 mai 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Commerce","Économie"]
 +++
 

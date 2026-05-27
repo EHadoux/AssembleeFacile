@@ -4,9 +4,9 @@ draft = false
 title = "Le calcul de la pension civile des fonctionnaires de l’État dans les collectivités du Pacifique - N° 2821"
 auteurs = ["Mereana Reid Arbelot","Emmanuel Tjibau"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/pension_fonctionnaires_collectivites_pacifique_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 26 mai 2026","Mardi 26 mai 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Outre-mer","Fonction publique","Solidarité"]
 +++
 
