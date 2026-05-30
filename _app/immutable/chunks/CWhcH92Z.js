@@ -1,0 +1,19 @@
+const e={date:"2026-05-26",draft:!1,title:"Renforcer l’accès aux soins non programmés par le développement des structures de soins de proximité - N° 2830",auteurs:["Véronique Besse"],link:"https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_acces_soins_non_programmes_17e",stepsName:["Dépôt à l'Assemblée nationale","Renvoi en commission"],stepsDate:["Mardi 26 mai 2026","Mardi 26 mai 2026"],stepsStatus:["","Commission des affaires sociales"],tags:["Santé","Action publique"]},s=`<h2>Résumé</h2>
+<p>Cette proposition de loi vise à donner un cadre juridique officiel aux structures de soins non programmés (comme les centres médicaux de soins immédiats). L&#39;objectif est de désengorger les urgences hospitalières en facilitant l&#39;installation de ces centres de proximité, tout en garantissant leur viabilité économique et leur intégration dans le système de santé actuel.</p>
+<h2>Liste des modifications</h2>
+<p><strong>Liberté de création (Article 1)</strong>: Les professionnels de santé peuvent créer librement des structures de soins non programmés sans autorisation préalable, à condition de respecter un cahier des charges national.</p>
+<p><strong>Accès direct des patients (Article 2)</strong>: Ces structures participent au Service d&#39;Accès aux Soins (SAS) mais conservent le droit d&#39;accueillir des patients directement, sans orientation préalable par un médecin ou le 15.</p>
+<p><strong>Liberté d&#39;implantation (Article 3)</strong>: L&#39;installation de ces centres ne peut pas être limitée par des quotas ou des mécanismes de régulation quantitative.</p>
+<p><strong>Volontariat (Article 4)</strong>: La participation des professionnels de ces centres à la permanence des soins (gardes) se fait uniquement sur la base du volontariat.</p>
+<p><strong>Simplification administrative (Article 5)</strong>: Les médecins de ces structures n&#39;ont plus l&#39;obligation de soumettre leurs contrats pour approbation à l&#39;Ordre, mais seulement pour information.</p>
+<p><strong>Régulation des infirmiers (Article 6)</strong>: L&#39;activité des infirmiers dans ces centres n&#39;est pas comptabilisée comme du libéral classique et n&#39;est donc pas soumise aux restrictions d&#39;installation en zones surdotées.</p>
+<p><strong>Rémunération spécifique (Article 7)</strong>: Création d&#39;un nouveau mode de financement comprenant un acte spécifique de soin non programmé et une dotation pour couvrir les frais de plateau technique et de personnel.</p>
+<p><strong>Actes infirmiers (Article 8)</strong>: Création d&#39;un acte spécifique rémunéré pour la sécurisation clinique effectuée par les infirmiers dans ces structures.</p>
+<p><strong>Analyses biologiques (Article 9)</strong>: Autorisation pour ces centres de réaliser certains examens de biologie médicale rapides sous la responsabilité d&#39;un laboratoire.</p>
+<p><strong>Gestion des honoraires et forme sociale (Article 10 et 11)</strong>: Les structures peuvent encaisser directement les honoraires et adopter des formes de sociétés pluriprofessionnelles.</p>
+<p><strong>Aides financières (Article 12 et 13)</strong>: Extension du financement des assistants médicaux et des accords interprofessionnels à ces structures.</p>
+<p><strong>Circuit du médicament (Article 14)</strong>: Possibilité de passer des conventions avec les pharmacies d&#39;hôpitaux pour sécuriser l&#39;approvisionnement en médicaments.</p>
+<p><strong>Systèmes d&#39;information (Article 15)</strong>: Reconnaissance de ces structures comme entités juridiques dans les logiciels de santé pour simplifier la facturation.</p>
+<p><strong>Formation (Article 16)</strong>: Possibilité pour ces centres d&#39;accueillir des étudiants en santé en stage.</p>
+<p><strong>Délai de négociation (Article 17)</strong>: Si aucun accord sur les tarifs n&#39;est trouvé avec l&#39;Assurance Maladie sous 12 mois, l&#39;État fixera les prix par arrêté.</p>
+`;export{s as default,e as metadata};
