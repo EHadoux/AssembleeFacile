@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi organique portant actualisation du corps électoral pour les élections au congrès et aux assemblées de province de la Nouvelle-Calédonie - N° 2804"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52104"
-stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale","Conseil constitutionnel"]
-stepsDate = ["Vendredi 16 mai 2025","Vendredi 16 mai 2025","Vendredi 16 mai 2025","Lundi 18 mai 2026","Lundi 18 mai 2026","Jeudi 21 mai 2026"]
-stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Texte adopté ✔️",""]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale","Conseil constitutionnel","Promulgation de la loi"]
+stepsDate = ["Vendredi 16 mai 2025","Vendredi 16 mai 2025","Vendredi 16 mai 2025","Lundi 18 mai 2026","Lundi 18 mai 2026","Jeudi 21 mai 2026","Jeudi 28 mai 2026"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois","Texte adopté ✔️","Conforme",""]
 tags = ["Outre-mer","Intérieur","Action publique"]
 +++
 

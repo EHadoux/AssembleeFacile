@@ -6,7 +6,7 @@ auteurs = ["Valérie Létard","Joël Bruneau","Charles De Courson","Stéphane Le
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/mobilisation_habitant_existant_crise_logement_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026","Mardi 14 avril 2026"]
-stepsStatus = ["","Commission des affaires économiques",""]
+stepsStatus = ["","Commission des affaires économiques","Texte adopté ✔️"]
 tags = ["Logement","Artisanat","Économie"]
 +++
 

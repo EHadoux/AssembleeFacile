@@ -6,7 +6,7 @@ auteurs = ["Max Mathiasin","Olivier Serva","Jean-Pierre Bataille","Joël Bruneau
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/abrogation_code_noir"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025","Mardi 16 septembre 2025"]
-stepsStatus = ["","Commission des lois",""]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️"]
 tags = ["Justice","Droits des femmes","Discriminations"]
 +++
 

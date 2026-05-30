@@ -4,9 +4,9 @@ draft = false
 title = "Encourager les partenariats entre les collectivités territoriales et les personnes morales de droit privé en matière d'acquisition, de réalisation ou de rénovation d'équipements sportifs - N° 2667"
 auteurs = ["Joël Bruneau"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/encourager_partenariat_collectivites_personnes_morales_equipement_sportifs_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026","Mardi 14 avril 2026"]
-stepsStatus = ["","Commission des affaires culturelles",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 14 avril 2026","Mardi 14 avril 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Sports","Action publique","Finances"]
 +++
 
