@@ -4,9 +4,9 @@ draft = false
 title = "Suspendre le regroupement familial et la réunification familiale des étrangers bénéficiaires de la protection subsidiaire - N° 2785"
 auteurs = ["Bartolomé Lenoir","Éric Ciotti","Alexandre Allegret-Pilot","Charles Alloncle","Matthieu Bloch","Pierre-Henri Carbonnel","Bernard Chaix","Marc Chavent","Christelle D'Intorni","Olivier Fayssat","Hanane Mansouri","Maxime Michelet","Éric Michoux","Sophie Ricourt Vaginay","Vincent Trébuchet","Antoine Valentin","Gérault Verny"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/suspendre_regroupement_familial_reunification_familiale_etrangers_beneficiaires_protection_subsidiaire_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
-stepsDate = ["Mardi 12 mai 2026","Mardi 12 mai 2026"]
-stepsStatus = ["","Commission des lois"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Mardi 12 mai 2026","Mardi 12 mai 2026","Mardi 12 mai 2026"]
+stepsStatus = ["","Commission des lois",""]
 tags = ["Intérieur","Sécurité","Famille"]
 +++
 

@@ -6,7 +6,7 @@ auteurs = ["Mereana Reid Arbelot","Emmanuel Tjibaou","Mikaele Seo","Édouard Bé
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/pour_egalite_acces_soins_ressortissants_ultramarins_hexagone_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025","Mardi 23 décembre 2025"]
-stepsStatus = ["","Commission des affaires sociales",""]
+stepsStatus = ["","Commission des affaires sociales","Texte adopté ✔️"]
 tags = ["Outre-mer","Santé"]
 +++
 

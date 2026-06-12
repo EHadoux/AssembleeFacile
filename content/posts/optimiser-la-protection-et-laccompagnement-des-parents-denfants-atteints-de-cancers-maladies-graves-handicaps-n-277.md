@@ -6,7 +6,7 @@ auteurs = ["Vincent Thiébaut","Laurent Marcangeli","Paul Christophe","Anne-Céc
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/accompagnement_parents_enfants_cancers_maladies_handicaps2"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Deuxième lecture à l'Assemblée nationale"]
 stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024","Mardi 17 septembre 2024","Mercredi 4 décembre 2024","Mercredi 4 décembre 2024","Jeudi 26 février 2026","Jeudi 26 février 2026"]
-stepsStatus = ["","Commission des affaires sociales","Texte adopté ✔️","Commission des affaires sociales (Sénat)","Texte modifié","Commission des affaires sociales",""]
+stepsStatus = ["","Commission des affaires sociales","Texte adopté ✔️","Commission des affaires sociales (Sénat)","Texte modifié","Commission des affaires sociales","Texte adopté ✔️"]
 tags = ["Famille","Handicap","Solidarité"]
 +++
 

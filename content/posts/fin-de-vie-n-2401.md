@@ -4,9 +4,9 @@ draft = false
 title = "Fin de vie - N° 2401"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/fin_de_vie_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Deuxième lecture à l'Assemblée nationale","Renvoi en commission","Deuxième lecture au Sénat","Commission Mixte Paritaire"]
-stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025","Mardi 11 mars 2025","Mardi 27 mai 2025","Mardi 27 mai 2025","Mercredi 28 janvier 2026","Mercredi 28 janvier 2026","Mercredi 25 février 2026","Mercredi 25 février 2026","Mardi 12 mai 2026"]
-stepsStatus = ["","Commission des affaires sociales","Texte adopté ✔️","Commission des affaires sociales (Sénat)","Texte rejeté","Commission des affaires sociales","Texte adopté ✔️","Commission des affaires sociales (Sénat)","Texte rejeté",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Deuxième lecture à l'Assemblée nationale","Renvoi en commission","Deuxième lecture au Sénat","Commission Mixte Paritaire","Renvoi en commission","Nouvelle lecture à l'Assemblée nationale"]
+stepsDate = ["Mardi 11 mars 2025","Mardi 11 mars 2025","Mardi 11 mars 2025","Mardi 27 mai 2025","Mardi 27 mai 2025","Mercredi 28 janvier 2026","Mercredi 28 janvier 2026","Mercredi 25 février 2026","Mercredi 25 février 2026","Mardi 19 mai 2026","Mardi 12 mai 2026","Mardi 12 mai 2026"]
+stepsStatus = ["","Commission des affaires sociales","Texte adopté ✔️","Commission des affaires sociales (Sénat)","Texte rejeté","Commission des affaires sociales","Texte adopté ✔️","Commission des affaires sociales (Sénat)","Texte rejeté","Désaccord","Commission des affaires sociales",""]
 tags = ["Santé","Justice","Outre-mer"]
 +++
 

@@ -6,7 +6,7 @@ auteurs = ["Soumya Bourouaha","Édouard Bénard","Julien Brugerolles","Jean-Vict
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reforme_bourses_criteres_sociaux_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Mardi 28 avril 2026","Mardi 28 avril 2026","Mardi 28 avril 2026"]
-stepsStatus = ["","Commission des affaires culturelles",""]
+stepsStatus = ["","Commission des affaires culturelles","Texte adopté ✔️"]
 tags = ["Enseignement supérieur","Jeunesse","Solidarité"]
 +++
 
