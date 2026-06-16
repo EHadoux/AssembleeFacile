@@ -4,9 +4,9 @@ draft = false
 title = "Optimiser la protection et l'accompagnement des parents d'enfants atteints de cancers, de maladies graves et de handicaps - N° 2538"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/accompagnement_parents_enfants_cancers_maladies_handicaps2"
-stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Deuxième lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024","Mardi 17 septembre 2024","Mercredi 4 décembre 2024","Mercredi 4 décembre 2024","Jeudi 26 février 2026","Jeudi 26 février 2026"]
-stepsStatus = ["","Commission des affaires sociales","Texte adopté ✔️","Commission des affaires sociales (Sénat)","Texte modifié","Commission des affaires sociales","Texte adopté ✔️"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Deuxième lecture à l'Assemblée nationale","Promulgation de la loi"]
+stepsDate = ["Mardi 17 septembre 2024","Mardi 17 septembre 2024","Mardi 17 septembre 2024","Mercredi 4 décembre 2024","Mercredi 4 décembre 2024","Jeudi 26 février 2026","Jeudi 26 février 2026","Vendredi 12 juin 2026"]
+stepsStatus = ["","Commission des affaires sociales","Texte adopté ✔️","Commission des affaires sociales (Sénat)","Texte modifié","Commission des affaires sociales","Texte adopté ✔️",""]
 tags = ["Handicap","Solidarité","Famille"]
 +++
 

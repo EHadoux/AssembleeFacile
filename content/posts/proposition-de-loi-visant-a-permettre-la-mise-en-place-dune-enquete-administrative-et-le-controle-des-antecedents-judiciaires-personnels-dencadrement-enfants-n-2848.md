@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à permettre la mise en place d’une enquête administrative et le contrôle des antécédents judiciaires des personnels d’encadrement des enfants - N° 2848"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53818"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Mardi 17 février 2026","Mardi 17 février 2026","Mardi 17 février 2026","Jeudi 28 mai 2026"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois"]
 tags = ["Famille","Justice","Jeunesse"]
 +++
 
