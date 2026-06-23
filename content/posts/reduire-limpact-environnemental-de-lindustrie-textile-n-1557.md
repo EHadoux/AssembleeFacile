@@ -6,7 +6,7 @@ auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/impact_environnemental_industrie_textile"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Commission Mixte Paritaire"]
 stepsDate = ["Mardi 30 janvier 2024","Mardi 30 janvier 2024","Mardi 30 janvier 2024","Jeudi 14 mars 2024","Jeudi 14 mars 2024","Mardi 10 juin 2025"]
-stepsStatus = ["","Commission du développement durable","Texte adopté ✔️","Commission du développement durable (Sénat)","Texte modifié",""]
+stepsStatus = ["","Commission du développement durable","Texte adopté ✔️","Commission du développement durable (Sénat)","Texte modifié","Accord"]
 tags = ["Écologie","Industrie","Commerce"]
 +++
 
