@@ -4,9 +4,9 @@ draft = false
 title = "Mettre fin aux discriminations dans l’accès à l’emploi des personnes en situation de handicap - N° 2969"
 auteurs = ["Sébastien Saint-Pasteur","Antoine Vermorel-Marques","Christine Le Nabour","Sébastien Peytavie","Sandrine Le Feur","François Gernigon","Mereana Reid Arbelot","Aurélien Rousseau","Chantal Jourdan","Marie-José Allemand","Joël Aviragnet","Fabrice Barusseau","Marie-Noëlle Battistel","Laurent Baumel","Belkhir Belhaddad","Béatrice Bellay","Karim Benbrahim","Mickaël Bouloux","Dorine Bregman","Philippe Brun","Elie Califer","Colette Capdevielle","Paul Christophle","Pierrick Courbon","Alain David","Arthur Delaporte","Stéphane Delautrette","Dieynaba Diop","Fanny Dombre Coste","Peio Dufau","Iñaki Echaniz","Romain Eskenazi","Olivier Faure","Denis Fégné","Martine Froger","Guillaume Garot","Sabine Gervais","Océane Godard","Pascale Got","Jérôme Guedj","Stéphane Hablot","Ayda Hadizadeh","Florence Herouin-Léautey","Céline Hervieu","François Hollande","Sacha Houlié","Marietta Karamanli","Fatiha Keloua Hachi","Constance Le Grip","Gérard Leseul","Laurent Lhardit","Estelle Mercier","Philippe Naillet","Jacques Oberti","Sophie Panonacle","Sophie Pantel","Marc Pena","Anna Pic","Christine Pirès Beaune","Dominique Potier","Pierre Pribetich","Christophe Proença","Nicolas Ray","Marie Récalde","Valérie Rossi","Claudia Rouaux","Fabrice Roussel","Sandrine Runel","Isabelle Santiago","Hervé Saulignac","Arnaud Simion","Christian Baptiste","Thierry Sother","Céline Thiébault-Martinez","Mélanie Thomin","Boris Vallaud","Roger Vicot","Lionel Vuibert","Dominique Voynet","Jiovanny William"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/fin_discrimination_handicap_acces_emploi_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 juin 2026","Mardi 23 juin 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Handicap","Solidarité","Emploi"]
 +++
 

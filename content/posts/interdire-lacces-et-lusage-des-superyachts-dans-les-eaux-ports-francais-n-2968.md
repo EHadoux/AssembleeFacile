@@ -4,9 +4,9 @@ draft = false
 title = "Interdire l’accès et l’usage des superyachts dans les eaux et ports français - N° 2968"
 auteurs = ["Thomas Portes","Alma Dufour","Antoine Léaument","Mathilde Panot","Nadège Abomangoli","Laurent Alexandre","Gabriel Amard","Ségolène Amiot","Farida Amrani","Rodrigo Arenas","Raphaël Arnault","Anaïs Belouassa-Cherifi","Shéhérazade Bentorki","Ugo Bernalicis","Christophe Bex","Carlos Martens Bilongo","Manuel Bompard","Idir Boumertit","Louis Boyard","Pierre-Yves Cadalen","Aymeric Caron","Sylvain Carrière","Gabrielle Cathala","Bérenger Cernon","Sophia Chikirou","Hadrien Clouet","Éric Coquerel","Jean-François Coulomme","Sébastien Delogu","Aly Diouara","Karen Erodi","Mathilde Feld","Emmanuel Fernandes","Sylvie Ferrer","Perceval Gaillard","Clémence Guetté","Zahia Hamdane","Mathilde Hignet","Andy Kerbrat","Bastien Lachaud","Abdelkader Lahmar","Maxime Laisney","Arnaud Le Gall","Élise Leboucher","Aurélien Le Coq","Jérôme Legavre","Sarah Legrain","Claire Lejeune","Murielle Lepvraud","Élisa Martin","Damien Maudet","Marianne Maximi","Marie Mesmeur","Manon Meunier","Jean-Philippe Nilor","Sandrine Nosbé","Danièle Obono","Nathalie Oziol","René Pilato","François Piquemal","Loïc Prud’homme","Jean-Hugues Ratenon","Arnaud Saint-Martin","Aurélien Saintoul","Ersilia Soudais","Anne Stambach-Terrenoir","Aurélien Taché","Andrée Taurinya","Matthias Tavel","Aurélie Trouvé","Paul Vannier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdire_superyachts_ports_francais_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 juin 2026","Mardi 23 juin 2026"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Écologie","Mer","Transports"]
 +++
 

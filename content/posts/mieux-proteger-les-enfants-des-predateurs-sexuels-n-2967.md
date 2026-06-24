@@ -4,9 +4,9 @@ draft = false
 title = "Mieux protéger les enfants des prédateurs sexuels - N° 2967"
 auteurs = ["Jérôme End","Thibault Bazin","Valérie Bazin-Malgras","Sylvie Bonnet","Ian Boucard","Cendrine Chazé","Pierre Cordier","Josiane Corneloup","Marie-Christine Dalloz","Julien Dive","Lionel Duparay","Alix Fruchon","Thierry Liger","Emeline Rey-Rinchet","Vincent Rolland","Jean-Pierre Vigier","Laurent Mazaury","Didier Padey","Antoine Valentin","Vincent Descoeur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/mieux_proteger_enfants_predateurs_sexuels_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 juin 2026","Mardi 23 juin 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Jeunesse","Sécurité"]
 +++
 

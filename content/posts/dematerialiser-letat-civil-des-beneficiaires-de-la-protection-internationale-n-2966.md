@@ -4,9 +4,9 @@ draft = false
 title = "Dématérialiser l’état civil des bénéficiaires de la protection internationale - N° 2966"
 auteurs = ["Guillaume Gouffier Valente","Florent Boudié"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/dematerialiser_etat_civil_protection_internationale_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 juin 2026","Mardi 23 juin 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Numérique","Intérieur"]
 +++
 

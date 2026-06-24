@@ -4,9 +4,9 @@ draft = false
 title = "Lutter contre les excès de la financiarisation en santé - N° 2956"
 auteurs = ["Thibault Bazin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_exces_financiarisation_sante_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 juin 2026","Mardi 23 juin 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Économie","Finances"]
 +++
 

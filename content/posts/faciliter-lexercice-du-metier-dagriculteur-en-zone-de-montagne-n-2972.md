@@ -4,9 +4,9 @@ draft = false
 title = "Faciliter l’exercice du métier d’agriculteur en zone de montagne - N° 2972"
 auteurs = ["Marie-José Allemand"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/faciliter_exercice_metier_agriculteur_zone_montagne_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 juin 2026","Mardi 23 juin 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Agriculture","Ruralité","Aménagement du territoire"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la prévention des violences et abus commis sur les mineurs - N° 2959"
 auteurs = ["Catherine Rimbert","Alexandre Allegret-Pilot","Charles Alloncle","Maxime Amblard","Bénédicte Auzanot","Philippe Ballard","Anchya Bamana","Romain Baubry","Théo Bernhardt","Guillaume Bigot","Emmanuel Blairy","Sophie Blanc","Frédéric Boccaletti","Anthony Boulogne","Manon Bouquin","Jérôme Buisson","Eddy Casterman","Bernard Chaix","Bernard Chaumeil","Marc Chavent","Sébastien Chenu","Bruno Clavet","Caroline Colombier","Christelle D’Intorni","Catherine Dellong Meng","Jocelyn Dessigny","Edwige Diaz","Sandrine Dogor-Such","Nicolas Dragon","Alexandre Dufosset","Aurélien Dutremble","Auguste Evrard","Frédéric Falcon","Emmanuel Fouquart","Thierry Frappé","Julien Gabarron","Stéphanie Galzy","Jonathan Gery","Frank Giletti","Christian Girard","José Gonzalez","Florence Goulet","Géraldine Grangier","Daniel Grenon","Monique Griseti","Julien Guibert","Jordan Guitton","Marine Hamelet","Sébastien Humbert","Laurent Jacobelli","Pascal Jenft","Alexis Jolly","Tiffany Joncour","Édouard Jordan","Florence Joubert","Hélène Laporte","Laure Lavalette","Robert Le Bourgeois","Julie Lechanteux","Nadine Lechon","Hervé De Lépinau","Julien Limongi","René Lioret","Marie-France Lorho","Philippe Lottiaux","David Magnier","Claire Marais-Beuil","Patrice Martin","Michèle Martinez","Kévin Mauvieux","Nicolas Meizonnet","Joëlle Mélin","Yaël Ménaché","Pierre Meurin","Éric Michoux","Thibaut Monnier","Serge Muller","Julien Odoul","Caroline Parmentier","Thierry Perez","Kévin Pfeffer","Lisette Pollet","Stéphane Rambaud","Angélique Ranc","Julien Rancoule","Laurence Robert-Dehault","Sophie-Laurence Roy","Anaïs Sabatini","Alexandre Sabatou","Emeric Salmon","Anne Sicard","Emmanuel Taché","Jean-Philippe Tanguy","Michaël Taverne","Thierry Tesson","Gabriel Tomatis","Romain Tonussi","Vincent Trébuchet","Cyril Tribuiani","Antoine Valentin","Antoine Villedieu","Frédéric-Pierre Vos","Frédéric Weber"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_prevention_violences_et_abus_commis_sur_mineurs_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 juin 2026","Mardi 23 juin 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Jeunesse","Sécurité"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Reconnaître, définir et prévenir la victimisation secondaire dans le cadre de la procédure pénale - N° 2955"
 auteurs = ["Bertrand Bouyx","Laurent Marcangeli","Maud Petit","Laurent Mazaury","Anne-Cécile Violland","Joël Bruneau","Alix Fruchon","Anne-Sophie Ronceret","Annie Vidal","Constance De Pélichy","Marietta Karamanli","Josiane Corneloup","Isabelle Santiago","Valérie Rossi","Louise Morel","Stéphane Buchou","François Cormier-Bouligeon","Bertrand Sorre","Christophe Marion","François Jolivet","Charlotte Parmentier-Lecocq","Delphine Lingemann","Frédéric Valletoux","Jérémie Patrier-Leitus","Sylvain Berrios"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconnaitre_definir_prevenir_victimisation_secondaire_cadre_procedure_penale_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 juin 2026","Mardi 23 juin 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Sécurité","Droits des femmes"]
 +++
 

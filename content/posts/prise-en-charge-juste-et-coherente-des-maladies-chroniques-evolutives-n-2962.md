@@ -4,9 +4,9 @@ draft = false
 title = "Prise en charge juste et cohérente des maladies chroniques évolutives - N° 2962"
 auteurs = ["Christelle D'Intorni","Alexandre Allegret-Pilot","Charles Alloncle","Matthieu Bloch","Bernard Chaix","Marc Chavent","Hanane Mansouri","Maxime Michelet","Sophie Ricourt Vaginay","Antoine Valentin","Maxime Amblard","Jérôme Buisson","Eddy Casterman","Sébastien Chenu","Frank Giletti","Marine Hamelet","Alexis Jolly","Florence Joubert","Hélène Laporte","Nadine Lechon","Philippe Lottiaux","Thibaut Monnier","Serge Muller","Anne Sicard","Frédéric-Pierre Vos"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/prise_charge_juste_coherente_maladies_chroniques_evolutives_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 juin 2026","Mardi 23 juin 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Solidarité","Handicap"]
 +++
 

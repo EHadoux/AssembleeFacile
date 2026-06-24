@@ -4,9 +4,9 @@ draft = false
 title = "Garantir aux Mahorais un accès effectif à l’eau - N° 2965"
 auteurs = ["Anchya Bamana","Tiffany Joncour","Alexandre Sabatou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_Mahorais_acces_effectif_eau_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 juin 2026","Mardi 23 juin 2026"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Outre-mer","Santé","Action publique"]
 +++
 

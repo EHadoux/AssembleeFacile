@@ -4,9 +4,9 @@ draft = false
 title = "Restituer au maire la maîtrise des attributions de logements sociaux sur le territoire de sa commune - N° 2961"
 auteurs = ["Marc Chavent","Antoine Valentin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/restituer_maire_attribution_logements_sociaux_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 juin 2026","Mardi 23 juin 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Décentralisation","Action publique"]
 +++
 

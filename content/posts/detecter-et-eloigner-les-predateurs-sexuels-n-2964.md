@@ -4,9 +4,9 @@ draft = false
 title = "Détecter et éloigner les prédateurs sexuels - N° 2964"
 auteurs = ["Antoine Vermorel-Marques"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/detecter_eloigner_predateurs_sexuels_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 juin 2026","Mardi 23 juin 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Sécurité","Jeunesse"]
 +++
 

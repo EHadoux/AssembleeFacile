@@ -4,9 +4,9 @@ draft = false
 title = "Créer un service public des loisirs éducatifs - N° 2974"
 auteurs = ["Florence Herouin-Léautey","Fatiha Keloua Hachi","Jean-Claude Raux","Danielle Simonnet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/service_public_loisirs_educatifs_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 juin 2026","Mardi 23 juin 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Jeunesse","Vie associative"]
 +++
 

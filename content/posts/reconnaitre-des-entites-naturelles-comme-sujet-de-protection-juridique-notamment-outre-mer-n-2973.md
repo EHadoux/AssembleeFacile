@@ -4,9 +4,9 @@ draft = false
 title = "Reconnaître des entités naturelles comme sujet de protection juridique, notamment outre-mer - N° 2973"
 auteurs = ["Marcellin Nadeau","Soumya Bourouaha","Julien Brugerolles","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Yannick Monnet","Mereana Reid Arbelot","Nicolas Sansu"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/entites_naturelles_protection_juridique_17"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 juin 2026","Mardi 23 juin 2026"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Biodiversité","Justice","Outre-mer"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la sécurité, la rétention administrative et la prévention des risques d’attentat - N° 2817"
 auteurs = ["Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/retention_admin_prevention_attentats_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Commission Mixte Paritaire"]
-stepsDate = ["Mardi 2 décembre 2025","Mardi 2 décembre 2025","Mardi 2 décembre 2025","Mardi 5 mai 2026","Mardi 5 mai 2026","Jeudi 21 mai 2026"]
-stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)","Texte modifié","Accord"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Commission Mixte Paritaire","Conseil constitutionnel"]
+stepsDate = ["Mardi 2 décembre 2025","Mardi 2 décembre 2025","Mardi 2 décembre 2025","Mardi 5 mai 2026","Mardi 5 mai 2026","Jeudi 21 mai 2026","Mardi 23 juin 2026"]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)","Texte modifié","Accord",""]
 tags = ["Justice","Sécurité","Santé"]
 +++
 

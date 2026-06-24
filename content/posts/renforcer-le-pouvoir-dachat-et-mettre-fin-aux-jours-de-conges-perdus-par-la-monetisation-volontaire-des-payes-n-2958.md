@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer le pouvoir d’achat et mettre fin aux jours de congés « perdus » par la monétisation volontaire des congés payés - N° 2958"
 auteurs = ["Éric Pauget"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_pouvoir_achat_fin_conges_perdus_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 juin 2026","Mardi 23 juin 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Travail","Économie","Finances"]
 +++
 
