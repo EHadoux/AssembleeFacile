@@ -4,9 +4,9 @@ draft = false
 title = "Reconnaître le fleuve « Loire » et son bassin versant comme une entité naturelle juridique dotée de droits - N° 2949"
 auteurs = ["Charles Fournier","Lisa Belluco","Sébastien Peytavie","Eva Sas","Sandra Regol","Jean-Claude Raux","Damien Girard","Dominique Voynet","Steevy Gustave","Christine Arrighi"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconnaitre_fleuve_Loire_et_bassin_versant_comme_entite_naturelle_juridique_dotee_droits_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 juin 2026","Mardi 23 juin 2026"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Écologie","Justice","Biodiversité"]
 +++
 

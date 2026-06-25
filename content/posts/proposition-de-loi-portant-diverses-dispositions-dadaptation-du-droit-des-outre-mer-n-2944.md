@@ -2,11 +2,11 @@
 date = 2026-06-24
 draft = false
 title = "Proposition de loi portant diverses dispositions d’adaptation du droit des outre-mer - N° 2944"
-auteurs = ["Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50970"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Jeudi 28 novembre 2024","Jeudi 28 novembre 2024","Jeudi 28 novembre 2024","Jeudi 18 juin 2026"]
+stepsStatus = ["","Commission des affaires économiques (Sénat)","Texte adopté ✔️","Commission du développement durable"]
 tags = ["Outre-mer","Décentralisation","Urbanisme"]
 +++
 

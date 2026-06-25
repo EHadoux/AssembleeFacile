@@ -4,9 +4,9 @@ draft = false
 title = "Exonérer d’impôt les revenus locatifs utilisés pour la prise en charge de la dépendance - N° 2952"
 auteurs = ["Jérôme End","Thibault Bazin","Valérie Bazin-Malgras","Sylvie Bonnet","Ian Boucard","Cendrine Chazé","Pierre Cordier","Josiane Corneloup","Julien Dive","Lionel Duparay","Thierry Liger","Vincent Rolland","Jean-Pierre Vigier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/exonerer_impots_revenus_locatifs_dependance_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 juin 2026","Mardi 23 juin 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Autonomie","Finances","Solidarité"]
 +++
 

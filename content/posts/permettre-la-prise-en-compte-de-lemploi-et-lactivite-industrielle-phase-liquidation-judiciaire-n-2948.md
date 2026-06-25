@@ -4,9 +4,9 @@ draft = false
 title = "Permettre la prise en compte de l’emploi et de l’activité industrielle en phase de liquidation judiciaire - N° 2948"
 auteurs = ["Harold Huwart"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/permettre_prise_compte_emploi_activite_industrielle_liquidation_judiciaire_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 juin 2026","Mardi 23 juin 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Emploi","Industrie","Justice"]
 +++
 

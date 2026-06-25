@@ -4,9 +4,9 @@ draft = false
 title = "Accélérer la prévention cardio-neuro-vasculaire et anticiper un risque sanitaire et social majeur - N° 2906"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/accelerer_prevention_cardio_neuro_vasculaire_et_anticiper_risque_sanitaire_et_social_majeur_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Commission Mixte Paritaire"]
 stepsDate = ["Mardi 23 décembre 2025","Mardi 23 décembre 2025","Mardi 23 décembre 2025","Jeudi 9 avril 2026","Jeudi 9 avril 2026","Mercredi 10 juin 2026"]
-stepsStatus = ["","Commission des affaires sociales","Texte adopté ✔️","Commission des affaires sociales (Sénat)","Texte modifié","Commission des affaires sociales"]
+stepsStatus = ["","Commission des affaires sociales","Texte adopté ✔️","Commission des affaires sociales (Sénat)","Texte modifié",""]
 tags = ["Santé","Éducation","Travail"]
 +++
 

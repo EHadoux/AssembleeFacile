@@ -4,9 +4,9 @@ draft = false
 title = "Rendre imprescriptibles les crimes sexuels, les crimes d’atteinte volontaire à la vie ou à l’intégrité physique et les crimes de traite des êtres humains commis sur des mineurs - N° 2953"
 auteurs = ["Sébastien Huyghe","Jean-Pierre Bataille","Thibault Bazin","Ian Boucard","Anthony Brosse","Danielle Brulebois","Joël Bruneau","Danièle Carteron","Pauline Cestrières","Nathalie Coggia","Josiane Corneloup","Julie Delpech","Julien Dive","Virginie Duby-Muller","Jérôme End","Philippe Fait","Moerani Frébault","Alix Fruchon","Félicie Gérard","Guillaume Gouffier Valente","Sandrine Josso","Christine Le Nabour","Patricia Lemoine","Valérie Létard","Eric Liégeon","Lise Magnier","Christophe Marion","Denis Masséglia","Laurent Mazaury","Ludovic Mendes","Frédérique Meunier","Yannick Neuder","Constance De Pélichy","Alexandre Portier","Nicolas Ray","Anne-Sophie Ronceret","Bertrand Sorre","Violette Spillebout","Prisca Thevenot","Stéphane Viry"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_imprescriptibles_crimes_sexuels_mineurs_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 juin 2026","Mardi 23 juin 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Jeunesse"]
 +++
 

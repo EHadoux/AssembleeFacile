@@ -4,9 +4,9 @@ draft = false
 title = "Simplifier le modèle de formation continue des professionnels de santé et consolider l’organisation de la Haute autorité de santé dans sa mission d’évaluation des technologies et des pratiques professionnelles - N° 2951"
 auteurs = ["Thibault Bazin","Virginie Duby-Muller","Michel Barnier","Vincent Descoeur","Josiane Corneloup","Patrick Hetzel","Justine Gruet","Pierre Cordier","Sylvie Bonnet","Jérôme End","Émilie Bonnivard","Nicolas Tryzna","Marie-Christine Dalloz","Julien Dive","Alexandre Portier","Valérie Bazin-Malgras"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/simplifier_formation_missions_has_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 juin 2026","Mardi 23 juin 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Action publique","Travail"]
 +++
 

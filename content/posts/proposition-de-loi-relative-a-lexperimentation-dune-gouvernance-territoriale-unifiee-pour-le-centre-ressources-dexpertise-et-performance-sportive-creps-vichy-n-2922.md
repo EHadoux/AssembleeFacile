@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi relative à l’expérimentation d’une gouvernance territoriale unifiée pour le centre de ressources, d’expertise et de performance sportive (CREPS) de Vichy - N° 2922"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54096"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Jeudi 9 avril 2026","Jeudi 9 avril 2026","Jeudi 9 avril 2026","Lundi 15 juin 2026"]
+stepsStatus = ["","Commission des affaires étrangères (Sénat)","Texte adopté ✔️","Commission des affaires culturelles"]
 tags = ["Sports","Action publique","Aménagement du territoire"]
 +++
 

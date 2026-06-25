@@ -4,9 +4,9 @@ draft = false
 title = "Limiter les effectifs de classes à 24 élèves de la petite section de maternelle à la classe de troisième au collège - N° 2947"
 auteurs = ["Laurent Croizier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_limiter_les_effectifs_de_classes_a_24_eleves_de_la_petite_section_de_maternelle_a_la_classe_de_troisieme_au_college_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 juin 2026","Mardi 23 juin 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Jeunesse"]
 +++
 

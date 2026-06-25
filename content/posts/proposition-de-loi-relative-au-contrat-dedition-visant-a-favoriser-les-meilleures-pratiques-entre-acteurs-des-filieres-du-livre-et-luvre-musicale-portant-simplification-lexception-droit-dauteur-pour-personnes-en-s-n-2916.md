@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi relative au contrat d’édition, visant à favoriser les meilleures pratiques entre les acteurs des filières du livre et de l’œuvre musicale et portant simplification de l’exception au droit d’auteur pour les personnes en situation de handicap - N° 2916"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51909"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Vendredi 4 avril 2025","Vendredi 4 avril 2025","Vendredi 4 avril 2025","Jeudi 11 juin 2026"]
+stepsStatus = ["","Commission des affaires étrangères (Sénat)","Texte adopté ✔️","Commission des affaires culturelles"]
 tags = ["Culture","Handicap","Numérique"]
 +++
 

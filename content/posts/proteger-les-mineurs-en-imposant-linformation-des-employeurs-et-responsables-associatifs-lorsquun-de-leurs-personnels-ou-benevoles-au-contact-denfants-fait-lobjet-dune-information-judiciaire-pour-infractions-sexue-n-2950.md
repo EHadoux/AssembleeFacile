@@ -4,9 +4,9 @@ draft = false
 title = "Protéger les mineurs en imposant l’information des employeurs et des responsables associatifs lorsqu’un de leurs personnels ou bénévoles au contact d’enfants fait l’objet d’une information judiciaire pour des infractions sexuelles sur mineurs - N° 2950"
 auteurs = ["François Jolivet","Henri Alfandari","Michel Criaud","Jérémie Patrier-Leitus","Frédéric Valletoux","Thomas Lam","Xavier Roseren"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_imposant_information_employeurs_responsables_associatifs_personnels_contact_enfants_information_judiciaire_infraction_sexuelles_mineurs_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 23 juin 2026","Mardi 23 juin 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Enfance","Sécurité"]
 +++
 
