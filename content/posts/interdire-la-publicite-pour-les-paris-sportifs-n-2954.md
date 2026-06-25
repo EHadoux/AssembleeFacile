@@ -1,0 +1,21 @@
++++
+date = 2026-06-23
+draft = false
+title = "Interdire la publicité pour les paris sportifs - N° 2954"
+auteurs = ["Carlos Martens Bilongo","Mathilde Panot","Nadège Abomangoli","Laurent Alexandre","Gabriel Amard","Ségolène Amiot","Farida Amrani","Rodrigo Arenas","Raphaël Arnault","Anaïs Belouassa-Cherifi","Shéhérazade Bentorki","Ugo Bernalicis","Christophe Bex","Manuel Bompard","Idir Boumertit","Louis Boyard","Pierre-Yves Cadalen","Aymeric Caron","Sylvain Carrière","Gabrielle Cathala","Bérenger Cernon","Sophia Chikirou","Hadrien Clouet","Éric Coquerel","Jean-François Coulomme","Sébastien Delogu","Aly Diouara","Alma Dufour","Karen Erodi","Mathilde Feld","Emmanuel Fernandes","Sylvie Ferrer","Perceval Gaillard","Clémence Guetté","Zahia Hamdane","Mathilde Hignet","Andy Kerbrat","Bastien Lachaud","Abdelkader Lahmar","Maxime Laisney","Arnaud Le Gall","Antoine Léaument","Élise Leboucher","Aurélien Le Coq","Jérôme Legavre","Sarah Legrain","Claire Lejeune","Murielle Lepvraud","Élisa Martin","Damien Maudet","Marianne Maximi","Marie Mesmeur","Manon Meunier","Jean-Philippe Nilor","Sandrine Nosbé","Danièle Obono","Nathalie Oziol","René Pilato","François Piquemal","Thomas Portes","Loïc Prud'homme","Jean-Hugues Ratenon","Arnaud Saint-Martin","Aurélien Saintoul","Ersilia Soudais","Anne Stambach-Terrenoir","Aurélien Taché","Andrée Taurinya","Matthias Tavel","Aurélie Trouvé","Paul Vannier"]
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdire_publicite_paris_sportifs_2017"
+stepsName = []
+stepsDate = []
+stepsStatus = []
+tags = ["Santé","Économie","Jeunesse"]
++++
+
+## Résumé
+
+Depuis 2010, la publicité pour les paris sportifs a explosé, ciblant particulièrement les jeunes et les personnes précaires des quartiers populaires. Cette pression publicitaire favorise l'addiction, l'endettement et des problèmes sociaux graves, alors que le modèle économique des opérateurs repose largement sur les pertes des joueurs dépendants. Face à l'inefficacité des régulations actuelles et aux pratiques commerciales jugées trompeuses, cette loi propose d'interdire totalement la publicité pour les paris sportifs afin de protéger la santé publique.
+
+## Liste des modifications
+
+**Interdiction générale de la publicité pour les jeux d'argent liés au sport (Article 1)**: Ajoute aux interdictions existantes dans le code de la sécurité intérieure celle de faire de la publicité pour tout jeu d'argent et de hasard concernant le sport.
+
+**Interdiction de la publicité en ligne et sanctions (Article 2)**: Interdit spécifiquement la publicité pour les paris sportifs sur internet et prévoit le retrait automatique de l'agrément (l'autorisation d'exercer) pour toute entreprise qui ne respecte pas cette interdiction.
