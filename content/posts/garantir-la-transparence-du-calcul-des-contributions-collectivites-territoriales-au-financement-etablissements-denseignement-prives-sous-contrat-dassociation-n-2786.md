@@ -4,9 +4,9 @@ draft = false
 title = "Garantir la transparence du calcul des contributions des collectivités territoriales au financement des établissements d’enseignement privés sous contrat d’association - N° 2786"
 auteurs = ["Maxime Michelet","Éric Ciotti","Alexandre Allegret-Pilot","Charles Alloncle","Matthieu Bloch","Pierre-Henri Carbonnel","Bernard Chaix","Marc Chavent","Christelle D’Intorni","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Éric Michoux","Sophie Ricourt Vaginay","Vincent Trébuchet","Antoine Valentin","Gérault Verny"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_transparence_calcul_contributions_collectivites_territoriales_financement_etablissements_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 12 mai 2026","Mardi 12 mai 2026","Mardi 12 mai 2026"]
-stepsStatus = ["","Commission des affaires culturelles",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 12 mai 2026","Mardi 12 mai 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Finances","Action publique"]
 +++
 

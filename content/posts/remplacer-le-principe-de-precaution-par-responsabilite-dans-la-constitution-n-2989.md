@@ -4,9 +4,9 @@ draft = false
 title = "Remplacer le principe de précaution par le principe de responsabilité dans la Constitution - N° 2989"
 auteurs = ["Éric Michoux","Alexandre Allegret-Pilot","Charles Alloncle","Pierre-Henri Carbonnel","Bernard Chaix","Marc Chavent","Christelle D’Intorni","Olivier Fayssat","Maxime Michelet","Sophie Ricourt Vaginay","Vincent Trébuchet","Antoine Valentin","Frédéric-Pierre Vos","Nicolas Meizonnet","Sophie-Laurence Roy","Philippe Lottiaux","Michèle Martinez","Véronique Besse","Nadine Lechon","Maxime Amblard","Alexandre Sabatou","Michel Guiniot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/remplacer_principe_precaution_par_principe_responsabilite_dans_Constitution"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Vendredi 26 juin 2026","Vendredi 26 juin 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Agriculture","Économie","Recherche"]
 +++
 

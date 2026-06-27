@@ -4,9 +4,9 @@ draft = false
 title = "Assurer l’autonomie stratégique de la France pour la production décarbonée d’engrais azotés - N° 2788"
 auteurs = ["Vincent Trébuchet","Éric Ciotti","Alexandre Allegret-Pilot","Charles Alloncle","Matthieu Bloch","Pierre-Henri Carbonnel","Bernard Chaix","Marc Chavent","Christelle D'Intorni","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Maxime Michelet","Éric Michoux","Sophie Ricourt Vaginay","Antoine Valentin","Gérault Verny"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/assurer_autonomie_strategique_production_decarbonee_engrais_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 12 mai 2026","Mardi 12 mai 2026","Mardi 12 mai 2026"]
-stepsStatus = ["","Commission du développement durable",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 12 mai 2026","Mardi 12 mai 2026"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Agriculture","Industrie","Énergie"]
 +++
 

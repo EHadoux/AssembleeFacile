@@ -4,9 +4,9 @@ draft = false
 title = "Prévenir les conflits d'intérêts dans les sociétés nationales de programme - N° 2791"
 auteurs = ["Charles Alloncle","Éric Ciotti","Alexandre Allegret-Pilot","Matthieu Bloch","Pierre-Henri Carbonnel","Bernard Chaix","Marc Chavent","Christelle D’Intorni","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Maxime Michelet","Éric Michoux","Sophie Ricourt Vaginay","Vincent Trébuchet","Antoine Valentin","Gérault Verny"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/prevenir_conflits_interets_societes_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Mardi 12 mai 2026","Mardi 12 mai 2026","Mardi 12 mai 2026"]
-stepsStatus = ["","Commission des affaires culturelles",""]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 12 mai 2026","Mardi 12 mai 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Action publique","Culture","Justice"]
 +++
 
