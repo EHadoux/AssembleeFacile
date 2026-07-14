@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer l'accès au logement des travailleurs des services publics - N° 2607"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/acces_logement_travailleurs_services_publics_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Commission Mixte Paritaire"]
-stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025","Jeudi 17 avril 2025","Lundi 12 janvier 2026","Lundi 12 janvier 2026","Lundi 30 mars 2026"]
-stepsStatus = ["","Commission des affaires économiques","Texte adopté ✔️","Commission des affaires économiques (Sénat)","Texte modifié","Accord"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Commission Mixte Paritaire","Promulgation de la loi"]
+stepsDate = ["Jeudi 17 avril 2025","Jeudi 17 avril 2025","Jeudi 17 avril 2025","Lundi 12 janvier 2026","Lundi 12 janvier 2026","Lundi 30 mars 2026","Lundi 29 juin 2026"]
+stepsStatus = ["","Commission des affaires économiques","Texte adopté ✔️","Commission des affaires économiques (Sénat)","Texte modifié","Accord",""]
 tags = ["Logement","Fonction publique","Action publique"]
 +++
 

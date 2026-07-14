@@ -6,7 +6,7 @@ auteurs = ["Ayda Hadizadeh","Marie-José Allemand","Joël Aviragnet","Christian 
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_droit_avocat_mesure_assistance_educative_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Deuxième lecture à l'Assemblée nationale"]
 stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025","Mardi 16 septembre 2025","Jeudi 11 décembre 2025","Jeudi 11 décembre 2025","Vendredi 29 mai 2026","Vendredi 29 mai 2026"]
-stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)","Texte modifié","Commission des lois",""]
+stepsStatus = ["","Commission des lois","Texte adopté ✔️","Commission des lois (Sénat)","Texte modifié","Commission des lois","Texte adopté ✔️"]
 tags = ["Justice","Famille","Droits des femmes"]
 +++
 

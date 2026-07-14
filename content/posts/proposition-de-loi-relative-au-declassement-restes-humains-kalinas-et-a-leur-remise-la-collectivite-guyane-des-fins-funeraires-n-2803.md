@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi relative au déclassement de restes humains kali'nas et à leur remise à la collectivité de Guyane à des fins funéraires - N° 2803"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50548"
-stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale"]
-stepsDate = ["Jeudi 3 octobre 2024","Jeudi 3 octobre 2024","Jeudi 3 octobre 2024","Lundi 18 mai 2026","Lundi 18 mai 2026"]
-stepsStatus = ["","Commission des affaires étrangères (Sénat)","Texte adopté ✔️","Commission des affaires culturelles","Texte adopté ✔️"]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale","Promulgation de la loi"]
+stepsDate = ["Jeudi 3 octobre 2024","Jeudi 3 octobre 2024","Jeudi 3 octobre 2024","Lundi 18 mai 2026","Lundi 18 mai 2026","Vendredi 26 juin 2026"]
+stepsStatus = ["","Commission des affaires étrangères (Sénat)","Texte adopté ✔️","Commission des affaires culturelles","Texte adopté ✔️",""]
 tags = ["Culture","Outre-mer"]
 +++
 

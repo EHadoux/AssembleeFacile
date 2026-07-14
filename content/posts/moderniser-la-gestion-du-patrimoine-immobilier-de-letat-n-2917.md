@@ -6,7 +6,7 @@ auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/gestion_patrimoine_immobilier_etat_17e"
 stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Commission Mixte Paritaire"]
 stepsDate = ["Mardi 16 septembre 2025","Mardi 16 septembre 2025","Mardi 16 septembre 2025","Mercredi 28 janvier 2026","Mercredi 28 janvier 2026","Jeudi 11 juin 2026"]
-stepsStatus = ["","Commission des finances","Texte adopté ✔️","Commission des finances (Sénat)","Texte modifié",""]
+stepsStatus = ["","Commission des finances","Texte adopté ✔️","Commission des finances (Sénat)","Texte modifié","Accord"]
 tags = ["Action publique","Économie","Énergie"]
 +++
 

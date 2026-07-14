@@ -4,9 +4,9 @@ draft = false
 title = "Protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux - N° 2610"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_reseaux_sociaux_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Commission Mixte Paritaire"]
 stepsDate = ["Mardi 18 novembre 2025","Mardi 18 novembre 2025","Mardi 18 novembre 2025","Mardi 27 janvier 2026","Mardi 27 janvier 2026","Mercredi 1 avril 2026"]
-stepsStatus = ["","Commission des affaires culturelles","Texte adopté ✔️","Commission des affaires étrangères (Sénat)","Texte modifié","Commission des affaires culturelles"]
+stepsStatus = ["","Commission des affaires culturelles","Texte adopté ✔️","Commission des affaires étrangères (Sénat)","Texte modifié",""]
 tags = ["Numérique","Jeunesse","Éducation"]
 +++
 

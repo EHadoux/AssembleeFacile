@@ -4,9 +4,9 @@ draft = false
 title = "Relancer les investissements dans le secteur de l’hydroélectricité pour contribuer à la transition énergétique - N° 2334"
 auteurs = ["Marie-Noëlle Battistel","Philippe Bolo","Antoine Armand","Vincent Rolland","Raphaël Schellenberger","Xavier Albertini","Stéphane Mazars","David Taupiac"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/relancer_investissements_secteur_hydroelectricite_contribuer_transition_energetique_17e"
-stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Commission Mixte Paritaire"]
-stepsDate = ["Mardi 13 janvier 2026","Mardi 13 janvier 2026","Mardi 13 janvier 2026","Jeudi 5 février 2026","Jeudi 5 février 2026","Mardi 14 avril 2026"]
-stepsStatus = ["","Commission des affaires économiques","Texte adopté ✔️","Commission des affaires économiques (Sénat)","Texte modifié","Accord"]
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Commission Mixte Paritaire","Promulgation de la loi"]
+stepsDate = ["Mardi 13 janvier 2026","Mardi 13 janvier 2026","Mardi 13 janvier 2026","Jeudi 5 février 2026","Jeudi 5 février 2026","Mardi 14 avril 2026","Lundi 29 juin 2026"]
+stepsStatus = ["","Commission des affaires économiques","Texte adopté ✔️","Commission des affaires économiques (Sénat)","Texte modifié","Accord",""]
 tags = ["Énergie","Économie","Europe"]
 +++
 
