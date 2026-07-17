@@ -2,11 +2,11 @@
 date = 2026-07-16
 draft = false
 title = "Pour une montagne vivante et souveraine - N° 3019"
-auteurs = ["Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/montagne_vivante_souveraine_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission","Première lecture à l'Assemblée nationale","Renvoi en commission","Première lecture au Sénat","Commission Mixte Paritaire"]
+stepsDate = ["Vendredi 27 mars 2026","Vendredi 27 mars 2026","Vendredi 27 mars 2026","Vendredi 15 mai 2026","Vendredi 15 mai 2026","Mardi 7 juillet 2026"]
+stepsStatus = ["","Commission du développement durable","Texte adopté ✔️","Commission des affaires économiques (Sénat)","Texte modifié",""]
 tags = ["Aménagement du territoire","Ruralité","Urbanisme"]
 +++
 
