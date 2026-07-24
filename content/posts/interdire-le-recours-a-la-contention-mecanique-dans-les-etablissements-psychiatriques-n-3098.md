@@ -4,9 +4,9 @@ draft = false
 title = "Interdire le recours à la contention mécanique dans les établissements psychiatriques - N° 3098"
 auteurs = ["Michel Barnier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdire_recours_contention_mecanique_etablissements_psychiatiques_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 juillet 2026","Jeudi 23 juillet 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Justice"]
 +++
 

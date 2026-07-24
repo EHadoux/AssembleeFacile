@@ -4,9 +4,9 @@ draft = false
 title = "Sanctuariser le principe de libre disposition des abonnements numériques pour protéger le pouvoir d'achat - N° 3101"
 auteurs = ["Mickaël Bouloux","Pierrick Courbon"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/libre_disposition_abonnements_numeriques_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 juillet 2026","Jeudi 23 juillet 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Numérique","Économie","Commerce"]
 +++
 

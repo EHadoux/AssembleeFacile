@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la prévention et la répression des occupations illicites de terrain - N° 3095"
 auteurs = ["Antoine Valentin","Alexandre Allegret-Pilot","Pierre-Henri Carbonnel","Bernard Chaix","Christelle D’Intorni","Marc Chavent","Olivier Fayssat","Bartolomé Lenoir","Éric Michoux","Sophie Ricourt Vaginay","Jérôme End","Philippe Lottiaux","Thomas Ménagé","Sophie-Laurence Roy","Gabriel Tomatis","Thierry Perez","Frédéric-Pierre Vos","Jérôme Buisson","Joseph Rivière","José Beaurain","Emmanuel Fouquart","Géraldine Grangier","Sébastien Humbert","Manon Bouquin","Catherine Dellong Meng","Sébastien Chenu","Nadine Lechon","Julien Limongi","Michèle Martinez","Philippe Latombe"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_renforcer_prevention_et_repression_des_occupations_illicites_de_terrain_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 juillet 2026","Jeudi 23 juillet 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Intérieur","Logement"]
 +++
 

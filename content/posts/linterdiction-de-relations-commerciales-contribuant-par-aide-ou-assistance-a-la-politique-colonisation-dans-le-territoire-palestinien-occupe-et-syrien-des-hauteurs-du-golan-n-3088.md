@@ -4,9 +4,9 @@ draft = false
 title = "L’interdiction de relations commerciales contribuant, par aide ou assistance, à la politique de colonisation dans le Territoire palestinien occupé et dans le Territoire syrien occupé des hauteurs du Golan - N° 3088"
 auteurs = ["Olivier Faure","Sabrina Sebaihi","Richard Ramos","Pouria Amirshahi","Christine Arrighi","Clémentine Autain","Léa Balage El Mariky","Christian Baptiste","Fabrice Barusseau","Marie-Noëlle Battistel","Laurent Baumel","Lisa Belluco","Karim Benbrahim","Karim Ben Cheikh","Arnaud Bonnet","Nicolas Bonnet","Éric Bothorel","Mickaël Bouloux","Soumya Bourouaha","Dorine Bregman","Philippe Brun","Cyrielle Chatelain","Paul Christophle","Alexis Corbière","Pierrick Courbon","Hendrik Davi","Alain David","Arthur Delaporte","Dieynaba Diop","Fanny Dombre Coste","Peio Dufau","Emmanuel Duplessy","Iñaki Echaniz","Romain Eskenazi","Elsa Faucillon","Denis Fégné","Marie-Charlotte Garin","Damien Girard","Pascale Got","Steevy Gustave","Stéphane Hablot","Ayda Hadizadeh","Florence Herouin-Léautey","Catherine Hervieu","Céline Hervieu","Sacha Houlié","Chantal Jourdan","Fatiha Keloua Hachi","Julie Laernoes","Tristan Lahais","Jean-Paul Lecoq","Laurent Lhardit","Benjamin Lucas-Lundy","Emmanuel Mandon","Jean-Paul Mattei","Emmanuel Maurel","Estelle Mercier","Paul Molac","Philippe Naillet","Hubert Ott","Julie Ozenne","Marc Pena","Stéphane Peu","Anna Pic","Christine Pirès Beaune","Marie Pochon","Dominique Potier","Pierre Pribetich","Jean-Claude Raux","Sandra Regol","Claudia Rouaux","Jean-Louis Roumégas","Aurélien Rousseau","François Ruffin","Sébastien Saint-Pasteur","Eva Sas","Hervé Saulignac","Arnaud Simion","Danielle Simonnet","Sophie Taillé-Polian","David Taupiac","Boris Tavernier","Céline Thiébault-Martinez","Mélanie Thomin","Nicolas Turquois","Boris Vallaud","Roger Vicot","Philippe Vigier","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdiction_relations_commerciales_soutien_colonisation_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 juillet 2026","Jeudi 23 juillet 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Affaires étrangères","Commerce","Économie"]
 +++
 

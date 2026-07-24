@@ -4,9 +4,9 @@ draft = false
 title = "Instituer une souscription nationale pour la reconstitution des forêts sinistrées par les incendies - N° 3091"
 auteurs = ["François Jolivet","Richard Ramos","Carole Guillerm","Véronique Ludmann","Benoît Blanchard","Henri Alfandari","Xavier Roseren","Jean-Carles Grelier","Delphine Lingemann","Thibault Bazin","Michel Criaud","Joël Bruneau","Valérie Létard","Vincent Thiébaut","Jérémie Patrier-Leitus","Corinne Vignon","Lise Magnier","Thierry Benoit","Anne-Sophie Ronceret","Didier Padey","Patricia Lemoine","Marie-Agnès Poussier-Winsback","Thomas Lam","Frédéric Valletoux","Nicolas Ray","Constance De Pélichy","Philippe Gosselin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_instituer_une_souscription_nationale_pour_la_reconstitution_des_forets_sinistrees_par_les_incendies_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 juillet 2026","Jeudi 23 juillet 2026"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Forêt","Écologie","Solidarité"]
 +++
 

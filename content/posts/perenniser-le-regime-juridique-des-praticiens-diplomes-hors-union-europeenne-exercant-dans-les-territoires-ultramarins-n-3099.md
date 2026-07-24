@@ -4,9 +4,9 @@ draft = false
 title = "Pérenniser le régime juridique des praticiens diplômés hors Union européenne exerçant dans les territoires ultramarins - N° 3099"
 auteurs = ["Elie Califer","Fabrice Barusseau","Béatrice Bellay","Mickaël Bouloux","Michel Castellani","Denis Fégné","Moerani Frébault","Guillaume Garot","Océane Godard","Pascale Got","Karine Lebon","Stéphane Lenormand","Laurent Lhardit","Frédéric Maillot","Max Mathiasin","Philippe Naillet","Constance De Pélichy","Christine Pirès Beaune","Mereana Reid Arbelot","Claudia Rouaux","Sébastien Saint-Pasteur","Mikaele Seo"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/perenniser_regime_juridique_practiciens_diplomes_union_europeenne_territoires_ultramarins_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 juillet 2026","Jeudi 23 juillet 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Outre-mer","Santé"]
 +++
 

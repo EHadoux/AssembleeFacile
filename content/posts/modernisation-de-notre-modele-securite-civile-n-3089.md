@@ -4,9 +4,9 @@ draft = false
 title = "Modernisation de notre modèle de sécurité civile - N° 3089"
 auteurs = ["Sandra Regol","Cyrielle Chatelain","Pouria Amirshahi","Léa Balage El Mariky","Delphine Batho","Lisa Belluco","Arnaud Bonnet","Emmanuel Duplessy","Hendrik Davi","Marie-Charlotte Garin","Steevy Gustave","Jérémie Iordanoff","Julie Laernoes","Benjamin Lucas-Lundy","Nicolas Thierry","Julie Ozenne","Marie Pochon","Sébastien Peytavie","Sandrine Rousseau","Jean-Claude Raux","Eva Sas","Sabrina Sebaihi","Boris Tavernier","Christine Arrighi","Damien Girard","Nicolas Bonnet","Jean-Louis Roumégas"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_modernisation_de_notre_modele_de_securite_civile_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 juillet 2026","Jeudi 23 juillet 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Santé","Écologie"]
 +++
 

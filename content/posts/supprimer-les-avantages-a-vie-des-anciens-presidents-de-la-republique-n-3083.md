@@ -4,9 +4,9 @@ draft = false
 title = "Supprimer les avantages à vie des anciens présidents de la République - N° 3083"
 auteurs = ["François Ruffin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/supprimer_avantages_vie_anciens_presidents_Republique_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 juillet 2026","Jeudi 23 juillet 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Budget"]
 +++
 

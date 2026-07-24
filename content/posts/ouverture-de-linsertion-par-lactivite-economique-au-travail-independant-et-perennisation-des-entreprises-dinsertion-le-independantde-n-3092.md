@@ -4,9 +4,9 @@ draft = false
 title = "Ouverture de l'insertion par l'activité économique au travail indépendant et pérennisation des entreprises d'insertion par le travail indépendantde l'insertion par l'activité économique au travail indépendant et pérennisation des entreprises d'insertion par le travail indépendant - N° 3092"
 auteurs = ["Christine Le Nabour","Michel Lauzzana","Nicole Dubré-Chirat","Thomas Lam","Marie-Agnès Poussier-Winsback","Annie Vidal","Valérie Rossi","Anne-Sophie Ronceret","Violette Spillebout","Sophie Panonacle","Christine Pirès Beaune","Corinne Vignon","Maxime Amblard","Laurent Lhardit","Sabine Gervais","Agnès Firmin Le Bodo","Daniel Labaronne","Didier Le Gac","Moerani Frébault","Charlotte Parmentier-Lecocq","Alix Fruchon","Michel Castellani"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_ouverture_de_l-insertion_par_l_activite_economique_au_travail_independant_et_perennisation_des_entreprises_d_insertion_par_le_travail_independant_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 juillet 2026","Jeudi 23 juillet 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Emploi","Économie sociale et solidaire","Solidarité"]
 +++
 

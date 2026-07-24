@@ -4,9 +4,9 @@ draft = false
 title = "Diverses mesures visant à prévenir les accidents du travail graves et mortels - N° 3100"
 auteurs = ["Astrid Panosyan-Bouvet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/mesures_prevenir_accidents_travail_graves_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 juillet 2026","Jeudi 23 juillet 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Travail","Santé","Sécurité"]
 +++
 

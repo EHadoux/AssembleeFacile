@@ -4,9 +4,9 @@ draft = false
 title = "Modifier la politique forestière pour répondre aux enjeux d’adaptation des forêts au changement climatique - N° 3085"
 auteurs = ["Hendrik Davi","Sophie Panonacle","Chantal Jourdan","Hubert Ott","Marie Pochon","Anne-Cécile Violland","Dominique Voynet","Marie-José Allemand","Christine Arrighi","Clémentine Autain","Fabrice Barusseau","Lisa Belluco","Benoît Blanchard","Nicolas Bonnet","Mickaël Bouloux","Colette Capdevielle","Michel Castellani","Cyrielle Chatelain","Alexis Corbière","Pierrick Courbon","Alain David","Sébastien Delogu","Peio Dufau","Romain Eskenazi","Philippe Fait","Elsa Faucillon","Charles Fournier","Marie-Charlotte Garin","Guillaume Garot","Damien Girard","Pascale Got","Carole Guillerm","Catherine Hervieu","Céline Hervieu","Jérémie Iordanoff","Fatiha Keloua Hachi","Tristan Lahais","Gérard Leseul","Laurent Lhardit","Delphine Lingemann","Benjamin Lucas-Lundy","Emmanuel Maurel","Marcellin Nadeau","Philippe Naillet","Marc Pena","Sébastien Peytavie","Christine Pirès Beaune","Jean-Claude Raux","Sandra Regol","Mereana Reid Arbelot","Valérie Rossi","Claudia Rouaux","Jean-Louis Roumégas","Sandrine Rousseau","Eva Sas","Sabrina Sebaihi","Danielle Simonnet","Thierry Sother","Sophie Taillé-Polian","Boris Tavernier","Nicolas Thierry","Mélanie Thomin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/politique_forestiere_changement_climatique_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 juillet 2026","Jeudi 23 juillet 2026"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Forêt","Écologie","Agriculture"]
 +++
 

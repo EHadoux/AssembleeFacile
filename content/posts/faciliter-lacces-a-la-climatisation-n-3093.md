@@ -4,9 +4,9 @@ draft = false
 title = "Faciliter l’accès à la climatisation - N° 3093"
 auteurs = ["Gérault Verny","Alexandre Allegret-Pilot","Charles Alloncle","Christelle D’Intorni","Bartolomé Lenoir","Vincent Trébuchet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/faciliter_acces_climatisation_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 juillet 2026","Jeudi 23 juillet 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Santé","Énergie","Logement"]
 +++
 

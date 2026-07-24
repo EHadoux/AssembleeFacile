@@ -4,9 +4,9 @@ draft = false
 title = "Rendre obligatoire l'attestation numérique d'honorabilité pour les éducateurs sportifs, les bénévoles du sport, les professeurs et les accompagnateurs de sorties scolaires - N° 3086"
 auteurs = ["Sylvie Bonnet","Pierre Cordier","Émilie Bonnivard","Josiane Corneloup","Lionel Duparay","Yannick Neuder","Justine Gruet","Emeline Rey-Rinchet","Virginie Duby-Muller","Eric Liégeon","François-Xavier Ceccoli","Alexandre Portier","Antoine Vermorel-Marques","Nicolas Tryzna","Valérie Bazin-Malgras","Thibault Bazin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_obligatoire_attestation_numerique_educateurs_benevoles_professeurs_accompagnateurs_sorties_scolaires_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 juillet 2026","Jeudi 23 juillet 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Sports","Justice"]
 +++
 

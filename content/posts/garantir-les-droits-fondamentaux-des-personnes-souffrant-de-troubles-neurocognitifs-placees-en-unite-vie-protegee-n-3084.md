@@ -4,9 +4,9 @@ draft = false
 title = "Garantir les droits fondamentaux des personnes souffrant de troubles neurocognitifs placées en unité de vie protégée - N° 3084"
 auteurs = ["Josiane Corneloup","Valérie Bazin-Malgras","Véronique Besse","Émilie Bonnivard","Michel Castellani","François-Xavier Ceccoli","Sandra Delannoy","Justine Gruet","Thomas Lam","Alexandra Martin","Yannick Neuder","Alexandre Portier","Marie-Agnès Poussier-Winsback","Violette Spillebout","Nicolas Tryzna","Anne-Cécile Violland","Stéphane Viry","Lionel Vuibert"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/droits_personnes_troubles_neurocognitifs_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 juillet 2026","Jeudi 23 juillet 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Justice","Autonomie"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Encadrer les frais d’occupation lors de l’utilisation de bornes de recharge pour véhicule électrique - N° 3082"
 auteurs = ["Romain Daubié"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/frais_occupation_recharge_vehicules_electriques_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 juillet 2026","Jeudi 23 juillet 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Transports","Énergie","Économie"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Favoriser le travail en continu et en journée via la commande publique afin d'améliorer les conditions relatives au domaine social et à l'emploi - N° 3094"
 auteurs = ["Denis Masséglia"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/favoriser_travail_continu_journee_commande_publique_ameliorer_conditions_domaine_social_emploi_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 juillet 2026","Jeudi 23 juillet 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Travail","Droits des femmes","Action publique"]
 +++
 
