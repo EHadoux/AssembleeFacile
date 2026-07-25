@@ -4,9 +4,9 @@ draft = false
 title = "Protéger les mineurs contre les dangers des réseaux sociaux - N° 3078"
 auteurs = ["Gabriel Amard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_dangers_reseaux_sociaux_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 juillet 2026","Jeudi 23 juillet 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Éducation","Jeunesse","Numérique"]
 +++
 

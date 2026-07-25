@@ -4,9 +4,9 @@ draft = false
 title = "Transposer la directive européenne relative à l’amélioration des conditions de travail dans le cadre du travail via une plateforme - N° 3081"
 auteurs = ["Danielle Simonnet","Céline Hervieu","Stéphane Peu","Léa Balage El Mariky","Édouard Bénard","Alexis Corbière","Hendrik Davi","Marie-Charlotte Garin","Catherine Hervieu","Stéphane Lenormand","Constance De Pélichy","Marie Pochon","Dominique Voynet","Damien Maudet","Jean-Claude Raux","Fatiha Keloua Hachi"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_transposer_la_directive_europeenne_relative_a_l_amelioration_des_conditions_de_travail_dans_le_cadre_du_travail_via_une_plateforme_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 juillet 2026","Jeudi 23 juillet 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Travail","Numérique","Europe"]
 +++
 

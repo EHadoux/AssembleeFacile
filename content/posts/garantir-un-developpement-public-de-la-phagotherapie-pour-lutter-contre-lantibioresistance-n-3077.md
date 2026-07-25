@@ -4,9 +4,9 @@ draft = false
 title = "Garantir un développement public de la phagothérapie pour lutter contre l’antibiorésistance - N° 3077"
 auteurs = ["Hendrik Davi","Pouria Amirshahi","Clémentine Autain","Léa Balage El Mariky","Lisa Belluco","Arnaud Bonnet","Mickaël Bouloux","Alexis Corbière","Emmanuel Duplessy","Marie-Charlotte Garin","Damien Girard","Steevy Gustave","Benjamin Lucas-Lundy","Julie Ozenne","Sébastien Peytavie","Jean-Claude Raux","Sandra Regol","Mereana Reid Arbelot","Jean-Louis Roumégas","Sandrine Rousseau","Sabrina Sebaihi","Danielle Simonnet","Boris Tavernier","Nicolas Thierry","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/developpement_phagotherapie_lutte_antibioresistance_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 juillet 2026","Jeudi 23 juillet 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Action publique","Recherche"]
 +++
 

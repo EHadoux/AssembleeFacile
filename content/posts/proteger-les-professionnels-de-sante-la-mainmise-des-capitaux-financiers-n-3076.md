@@ -4,9 +4,9 @@ draft = false
 title = "Protéger les professionnels de santé de la mainmise des capitaux financiers - N° 3076"
 auteurs = ["Thierry Frappé","Maxime Amblard","Bénédicte Auzanot","Philippe Ballard","Romain Baubry","José Beaurain","Christophe Bentz","Guillaume Bigot","Emmanuel Blairy","Sophie Blanc","Manon Bouquin","Jorys Bovet","Jérôme Buisson","Bernard Chaumeil","Sébastien Chenu","Roger Chudeau","Caroline Colombier","Nathalie Da Conceicao Carvalho","Catherine Dellong Meng","Jocelyn Dessigny","Edwige Diaz","Sandrine Dogor-Such","Nicolas Dragon","Alexandre Dufosset","Frédéric Falcon","Jonathan Gery","Frank Giletti","Christian Girard","Florence Goulet","Géraldine Grangier","Monique Griseti","Julien Guibert","Jordan Guitton","Marine Hamelet","Sébastien Humbert","Pascal Jenft","Tiffany Joncour","Florence Joubert","Hélène Laporte","Robert Le Bourgeois","Julie Lechanteux","Nadine Lechon","Hervé De Lépinau","Katiana Levavasseur","Julien Limongi","René Lioret","Christine Loir","David Magnier","Matthieu Marchio","Pascal Markowsky","Patrice Martin","Michèle Martinez","Kévin Mauvieux","Joëlle Mélin","Yaël Ménaché","Thomas Ménagé","Serge Muller","Thierry Perez","Kévin Pfeffer","Lisette Pollet","Stéphane Rambaud","Angélique Ranc","Julien Rancoule","Catherine Rimbert","Béatrice Roullaud","Sophie-Laurence Roy","Anaïs Sabatini","Emeric Salmon","Emmanuel Taché","Michaël Taverne","Thierry Tesson","Lionel Tivoli","Gabriel Tomatis","Cyril Tribuiani","Antoine Villedieu","Frédéric-Pierre Vos","Frédéric Weber"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_proteger_les_professionnels_de_sante_de_la_mainmise_des_capitaux_financiers_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 juillet 2026","Jeudi 23 juillet 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Économie","Aménagement du territoire"]
 +++
 

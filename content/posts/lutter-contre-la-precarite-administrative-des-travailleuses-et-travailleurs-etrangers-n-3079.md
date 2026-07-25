@@ -4,9 +4,9 @@ draft = false
 title = "Lutter contre la précarité administrative des travailleuses et travailleurs étrangers - N° 3079"
 auteurs = ["Léa Balage El Mariky"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_precarite_administrative_travailleuses_travailleurs_etrangers_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 juillet 2026","Jeudi 23 juillet 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Intérieur","Travail","Solidarité"]
 +++
 

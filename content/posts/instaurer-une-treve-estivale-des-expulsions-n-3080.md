@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer une trêve estivale des expulsions - N° 3080"
 auteurs = ["Marie-Charlotte Garin","Pouria Amirshahi","Christine Arrighi","Clémentine Autain","Lisa Belluco","Alexis Corbière","Charles Fournier","Damien Girard","Ayda Hadizadeh","Fatiha Keloua Hachi","Julie Laernoes","Philippe Naillet","Christine Pirès Beaune","Marie Pochon","Pierre Pribetich","Jean-Claude Raux","Mereana Reid Arbelot","Sandrine Rousseau","François Ruffin","Sandrine Runel","Eva Sas","Danielle Simonnet","Sophie Taillé-Polian","Boris Tavernier","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_treve_estival_expulsions_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 23 juillet 2026","Jeudi 23 juillet 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Santé","Solidarité"]
 +++
 
