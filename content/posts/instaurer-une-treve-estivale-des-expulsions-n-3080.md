@@ -1,0 +1,21 @@
++++
+date = 2026-07-23
+draft = false
+title = "Instaurer une trêve estivale des expulsions - N° 3080"
+auteurs = ["Marie-Charlotte Garin","Pouria Amirshahi","Christine Arrighi","Clémentine Autain","Lisa Belluco","Alexis Corbière","Charles Fournier","Damien Girard","Ayda Hadizadeh","Fatiha Keloua Hachi","Julie Laernoes","Philippe Naillet","Christine Pirès Beaune","Marie Pochon","Pierre Pribetich","Jean-Claude Raux","Mereana Reid Arbelot","Sandrine Rousseau","François Ruffin","Sandrine Runel","Eva Sas","Danielle Simonnet","Sophie Taillé-Polian","Boris Tavernier","Dominique Voynet"]
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_treve_estival_expulsions_17e"
+stepsName = []
+stepsDate = []
+stepsStatus = []
+tags = ["Logement","Santé","Solidarité"]
++++
+
+## Résumé
+
+Le dérèglement climatique rend les vagues de chaleur estivales de plus en plus dangereuses pour la santé. Sur le même modèle que la trêve hivernale qui protège les personnes contre le froid, cette proposition vise à suspendre les expulsions locatives durant l'été et les pics de canicule pour protéger la vie des personnes vulnérables.
+
+## Liste des modifications
+
+**Trêve estivale et caniculaire (Article 1)**: Interdiction des expulsions locatives chaque année du 15 juin au 15 septembre, ainsi que durant les périodes de forte chaleur hors de ces dates, sauf si un relogement adapté est proposé.
+
+**Compensation financière (Article 2)**: Création d'une taxe sur le tabac pour financer les coûts supplémentaires engendrés par cette loi pour l'État.
