@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer l’autonomie financière des collectivités territoriales - N° 3120"
 auteurs = ["Stéphane Delautrette"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/autonomie_financiere_des_collectivites_territoriales"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Jeudi 10 septembre 2026","Jeudi 10 septembre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Décentralisation","Finances","Relations parlementaires"]
 +++
 
