@@ -4,9 +4,9 @@ draft = false
 title = "Créer un homicide maritime - N° 3158"
 auteurs = ["Sophie Panonacle","Paul-André Colombani","Philippe Fait","Jean-Michel Brard","Anthony Brosse","Danièle Carteron","Nicole Dubré-Chirat","Marcellin Nadeau","Anne-Sophie Ronceret","Alexandra Martin","Graziella Melchior","Stéphane Buchou","Mickaël Cosson","Agnès Firmin Le Bodo","Moerani Frébault","Sabine Gervais","Sandrine Josso","Jimmy Pahun","Stéphane Peu","Christophe Plassard","Liliana Tanguy","Bertrand Bouyx","Marie-Agnès Poussier-Winsback","Constance De Pélichy","Thibault Bazin","Sandrine Le Feur","Stéphane Viry","Jean-Michel Jacques","Mereana Reid Arbelot","Laurent Mazaury","Nicolas Ray","Benoît Blanchard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/creer_homicide_maritime_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Mer","Sécurité"]
 +++
 

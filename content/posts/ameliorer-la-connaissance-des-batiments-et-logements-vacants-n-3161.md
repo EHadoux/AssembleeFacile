@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer la connaissance des bâtiments et logements vacants - N° 3161"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ameliorer_connaissance_batiments_logements_vacants_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Aménagement du territoire","Énergie"]
 +++
 

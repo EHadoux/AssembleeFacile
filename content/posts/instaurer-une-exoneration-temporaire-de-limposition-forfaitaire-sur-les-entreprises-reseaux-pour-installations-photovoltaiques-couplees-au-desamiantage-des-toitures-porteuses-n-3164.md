@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer une exonération temporaire de l'imposition forfaitaire sur les entreprises de réseaux pour les installations photovoltaïques couplées au désamiantage des toitures porteuses - N° 3164"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/exoneration_temporaire_photovoltaique_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Énergie","Agriculture","Finances"]
 +++
 

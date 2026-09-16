@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer une déclaration domiciliaire en mairie à l’occasion d’une première installation ou d'un changement d'adresse dans une commune rurale - N° 3165"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/declaration_domiciliaire_mairie_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Ruralité","Intérieur"]
 +++
 

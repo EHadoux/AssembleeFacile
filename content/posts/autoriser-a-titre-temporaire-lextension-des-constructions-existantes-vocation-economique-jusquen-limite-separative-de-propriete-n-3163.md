@@ -4,9 +4,9 @@ draft = false
 title = "Autoriser à titre temporaire l'extension des constructions existantes à vocation économique jusqu'en limite séparative de propriété - N° 3163"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/autoriser_extension_temporaire_constructions_existantes_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Économie","Urbanisme","Aménagement du territoire"]
 +++
 

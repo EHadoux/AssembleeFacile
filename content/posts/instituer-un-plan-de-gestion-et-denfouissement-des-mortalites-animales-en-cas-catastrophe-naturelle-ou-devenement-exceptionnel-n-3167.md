@@ -4,9 +4,9 @@ draft = false
 title = "Instituer un plan de gestion et d’enfouissement des mortalités animales en cas de catastrophe naturelle ou d’événement exceptionnel - N° 3167"
 auteurs = ["Nicole Le Peih"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/Plan_gestion_enfouissement_mortalites_animales_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Agriculture","Écologie","Santé"]
 +++
 

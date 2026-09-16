@@ -4,9 +4,9 @@ draft = false
 title = "Assurer une meilleure équité en matière de pension alimentaire pour les familles monoparentales en cas de non-respect du droit de visite et d'hébergement - N° 3174"
 auteurs = ["Caroline Yadan","François Cormier-Bouligeon","Céline Calvez","Danièle Carteron","Jean-René Cazeneuve","Pierre Cazeneuve","Nathalie Coggia","Nicole Dubré-Chirat","Moerani Frébault","Anne Genetet","Sabine Gervais","Guillaume Gouffier Valente","Olivia Grégoire","Catherine Ibled","Brigitte Klinkert","Amélia Lakrafi","Sandrine Lalanne","Constance Le Grip","Patricia Lemoine","Brigitte Liso","Sylvain Maillard","Christophe Marion","Sandra Marsaud","Alexandra Martin","Denis Masséglia","Nicolas Metzdorf","Paul Midy","Laure Miller","Joséphine Missoffe","Christophe Mongardien","Charles Rodwell","Anne-Sophie Ronceret","Laetitia Saint-Paul","Bertrand Sorre","Liliana Tanguy","Jean Terlier","Stéphane Travert","Annie Vidal","Corinne Vignon"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/meilleure_equite_pension_alimentaire_familles_monoparentales_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Famille","Justice","Solidarité"]
 +++
 

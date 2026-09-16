@@ -4,9 +4,9 @@ draft = false
 title = "Autoriser l’adoption d’un budget bisannuel pour les communes de moins de 500 habitants - N° 3166"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/budget_bisannuel_communes_moins_500_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Budget","Décentralisation"]
 +++
 

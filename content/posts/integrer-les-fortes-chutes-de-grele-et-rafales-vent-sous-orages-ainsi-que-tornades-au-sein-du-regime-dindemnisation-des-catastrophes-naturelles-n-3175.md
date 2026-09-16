@@ -4,9 +4,9 @@ draft = false
 title = "intégrer les fortes chutes de grêle et rafales de vent sous orages, ainsi que les tornades, au sein du régime d'indemnisation des catastrophes naturelles - N° 3175"
 auteurs = ["Julien Brugerolles","Édouard Bénard","Soumya Bourouaha","Jean-Victor Castor","Elsa Faucillon","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Yannick Monnet","Marcellin Nadeau","Stéphane Peu","Mereana Reid Arbelot","Nicolas Sansu","Davy Rimane","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/integrer_grele_rafales_tornades_regime_indemnisation_catastrophes_naturelles_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Économie","Écologie","Finances"]
 +++
 
