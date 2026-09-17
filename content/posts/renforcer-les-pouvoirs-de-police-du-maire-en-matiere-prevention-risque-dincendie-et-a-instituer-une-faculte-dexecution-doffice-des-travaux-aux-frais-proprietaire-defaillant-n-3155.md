@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer les pouvoirs de police du maire en matière de prévention du risque d'incendie et à instituer une faculté d'exécution d'office des travaux aux frais du propriétaire défaillant - N° 3155"
 auteurs = ["François Jolivet","Henri Alfandari","Nathalie Colin-Oesterlé","Xavier Albertini","Michel Criaud","Jérémie Patrier-Leitus","Anne-Cécile Violland","Isabelle Rauch","Thomas Lam","Lise Magnier","Thierry Benoit","Xavier Roseren"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_pouvoirs_police_maire_prevention_risque_incendie_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Intérieur","Logement","Écologie"]
 +++
 

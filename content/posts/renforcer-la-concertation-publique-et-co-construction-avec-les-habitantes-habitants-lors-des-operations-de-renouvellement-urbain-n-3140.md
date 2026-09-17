@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la concertation publique et la co-construction avec les habitantes et habitants lors des opérations de renouvellement urbain - N° 3140"
 auteurs = ["Charles Fournier","Lisa Belluco","Marie Pochon","Sandra Regol","Dominique Voynet","Clémentine Autain","Sabrina Sebaihi","Pouria Amirshahi","Christine Arrighi","Catherine Hervieu","Julie Ozenne","Arnaud Bonnet","Nicolas Bonnet","Boris Tavernier","Eva Sas"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_concertation_publique_coconstruction_habitantes_habitants_operations_renouvellement_urbain_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Urbanisme","Action publique"]
 +++
 

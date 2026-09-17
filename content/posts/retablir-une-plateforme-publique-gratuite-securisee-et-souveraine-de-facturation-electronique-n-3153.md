@@ -4,9 +4,9 @@ draft = false
 title = "Rétablir une plateforme publique gratuite, sécurisée et souveraine de facturation électronique - N° 3153"
 auteurs = ["Gérault Verny"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/retablir_plateforme_gratuite_securisee_facturation_electronique_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Économie","Numérique","Action publique"]
 +++
 

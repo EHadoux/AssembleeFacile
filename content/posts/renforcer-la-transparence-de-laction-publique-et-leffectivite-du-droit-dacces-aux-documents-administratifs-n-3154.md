@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la transparence de l'action publique et l'effectivité du droit d'accès aux documents administratifs - N° 3154"
 auteurs = ["Christelle D’Intorni","Bernard Chaix","Sophie Ricourt Vaginay","Antoine Valentin","Romain Baubry","Sébastien Chenu","Roger Chudeau","Nadine Lechon"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_transparence_action_publique_droit_acces_documents_administratifs_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Justice"]
 +++
 

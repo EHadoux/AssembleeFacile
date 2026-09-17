@@ -4,9 +4,9 @@ draft = false
 title = "Rendre le recensement communal obligatoire - N° 3143"
 auteurs = ["Jérôme End","Thibault Bazin","Sylvie Bonnet","Pierre Cordier","Josiane Corneloup","Virginie Duby-Muller","Lionel Duparay","Patrick Hetzel","Christelle Minard","Émilie Bonnivard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_recensement_communal_obligatoire_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Budget","Intérieur"]
 +++
 

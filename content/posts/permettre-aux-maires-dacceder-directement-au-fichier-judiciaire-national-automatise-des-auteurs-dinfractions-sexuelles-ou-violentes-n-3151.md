@@ -4,9 +4,9 @@ draft = false
 title = "Permettre aux maires d'accéder directement au fichier judiciaire national automatisé des auteurs d'infractions sexuelles ou violentes - N° 3151"
 auteurs = ["Olivier Fayssat","Marc Chavent","Antoine Valentin","Hanane Mansouri","Sébastien Chenu","Joëlle Mélin","Alexandre Allegret-Pilot","Emmanuel Taché","Michèle Martinez","Timothée Houssin","José Beaurain","Josiane Corneloup","Christelle D’Intorni","Éric Michoux","Charles Alloncle","Maxime Michelet","Thomas Ménagé","Edwige Diaz","Géraldine Grangier","Hélène Laporte","Bénédicte Auzanot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/permettre_maires_acceder_direcrement_fichier_judiciaire_national_automatise_auteurs_infractions_sexuelles_violentes_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Intérieur","Sécurité"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Garantir la protection des éleveurs face à la prédation du loup et assurer une prise en charge intégrale par l’État des dommages et des mesures de prévention - N° 3144"
 auteurs = ["Sophie Ricourt Vaginay"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_protection_eleveurs_face_predation_loup_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Agriculture","Biodiversité","Budget"]
 +++
 

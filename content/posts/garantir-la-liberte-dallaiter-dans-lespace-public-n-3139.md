@@ -4,9 +4,9 @@ draft = false
 title = "Garantir la liberté d'allaiter dans l'espace public - N° 3139"
 auteurs = ["Constance De Pélichy","Anthony Brosse","Damien Girard","Karine Lebon","Delphine Lingemann","Christophe Marion","Joséphine Missoffe","Marcellin Nadeau","Richard Ramos","Mereana Reid Arbelot","Véronique Riotton","Liliana Tanguy","Anne-Cécile Violland","Dominique Voynet","Lionel Vuibert","Josiane Corneloup","Sabine Gervais","Catherine Hervieu","Julien Dive","Maud Petit","Virginie Duby-Muller","Thomas Lam","Marc Pena","Marie-Sophie Bernadeau","Dorine Bregman","Mickaël Bouloux","Jérémie Patrier-Leitus"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_liberte_aller_venir_espace_public_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Droits des femmes","Discriminations","Santé"]
 +++
 

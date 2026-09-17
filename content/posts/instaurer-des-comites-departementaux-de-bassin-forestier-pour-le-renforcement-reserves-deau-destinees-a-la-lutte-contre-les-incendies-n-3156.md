@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer des comités départementaux de bassin forestier pour le renforcement des réserves d’eau destinées à la lutte contre les incendies - N° 3156"
 auteurs = ["Pierre Cordier","Thibault Bazin","Valérie Bazin-Malgras","Jean-Yves Bonnefoy","Sylvie Bonnet","Ian Boucard","Hubert Brigand","Cendrine Chazé","Josiane Corneloup","Julien Dive","Patrick Hetzel","Eric Liégeon","Élisabeth de Maistre","Frédérique Meunier","Alexandre Portier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_comites_departementaux_bassins_forestiers_reserve_eau_lutte_incendies_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Forêt","Sécurité","Aménagement du territoire"]
 +++
 

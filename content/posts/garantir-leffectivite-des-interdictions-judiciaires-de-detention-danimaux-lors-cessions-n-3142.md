@@ -4,9 +4,9 @@ draft = false
 title = "Garantir l'effectivité des interdictions judiciaires de détention d'animaux lors des cessions - N° 3142"
 auteurs = ["Sophie Ricourt Vaginay"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_effectivite_interdictions_judiciaires_detention_animaux_cessions_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Agriculture","Sécurité"]
 +++
 

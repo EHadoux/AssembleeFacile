@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la prévention, la responsabilité et les moyens de lutte contre les incendies de forêt et de végétation - N° 3146"
 auteurs = ["Christelle D’Intorni","Alexandre Allegret-Pilot","Matthieu Bloch","Bernard Chaix","Marc Chavent","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Antoine Valentin","Bénédicte Auzanot","Romain Baubry","Bernard Chaumeil","Sébastien Chenu","Catherine Dellong Meng","Sandrine Dogor-Such","Hélène Laporte","Nadine Lechon","Michèle Martinez","Julien Odoul","Catherine Rimbert","Emmanuel Taché","Frédéric Weber"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/prevention_moyens_lutte_incendies_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Forêt","Sécurité","Écologie"]
 +++
 

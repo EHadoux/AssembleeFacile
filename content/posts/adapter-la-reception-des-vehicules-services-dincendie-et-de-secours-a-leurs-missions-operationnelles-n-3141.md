@@ -4,9 +4,9 @@ draft = false
 title = "Adapter la réception des véhicules des services d'incendie et de secours à leurs missions opérationnelles - N° 3141"
 auteurs = ["Marc Chavent","Alexandre Allegret-Pilot","Charles Alloncle","Matthieu Bloch","Christelle D’Intorni","Bernard Chaix","Éric Michoux","Vincent Trébuchet","Antoine Valentin","Bénédicte Auzanot","Jérôme Buisson","Julien Gabarron","Jordan Guitton","Sébastien Humbert","Julie Lechanteux","Nadine Lechon","Philippe Lottiaux","Michèle Martinez","Kévin Pfeffer","Sophie-Laurence Roy","Véronique Besse","Sandra Delannoy","Sébastien Huyghe","Philippe Latombe","Stéphane Lenormand","Didier Padey"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/adapter_reception_vehicules_services_incendie_secours_missions_operationnelles_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Sécurité","Transports","Intérieur"]
 +++
 

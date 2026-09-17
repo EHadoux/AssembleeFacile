@@ -4,9 +4,9 @@ draft = false
 title = "Faire de la caravane un habitat en France - N° 3157"
 auteurs = ["Gabriel Amard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/faire_carravane_habitat_france_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Logement","Discriminations","Solidarité"]
 +++
 

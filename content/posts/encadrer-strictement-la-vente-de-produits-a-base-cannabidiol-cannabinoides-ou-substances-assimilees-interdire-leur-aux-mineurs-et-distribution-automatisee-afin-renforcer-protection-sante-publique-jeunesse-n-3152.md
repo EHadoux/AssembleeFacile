@@ -4,9 +4,9 @@ draft = false
 title = "Encadrer strictement la vente de produits à base de cannabidiol, de cannabinoïdes ou de substances assimilées, à interdire leur vente aux mineurs et leur distribution automatisée, afin de renforcer la protection de la santé publique et de la jeunesse - N° 3152"
 auteurs = ["Thierry Frappé","Bénédicte Auzanot","Philippe Ballard","Romain Baubry","José Beaurain","Christophe Bentz","Emmanuel Blairy","Sophie Blanc","Anthony Boulogne","Manon Bouquin","Jérôme Buisson","Bernard Chaumeil","Sébastien Chenu","Caroline Colombier","Nathalie Da Conceicao Carvalho","Catherine Dellong Meng","Sandrine Dogor-Such","Alexandre Dufosset","Frédéric Falcon","Marc De Fleurian","Julien Gabarron","Jonathan Gery","Frank Giletti","Yoann Gillet","Antoine Golliot","Géraldine Grangier","Julien Guibert","Marine Hamelet","Édouard Jordan","Florence Joubert","Hélène Laporte","Robert Le Bourgeois","Julie Lechanteux","Nadine Lechon","Hervé De Lépinau","Katiana Levavasseur","Julien Limongi","René Lioret","David Magnier","Claire Marais-Beuil","Matthieu Marchio","Patrice Martin","Kévin Mauvieux","Joëlle Mélin","Yaël Ménaché","Pierre Meurin","Caroline Parmentier","Thierry Perez","Lisette Pollet","Stéphane Rambaud","Angélique Ranc","Joseph Rivière","Anaïs Sabatini","Emeric Salmon","Emmanuel Taché","Jean-Philippe Tanguy","Michaël Taverne","Thierry Tesson","Frédéric-Pierre Vos","Frédéric Weber"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/encadre_vente_produits_cannabidiol_substances_assimilees_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Jeunesse","Commerce"]
 +++
 

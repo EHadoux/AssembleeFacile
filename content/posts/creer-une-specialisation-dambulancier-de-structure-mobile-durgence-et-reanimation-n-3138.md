@@ -4,9 +4,9 @@ draft = false
 title = "Créer une spécialisation d'ambulancier de structure mobile d'urgence et de réanimation - N° 3138"
 auteurs = ["Hendrik Davi"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/ambulancier_structure_mobile_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Travail","Formation publique"]
 +++
 

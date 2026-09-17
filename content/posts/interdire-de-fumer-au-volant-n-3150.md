@@ -4,9 +4,9 @@ draft = false
 title = "Interdire de fumer au volant - N° 3150"
 auteurs = ["Josiane Corneloup"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/interdire_fumer_volant_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Sécurité","Santé","Forêt"]
 +++
 

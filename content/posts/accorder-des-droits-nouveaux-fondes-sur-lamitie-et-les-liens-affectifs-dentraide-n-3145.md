@@ -4,9 +4,9 @@ draft = false
 title = "Accorder des droits nouveaux fondés sur l’amitié et les liens affectifs et d’entraide - N° 3145"
 auteurs = ["Clémence Guetté"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/droits_nouveaux_amities_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Solidarité","Famille"]
 +++
 

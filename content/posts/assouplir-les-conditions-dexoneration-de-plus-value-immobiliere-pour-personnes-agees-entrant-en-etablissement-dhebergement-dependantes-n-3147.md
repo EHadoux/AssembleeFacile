@@ -4,9 +4,9 @@ draft = false
 title = "Assouplir les conditions d’exonération de plus-value immobilière pour les personnes âgées entrant en établissement d'hébergement pour personnes âgées dépendantes - N° 3147"
 auteurs = ["Corentin Le Fur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/assouplir_exoneration_personnes_agees_dependantes_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Autonomie","Finances","Logement"]
 +++
 

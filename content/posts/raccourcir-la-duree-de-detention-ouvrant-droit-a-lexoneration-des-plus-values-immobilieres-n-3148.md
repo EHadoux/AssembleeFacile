@@ -4,9 +4,9 @@ draft = false
 title = "Raccourcir la durée de détention ouvrant droit à l'exonération des plus-values immobilières - N° 3148"
 auteurs = ["Corentin Le Fur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/duree_detention_exoneration_immobilier_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Logement","Finances","Économie"]
 +++
 
