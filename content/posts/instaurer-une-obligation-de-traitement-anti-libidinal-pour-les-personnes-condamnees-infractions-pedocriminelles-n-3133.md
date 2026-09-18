@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer une obligation de traitement anti-libidinal pour les personnes condamnées pour infractions pédocriminelles - N° 3133"
 auteurs = ["Christophe Naegelen"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_obligation_traitement_antilibidinal_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Santé","Sécurité"]
 +++
 

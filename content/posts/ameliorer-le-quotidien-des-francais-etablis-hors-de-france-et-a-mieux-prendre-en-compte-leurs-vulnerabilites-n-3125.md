@@ -4,9 +4,9 @@ draft = false
 title = "Améliorer le quotidien des Français établis hors de France et à mieux prendre en compte leurs vulnérabilités - N° 3125"
 auteurs = ["Amélia Lakrafi","Pieyre-Alexandre Anglade","Vincent Caure","Nathalie Coggia","Romain Daubié","Anne Genetet","Brigitte Klinkert","Benoît Larrouquis","Vincent Ledoux","Liliana Tanguy","Stéphane Viry","Caroline Yadan","Estelle Youssouffa","Stéphane Lenormand"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/mesures_quotidien_francais_etrangers_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Affaires étrangères","Action publique","Solidarité"]
 +++
 

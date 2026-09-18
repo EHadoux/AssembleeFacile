@@ -4,9 +4,9 @@ draft = false
 title = "Création d'un programme national de repérage et d'orientation des femmes présentant des symptômes évocateurs d'endométriose - N° 3131"
 auteurs = ["Christophe Naegelen"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/programme_national_reperage_endometriose_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Droits des femmes"]
 +++
 

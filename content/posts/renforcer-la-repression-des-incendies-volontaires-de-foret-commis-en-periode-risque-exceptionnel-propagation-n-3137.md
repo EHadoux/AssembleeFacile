@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la répression des incendies volontaires de forêt commis en période de risque exceptionnel de propagation - N° 3137"
 auteurs = ["Matthieu Bloch"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_repression_incendies_volontaires_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Forêt","Écologie"]
 +++
 

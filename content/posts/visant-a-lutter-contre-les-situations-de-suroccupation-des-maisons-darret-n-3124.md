@@ -4,9 +4,9 @@ draft = false
 title = "visant à lutter contre les situations de suroccupation des maisons d'arrêt - N° 3124"
 auteurs = ["Guillaume Gouffier Valente"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/lutter_contre_suroccupation_maisons_arret"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Sécurité"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Définir, structurer et développer la filière agritouristique - N° 3129"
 auteurs = ["Anthony Brosse","Bertrand Bouyx","Stéphane Buchou","Françoise Buffet","Danièle Carteron","Michel Castellani","Jean-René Cazeneuve","Pauline Cestrières","Nathalie Coggia","François Cormier-Bouligeon","Josiane Corneloup","Julie Delpech","Virginie Duby-Muller","Jean-Luc Fugit","Guillaume Gouffier Valente","Olivia Grégoire","Sébastien Huyghe","Catherine Ibled","Jean-Michel Jacques","Sandrine Josso","Brigitte Klinkert","Daniel Labaronne","Sandrine Lalanne","Sandrine Le Feur","Vincent Ledoux","Patricia Lemoine","Eric Liégeon","Delphine Lingemann","Christophe Marion","Éric Martineau","Ludovic Mendes","Laure Miller","Christelle Minard","Paul Molac","Didier Padey","Agnès Pannier-Runacher","Sophie Panonacle","Marc Pena","Marie-Agnès Poussier-Winsback","Nicolas Ray","Véronique Riotton","Anne-Sophie Ronceret","Jean-François Rousset","Laetitia Saint-Paul","Violette Spillebout","Liliana Tanguy","Prisca Thevenot","Stéphane Travert","Annie Vidal","Corinne Vignon","Anne-Cécile Violland","Stéphane Viry","Lionel Vuibert","Jiovanny William","Caroline Yadan"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/definir_structurer_developper_filiere_agrotouristique_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Agriculture","Tourisme","Urbanisme"]
 +++
 

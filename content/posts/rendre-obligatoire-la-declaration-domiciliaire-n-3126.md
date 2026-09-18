@@ -4,9 +4,9 @@ draft = false
 title = "Rendre obligatoire la déclaration domiciliaire - N° 3126"
 auteurs = ["Eric Liégeon","Josiane Corneloup","Patrick Hetzel","Frédérique Meunier","Thibault Bazin","Thierry Liger","Pierre Cordier","Lionel Duparay","Antoine Vermorel","Nicolas Tryzna","Jean-Luc Bourgeaux","Jérôme End","Virginie Duby-Muller","Christelle Minard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_obligatoire_declaration_domiciliaire_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Décentralisation","Intérieur"]
 +++
 

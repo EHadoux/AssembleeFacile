@@ -4,9 +4,9 @@ draft = false
 title = "Prévenir les risques d’évasion en limitant les extractions judiciaires des détenus les plus dangereux - N° 3134"
 auteurs = ["Laurent Mazaury","Christophe Naegelen","Jean-Pierre Bataille","Anne Bergantz","Véronique Besse","Benoît Blanchard","Ian Boucard","Joël Bruneau","Josiane Corneloup","Justine Gruet","Michel Herbillon","Patrick Hetzel","Alexandre Allegret-Pilot","Thibault Bazin","Eric Liégeon","Didier Padey","Thomas Lam","Constance De Pélichy","Christophe Plassard","Marie-Agnès Poussier-Winsback","Anne-Sophie Ronceret","Nicole Sanquer","Nicolas Tryzna","Stéphane Viry","Lionel Vuibert","Yannick Neuder","Christelle Minard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/prevenir_evasion_limitation_extractions_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Sécurité"]
 +++
 

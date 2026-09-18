@@ -4,9 +4,9 @@ draft = false
 title = "Rendre aux collectivités territoriales la maîtrise de l’espace public face à la pression publicitaire - N° 3130"
 auteurs = ["Marie-Charlotte Garin","Delphine Batho","Boris Tavernier","Sandrine Runel","Sébastien Peytavie","Emmanuel Duplessy","Charles Fournier","Léa Balage El Mariky","Arnaud Bonnet","Nicolas Bonnet","Lisa Belluco","Eva Sas","Jean-Claude Raux","Julie Laernoes","Damien Girard","Catherine Hervieu","Julie Ozenne","Steevy Gustave","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_CT_maitrise_espace_public_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Aménagement du territoire","Décentralisation","Écologie"]
 +++
 

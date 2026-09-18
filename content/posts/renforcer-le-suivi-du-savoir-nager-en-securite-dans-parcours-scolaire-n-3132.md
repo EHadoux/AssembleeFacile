@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer le suivi du savoir-nager en sécurité dans le parcours scolaire - N° 3132"
 auteurs = ["Christophe Proença","Marie-José Allemand","Fabrice Barusseau","Pierrick Courbon","Iñaki Echaniz","Denis Fégné","Pascale Got","Stéphane Hablot","Marietta Karamanli","Laurent Lhardit","Estelle Mercier","Philippe Naillet","Sophie Pantel","Marc Pena","Valérie Rossi","Sébastien Saint-Pasteur","Jiovanny William","Pierre Pribetich","Karim Benbrahim","Jacques Oberti","Arthur Delaporte","Thierry Sother","Christine Pirès Beaune","Océane Godard"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_savoir_nager_parcours_scolaire_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Sports","Santé"]
 +++
 

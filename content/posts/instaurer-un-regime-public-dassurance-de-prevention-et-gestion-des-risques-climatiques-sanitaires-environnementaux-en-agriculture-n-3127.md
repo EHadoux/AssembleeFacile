@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer un régime public d’assurance, de prévention et de gestion des risques climatiques, sanitaires et environnementaux en agriculture - N° 3127"
 auteurs = ["Julien Brugerolles","Yannick Monnet","Édouard Bénard","Soumya Bourouaha","Jean-Victor Castor","Elsa Faucillon","Émeline K/Bidi","Karine Lebon","Jean-Paul Lecoq","Frédéric Maillot","Emmanuel Maurel","Marcellin Nadeau","Stéphane Peu","Mereana Reid Arbelot","Davy Rimane","Nicolas Sansu","Emmanuel Tjibaou"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/assurance_risques_climatiques_agriculture_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 15 septembre 2026","Mardi 15 septembre 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Agriculture","Écologie","Solidarité"]
 +++
 
