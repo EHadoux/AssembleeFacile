@@ -4,9 +4,9 @@ draft = false
 title = "Étendre la protection de l’emploi local aux emplois de la fonction publique civile de l’État exercés en Polynésie française - N° 3184"
 auteurs = ["Nicole Sanquer"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/protection_emploi_local_polynesie_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Lundi 21 septembre 2026","Lundi 21 septembre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Outre-mer","Fonction publique","Emploi"]
 +++
 

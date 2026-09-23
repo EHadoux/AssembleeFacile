@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi visant à assouplir la procédure d'autorisation des établissements et services médico-sociaux à caractère expérimental - N° 2851"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53886"
-stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
-stepsDate = ["Vendredi 27 février 2026","Vendredi 27 février 2026","Vendredi 27 février 2026","Jeudi 28 mai 2026"]
-stepsStatus = ["","Commission des affaires sociales (Sénat)","Texte adopté ✔️","Commission des affaires sociales"]
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale"]
+stepsDate = ["Vendredi 27 février 2026","Vendredi 27 février 2026","Vendredi 27 février 2026","Jeudi 28 mai 2026","Jeudi 28 mai 2026"]
+stepsStatus = ["","Commission des affaires sociales (Sénat)","Texte adopté ✔️","Commission des affaires sociales",""]
 tags = ["Santé","Solidarité","Autonomie"]
 +++
 
