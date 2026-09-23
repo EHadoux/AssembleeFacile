@@ -1,0 +1,7 @@
+const e={date:"2026-09-15",draft:!1,title:"Interdire de fumer au volant - N° 3150",auteurs:["Josiane Corneloup"],link:"https://www.assemblee-nationale.fr/dyn/17/dossiers/interdire_fumer_volant_17e",stepsName:["Dépôt à l'Assemblée nationale","Renvoi en commission"],stepsDate:["Mardi 15 septembre 2026","Mardi 15 septembre 2026"],stepsStatus:["","Commission des affaires sociales"],tags:["Sécurité","Santé","Forêt"]},t=`<h2>Résumé</h2>
+<p>Cette proposition vise à interdire formellement aux conducteurs de fumer au volant pour trois raisons : renforcer la sécurité routière en évitant l&#39;inattention et l&#39;encombrement des mains, prévenir les incendies de forêt causés par les mégots jetés par la fenêtre, et protéger la santé des passagers contre le tabagisme passif dans un espace clos.</p>
+<h2>Liste des modifications</h2>
+<p><strong>Interdiction de fumer au volant (Article 1)</strong>: Il est désormais strictement interdit au conducteur d&#39;un véhicule motorisé de fumer lorsqu&#39;il circule sur la route.</p>
+<p><strong>Délai d&#39;application (Article 2)</strong>: La loi ne sera applicable que six mois après sa publication officielle, afin de laisser le temps de mener des campagnes de prévention.</p>
+<p><strong>Compensation financière (Article 3)</strong>: Les éventuelles pertes d&#39;argent pour l&#39;État liées à cette mesure seront compensées par une taxe supplémentaire sur le prix du tabac.</p>
+`;export{t as default,e as metadata};

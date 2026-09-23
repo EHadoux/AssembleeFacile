@@ -1,0 +1,17 @@
+const e={date:"2026-09-15",draft:!1,title:"Faire de la caravane un habitat en France - N° 3157",auteurs:["Gabriel Amard"],link:"https://www.assemblee-nationale.fr/dyn/17/dossiers/faire_carravane_habitat_france_17e",stepsName:["Dépôt à l'Assemblée nationale","Renvoi en commission"],stepsDate:["Mardi 15 septembre 2026","Mardi 15 septembre 2026"],stepsStatus:["","Commission des affaires économiques"],tags:["Logement","Discriminations","Solidarité"]},s=`<h2>Résumé</h2>
+<p>Cette proposition de loi vise à reconnaître juridiquement la caravane comme un logement à part entière. L&#39;objectif est de mettre fin aux discriminations subies par les personnes vivant en habitat mobile en leur garantissant les mêmes droits que les citoyens sédentaires : accès aux aides au logement, aux contrats d&#39;assurance, aux services publics (eau, électricité) et à des conditions de vie dignes et saines, hors des zones polluées ou marginalisées.</p>
+<h2>Liste des modifications</h2>
+<p><strong>Terminologie (Article 1)</strong>: Remplace l&#39;appellation « Gens du voyage » par « résidents en habitat mobile » dans l&#39;ensemble des textes de loi.</p>
+<p><strong>Reconnaissance juridique (Article 2)</strong>: Définit officiellement la caravane comme un « logement », ouvrant ainsi l&#39;accès aux droits communs liés à l&#39;habitation.</p>
+<p><strong>Accès aux services publics (Article 3)</strong>: Crée un statut d&#39;abonné temporaire à l&#39;eau et à l&#39;électricité pour les résidents des aires d&#39;accueil, permettant d&#39;obtenir une facture nominative servant de justificatif de domicile.</p>
+<p><strong>Tarification (Article 4)</strong>: Instaure un prix plafond national pour les tarifs d&#39;emplacement sur les aires d&#39;accueil afin d&#39;éviter les disparités de prix.</p>
+<p><strong>Droit de stationnement (Article 5)</strong>: Interdit d&#39;empêcher le stationnement des résidents en habitat mobile sur les terrains dont ils sont propriétaires, sauf en cas de risques naturels ou technologiques.</p>
+<p><strong>Assurance (Article 6)</strong>: Oblige les compagnies d&#39;assurance à proposer des contrats multirisques habitation et responsabilité civile pour les habitats mobiles à l&#39;arrêt.</p>
+<p><strong>Politique de la ville (Article 7)</strong>: Classe les aires d&#39;accueil permanentes comme « quartiers prioritaires de la ville » (QPV).</p>
+<p><strong>Contrôle de l&#39;État (Article 8)</strong>: Oblige les collectivités à fournir un rapport annuel sur l&#39;accueil des résidents et permet au préfet d&#39;engager des poursuites en cas de non-respect de la loi.</p>
+<p><strong>Protection contre l&#39;expulsion (Article 9)</strong>: Impose la réalisation d&#39;une enquête sociale avant toute procédure d&#39;expulsion.</p>
+<p><strong>Qualité de vie (Article 10)</strong>: Exige que les aires d&#39;accueil soient situées dans des zones saines et aménagées en concertation avec les usagers.</p>
+<p><strong>Urbanisme (Article 11)</strong>: Oblige les plans locaux d&#39;urbanisme (PLU) à identifier des zones non-constructibles où le stationnement des caravanes habitées est autorisé.</p>
+<p><strong>Domiciliation (Article 12)</strong>: Interdit aux centres d&#39;action sociale (CCAS) de refuser la domiciliation administrative d&#39;une personne au motif qu&#39;elle vit en habitat mobile.</p>
+<p><strong>Scolarisation (Article 13)</strong>: Interdit aux maires de refuser la scolarisation d&#39;un enfant et assouplit les preuves de domicile acceptées pour l&#39;inscription.</p>
+`;export{s as default,e as metadata};
