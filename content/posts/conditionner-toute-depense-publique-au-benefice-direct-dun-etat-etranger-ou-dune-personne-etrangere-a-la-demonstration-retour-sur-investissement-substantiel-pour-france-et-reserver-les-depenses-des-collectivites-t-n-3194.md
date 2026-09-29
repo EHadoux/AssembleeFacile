@@ -4,9 +4,9 @@ draft = false
 title = "Conditionner toute dépense publique au bénéfice direct d'un État étranger ou d'une personne étrangère à la démonstration d'un retour sur investissement substantiel pour la France et réserver les dépenses des collectivités territoriales à leurs habitants - N° 3194"
 auteurs = ["Alexandre Allegret-Pilot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/conditionner_depense_etranger_investissement"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Lundi 28 septembre 2026","Lundi 28 septembre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Affaires étrangères","Budget","Finances"]
 +++
 
