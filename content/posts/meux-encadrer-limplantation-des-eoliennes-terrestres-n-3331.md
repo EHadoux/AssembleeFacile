@@ -4,9 +4,9 @@ draft = false
 title = "Meux encadrer l’implantation des éoliennes terrestres - N° 3331"
 auteurs = ["Corentin Le Fur","Xavier Breton","Ian Boucard","Hubert Brigand","Jean-Yves Bony","Julien Dive","Sylvie Bonnet","Nicolas Ray","Lionel Duparay"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_mieux_encadrer_l_implantation_des_eoliennes_terrestres_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Énergie","Aménagement du territoire","Écologie"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Garantie de l'exercice des droits fondamentaux des personnes handicapées - N° 3325"
 auteurs = ["Sébastien Peytavie","Christine Le Nabour"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_garantie_de_l_exercice_des_droits_fondamentaux_des_personnes_handicapees_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Handicap","Autonomie","Logement"]
 +++
 

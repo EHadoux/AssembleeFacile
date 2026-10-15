@@ -4,9 +4,9 @@ draft = false
 title = "Prévenir l’exposition des mineurs et jeunes adultes aux boissons énergisantes et aux boissons alcooliques - N° 3323"
 auteurs = ["Yannick Neuder","Sandrine Runel"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_prevenir_l_exposition_des_mineurs_et_jeunes_adultes_aux_boissons_energisantes_et_aux_boissons_alcooliques_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Jeunesse","Finances"]
 +++
 

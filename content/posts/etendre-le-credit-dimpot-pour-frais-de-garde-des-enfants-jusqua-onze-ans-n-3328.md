@@ -4,9 +4,9 @@ draft = false
 title = "Étendre le crédit d’impôt pour frais de garde des enfants jusqu’à onze ans - N° 3328"
 auteurs = ["Corentin Le Fur"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_etendre_le_credit_d_impot_pour_frais_de_garde_des_enfants_jusqu_a_onze_ans_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Famille","Finances","Solidarité"]
 +++
 

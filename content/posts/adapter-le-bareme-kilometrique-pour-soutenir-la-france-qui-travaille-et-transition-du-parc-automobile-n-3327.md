@@ -4,9 +4,9 @@ draft = false
 title = "Adapter le barème kilométrique pour soutenir la France qui travaille et la transition du parc automobile - N° 3327"
 auteurs = ["Corentin Le Fur","Patrick Hetzel","Sylvie Bonnet","Philippe Gosselin","Julien Dive","Jean-Yves Bony","Virginie Duby-Muller","Lionel Duparay"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_adapter_le_bareme_kilometrique_pour_soutenir_la_france_qui_travaille_et_la_transition_du_parc_automobile_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Écologie","Ruralité","Transports"]
 +++
 

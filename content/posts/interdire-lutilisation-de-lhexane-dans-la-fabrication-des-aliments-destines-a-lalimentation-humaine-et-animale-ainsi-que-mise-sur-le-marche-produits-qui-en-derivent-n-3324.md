@@ -4,9 +4,9 @@ draft = false
 title = "Interdire l'utilisation de l'hexane dans la fabrication des aliments destinés à l'alimentation humaine et animale, ainsi que la mise sur le marché des produits qui en dérivent - N° 3324"
 auteurs = ["Benoît Biteau","Pouria Amirshahi","Christine Arrighi","Clémentine Autain","Léa Balage El Mariky","Lisa Belluco","Karim Ben Cheikh","Arnaud Bonnet","Nicolas Bonnet","Cyrielle Chatelain","Alexis Corbière","Hendrik Davi","Emmanuel Duplessy","Charles Fournier","Marie-Charlotte Garin","Damien Girard","Steevy Gustave","Catherine Hervieu","Jérémie Iordanoff","Julie Laernoes","Tristan Lahais","Benjamin Lucas-Lundy","Julie Ozenne","Sébastien Peytavie","Marie Pochon","Jean-Claude Raux","Sandra Regol","Jean-Louis Roumégas","Sandrine Rousseau","François Ruffin","Eva Sas","Sabrina Sebaihi","Danielle Simonnet","Sophie Taillé-Polian","Boris Tavernier","Nicolas Thierry","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_interdire_l_utilisation_de_l_hexane_dans_la_fabrication_des_aliments_destines_a_l_alimentation_humaine_et_animale_ainsi_que_la_mise_sur_le_marche_des_produits_qui_en_derivent_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Agriculture","Santé","Écologie"]
 +++
 

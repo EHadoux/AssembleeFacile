@@ -4,9 +4,9 @@ draft = false
 title = "Confier à l'Autorité de régulation de la communication audiovisuelle et numérique les missions prévues par le règlement européen sur la liberté des médias - N° 3318"
 auteurs = ["Céline Calvez"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_confier_a_autorite_de_regulatiuon_de_la_communication_audiovisuel_et_numerique_les_missions_prevues_par_le_reglement_europeen_sur_la_liberte_des_medias_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Culture","Europe","Numérique"]
 +++
 

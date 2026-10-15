@@ -6,7 +6,7 @@ auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54096"
 stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission","Première lecture à l'Assemblée nationale"]
 stepsDate = ["Jeudi 9 avril 2026","Jeudi 9 avril 2026","Jeudi 9 avril 2026","Lundi 15 juin 2026","Lundi 15 juin 2026"]
-stepsStatus = ["","Commission des affaires étrangères (Sénat)","Texte adopté ✔️","Commission des affaires culturelles",""]
+stepsStatus = ["","Commission des affaires étrangères (Sénat)","Texte adopté ✔️","Commission des affaires culturelles","Texte adopté ✔️"]
 tags = ["Sports","Action publique","Aménagement du territoire"]
 +++
 

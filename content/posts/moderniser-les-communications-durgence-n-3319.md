@@ -4,9 +4,9 @@ draft = false
 title = "Moderniser les communications d’urgence - N° 3319"
 auteurs = ["Sébastien Huyghe","Anthony Brosse","Pauline Cestrières","Josiane Corneloup","Romain Daubié","Lionel Duparay","Jean-Carles Grelier","Catherine Ibled","Constance Le Grip","Vincent Ledoux","Patricia Lemoine","Laurent Mazaury","Laure Miller","Charles Rodwell","Anne-Sophie Ronceret","Violette Spillebout","Annie Vidal","Caroline Yadan"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/moderniser_communications_urgence_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Intérieur","Numérique","Santé"]
 +++
 

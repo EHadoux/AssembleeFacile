@@ -4,9 +4,9 @@ draft = false
 title = "Abolir la chasse à courre, à cor et à cri - N° 3326"
 auteurs = ["Aymeric Caron"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_abolir_la_chasse_a_courre_a_cor_et_a_cri_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Agriculture","Écologie","Sécurité"]
 +++
 

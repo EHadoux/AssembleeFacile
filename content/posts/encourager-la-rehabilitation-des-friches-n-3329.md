@@ -4,9 +4,9 @@ draft = false
 title = "Encourager la réhabilitation des friches - N° 3329"
 auteurs = ["Corentin Le Fur","Xavier Breton","Ian Boucard","Hubert Brigand","Jean-Yves Bony","Julien Dive","Philippe Gosselin","Sylvie Bonnet","Patrick Hetzel","Nicolas Ray","Lionel Duparay"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_encourager_la_rehabilitation_des_friches_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Aménagement du territoire","Économie","Écologie"]
 +++
 

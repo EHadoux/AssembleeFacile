@@ -4,9 +4,9 @@ draft = false
 title = "Faciliter le financement par les collectivités territoriales de l’entretien préventif des infrastructures routières - N° 3322"
 auteurs = ["Anne-Laure Blin"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/faciliter_financement_collectivites_territoriales_entretien_preventif_infrastructures_routieres_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Transports","Budget","Aménagement du territoire"]
 +++
 

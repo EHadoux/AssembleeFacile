@@ -4,9 +4,9 @@ draft = false
 title = "Lever les contraintes pesant sur le foncier - N° 3332"
 auteurs = ["Emeline Rey-Rinchet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_lever_les_contraintes_sur_le_foncier_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Aménagement du territoire","Logement","Urbanisme"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Étendre aux communes de moins de 1 000 habitants le remboursement des frais de propagande électorale - N° 3330"
 auteurs = ["Corentin Le Fur","Nicolas Ray","Patrick Hetzel","Sylvie Bonnet","Philippe Gosselin","Julien Dive","Jean-Yves Bony","Xavier Breton","Lionel Duparay"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/etendre_aux_communes_de_moins_de_1000_habitants_le_remboursement_des_frais_de_propagande_electorale_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Intérieur","Budget"]
 +++
 

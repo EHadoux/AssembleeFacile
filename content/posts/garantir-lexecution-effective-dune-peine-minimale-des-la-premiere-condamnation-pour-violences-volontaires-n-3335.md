@@ -4,9 +4,9 @@ draft = false
 title = "Garantir l’exécution effective d’une peine minimale dès la première condamnation pour violences volontaires - N° 3335"
 auteurs = ["Patrick Hetzel","Michel Barnier","Thibault Bazin","Anne-Laure Blin","Jean-Yves Bonnefoy","Sylvie Bonnet","Émilie Bonnivard","Jean-Yves Bony","Ian Boucard","Jean-Luc Bourgeaux","Xavier Breton","Hubert Brigand","Fabrice Brun","François-Xavier Ceccoli","Cendrine Chazé","Pierre Cordier","Josiane Corneloup","Marie-Christine Dalloz","Vincent Descoeur","Julien Dive","Virginie Duby-Muller","Lionel Duparay","Jérôme End","Alix Fruchon","Philippe Gosselin","Justine Gruet","Michel Herbillon","Philippe Juvin","Corentin Le Fur","Eric Liégeon","Thierry Liger","Élisabeth De Maistre","Alexandra Martin","Frédérique Meunier","Christelle Minard","Yannick Neuder","Éric Pauget","Alexandre Portier","Nicolas Ray","Emeline Rey-Rinchet","Vincent Rolland","Michèle Tabarot","Jean-Louis Thiériot","Nicolas Tryzna","Antoine Vermorel","Jean-Pierre Vigier","Laurent Wauquiez"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_garantir_l_execution_effective_d_une_peine_minimale_des_la_premiere_condamnation_pour_violences_volontaires_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Sécurité"]
 +++
 

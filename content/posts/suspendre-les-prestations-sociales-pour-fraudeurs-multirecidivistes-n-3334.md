@@ -4,9 +4,9 @@ draft = false
 title = "Suspendre les prestations sociales pour les fraudeurs multirécidivistes - N° 3334"
 auteurs = ["Nicolas Ray"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/suspendre_prestations_sociales_fraudeurs_multirecidivistes_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Solidarité"]
 +++
 
