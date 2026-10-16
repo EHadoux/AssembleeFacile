@@ -4,9 +4,9 @@ draft = false
 title = "Faire payer les casseurs des établissements scolaires et à sanctionner sévèrement leurs instigateurs - N° 3302"
 auteurs = ["Éric Ciotti","Alexandre Allegret-Pilot","Charles Alloncle","Matthieu Bloch","Pierre-Henri Carbonnel","Bernard Chaix","Marc Chavent","Christelle D'Intorni","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Maxime Michelet","Éric Michoux","Sophie Ricourt Vaginay","Vincent Trébuchet","Antoine Valentin","Gérault Verny"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_faire_payer_les_casseurs_des_etablissements_scolaires_et_a_sanctionner_severement_leurs_instigateurs_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Éducation","Justice","Famille"]
 +++
 

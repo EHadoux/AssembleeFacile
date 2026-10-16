@@ -4,9 +4,9 @@ draft = false
 title = "Adapter les moyens de protection des zones de défense hautement sensibles aux menaces hybrides - N° 3313"
 auteurs = ["Liliana Tanguy","Benoît Blanchard","Laurent Mazaury","Moerani Frébault","Corinne Vignon","Jean-Michel Jacques","Delphine Lingemann","Philippe Bonnecarrère","Christophe Marion","Didier Padey","Violette Spillebout"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/adapter_moyens_protection_zones_defense_sensibles_menaces_hybrides_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission de la défense"]
 tags = ["Armées","Défense","Sécurité"]
 +++
 

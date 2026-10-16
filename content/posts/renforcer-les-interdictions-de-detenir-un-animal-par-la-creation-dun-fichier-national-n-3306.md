@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer les interdictions de détenir un animal par la création d’un fichier national - N° 3306"
 auteurs = ["Corinne Vignon","Vincent Ledoux","Nathalie Coggia","Bastien Marchive","Benoît Larrouquis","Anne-Sophie Ronceret","Nicole Dubré-Chirat","Françoise Buffet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_renforcer_les_interdictions_de_detenir_un_animal_par_la_creation_d_un_fichier_national_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Agriculture","Intérieur"]
 +++
 

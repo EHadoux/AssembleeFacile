@@ -4,9 +4,9 @@ draft = false
 title = "Créer un délit d’entrave au droit à l’éducation - N° 3308"
 auteurs = ["Jean-Louis Thiériot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_creant_un_delit_d_entrave_au_droit_a_l_education_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Éducation","Enseignement supérieur","Justice"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer le principe de « casseur-payeur » lors des manifestations, attroupements et rassemblements violents - N° 3305"
 auteurs = ["Éric Michoux","Alexandre Allegret-Pilot","Bernard Chaix","Marc Chavent","Christelle D'Intorni","Olivier Fayssat","Bartolomé Lenoir","Hanane Mansouri","Maxime Michelet","Sophie Ricourt Vaginay","Vincent Trébuchet","Antoine Valentin","Véronique Besse","Julien Odoul","Joseph Rivière","Philippe Lottiaux","Sandrine Dogor-Such","Michèle Martinez","Sébastien Humbert","Caroline Colombier","José Gonzalez","Pierre-Henri Carbonnel","Frédéric Falcon","Frédéric-Pierre Vos"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/instaurer_le_principe_de_casseur_payeur_lors_des_manifestations_attroupements_et_rassemblements_violents_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Sécurité","Finances"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Définir et encadrer la pratique de la détection de métaux à titre récréatif - N° 3300"
 auteurs = ["Olivier Fayssat","Hanane Mansouri","Antoine Valentin","Cyril Tribuiani","Maxime Michelet","Nadine Lechon","Philippe Lottiaux","Charles Alloncle","Éric Michoux","Bernard Chaix","Marc Chavent","Frédéric-Pierre Vos","José Gonzalez","Marc De Fleurian","Gérault Verny"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/definir_encadrer_pratique_detection_metaux_titre_recreatif_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Culture","Justice","Loisirs"]
 +++
 

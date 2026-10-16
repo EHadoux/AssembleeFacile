@@ -4,9 +4,9 @@ draft = false
 title = "Refonder le financement, l'organisation et les pratiques de la psychiatrie française - N° 3307"
 auteurs = ["Élise Leboucher","Anne Stambach-Terrenoir","Mathilde Panot","Nadège Abomangoli","Laurent Alexandre","Ségolène Amiot","Farida Amrani","Rodrigo Arenas","Raphaël Arnault","Anaïs Belouassa-Cherifi","Shéhérazade Bentorki","Ugo Bernalicis","Christophe Bex","Carlos Martens Bilongo","Manuel Bompard","Idir Boumertit","Louis Boyard","Pierre-Yves Cadalen","Aymeric Caron","Sylvain Carrière","Gabrielle Cathala","Bérenger Cernon","Sophia Chikirou","Hadrien Clouet","Éric Coquerel","Jean-François Coulomme","Sébastien Delogu","Aly Diouara","Alma Dufour","Karen Erodi","Mathilde Feld","Emmanuel Fernandes","Sylvie Ferrer","Perceval Gaillard","Clémence Guetté","Zahia Hamdane","Mathilde Hignet","Andy Kerbrat","Bastien Lachaud","Abdelkader Lahmar","Maxime Laisney","Arnaud Le Gall","Antoine Léaument","Aurélien Le Coq","Jérôme Legavre","Sarah Legrain","Claire Lejeune","Murielle Lepvraud","Élisa Martin","Damien Maudet","Marianne Maximi","Marie Mesmeur","Manon Meunier","Jean-Philippe Nilor","Sandrine Nosbé","Danièle Obono","Nathalie Oziol","René Pilato","François Piquemal","Thomas Portes","Loïc Prud’homme","Jean-Hugues Ratenon","Arnaud Saint-Martin","Aurélien Saintoul","Ersilia Soudais","Aurélien Taché","Andrée Taurinya","Matthias Tavel","Aurélie Trouvé","Paul Vannier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/refoncer_pratiques_psychiatrie_francaise_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Budget","Jeunesse"]
 +++
 

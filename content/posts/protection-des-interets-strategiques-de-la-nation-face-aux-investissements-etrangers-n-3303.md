@@ -4,9 +4,9 @@ draft = false
 title = "Protection des intérêts stratégiques de la Nation face aux investissements étrangers - N° 3303"
 auteurs = ["Philippe Juvin","Véronique Besse","Benoît Blanchard","Philippe Bonnecarrère","Sylvie Bonnet","Émilie Bonnivard","Joël Bruneau","Pierre-Henri Carbonnel","Michel Castellani","Cendrine Chazé","Josiane Corneloup","Marie-Christine Dalloz","Sandra Delannoy","Vincent Descoeur","Virginie Duby-Muller","Félicie Gérard","Justine Gruet","Carole Guillerm","Michel Herbillon","Patrick Hetzel","Sébastien Huyghe","François Jolivet","Stéphane Lenormand","Hervé De Lépinau","Valérie Létard","Eric Liégeon","Delphine Lingemann","Lise Magnier","Élisabeth De Maistre","Laurent Mazaury","Christelle Minard","Yannick Neuder","Didier Padey","Éric Pauget","Constance De Pélichy","Alexandre Portier","Marie-Agnès Poussier-Winsback","Nicolas Ray","Stéphane Viry","Lionel Vuibert"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/protection_interets_strategiques_nation_investissements_etrangers_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Économie","Relations parlementaires","Souveraineté"]
 +++
 

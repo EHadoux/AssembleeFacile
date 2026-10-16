@@ -4,9 +4,9 @@ draft = false
 title = "Port d’une arme en dehors du service par les personnels de surveillance de l’administration pénitentiaire et les agents de police municipale - N° 3311"
 auteurs = ["Olivier Fayssat","Marc Chavent","Hanane Mansouri","Alexandre Allegret-Pilot","Charles Alloncle","Antoine Valentin","Frédéric-Pierre Vos","Sébastien Humbert","Bartolomé Lenoir","Christelle D'Intorni","Théo Bernhardt","Sophie Ricourt Vaginay","Sophie-Laurence Roy","Éric Michoux","Bernard Chaix","José Gonzalez","Michaël Taverne","Gérault Verny"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/port_arme_dehors_service_personnels_sruveillance_administration_penitentiaire_agents_police_municipale_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Sécurité","Intérieur"]
 +++
 

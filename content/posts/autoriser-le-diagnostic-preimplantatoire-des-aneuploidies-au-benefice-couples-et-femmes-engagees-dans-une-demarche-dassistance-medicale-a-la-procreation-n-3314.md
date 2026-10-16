@@ -4,9 +4,9 @@ draft = false
 title = "Autoriser le diagnostic préimplantatoire des aneuploïdies au bénéfice des couples, et des femmes engagées dans une démarche d’assistance médicale à la procréation - N° 3314"
 auteurs = ["Constance De Pélichy","Léa Balage El Mariky","Anne Bergantz","Virginie Duby-Muller","Romain Eskenazi","Karine Lebon","Joséphine Missoffe","Frédéric Valletoux"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_autoriser_diagnostic_preimplantatoire_des_aneuploidies_au_benefice_des_couples_et_femmes_engagees_dans_une_demarche_d_assistance_medicale_a_la_procreation_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Famille","Recherche"]
 +++
 

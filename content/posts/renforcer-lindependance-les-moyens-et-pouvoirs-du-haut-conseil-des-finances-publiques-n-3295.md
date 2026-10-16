@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer l’indépendance, les moyens et les pouvoirs du Haut Conseil des finances publiques - N° 3295"
 auteurs = ["Christelle D'Intorni","Alexandre Allegret-Pilot","Bernard Chaix","Marc Chavent","Antoine Valentin","José Gonzalez","Frédéric-Pierre Vos"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/haut_conseil_finances_publiques_renforcer"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des finances"]
 tags = ["Budget","Finances","Relations parlementaires"]
 +++
 

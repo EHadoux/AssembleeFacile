@@ -4,9 +4,9 @@ draft = false
 title = "Reconnaître la responsabilité de l’État dans l’inaction structurelle ayant entrainé les inégalités d’accès à l’eau dans les territoires dits d’Outre-mer - N° 3312"
 auteurs = ["Steevy Gustave","Sabrina Sebaihi","Arnaud Bonnet","Lisa Belluco","Léa Balage El Mariky","Boris Tavernier","Jean-Claude Raux","Sébastien Peytavie","Audrey Abadie-Amiel","Mereana Reid Arbelot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_reconnaitre_la_responsabilite_de_l_Etat_dans_l_inaction_structurelle_ayant_entraine_inegalites_d_acces_a_l_eau_dans_les_territoires_dits_d_outre_mer_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission du développement durable"]
 tags = ["Outre-mer","Santé","Action publique"]
 +++
 

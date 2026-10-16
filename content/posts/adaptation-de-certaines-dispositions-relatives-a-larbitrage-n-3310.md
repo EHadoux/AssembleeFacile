@@ -4,9 +4,9 @@ draft = false
 title = "Adaptation de certaines dispositions relatives à l’arbitrage - N° 3310"
 auteurs = ["Jean Terlier"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_adaptation_de_certaines_dispositions_relatives_a_l_arbitrage_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Économie","Action publique"]
 +++
 

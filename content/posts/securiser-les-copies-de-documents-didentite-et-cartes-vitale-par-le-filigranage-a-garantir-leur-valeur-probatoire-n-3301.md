@@ -4,9 +4,9 @@ draft = false
 title = "Sécuriser les copies de documents d’identité et de cartes Vitale par le filigranage et à garantir leur valeur probatoire - N° 3301"
 auteurs = ["Fabrice Roussel","Béatrice Bellay","Claudia Rouaux","Elie Califer","Fabrice Barusseau","Mickaël Bouloux","Denis Fégné","Delphine Lingemann","Alain David","Karim Benbrahim","Laurent Lhardit","Estelle Mercier","Thierry Sother","Anna Pic","Marc Pena","Hervé Saulignac","Dominique Potier","Constance De Pélichy","Guillaume Garot","Fatiha Keloua Hachi"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_securiser_les_copies_de_documents_identite_et_de_cartes_vitale_par_le_filigranage_et_a_garantir_leur_valeur_probatoire_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Numérique","Sécurité"]
 +++
 

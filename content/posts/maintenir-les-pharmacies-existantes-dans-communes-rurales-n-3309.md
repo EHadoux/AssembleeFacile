@@ -4,9 +4,9 @@ draft = false
 title = "Maintenir les pharmacies existantes dans les communes rurales - N° 3309"
 auteurs = ["Josiane Corneloup"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_maintenir_les_pharmacies_existantes_dans_les_communes_rurales_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Santé","Ruralité","Aménagement du territoire"]
 +++
 

@@ -4,9 +4,9 @@ draft = false
 title = "Rendre obligatoire l'étiquetage de la viande issue d'animaux abattus sans étourdissement - N° 3315"
 auteurs = ["Antoine Vermorel"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_obligatoire_etiquetage_viance_animaux_abattus_etourdissement_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 13 octobre 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Agriculture","Commerce"]
 +++
 
