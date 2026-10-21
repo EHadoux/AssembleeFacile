@@ -4,9 +4,9 @@ draft = false
 title = "Instituer un escompte de 2 % en cas d’émission d’un mandat de paiement par un acheteur public dans les sept jours suivant la réception de la facture - N° 3368"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/escompte_mandat_paiement_sept_jours_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 20 octobre 2026","Mardi 20 octobre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Économie","Finances"]
 +++
 

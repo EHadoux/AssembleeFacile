@@ -4,9 +4,9 @@ draft = false
 title = "Garantir l’accès à un panier diversifié de denrées alimentaires favorables à la santé et vendues à prix coûtant - N° 3373"
 auteurs = ["Boris Tavernier","Pouria Amirshahi","Christine Arrighi","Clémentine Autain","Léa Balage El Mariky","Lisa Belluco","Karim Ben Cheikh","Benoît Biteau","Arnaud Bonnet","Nicolas Bonnet","Cyrielle Chatelain","Alexis Corbière","Hendrik Davi","Emmanuel Duplessy","Charles Fournier","Marie-Charlotte Garin","Damien Girard","Steevy Gustave","Catherine Hervieu","Jérémie Iordanoff","Julie Laernoes","Tristan Lahais","Benjamin Lucas-Lundy","Julie Ozenne","Sébastien Peytavie","Marie Pochon","Jean-Claude Raux","Sandra Regol","Jean-Louis Roumégas","Sandrine Rousseau","François Ruffin","Eva Sas","Sabrina Sebaihi","Danielle Simonnet","Sophie Taillé-Polian","Nicolas Thierry","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_garantir_l_acces_a_un_panier_diversifie_de_denrees_alimentaires_favorables_a_la_sante_et_vendues_a_prix_coutant_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 20 octobre 2026","Mardi 20 octobre 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Santé","Commerce","Agriculture"]
 +++
 

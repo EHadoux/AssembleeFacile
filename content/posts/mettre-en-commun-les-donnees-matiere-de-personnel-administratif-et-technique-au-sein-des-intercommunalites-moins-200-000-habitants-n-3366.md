@@ -4,9 +4,9 @@ draft = false
 title = "Mettre en commun les données en matière de personnel administratif et technique au sein des intercommunalités de moins de 200 000 habitants - N° 3366"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/mise_commun_donnees_personnel_administratif_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 20 octobre 2026","Mardi 20 octobre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Fonction publique","Décentralisation"]
 +++
 

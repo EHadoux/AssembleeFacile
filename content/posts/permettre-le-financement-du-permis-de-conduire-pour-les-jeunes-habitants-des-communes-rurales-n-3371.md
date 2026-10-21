@@ -4,9 +4,9 @@ draft = false
 title = "Permettre le financement du permis de conduire pour les jeunes habitants des communes rurales - N° 3371"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/financement_permis_conduire_communes_rurales_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 20 octobre 2026","Mardi 20 octobre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Jeunesse","Ruralité","Transports"]
 +++
 

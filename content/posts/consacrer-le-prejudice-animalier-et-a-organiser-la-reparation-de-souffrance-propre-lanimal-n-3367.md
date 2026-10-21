@@ -4,9 +4,9 @@ draft = false
 title = "Consacrer le préjudice animalier et à organiser la réparation de la souffrance propre de l’animal - N° 3367"
 auteurs = ["Christelle D'Intorni","Alexandre Allegret-Pilot","Bernard Chaix","Marc Chavent","Olivier Fayssat","Antoine Valentin","José Gonzalez","Hélène Laporte","Serge Muller","Angélique Ranc"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/prejudice_animalier_reparation_souffrance_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 20 octobre 2026","Mardi 20 octobre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Justice","Écologie"]
 +++
 

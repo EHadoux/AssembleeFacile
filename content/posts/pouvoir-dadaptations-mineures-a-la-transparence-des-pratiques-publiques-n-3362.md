@@ -4,9 +4,9 @@ draft = false
 title = "Pouvoir d’adaptations mineures à la transparence des pratiques publiques - N° 3362"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/pouvoir_adaptations_mineures_transparence_pratiques_publiques_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 20 octobre 2026","Mardi 20 octobre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Décentralisation"]
 +++
 

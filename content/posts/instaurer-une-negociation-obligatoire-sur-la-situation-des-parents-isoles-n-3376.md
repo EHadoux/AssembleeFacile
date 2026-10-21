@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer une négociation obligatoire sur la situation des parents isolés - N° 3376"
 auteurs = ["Louise Morel","Jean-Carles Grelier","Éric Martineau","Sophie Mette","Nicolas Turquois"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_instaurer_une_negociation_obligatoire_sur_la_situation_des_parents_isoles_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 20 octobre 2026","Mardi 20 octobre 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Travail","Famille","Solidarité"]
 +++
 

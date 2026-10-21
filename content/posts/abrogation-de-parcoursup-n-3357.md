@@ -4,9 +4,9 @@ draft = false
 title = "Abrogation de Parcoursup - N° 3357"
 auteurs = ["Pouria Amirshahi","Benjamin Lucas-Lundy","Hendrik Davi"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_abrogation_de_parcoursup_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 20 octobre 2026","Mardi 20 octobre 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Enseignement supérieur","Jeunesse"]
 +++
 

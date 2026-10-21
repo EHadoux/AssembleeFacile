@@ -4,9 +4,9 @@ draft = false
 title = "Autoriser l'habillage temporaire des vitrines commerciales vacantes et la dépose des enseignes obsolètes - N° 3369"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/habillage_temporaire_vitrines_commerciales_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 20 octobre 2026","Mardi 20 octobre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Commerce","Urbanisme","Aménagement du territoire"]
 +++
 

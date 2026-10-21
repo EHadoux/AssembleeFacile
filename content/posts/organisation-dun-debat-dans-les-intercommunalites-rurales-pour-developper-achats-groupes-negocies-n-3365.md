@@ -4,9 +4,9 @@ draft = false
 title = "Organisation d’un débat dans les intercommunalités rurales pour développer les achats groupés négociés - N° 3365"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/organisation_debat_intercommunalites_achats_groupes_negocies_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 20 octobre 2026","Mardi 20 octobre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Action publique","Ruralité","Décentralisation"]
 +++
 

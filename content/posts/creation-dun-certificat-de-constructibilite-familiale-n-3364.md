@@ -4,9 +4,9 @@ draft = false
 title = "Création d’un certificat de constructibilité familiale - N° 3364"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/creation_certificat_constructibilite_familiale_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 20 octobre 2026","Mardi 20 octobre 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Urbanisme","Ruralité","Logement"]
 +++
 

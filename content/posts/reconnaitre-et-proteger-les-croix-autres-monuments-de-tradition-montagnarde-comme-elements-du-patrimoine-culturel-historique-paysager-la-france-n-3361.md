@@ -4,9 +4,9 @@ draft = false
 title = "Reconnaître et protéger les croix et autres monuments de tradition montagnarde comme éléments du patrimoine culturel, historique et paysager de la France - N° 3361"
 auteurs = ["Alexandre Allegret-Pilot","Didier Padey","Benoît Blanchard","Joseph Rivière","Matthieu Bloch","Alexis Jolly","Emmanuel Taché","Géraldine Grangier","Nicolas Meizonnet","Jean-Philippe Tanguy","Antoine Valentin","Nadine Lechon","Bernard Chaix","Sébastien Chenu","Josiane Corneloup","Michèle Martinez","Pascal Jenft","Philippe Lottiaux","Charles Alloncle","José Gonzalez","Marc Chavent"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconnaitre_croix_tradition_montagne_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 20 octobre 2026","Mardi 20 octobre 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Culture","Aménagement du territoire","Justice"]
 +++
 

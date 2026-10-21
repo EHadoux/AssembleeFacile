@@ -4,9 +4,9 @@ draft = false
 title = "Rétablir l’exigence de résidence effective en France pour l’acquisition de la nationalité française - N° 3359"
 auteurs = ["Gérault Verny"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_retablir_l_acquisition_de_residence_effective_en_france_pour_l_acquisition_de_la_nationalite_francaise_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 20 octobre 2026","Mardi 20 octobre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Intérieur","Justice","Affaires étrangères"]
 +++
 

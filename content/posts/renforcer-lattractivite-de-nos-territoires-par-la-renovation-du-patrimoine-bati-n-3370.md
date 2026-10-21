@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer l'attractivité de nos territoires par la rénovation du patrimoine bâti - N° 3370"
 auteurs = ["Jean-Luc Warsmann"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_attractivite_territoires_patrimoine_bati_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 20 octobre 2026","Mardi 20 octobre 2026"]
+stepsStatus = ["","Commission des affaires économiques"]
 tags = ["Aménagement du territoire","Urbanisme","Logement"]
 +++
 

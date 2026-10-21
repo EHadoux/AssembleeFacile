@@ -4,9 +4,9 @@ draft = false
 title = "Instaurer un plan décennal de rénovation du bâti scolaire - N° 3358"
 auteurs = ["Arnaud Bonnet","Pouria Amirshahi","Christine Arrighi","Clémentine Autain","Léa Balage El Mariky","Delphine Batho","Lisa Belluco","Karim Ben Cheikh","Benoît Biteau","Nicolas Bonnet","Cyrielle Chatelain","Alexis Corbière","Hendrik Davi","Emmanuel Duplessy","Charles Fournier","Marie-Charlotte Garin","Damien Girard","Steevy Gustave","Catherine Hervieu","Jérémie Iordanoff","Julie Laernoes","Tristan Lahais","Benjamin Lucas-Lundy","Julie Ozenne","Sébastien Peytavie","Marie Pochon","Jean-Claude Raux","Sandra Regol","Jean-Louis Roumégas","Sandrine Rousseau","François Ruffin","Eva Sas","Sabrina Sebaihi","Danielle Simonnet","Sophie Taillé-Polian","Boris Tavernier","Nicolas Thierry","Dominique Voynet"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_instaurer_un_plan_decennal_de_renovation_du_bati_scolaire_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 20 octobre 2026","Mardi 20 octobre 2026"]
+stepsStatus = ["","Commission des affaires culturelles"]
 tags = ["Éducation","Écologie","Aménagement du territoire"]
 +++
 
