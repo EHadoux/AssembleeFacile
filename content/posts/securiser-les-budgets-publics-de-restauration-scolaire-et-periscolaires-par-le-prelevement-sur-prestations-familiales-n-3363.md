@@ -1,0 +1,19 @@
++++
+date = 2026-10-20
+draft = false
+title = "Sécuriser les budgets publics de restauration scolaire et de périscolaires par le prélèvement sur les prestations familiales - N° 3363"
+auteurs = ["Jean-Luc Warsmann"]
+link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/securiser_budget_restauration_scolaire_17e"
+stepsName = []
+stepsDate = []
+stepsStatus = []
+tags = ["Action publique","Famille","Éducation"]
++++
+
+## Résumé
+
+Cette proposition vise à aider les communes face aux factures impayées de cantine et de services périscolaires. Pour éviter que ces dettes ne fragilisent les budgets locaux ou ne retombent sur les autres familles, le texte propose de permettre le recouvrement de ces sommes directement par prélèvement sur les prestations familiales des parents concernés après un délai de 30 jours.
+
+## Liste des modifications
+
+**Recouvrement des impayés de cantine et périscolaire (Article 1)**: Autorise le prélèvement direct des frais de cantine ou de services périscolaires impayés sur les prestations familiales du débiteur, après un délai de 30 jours, lorsque la dette est due à une collectivité ou une association gérant ces services dans des locaux publics.
