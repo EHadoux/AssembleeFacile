@@ -4,9 +4,9 @@ draft = false
 title = "Renforcer la reconnaissance de l’engagement des sapeurs-pompiers volontaires dans le calcul de leurs droits à la retraite - N° 3356"
 auteurs = ["Yannick Favennec-Bécot"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/_renforcer_la_reconnaissance_de_l_engagement_des_sapeurs_pompiers_volontaires_dans_le_calcul_de_leurs_droits_a_la_retraite_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 20 octobre 2026","Mardi 20 octobre 2026"]
+stepsStatus = ["","Commission des affaires sociales"]
 tags = ["Intérieur","Sécurité","Solidarité"]
 +++
 

@@ -2,11 +2,11 @@
 date = 2026-10-20
 draft = false
 title = "Proposition de loi réformant la prescription de l'action publique en matière criminelle et actualisant la notion d'obstacle insurmontable - N° 3343"
-auteurs = ["M. Le Président du Sénat","Gérard Larcher"]
+auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53786"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Mercredi 11 février 2026","Mercredi 11 février 2026","Mercredi 11 février 2026","Jeudi 15 octobre 2026"]
+stepsStatus = ["","Commission des lois (Sénat)","Texte adopté ✔️","Commission des lois"]
 tags = ["Justice","Sécurité"]
 +++
 

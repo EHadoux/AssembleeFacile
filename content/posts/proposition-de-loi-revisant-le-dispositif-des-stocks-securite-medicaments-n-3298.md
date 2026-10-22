@@ -4,9 +4,9 @@ draft = false
 title = "Proposition de loi révisant le dispositif des stocks de sécurité des médicaments - N° 3298"
 auteurs = ["M. Le Président du Sénat"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54321"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt au Sénat","Renvoi en commission","Première lecture au Sénat","Renvoi en commission"]
+stepsDate = ["Mardi 12 mai 2026","Mardi 12 mai 2026","Mardi 12 mai 2026","Mardi 13 octobre 2026"]
+stepsStatus = ["","Commission des affaires sociales (Sénat)","Texte adopté ✔️","Commission des affaires sociales"]
 tags = ["Santé","Économie"]
 +++
 

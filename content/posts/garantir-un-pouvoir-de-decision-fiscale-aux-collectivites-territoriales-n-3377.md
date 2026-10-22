@@ -4,9 +4,9 @@ draft = false
 title = "Garantir un pouvoir de décision fiscale aux collectivités territoriales - N° 3377"
 auteurs = ["Nicolas Tryzna","Jean-Pierre Bataille","Alix Fruchon","Lionel Vuibert","Marie-Agnès Poussier-Winsback","Marie-Philippe Lubet","Marie-Christine Dalloz","Jean-Yves Bonnefoy","Xavier Breton","Sylvain Berrios","Josiane Corneloup","Sylvie Bonnet","Philippe Juvin","Cendrine Chazé","Jérôme End","Julien Dive","Romain Daubié","Virginie Duby-Muller","Corentin Le Fur","Vincent Descoeur","Emeline Rey-Rinchet","Lionel Duparay","Constance De Pélichy","Félicie Gérard","Pierre Cazeneuve"]
 link = "https://www.assemblee-nationale.fr/dyn/17/dossiers/garantir_pouvoir_decision_fiscale_collectivites_territoriales_17e"
-stepsName = []
-stepsDate = []
-stepsStatus = []
+stepsName = ["Dépôt à l'Assemblée nationale","Renvoi en commission"]
+stepsDate = ["Mardi 20 octobre 2026","Mardi 20 octobre 2026"]
+stepsStatus = ["","Commission des lois"]
 tags = ["Décentralisation","Finances","Action publique"]
 +++
 
